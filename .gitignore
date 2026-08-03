@@ -1,0 +1,27 @@
+# Build artifacts
+/Build/
+/bin/
+/obj/
+*.apk
+*.aab
+
+# Godot
+.godot/
+*.import
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment secrets
+.env.local
+**/.env.local
+
+# macOS
+.DS_Store
+
+# Local notes (not story content)
+notes/audio-candidats/*.import

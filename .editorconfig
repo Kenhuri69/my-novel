@@ -1,0 +1,37 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+# C# (src/, tests/) — 4-space indent
+[*.cs]
+indent_style = space
+indent_size = 4
+
+# GDScript (scenes/) — tabs, per Godot convention
+[*.gd]
+indent_style = tab
+
+# Python tooling (tools/)
+[*.py]
+indent_style = space
+indent_size = 4
+
+# Godot resource / scene files
+[*.{tres,tscn,cfg}]
+indent_style = space
+indent_size = 4
+
+# JSON (localization/, resources/), YAML (.github/workflows/)
+[*.{json,yml,yaml}]
+indent_style = space
+indent_size = 2
+
+# Markdown — preserve hard line breaks
+[*.md]
+trim_trailing_whitespace = false
