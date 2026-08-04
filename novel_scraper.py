@@ -163,7 +163,9 @@ def slugify(text):
 
 def clean_filename(title):
     """Crée un nom de fichier propre à partir d'un titre."""
-    clean = re.sub(r'[^\w\s-]', '', title)
+    # Strip Wattpad metadata suffixes (Ongoing, Complete, Reads, Votes, Vote + numbers)
+    clean = re.split(r'(Ongoing|Complete|Reads|Votes|Vote)\s*\d', title)[0].strip()
+    clean = re.sub(r'[^\w\s-]', '', clean)
     clean = re.sub(r'[\s_]+', '-', clean).strip('-')
     return clean[:80] + ".md"
 

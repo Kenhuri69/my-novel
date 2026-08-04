@@ -1,0 +1,24 @@
+# 7/7 The Taste Of Love & Laughter - ( KSJ x YN) - Source d'inspiration
+
+## Informations générales
+- **Auteur** : Inconnu
+- **Site source** : wattpad
+- **URL** : https://www.wattpad.com/story/402907895
+- **Statut** : Inconnu
+- **Genre** : Fantasy
+- **Date d'ajout** : 2026-08-04
+
+## Résumé
+Trouvé via la recherche 'taste' sur Wattpad.
+
+## Thématique culinaire
+La cuisine est mentionnée dans le titre ou la description.
+
+## Éléments fantastiques
+Éléments fantastiques détectés.
+
+## Pertinence pour le projet
+À évaluer.
+
+## Mots-clés
+taste
