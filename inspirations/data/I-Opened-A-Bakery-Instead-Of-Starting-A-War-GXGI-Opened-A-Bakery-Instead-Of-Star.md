@@ -1,4 +1,4 @@
-# I Opened A Bakery Instead Of Starting A War (GXG)I Opened A Bakery Instead Of Starting A War (GXG)CompleteCompleteReadsReads 25,29125,29125.2KVotesVotes 2,5252,5252.5KPartsParts 454545TimeTime 6h 7m6 hours, 7 minutes6h 7mAfter dying from overwork in modern-day New York, exhausted pastry chef Eleanor Hart wakes up inside the body of Lady Seraphina Valecrest-the empire's most feared villainess and the woman destined to plunge the continent into war.
+# I Opened A Bakery Instead Of Starting A War (GXG)I Opened A Bakery Instead Of Starting A War (GXG)CompleteCompleteReadsReads 25,29225,29225.2KVotesVotes 2,5252,5252.5KPartsParts 454545TimeTime 6h 7m6 hours, 7 minutes6h 7mAfter dying from overwork in modern-day New York, exhausted pastry chef Eleanor Hart wakes up inside the body of Lady Seraphina Valecrest-the empire's most feared villainess and the woman destined to plunge the continent into war.
                                   
                                   According to the fantasy novel Eleanor once obsessively read during sleepless nights in Manhattan, Seraphina is cruel, manipulative, and fated to die at the hands of the imperial princess sent to stop her reign of terror.
                                   
@@ -18,7 +18,7 @@
                                   
                                   Because the longer Princess Elaria stays...
                                   
-                                  ...the harder it becomes to believe the feared villainess was ever evil at all.I Opened A Bakery Instead Of Starting A War (GXG)I Opened A Bakery Instead Of Starting A War (GXG)CompleteCompleteReadsReads 25,29125,29125.2KVotesVotes 2,5252,5252.5KPartsParts 454545TimeTime 6h 7m6 hours, 7 minutes6h 7mAfter dying from overwork in modern-day New York, exhausted pastry chef Eleanor Hart wakes up inside the body of Lady Seraphina Valecrest-the empire's most feared villainess and the woman destined to plunge the continent into war.
+                                  ...the harder it becomes to believe the feared villainess was ever evil at all.I Opened A Bakery Instead Of Starting A War (GXG)I Opened A Bakery Instead Of Starting A War (GXG)CompleteCompleteReadsReads 25,29225,29225.2KVotesVotes 2,5252,5252.5KPartsParts 454545TimeTime 6h 7m6 hours, 7 minutes6h 7mAfter dying from overwork in modern-day New York, exhausted pastry chef Eleanor Hart wakes up inside the body of Lady Seraphina Valecrest-the empire's most feared villainess and the woman destined to plunge the continent into war.
                                   
                                   According to the fantasy novel Eleanor once obsessively read during sleepless nights in Manhattan, Seraphina is cruel, manipulative, and fated to die at the hands of the imperial princess sent to stop her reign of terror.
                                   

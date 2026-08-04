@@ -1,4 +1,4 @@
-# 7/7 The Taste Of Love & Laughter - ( KSJ x YN)7/7 The Taste Of Love & Laughter - ( KSJ x YN)CompleteCompleteReadsReads 35,29035,29035.2KVotesVotes 2,5982,5982.5KPartsParts 454545TimeTime 5h 32m5 hours, 32 minutes5h 32m"We live only once.
+# 7/7 The Taste Of Love & Laughter - ( KSJ x YN)7/7 The Taste Of Love & Laughter - ( KSJ x YN)CompleteCompleteReadsReads 35,29435,29435.2KVotesVotes 2,5982,5982.5KPartsParts 454545TimeTime 5h 32m5 hours, 32 minutes5h 32m"We live only once.
                                   We die only once.
                                   And love?
                                   
@@ -56,7 +56,7 @@
                                   one hesitant bite at a time."
                                   
                                   
-                                  *** Book 7 of the True Love series ***7/7 The Taste Of Love & Laughter - ( KSJ x YN)7/7 The Taste Of Love & Laughter - ( KSJ x YN)CompleteCompleteReadsReads 35,29035,29035.2KVotesVotes 2,5982,5982.5KPartsParts 454545TimeTime 5h 32m5 hours, 32 minutes5h 32m"We live only once.
+                                  *** Book 7 of the True Love series ***7/7 The Taste Of Love & Laughter - ( KSJ x YN)7/7 The Taste Of Love & Laughter - ( KSJ x YN)CompleteCompleteReadsReads 35,29435,29435.2KVotesVotes 2,5982,5982.5KPartsParts 454545TimeTime 5h 32m5 hours, 32 minutes5h 32m"We live only once.
                                   We die only once.
                                   And love?
                                   
