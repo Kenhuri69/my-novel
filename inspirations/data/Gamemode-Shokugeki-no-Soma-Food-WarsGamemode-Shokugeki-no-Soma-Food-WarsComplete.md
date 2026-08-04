@@ -1,4 +1,4 @@
-# Gamemode: Shokugeki no Soma / Food WarsGamemode: Shokugeki no Soma / Food WarsCompleteCompleteReadsReads 1,109,1931,109,1931.1MVotesVotes 41,82341,82341.8KPartsParts 108108108TimeTime 13h 28m13 hours, 28 minutes13h 28mShokugeki no Soma Various x Female Reader.
+# Gamemode: Shokugeki no Soma / Food WarsGamemode: Shokugeki no Soma / Food WarsCompleteCompleteReadsReads 1,109,1941,109,1941.1MVotesVotes 41,82341,82341.8KPartsParts 108108108TimeTime 13h 28m13 hours, 28 minutes13h 28mShokugeki no Soma Various x Female Reader.
                                   
                                   It was a normal day for you, Quarantine was really boring and it was already 7 in the morning. You just managed to finish watching Food Wars. You decided to sleep.
                                   
@@ -12,7 +12,7 @@
                                   Note: This is my first story so it might be full of holes and such. I apologize in advanced. You're free to correct me either send me a message or post a comment. 
                                   
                                   
-                                  I do not own Shokugeki no Soma nor the pictures used in the story.  Shokugeki no Soma belongs to Yuto Tsukada-san.Gamemode: Shokugeki no Soma / Food WarsGamemode: Shokugeki no Soma / Food WarsCompleteCompleteReadsReads 1,109,1931,109,1931.1MVotesVotes 41,82341,82341.8KPartsParts 108108108TimeTime 13h 28m13 hours, 28 minutes13h 28mShokugeki no Soma Various x Female Reader.
+                                  I do not own Shokugeki no Soma nor the pictures used in the story.  Shokugeki no Soma belongs to Yuto Tsukada-san.Gamemode: Shokugeki no Soma / Food WarsGamemode: Shokugeki no Soma / Food WarsCompleteCompleteReadsReads 1,109,1941,109,1941.1MVotesVotes 41,82341,82341.8KPartsParts 108108108TimeTime 13h 28m13 hours, 28 minutes13h 28mShokugeki no Soma Various x Female Reader.
                                   
                                   It was a normal day for you, Quarantine was really boring and it was already 7 in the morning. You just managed to finish watching Food Wars. You decided to sleep.
                                   
