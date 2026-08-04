@@ -1,4 +1,4 @@
-# Dad's Restaurant In Another World 3Dad's Restaurant In Another World 3OngoingOngoingReadsReads 15,43515,43515.4KVotesVotes 2,6142,6142.6KPartsParts 929292TimeTime 9h 47m9 hours, 47 minutes9h 47mPart 1 COMPLETED
+# Dad's Restaurant In Another World 3Dad's Restaurant In Another World 3OngoingOngoingReadsReads 15,43615,43615.4KVotesVotes 2,6142,6142.6KPartsParts 929292TimeTime 9h 47m9 hours, 47 minutes9h 47mPart 1 COMPLETED
                                   Part 2 COMPLETED
                                   Part 3 On Going
                                   
@@ -26,7 +26,7 @@
                                   
                                   If you are interested in this book and would like to continue reading, please subscribe or purchase it once through my Patreon account! 
                                   (A.G MARSHMALLOW)
-                                  _____Dad's Restaurant In Another World 3Dad's Restaurant In Another World 3OngoingOngoingReadsReads 15,43515,43515.4KVotesVotes 2,6142,6142.6KPartsParts 929292TimeTime 9h 47m9 hours, 47 minutes9h 47mPart 1 COMPLETED
+                                  _____Dad's Restaurant In Another World 3Dad's Restaurant In Another World 3OngoingOngoingReadsReads 15,43615,43615.4KVotesVotes 2,6142,6142.6KPartsParts 929292TimeTime 9h 47m9 hours, 47 minutes9h 47mPart 1 COMPLETED
                                   Part 2 COMPLETED
                                   Part 3 On Going
                                   
