@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:10:10
+**Date** : 2026-08-05 21:11:06
 
 ## Résumé
 
-- **Novels trouvés** : 276
+- **Novels trouvés** : 279
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -1946,5 +1946,26 @@
 - **URL** : https://www.wattpad.com/story/402042551
 - **Genre** : Adventure, Alchemy, Chef, Cooking, Culinary
 - **Résumé** : Alchemy on a Plate tells the story of transformation through nature's bounty. Muscle, vitality, and healing can come from vibrant, plant-based nourishment. Turning simple ingredients into powerful med...
+- **Fichier** : N/A
+
+### Cafe Terra Tales (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/353448779
+- **Genre** : Adventure, Beastkin, Breakfast, Caffeine, Café
+- **Résumé** : Chef Neo and the hard-working quirky staff of Cafe Terra serve delicious food to their colorful pack of patrons in the bustling city of Dranvelle. A chill slice-of-life novel featuring magickal or non...
+- **Fichier** : N/A
+
+### A Dash of Destiny: Yoko the Chef (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/379873185
+- **Genre** : Fiction, Fantasy, Cooking, Culinary Magic
+- **Résumé** : 38-year-old Yoko, a hardworking yet bullied chef, finds herself in a fantasy realm after a heroic act. Gifted a second chance by a charming God, she reincarnates as a master chef with the power to tra...
+- **Fichier** : N/A
+
+### Beneath the Ashes (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/379744553
+- **Genre** : Alpha Female, China, Fantasy, Fantasy-Romance, Hidden Secrets
+- **Résumé** : In the quiet, lantern-lit streets of Matsushima, Sharva stumbles upon a small ramen shop hidden between towering buildings. He is captivated by Aika, the enigmatic chef with eyes that hold stories of ...
 - **Fichier** : N/A
 

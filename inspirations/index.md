@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:10:10
-**Novels trouvés** : 276
+**Date** : 2026-08-05 21:11:06
+**Novels trouvés** : 279
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2221,6 +2221,30 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/402042551
+
+### 277. Cafe Terra Tales ⭐⭐⭐⭐
+- **Auteur** : SeraEnigma
+- **Source** : wattpad
+- **Thème** : Adventure, Beastkin, Breakfast, Caffeine, Café
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/353448779
+
+### 278. A Dash of Destiny: Yoko the Chef ⭐⭐⭐⭐⭐
+- **Auteur** : BTiu1984
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Cooking, Culinary Magic
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/379873185
+
+### 279. Beneath the Ashes ⭐⭐⭐
+- **Auteur** : LiraenWynter
+- **Source** : wattpad
+- **Thème** : Alpha Female, China, Fantasy, Fantasy-Romance, Hidden Secrets
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/379744553
 
 
 ## Notes
