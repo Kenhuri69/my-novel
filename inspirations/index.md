@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:34:01
-**Novels trouvés** : 295
+**Date** : 2026-08-05 21:38:54
+**Novels trouvés** : 307
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2373,6 +2373,102 @@
 - **Score** : 5/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/413326001
+
+### 296. Pokémon: The Artist's Journey ⭐⭐⭐
+- **Auteur** : DakiZuri34
+- **Source** : wattpad
+- **Thème** : Action and Thriller, Adventure, Artist Protagonist, Coming of Age, Fakemon, Fantasy
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/405704961
+
+### 297. Isekai cooking In Another World —
+- **Auteur** : ReshikaRai1
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Culinary, Slice of Life
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/369940004
+
+### 298. Shadow Milk and the Glass Slipper —
+- **Auteur** : PhantomPlayz140
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/400191741
+
+### 299. Cookie Run Isekai - Book 1 —
+- **Auteur** : SonicStar21
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/365873267
+
+### 300. A reincarnation story of a cookie —
+- **Auteur** : Cheese10000
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/393070220
+
+### 301. - Waking up in Earthbread?! —
+- **Auteur** : Unknown
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/412363438
+
+### 302. Arise from darkness (Cookie Run Kingdom X Male Cookie Reader) —
+- **Auteur** : lost-aura-fox
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/406465295
+
+### 303. Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction) —
+- **Auteur** : vialy_MC
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/386797700
+
+### 304. Cookie Run Kingdom: The One of Primordial Transcendence (REVISING) —
+- **Auteur** : ChimaeraX
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/387820818
+
+### 305. My Everyday Shenanigans in Earthbread as the Baker —
+- **Auteur** : vialy_MC
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Cookie Run Kingdom
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/402509638
+
+### 306. YOU'RE AN IDIOT: XIAO X READER —
+- **Auteur** : yukkichannn_
+- **Source** : Wattpad
+- **Thème** : Fantasy, Culinary, Genshin Impact
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/409031928
+
+### 307. Gourmet Hunter Suzuki —
+- **Auteur** : CosmoRoyale846
+- **Source** : Wattpad
+- **Thème** : Fantasy, Culinary, Adventure
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/116699884
 
 
 ## Notes

@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:34:01
+**Date** : 2026-08-05 21:38:54
 
 ## Résumé
 
-- **Novels trouvés** : 295
+- **Novels trouvés** : 307
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2079,5 +2079,89 @@
 - **URL** : https://www.wattpad.com/story/413326001
 - **Genre** : Fiction, Fantasy, Ancient Civilizations, Fairy Tales and Mythology, Culture and Identity
 - **Résumé** : A bowl of hot noodles bridges three thousand years, linking modern food researchers and General Fan, a lonely spirit from the Ming Dynasty. A rift drags them into the Shang-Zhou era....
+- **Fichier** : N/A
+
+### Pokémon: The Artist's Journey (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/405704961
+- **Genre** : Action and Thriller, Adventure, Artist Protagonist, Coming of Age, Fakemon, Fantasy
+- **Résumé** : With a sketchbook in her bag and Squirtle at her side, Olivia begins her journey in Kanto with a dream unlike any other: to become the best Pokémon artist she can be while growing as a trainer. She tr...
+- **Fichier** : N/A
+
+### Isekai cooking In Another World (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/369940004
+- **Genre** : Fantasy, Isekai, Culinary, Slice of Life
+- **Résumé** : A story about cooking in another world, blending isekai and culinary themes with a slice-of-life approach....
+- **Fichier** : N/A
+
+### Shadow Milk and the Glass Slipper (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/400191741
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : Shadow Milk is isekai-ed into a fairytale world where the glass slipper is replaced by the Soul Jam, a pastry-like magical item. A Cookie Run Kingdom x Cinderella crossover....
+- **Fichier** : N/A
+
+### Cookie Run Isekai - Book 1 (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/365873267
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : A young girl is transported to a world made entirely of cookies and confections. She adopts the identity of the Baker and builds a Cookie Kingdom alongside Gingerbrave and cookie companions....
+- **Fichier** : N/A
+
+### A reincarnation story of a cookie (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/393070220
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : You died and got reincarnated into the world of Cookie Run Kingdom but it seems you were set a little back in time......
+- **Fichier** : N/A
+
+### - Waking up in Earthbread?! (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/412363438
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : A story set in Earthbread, the Cookie Run Kingdom world. The protagonist wakes up in this dessert-themed fantasy world....
+- **Fichier** : N/A
+
+### Arise from darkness (Cookie Run Kingdom X Male Cookie Reader) (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/406465295
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : Raymon Tadaka dies saving a child and finds himself in Cookie Run Kingdom. He must decide whether to follow the story or rewrite everything from the beginning....
+- **Fichier** : N/A
+
+### Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction) (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/386797700
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : An average college student dies and gets reincarnated into Earthbread with the body of a Cookie. They can summon Cookies they own in-game and are known as the Baker....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom: The One of Primordial Transcendence (REVISING) (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/387820818
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : The MC gets reincarnated into Cookie Run: Kingdom in the body of a Cookie. His phone can summon Cookies he owns from the game. He follows Gingerbrave's team through a magical world of desserts and tre...
+- **Fichier** : N/A
+
+### My Everyday Shenanigans in Earthbread as the Baker (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/402509638
+- **Genre** : Fantasy, Isekai, Cookie Run Kingdom
+- **Résumé** : Spin-off of 'Transported to Cookie Run as the Baker'. Follows the Baker's daily life in Earthbread as he interacts with his cookie friends....
+- **Fichier** : N/A
+
+### YOU'RE AN IDIOT: XIAO X READER (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/409031928
+- **Genre** : Fantasy, Culinary, Genshin Impact
+- **Résumé** : Despite being one of Liyue's most celebrated chefs, Y/N has the unfortunate luck of a Bennett-level disaster magnet. After a terrifying encounter with a Hilichurl tribe leads her to the cold, distant ...
+- **Fichier** : N/A
+
+### Gourmet Hunter Suzuki (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/116699884
+- **Genre** : Fantasy, Culinary, Adventure
+- **Résumé** : This story follows gourmet hunter Ren Suzuki and chef Yuta Okamatsu as they hunt for high level ingredients to make into top-tier dishes....
 - **Fichier** : N/A
 
