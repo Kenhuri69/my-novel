@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:09:04
-**Novels trouvés** : 274
+**Date** : 2026-08-05 21:10:10
+**Novels trouvés** : 276
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2205,6 +2205,22 @@
 - **Score** : 4/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/409585074
+
+### 275. She's Cooking in Another World ⭐⭐⭐⭐⭐
+- **Auteur** : TigerAkemi1
+- **Source** : wattpad
+- **Thème** : Adventure, Chef, Cooking, Fantasy, Female Protagonist
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/147487795
+
+### 276. Alchemy on a Plate ⭐⭐⭐
+- **Auteur** : HealthMeetsWellness
+- **Source** : wattpad
+- **Thème** : Adventure, Alchemy, Chef, Cooking, Culinary
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/402042551
 
 
 ## Notes

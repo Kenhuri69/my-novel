@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:09:04
+**Date** : 2026-08-05 21:10:10
 
 ## Résumé
 
-- **Novels trouvés** : 274
+- **Novels trouvés** : 276
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -1932,5 +1932,19 @@
 - **URL** : https://www.wattpad.com/story/409585074
 - **Genre** : Fanfic, Anime and Manga, Books and Literature, Game, Adventure, Cooking, Culinary, Drama
 - **Résumé** : A human chef, Shouichi Takeru, struck by misfortune — his wife and daughter died, villagers feared him, and his restaurant hit rock bottom. He meets Rumia in the Youkai Forest and starts selling food ...
+- **Fichier** : N/A
+
+### She's Cooking in Another World (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/147487795
+- **Genre** : Adventure, Chef, Cooking, Fantasy, Female Protagonist
+- **Résumé** : Master of the Cooking Arts, Lily Zen, is transported to another world. She is astounded at the lack of culinary development and decides to change this, rising to become a Legendary figure. This may be...
+- **Fichier** : N/A
+
+### Alchemy on a Plate (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/402042551
+- **Genre** : Adventure, Alchemy, Chef, Cooking, Culinary
+- **Résumé** : Alchemy on a Plate tells the story of transformation through nature's bounty. Muscle, vitality, and healing can come from vibrant, plant-based nourishment. Turning simple ingredients into powerful med...
 - **Fichier** : N/A
 
