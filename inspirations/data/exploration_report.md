@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:30:24
+**Date** : 2026-08-05 21:31:27
 
 ## Résumé
 
-- **Novels trouvés** : 292
+- **Novels trouvés** : 293
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2058,5 +2058,12 @@
 - **URL** : https://www.wattpad.com/story/359415023
 - **Genre** : Action, Adventure, Dragon, Dragoness, Dragon Kingdom
 - **Résumé** : Dragons and humans have always been at odds. A young cook befriends a dragoness through an act of selflessness, and a beautiful friendship is born. Their bond will test the boundaries of everything th...
+- **Fichier** : N/A
+
+### YLTESCIA: A Reincarnator's Tale in the Lands of Merusia (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/307001129
+- **Genre** : Fiction, Fantasy, Action, Adventure, Anime, Dragons, Elves
+- **Résumé** : Matteo Alcantara, reborn as Grey Silverdrake, aims to conquer great labyrinths and explore a vast fantasy world. A sweet, sour, and slow slice of life with hints of adventure, romance, and cooking....
 - **Fichier** : N/A
 

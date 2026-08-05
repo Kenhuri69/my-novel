@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:30:24
-**Novels trouvés** : 292
+**Date** : 2026-08-05 21:31:27
+**Novels trouvés** : 293
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2349,6 +2349,14 @@
 - **Score** : 4/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/359415023
+
+### 293. YLTESCIA: A Reincarnator's Tale in the Lands of Merusia ⭐⭐⭐
+- **Auteur** : RealGris
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Action, Adventure, Anime, Dragons, Elves
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/307001129
 
 
 ## Notes
