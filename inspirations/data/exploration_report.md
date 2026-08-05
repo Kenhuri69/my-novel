@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:12:17
+**Date** : 2026-08-05 21:13:04
 
 ## Résumé
 
-- **Novels trouvés** : 282
+- **Novels trouvés** : 283
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -1988,5 +1988,12 @@
 - **URL** : https://www.wattpad.com/story/60718203
 - **Genre** : Fiction, Fantasy, Alcohol, Champagne, Magic
 - **Résumé** : A tiny restaurant near the Primal Station in El Tremo where you can drink and spend your time thinking your life over. But you should not be deceived......
+- **Fichier** : N/A
+
+### Cookie Run Kingdom: The One of Primordial Transcendence (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/387820818
+- **Genre** : Fanfic, Alternate Universe, Original Character, Game, Fantasy, Action, Adventure, Cookie
+- **Résumé** : The MC gets reincarnated into Cookie Run: Kingdom in the body of a Cookie — specifically, the Cookie OC they created themselves. Dropped into this world without warning, their phone arrives, now capab...
 - **Fichier** : N/A
 

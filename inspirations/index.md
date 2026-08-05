@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:12:17
-**Novels trouvés** : 282
+**Date** : 2026-08-05 21:13:04
+**Novels trouvés** : 283
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2269,6 +2269,14 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/60718203
+
+### 283. Cookie Run Kingdom: The One of Primordial Transcendence ⭐⭐⭐⭐
+- **Auteur** : ChimaeraX
+- **Source** : wattpad
+- **Thème** : Fanfic, Alternate Universe, Original Character, Game, Fantasy, Action, Adventure, Cookie
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/387820818
 
 
 ## Notes
