@@ -2,15 +2,15 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:29:36
-**Novels trouvés** : 291
+**Date** : 2026-08-05 21:30:24
+**Novels trouvés** : 292
 **Score minimum** : 1/5
 
 ### Sites explorés
 
 | Site | Statut | Résultat |
 |------|--------|----------|
-| **tapas** | ❌ | unknown |
+| **wattpad** | ❌ | unknown |
 
 ## Novels identifiés (triés par pertinence)
 
@@ -2341,6 +2341,14 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://tapas.io/series/Hammu
+
+### 292. The Dragon Princess and the Cook ⭐⭐⭐⭐
+- **Auteur** : DragonsDwelling
+- **Source** : wattpad
+- **Thème** : Action, Adventure, Dragon, Dragoness, Dragon Kingdom
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/359415023
 
 
 ## Notes

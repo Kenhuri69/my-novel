@@ -5271,5 +5271,30 @@
     "reads": 35500,
     "votes": 404,
     "parts": 6
+  },
+  {
+    "title": "The Dragon Princess and the Cook",
+    "author": "DragonsDwelling",
+    "source": "wattpad",
+    "url": "https://www.wattpad.com/story/359415023",
+    "status": "Ongoing",
+    "genre": "Action, Adventure, Dragon, Dragoness, Dragon Kingdom",
+    "summary": "Dragons and humans have always been at odds. A young cook befriends a dragoness through an act of selflessness, and a beautiful friendship is born. Their bond will test the boundaries of everything they stand for, steering the Shattered Isle onto a path no one could have predicted.",
+    "culinary_description": "Cooking is central — the protagonist is a young cook who befriends a dragoness through cooking.",
+    "fantasy_description": "Fantasy world with dragons, dragon kingdoms, and a Shattered Isle setting.",
+    "relevance": "High — Dragon fantasy with cooking as the central bonding mechanism.",
+    "relevance_score": 4,
+    "keywords": [
+      "cooking",
+      "fantasy",
+      "dragon",
+      "isekai",
+      "adventure",
+      "romance"
+    ],
+    "date_added": "2026-08-05",
+    "reads": 7006,
+    "votes": 274,
+    "parts": 45
   }
 ]

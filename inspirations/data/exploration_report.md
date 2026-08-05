@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:29:36
+**Date** : 2026-08-05 21:30:24
 
 ## Résumé
 
-- **Novels trouvés** : 291
+- **Novels trouvés** : 292
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -12,7 +12,7 @@
 
 | Site | Statut | Novels trouvés |
 |------|--------|----------------|
-| tapas | ❌ | — |
+| wattpad | ❌ | — |
 
 ## Novels détaillés
 
@@ -2051,5 +2051,12 @@
 - **URL** : https://tapas.io/series/Hammu
 - **Genre** : Snack Food, Slice of Life, Adorable
 - **Résumé** : Hammu is a special species of hamster that 'hamster-ises' delicious snack foods from various cultures, presented in a cute and adorable style....
+- **Fichier** : N/A
+
+### The Dragon Princess and the Cook (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/359415023
+- **Genre** : Action, Adventure, Dragon, Dragoness, Dragon Kingdom
+- **Résumé** : Dragons and humans have always been at odds. A young cook befriends a dragoness through an act of selflessness, and a beautiful friendship is born. Their bond will test the boundaries of everything th...
 - **Fichier** : N/A
 
