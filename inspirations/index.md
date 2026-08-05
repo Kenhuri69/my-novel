@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:17:21
-**Novels trouvés** : 288
+**Date** : 2026-08-05 21:28:08
+**Novels trouvés** : 290
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2317,6 +2317,22 @@
 - **Score** : 5/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/263562731
+
+### 289. From Overtime to Overpowered: The Filipino OFW Reincarnated in Another World ⭐⭐⭐⭐⭐
+- **Auteur** : Bnnjcl
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Magical Kingdoms, Mythical Creatures, Science Fiction
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/413842643
+
+### 290. Can angel's wish to cook? ⭐⭐⭐⭐
+- **Auteur** : Nadhifa756
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Romance, Action and Thriller
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/411013438
 
 
 ## Notes

@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:17:21
+**Date** : 2026-08-05 21:28:08
 
 ## Résumé
 
-- **Novels trouvés** : 288
+- **Novels trouvés** : 290
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2030,5 +2030,19 @@
 - **URL** : https://www.wattpad.com/story/263562731
 - **Genre** : Fiction, Fantasy, Isekai, BL, Yaoi, Magic, Kuudere
 - **Résumé** : A salaryman who loves cooking and cafés is transported to a fantasy world as a villainess character. He chooses to pursue his dream of opening a café rather than follow the typical plot....
+- **Fichier** : N/A
+
+### From Overtime to Overpowered: The Filipino OFW Reincarnated in Another World (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/413842643
+- **Genre** : Fiction, Fantasy, Magical Kingdoms, Mythical Creatures, Science Fiction
+- **Résumé** : Filipino OFW Miguel Santos is reincarnated in another world after a mysterious accident at the airport. A goddess reveals he wasn't supposed to be summoned — the legendary Hero was meant to come from ...
+- **Fichier** : N/A
+
+### Can angel's wish to cook? (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/411013438
+- **Genre** : Fiction, Fantasy, Romance, Action and Thriller
+- **Résumé** : A white-feathered angel adored cooking and baking, but her family never truly saw that side of her. After a small argument pushed her over the edge, she ran away and ended up in the human world....
 - **Fichier** : N/A
 
