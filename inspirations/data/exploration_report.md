@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:16:02
+**Date** : 2026-08-05 21:17:21
 
 ## Résumé
 
-- **Novels trouvés** : 285
+- **Novels trouvés** : 288
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2009,5 +2009,26 @@
 - **URL** : https://www.wattpad.com/story/292514711
 - **Genre** : Fiction/Fantasy, Aristocracy, Badass, Crack, Fantasy Adventure
 - **Résumé** : Izumi becomes a weak and stupid villainess in a fantasy novel. The original owner's bad cooking skills accidentally turned a prophet into a cat. Izumi must find the magical item to restore the prophet...
+- **Fichier** : N/A
+
+### Cooking Simulation In Ancient Era To Raise a Family (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/410267067
+- **Genre** : Fiction, Romance, 1v1, Ancient Era, BL, Slice of Life, Cooking
+- **Résumé** : A cliche transmigration of a modern man to a deadbeat father in ancient era. Raise his family using system assist and cooking simulation. Become famous and earn merit. Become an official and get acqua...
+- **Fichier** : N/A
+
+### Gaming For Loots in Ancient Era (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/362916136
+- **Genre** : Fiction, Romance, Yaoi, Boy's Love, Ancient Era, Comedy, Cooking, Fantasy, BL
+- **Résumé** : A cliche story of transmigration in the body of a farmer. To be able to pursue love and stability, he has to rely on his Mini Game System. Daily life of chasing a husband and raising sisters....
+- **Fichier** : N/A
+
+### Soul Exchange With The Tragic Villain (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/263562731
+- **Genre** : Fiction, Fantasy, Isekai, BL, Yaoi, Magic, Kuudere
+- **Résumé** : A salaryman who loves cooking and cafés is transported to a fantasy world as a villainess character. He chooses to pursue his dream of opening a café rather than follow the typical plot....
 - **Fichier** : N/A
 

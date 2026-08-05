@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:16:02
-**Novels trouvés** : 285
+**Date** : 2026-08-05 21:17:21
+**Novels trouvés** : 288
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2293,6 +2293,30 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/292514711
+
+### 286. Cooking Simulation In Ancient Era To Raise a Family ⭐⭐⭐⭐
+- **Auteur** : LAmerica06
+- **Source** : wattpad
+- **Thème** : Fiction, Romance, 1v1, Ancient Era, BL, Slice of Life, Cooking
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/410267067
+
+### 287. Gaming For Loots in Ancient Era ⭐⭐⭐
+- **Auteur** : LAmerica06
+- **Source** : wattpad
+- **Thème** : Fiction, Romance, Yaoi, Boy's Love, Ancient Era, Comedy, Cooking, Fantasy, BL
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/362916136
+
+### 288. Soul Exchange With The Tragic Villain ⭐⭐⭐⭐⭐
+- **Auteur** : ranu_chan
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Isekai, BL, Yaoi, Magic, Kuudere
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/263562731
 
 
 ## Notes
