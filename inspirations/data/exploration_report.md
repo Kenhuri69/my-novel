@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 20:46:41
+**Date** : 2026-08-05 21:09:04
 
 ## Résumé
 
-- **Novels trouvés** : 271
+- **Novels trouvés** : 274
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -12,7 +12,7 @@
 
 | Site | Statut | Novels trouvés |
 |------|--------|----------------|
-| tapas | ❌ | — |
+| wattpad | ❌ | — |
 
 ## Novels détaillés
 
@@ -1911,5 +1911,26 @@
 - **URL** : https://tapas.io/series/Nugget-in-the-Restaurant
 - **Genre** : Fantasy, Comedy
 - **Résumé** : These are the adventures of Nugget as he interacts with other things in and around the restaurant....
+- **Fichier** : N/A
+
+### Heaven's Senses (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/329946658
+- **Genre** : Aldini, Anime, Battle, Challenge, Cooking
+- **Résumé** : Hikari and her twin brother Soma loved to cook from a young age. Hikari was given a gift — heightened senses (sight, scent, taste, hearing, touch) — making her 'Heaven's Senses.' She walks with her br...
+- **Fichier** : N/A
+
+### Food Wars: The Heaven's Senses (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/263857466
+- **Genre** : Action, Aldini, Alice, Anime, Comedy
+- **Résumé** : Twins with special cooking skills and heightened senses navigate Totsuki Academy, blending culinary competition with supernatural abilities. The story features OC interactions with the Shokugeki no So...
+- **Fichier** : N/A
+
+### Touhou Shokumeitan ~ The Taste of Flesh and Hope (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/409585074
+- **Genre** : Fanfic, Anime and Manga, Books and Literature, Game, Adventure, Cooking, Culinary, Drama
+- **Résumé** : A human chef, Shouichi Takeru, struck by misfortune — his wife and daughter died, villagers feared him, and his restaurant hit rock bottom. He meets Rumia in the Youkai Forest and starts selling food ...
 - **Fichier** : N/A
 

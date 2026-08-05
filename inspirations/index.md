@@ -2,15 +2,15 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 20:46:41
-**Novels trouvés** : 271
+**Date** : 2026-08-05 21:09:04
+**Novels trouvés** : 274
 **Score minimum** : 1/5
 
 ### Sites explorés
 
 | Site | Statut | Résultat |
 |------|--------|----------|
-| **tapas** | ❌ | unknown |
+| **wattpad** | ❌ | unknown |
 
 ## Novels identifiés (triés par pertinence)
 
@@ -2181,6 +2181,30 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://tapas.io/series/Nugget-in-the-Restaurant
+
+### 272. Heaven's Senses ⭐⭐⭐⭐⭐
+- **Auteur** : Rubyrose645
+- **Source** : wattpad
+- **Thème** : Aldini, Anime, Battle, Challenge, Cooking
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/329946658
+
+### 273. Food Wars: The Heaven's Senses ⭐⭐⭐⭐⭐
+- **Auteur** : Rubyrose645
+- **Source** : wattpad
+- **Thème** : Action, Aldini, Alice, Anime, Comedy
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/263857466
+
+### 274. Touhou Shokumeitan ~ The Taste of Flesh and Hope ⭐⭐⭐⭐
+- **Auteur** : Izamani
+- **Source** : wattpad
+- **Thème** : Fanfic, Anime and Manga, Books and Literature, Game, Adventure, Cooking, Culinary, Drama
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/409585074
 
 
 ## Notes
