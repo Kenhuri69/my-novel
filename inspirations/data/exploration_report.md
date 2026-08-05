@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 20:18:21
+**Date** : 2026-08-05 20:21:03
 
 ## Résumé
 
-- **Novels trouvés** : 269
+- **Novels trouvés** : 267
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -159,13 +159,6 @@
 ### From Dishwasher to Dining Empire (Score: 5/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/413441274
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'dining' sur Wattpad....
-- **Fichier** : N/A
-
-### From Dishwasher to Dining Empire (Score: 5/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/412833664
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'dining' sur Wattpad....
 - **Fichier** : N/A
@@ -975,13 +968,6 @@
 - **Résumé** : Trouvé via la recherche 'kitchen' sur Wattpad....
 - **Fichier** : N/A
 
-### Kitchen Sink (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/98601319
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'kitchen' sur Wattpad....
-- **Fichier** : N/A
-
 ### The heat of the kitchen (Score: 3/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/411932976
@@ -1097,13 +1083,6 @@
 ### Heartbeat Recipe [BL] (Score: 3/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/406407835
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'recipe' sur Wattpad....
-- **Fichier** : N/A
-
-### Recipes (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/242031387
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'recipe' sur Wattpad....
 - **Fichier** : N/A
@@ -1598,13 +1577,6 @@
 - **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
 - **Fichier** : N/A
 
-### Childish (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/274620725
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
-- **Fichier** : N/A
-
 ### To Dishonour A Duke (Score: 3/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/314634198
@@ -1626,13 +1598,6 @@
 - **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
 - **Fichier** : N/A
 
-### Childish (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/255864800
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
-- **Fichier** : N/A
-
 ### The Mafia's childish Bride (Score: 3/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/394217189
@@ -1645,13 +1610,6 @@
 - **URL** : https://www.wattpad.com/story/122502106
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'gastronomic' sur Wattpad....
-- **Fichier** : N/A
-
-### The Incredibles (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/315791296
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'edible' sur Wattpad....
 - **Fichier** : N/A
 
 ### The Incredibles II (Score: 3/5)
@@ -1897,5 +1855,33 @@
 - **URL** : https://tapas.io/series/Far-From-Home-Cooking
 - **Genre** : Comedy, Fantasy, Cooking, Gourmet, Surreal, Weird, Monsters, Creatures
 - **Résumé** : A girl wakes up in an unknown world — but more importantly, she's hungry. She must figure out what this place has to offer, and what she can cook with what she finds....
+- **Fichier** : N/A
+
+### Transmigrated And Got A Husband and A Son (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/411685964
+- **Genre** : Fiction, Romance, Slice of Life, Second Chance, Fantasy
+- **Résumé** : Qin Xiaoguo, a successful chef from the year 3024, transmigrates to 42 BC. She wakes in a famine-stricken land and discovers a hungry boy who calls her mother. Her only advantage is a spatial ring tha...
+- **Fichier** : N/A
+
+### Legendary Gourmet: The Missing Hero is a Food Vendor?! (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/391677246
+- **Genre** : Fiction, Fantasy, Adventure, Demonlord, Food, Hero
+- **Résumé** : Haru Asano grew up in a family-run yakiniku shop. Summoned as a hero to save a kingdom, he is granted skills entirely related to cooking. Instead of training with knights, he opens a food cart and spr...
+- **Fichier** : N/A
+
+### Through the Fridge: A New Life in Another World (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/392026819
+- **Genre** : Fantasy, Action-Adventure, Cooking, Another Universe, Beast
+- **Résumé** : A quiet, introverted girl with a passion for cooking dreams of becoming a chef. Bullied for her striking red eyes, she opens her fridge one evening and is pulled into a swirling black void, waking up ...
+- **Fichier** : N/A
+
+### Gaia Evergreen: Chef of the Hero's Path (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/393724063
+- **Genre** : Action, Adventure, Fantasy, Isekai, Heart-warming
+- **Résumé** : Daisuke Hagiwara, a 27-year-old chef, encounters a stray cat and follows it. He saves the cat from a car and wakes up in a cold pool of blood — reincarnated in a fantasy world as a cat-eared hero....
 - **Fichier** : N/A
 
