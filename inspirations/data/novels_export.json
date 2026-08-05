@@ -4669,5 +4669,102 @@
     "reads": 313131,
     "votes": 0,
     "parts": 222
+  },
+  {
+    "title": "The Returning Hero's Restaurant",
+    "author": "KimMuel",
+    "source": "tapas",
+    "url": "https://tapas.io/series/the-returning-heros-restaurant",
+    "status": "Completed",
+    "genre": "Fantasy, Action, Cooking, Isekai",
+    "summary": "Kyungho was an ordinary cook before being abducted and forced to fight off a demon invasion in another realm. He returns to a world overrun with monsters and discovers his mother and Earth's guardian deity, Carnis de Lupus, are dying. Kyungho offers to serve revitalizing meals to Carnis in exchange for healing his mother.",
+    "culinary_description": "Cooking is central — Kyungho serves revitalizing meals to a guardian deity in exchange for healing his mother. The restaurant/kitchen is the key to both combat and healing.",
+    "fantasy_description": "Fantasy world with demons, monsters, a guardian deity, and another realm. Hero summoned to fight demon invasion.",
+    "relevance": "Very High — Strong fantasy world-building with cooking as a core mechanic (healing meals for a deity).",
+    "relevance_score": 5,
+    "keywords": [
+      "cooking",
+      "fantasy",
+      "isekai",
+      "demon",
+      "hero",
+      "restaurant",
+      "healing"
+    ],
+    "date_added": "2026-08-05",
+    "reads": 607800,
+    "votes": 2400,
+    "parts": 100
+  },
+  {
+    "title": "The Gourmet Gamer",
+    "author": "Studio Weiib",
+    "source": "tapas",
+    "url": "https://tapas.io/series/the-gourmet-gamer",
+    "status": "Ongoing",
+    "genre": "Drama, VR Game, Cooking, Fantasy",
+    "summary": "Lee Rim lost his sense of smell and taste, ending his cooking career. The VR game 'Real' gives him a new lease on life — with his senses restored, he takes up the culinary arts once more in virtual reality.",
+    "culinary_description": "Cooking is central — Lee Rim rebuilds his culinary career in a VR game where food tastes real.",
+    "fantasy_description": "VR game world with fantasy elements. The game 'Real' restores his senses and allows him to cook again.",
+    "relevance": "High — VR gaming + cooking + fantasy elements.",
+    "relevance_score": 4,
+    "keywords": [
+      "cooking",
+      "VR",
+      "gaming",
+      "fantasy",
+      "gourmet",
+      "isekai"
+    ],
+    "date_added": "2026-08-05",
+    "reads": 167300,
+    "votes": 424,
+    "parts": 117
+  },
+  {
+    "title": "restaurant comics",
+    "author": "majeedtaha",
+    "source": "tapas",
+    "url": "https://tapas.io/series/restaurant-comics",
+    "status": "Ongoing",
+    "genre": "Slice of Life, Fantasy",
+    "summary": "Its about times in life in restaurants mixed with fantasy.",
+    "culinary_description": "Cooking and restaurant life are central themes.",
+    "fantasy_description": "Fantasy elements mixed with restaurant life.",
+    "relevance": "Medium — Restaurant theme with fantasy elements, but very short and early stage.",
+    "relevance_score": 3,
+    "keywords": [
+      "cooking",
+      "restaurant",
+      "fantasy",
+      "slice of life"
+    ],
+    "date_added": "2026-08-05",
+    "reads": 527,
+    "votes": 0,
+    "parts": 2
+  },
+  {
+    "title": "Nugget in the Restaurant",
+    "author": "nuggetdoodles",
+    "source": "tapas",
+    "url": "https://tapas.io/series/Nugget-in-the-Restaurant",
+    "status": "Ongoing",
+    "genre": "Fantasy, Comedy",
+    "summary": "These are the adventures of Nugget as he interacts with other things in and around the restaurant.",
+    "culinary_description": "Restaurant setting with cooking themes.",
+    "fantasy_description": "Fantasy elements in a restaurant setting.",
+    "relevance": "Medium — Restaurant setting with fantasy elements, but very short.",
+    "relevance_score": 3,
+    "keywords": [
+      "cooking",
+      "restaurant",
+      "fantasy",
+      "comedy"
+    ],
+    "date_added": "2026-08-05",
+    "reads": 9,
+    "votes": 0,
+    "parts": 1
   }
 ]

@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 20:21:03
+**Date** : 2026-08-05 20:46:41
 
 ## Résumé
 
-- **Novels trouvés** : 267
+- **Novels trouvés** : 271
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -12,7 +12,7 @@
 
 | Site | Statut | Novels trouvés |
 |------|--------|----------------|
-| wattpad | ❌ | — |
+| tapas | ❌ | — |
 
 ## Novels détaillés
 
@@ -1883,5 +1883,33 @@
 - **URL** : https://www.wattpad.com/story/393724063
 - **Genre** : Action, Adventure, Fantasy, Isekai, Heart-warming
 - **Résumé** : Daisuke Hagiwara, a 27-year-old chef, encounters a stray cat and follows it. He saves the cat from a car and wakes up in a cold pool of blood — reincarnated in a fantasy world as a cat-eared hero....
+- **Fichier** : N/A
+
+### The Returning Hero's Restaurant (Score: 5/5)
+- **Source** : tapas
+- **URL** : https://tapas.io/series/the-returning-heros-restaurant
+- **Genre** : Fantasy, Action, Cooking, Isekai
+- **Résumé** : Kyungho was an ordinary cook before being abducted and forced to fight off a demon invasion in another realm. He returns to a world overrun with monsters and discovers his mother and Earth's guardian ...
+- **Fichier** : N/A
+
+### The Gourmet Gamer (Score: 4/5)
+- **Source** : tapas
+- **URL** : https://tapas.io/series/the-gourmet-gamer
+- **Genre** : Drama, VR Game, Cooking, Fantasy
+- **Résumé** : Lee Rim lost his sense of smell and taste, ending his cooking career. The VR game 'Real' gives him a new lease on life — with his senses restored, he takes up the culinary arts once more in virtual re...
+- **Fichier** : N/A
+
+### restaurant comics (Score: 3/5)
+- **Source** : tapas
+- **URL** : https://tapas.io/series/restaurant-comics
+- **Genre** : Slice of Life, Fantasy
+- **Résumé** : Its about times in life in restaurants mixed with fantasy....
+- **Fichier** : N/A
+
+### Nugget in the Restaurant (Score: 3/5)
+- **Source** : tapas
+- **URL** : https://tapas.io/series/Nugget-in-the-Restaurant
+- **Genre** : Fantasy, Comedy
+- **Résumé** : These are the adventures of Nugget as he interacts with other things in and around the restaurant....
 - **Fichier** : N/A
 

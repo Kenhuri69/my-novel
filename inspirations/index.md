@@ -2,15 +2,15 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 20:21:03
-**Novels trouvés** : 267
+**Date** : 2026-08-05 20:46:41
+**Novels trouvés** : 271
 **Score minimum** : 1/5
 
 ### Sites explorés
 
 | Site | Statut | Résultat |
 |------|--------|----------|
-| **wattpad** | ❌ | unknown |
+| **tapas** | ❌ | unknown |
 
 ## Novels identifiés (triés par pertinence)
 
@@ -2149,6 +2149,38 @@
 - **Score** : 5/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/393724063
+
+### 268. The Returning Hero's Restaurant ⭐⭐⭐⭐⭐
+- **Auteur** : KimMuel
+- **Source** : tapas
+- **Thème** : Fantasy, Action, Cooking, Isekai
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://tapas.io/series/the-returning-heros-restaurant
+
+### 269. The Gourmet Gamer ⭐⭐⭐⭐
+- **Auteur** : Studio Weiib
+- **Source** : tapas
+- **Thème** : Drama, VR Game, Cooking, Fantasy
+- **Score** : 4/5
+- **Fichier** : [](data/)
+- **Lien** : https://tapas.io/series/the-gourmet-gamer
+
+### 270. restaurant comics ⭐⭐⭐
+- **Auteur** : majeedtaha
+- **Source** : tapas
+- **Thème** : Slice of Life, Fantasy
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://tapas.io/series/restaurant-comics
+
+### 271. Nugget in the Restaurant ⭐⭐⭐
+- **Auteur** : nuggetdoodles
+- **Source** : tapas
+- **Thème** : Fantasy, Comedy
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://tapas.io/series/Nugget-in-the-Restaurant
 
 
 ## Notes
