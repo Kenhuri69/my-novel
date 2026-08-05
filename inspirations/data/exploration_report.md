@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:14:00
+**Date** : 2026-08-05 21:16:02
 
 ## Résumé
 
-- **Novels trouvés** : 284
+- **Novels trouvés** : 285
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2002,5 +2002,12 @@
 - **URL** : https://www.wattpad.com/story/345457977
 - **Genre** : Action, Cookie OC, Angst, Caramel Arrow Cookie, Cookie Odyssey
 - **Résumé** : Mochaccino Cookie, a scientist from the Coffee Tribe and kin of Affogato Cookie, uses technological mastery and electrical energy in battle. Set in the Dark Cacao Kingdom of the Cookie Run universe....
+- **Fichier** : N/A
+
+### Izumi In The Body Of A 'Weak' Villainess (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/292514711
+- **Genre** : Fiction/Fantasy, Aristocracy, Badass, Crack, Fantasy Adventure
+- **Résumé** : Izumi becomes a weak and stupid villainess in a fantasy novel. The original owner's bad cooking skills accidentally turned a prophet into a cat. Izumi must find the magical item to restore the prophet...
 - **Fichier** : N/A
 

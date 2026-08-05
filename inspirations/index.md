@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:14:00
-**Novels trouvés** : 284
+**Date** : 2026-08-05 21:16:02
+**Novels trouvés** : 285
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2285,6 +2285,14 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/345457977
+
+### 285. Izumi In The Body Of A 'Weak' Villainess ⭐⭐⭐
+- **Auteur** : thedark328
+- **Source** : wattpad
+- **Thème** : Fiction/Fantasy, Aristocracy, Badass, Crack, Fantasy Adventure
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/292514711
 
 
 ## Notes
