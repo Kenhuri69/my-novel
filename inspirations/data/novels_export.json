@@ -5246,5 +5246,30 @@
     "reads": 474747,
     "votes": 0,
     "parts": 14
+  },
+  {
+    "title": "Hammu_The Gourmet Hamster",
+    "author": "Aka (akasumiloh)",
+    "source": "tapas",
+    "url": "https://tapas.io/series/Hammu",
+    "status": "Completed (6 episodes)",
+    "genre": "Snack Food, Slice of Life, Adorable",
+    "summary": "Hammu is a special species of hamster that 'hamster-ises' delicious snack foods from various cultures, presented in a cute and adorable style.",
+    "culinary_description": "Cooking/food is central — Hamster-ises snack foods from various cultures.",
+    "fantasy_description": "Fantasy creature (special hamster species) with magical food transformation abilities.",
+    "relevance": "Medium — Cute snack food fantasy with hamster transformation, but more slice-of-life than epic fantasy.",
+    "relevance_score": 3,
+    "keywords": [
+      "cooking",
+      "snack food",
+      "fantasy",
+      "hamster",
+      "slice of life",
+      "cute"
+    ],
+    "date_added": "2026-08-05",
+    "reads": 35500,
+    "votes": 404,
+    "parts": 6
   }
 ]

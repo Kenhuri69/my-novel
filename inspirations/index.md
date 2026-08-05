@@ -2,15 +2,15 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:28:08
-**Novels trouvés** : 290
+**Date** : 2026-08-05 21:29:36
+**Novels trouvés** : 291
 **Score minimum** : 1/5
 
 ### Sites explorés
 
 | Site | Statut | Résultat |
 |------|--------|----------|
-| **wattpad** | ❌ | unknown |
+| **tapas** | ❌ | unknown |
 
 ## Novels identifiés (triés par pertinence)
 
@@ -2333,6 +2333,14 @@
 - **Score** : 4/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/411013438
+
+### 291. Hammu_The Gourmet Hamster ⭐⭐⭐
+- **Auteur** : Aka (akasumiloh)
+- **Source** : tapas
+- **Thème** : Snack Food, Slice of Life, Adorable
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://tapas.io/series/Hammu
 
 
 ## Notes

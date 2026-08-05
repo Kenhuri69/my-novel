@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:28:08
+**Date** : 2026-08-05 21:29:36
 
 ## Résumé
 
-- **Novels trouvés** : 290
+- **Novels trouvés** : 291
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -12,7 +12,7 @@
 
 | Site | Statut | Novels trouvés |
 |------|--------|----------------|
-| wattpad | ❌ | — |
+| tapas | ❌ | — |
 
 ## Novels détaillés
 
@@ -2044,5 +2044,12 @@
 - **URL** : https://www.wattpad.com/story/411013438
 - **Genre** : Fiction, Fantasy, Romance, Action and Thriller
 - **Résumé** : A white-feathered angel adored cooking and baking, but her family never truly saw that side of her. After a small argument pushed her over the edge, she ran away and ended up in the human world....
+- **Fichier** : N/A
+
+### Hammu_The Gourmet Hamster (Score: 3/5)
+- **Source** : tapas
+- **URL** : https://tapas.io/series/Hammu
+- **Genre** : Snack Food, Slice of Life, Adorable
+- **Résumé** : Hammu is a special species of hamster that 'hamster-ises' delicious snack foods from various cultures, presented in a cute and adorable style....
 - **Fichier** : N/A
 
