@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:13:04
+**Date** : 2026-08-05 21:14:00
 
 ## Résumé
 
-- **Novels trouvés** : 283
+- **Novels trouvés** : 284
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -1995,5 +1995,12 @@
 - **URL** : https://www.wattpad.com/story/387820818
 - **Genre** : Fanfic, Alternate Universe, Original Character, Game, Fantasy, Action, Adventure, Cookie
 - **Résumé** : The MC gets reincarnated into Cookie Run: Kingdom in the body of a Cookie — specifically, the Cookie OC they created themselves. Dropped into this world without warning, their phone arrives, now capab...
+- **Fichier** : N/A
+
+### The Dark Cacao Kingdom's Light - OC x Cookie Run (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/345457977
+- **Genre** : Action, Cookie OC, Angst, Caramel Arrow Cookie, Cookie Odyssey
+- **Résumé** : Mochaccino Cookie, a scientist from the Coffee Tribe and kin of Affogato Cookie, uses technological mastery and electrical energy in battle. Set in the Dark Cacao Kingdom of the Cookie Run universe....
 - **Fichier** : N/A
 

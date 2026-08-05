@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:13:04
-**Novels trouvés** : 283
+**Date** : 2026-08-05 21:14:00
+**Novels trouvés** : 284
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2277,6 +2277,14 @@
 - **Score** : 4/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/387820818
+
+### 284. The Dark Cacao Kingdom's Light - OC x Cookie Run ⭐⭐⭐
+- **Auteur** : SecurityPuppeteer
+- **Source** : wattpad
+- **Thème** : Action, Cookie OC, Angst, Caramel Arrow Cookie, Cookie Odyssey
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/345457977
 
 
 ## Notes
