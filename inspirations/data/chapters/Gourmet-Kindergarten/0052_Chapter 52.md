@@ -1,10 +1,6 @@
 # Chapter 52
 
-**Chapter 5** of Gourmet Kindergarten
-
-**Source URL**: https://www.fanmtl.com/novel/kks39605_52.html
-
----
+**Chapter 52**
 
 The nap room was dimly lit by thick blackout curtains, with only a sliver of white light from the corridor seeping in through the crack under the door.
 Fourteen small beds, fourteen small quilts, all quiet and peaceful.
@@ -81,4 +77,45 @@ But having accepted the caregiving assignment, I had to suppress my curiosity fo
 Before even getting close to the courtyard, you could hear the clanging of metal.
 Walk through the corridor and into the courtyard.
 Once you can see the scene in the courtyard clearly—
-The two
+The two of them gasped simultaneously, their feet rooted to the spot.
+Good guy!
+At this moment, the courtyard is no longer a kindergarten.
+It's clearly a miniature open-air heavy industrial workshop!
+Pei Qian was busy with Aunt Zhao and Aunt Li, and rows of mini stoves were neatly arranged on the ground.
+Note that this is not the kind of cheap plastic toys sold in supermarkets for playing house.
+Yes! It's real! A stove!
+It is a scaled-down version of an adult stove, complete with an induction cooker, spatula, steamer, and cutting board.
+Even on the shelves next to it, there were stacks of miniature chef uniforms and little chef hats.
+The texture and the weight of this product look incredibly high-end.
+"Wow...this is so realistic! It's practically a miniature kitchen!" Lin Xi exclaimed, her eyes wide.
+"Yes," Teacher Yu's eyes flickered slightly, "This is going to be fun."
+"Teacher Yu, Teacher Lin, what brings you here?!"
+Pei Qian turned around when he heard the noise.
+His forehead was covered in sweat, and there was a streak of black ash on the tip of his nose.
+Combined with his originally aloof and distant face, it created a strangely endearing contrast.
+Teacher Yu walked over and said, "The children are asleep, and Teacher Shen is watching them. We've come to see if they need any help."
+"Yes! Could you help me move all the ingredients over there?"
+During a break from moving things, Teacher Yu couldn't help but ask:
+"By the way, little principal, can you give us a spoiler? What are we teaching these little devils in their first 'life skills' lesson today?"
+Pei Qian casually picked up the towel around his neck and wiped away his sweat.
+"Crescent-shaped steamed dumplings".
+Lin Xi froze for half a second, her face full of disbelief: "Huh? That's a famous Huaiyang snack! The kind that requires extremely high skill, and you... you just teach them how to make the skin and that's it?"
+Pei Qian slowly turned his head, his eyes revealing a clear ruthlessness:
+"No. From kneading the dough and preparing the filling to wrapping the dumplings—the entire process."
+Lin Xi's smile froze.
+No, little principal, isn't this a bit too hardcore?
+Can the little kids handle it?
+After all, Zhuangzhuang is someone who never lifts a finger at home, and the other kids are probably about the same.
+Is this a full set of extremely difficult puzzles right from the start?
+This isn't a life skills lesson; it's like treating a kindergarten like a special forces training camp for field training!
+But seeing Pei Qian's calm and collected expression, she swallowed back the words of advice that were on the tip of her tongue.
+Teacher Yu, standing to the side, silently felt a chill run down her spine.
+Hopefully, the headmistress is aware of this, or she might actually blow up the kitchen.
+With this mix of trepidation and anticipation, time quietly slipped by.
+The afternoon sun gradually slanted westward.
+The "sealing magic" in the bed has finally run its course.
+"Wow--"
+The first cry of the day rang out in the nap room right on time.
+Then, it was as if a start button had been pressed.
+Rubbing their eyes, smacking their lips, sleeping with their hair in a mess... Fourteen "mythical beasts" hatched one after another.
+The first hardcore life skills lesson for these mythical creatures is about to begin.

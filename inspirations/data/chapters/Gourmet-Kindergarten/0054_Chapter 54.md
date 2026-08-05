@@ -1,10 +1,6 @@
 # Chapter 54
 
-**Chapter 3** of Gourmet Kindergarten
-
-**Source URL**: https://www.fanmtl.com/novel/kks39605_54.html
-
----
+**Chapter 54**
 
 "Here, one for each of you, take them carefully, don't rush—"
 Before Teacher Yu could finish speaking...
@@ -63,4 +59,57 @@ I could only watch the children eat with longing—a longing for steamed dumplin
 After wolfing down the dumplings, Tiger finished his bowl in seconds and, holding up his greasy little hand, cried out, "Headmaster, I want more!"
 "That's all."
 Pei Qian shrugged, his expression utterly ruthless.
-Tiger's eyes dimmed instantly, and h
+Tiger's eyes dimmed instantly, and his little head drooped for a second.
+Then--
+She turned her head abruptly and her gaze locked onto the steamed dumplings in Zhuangzhuang's hand next to her.
+That look in his eyes was just like a hungry wolf eyeing a fat sheep.
+Zhuangzhuang felt a chill run down his spine from the stare and retreated repeatedly, asking, "W-what are you doing?"
+"Zhuangzhuang, give me the rest!"
+"I already bit into it!"
+"It's okay, I don't mind your saliva."
+Zhuangzhuang: "..."
+You don't mind, but I do!
+No, I'm reluctant to give it away either!
+"Get out of here, get out of here! I can't even get enough for myself!" Zhuangzhuang shielded the steamed dumplings behind his back like a mother hen protecting her chicks.
+"Tch, so stingy!"
+Tiger pouted and turned away unwillingly.
+But those little eyes were still darting around Zhuangzhuang's hand, clearly not giving up.
+Zhuangzhuang, alert, immediately stuffed the steamed dumpling into his mouth.
+That was it; Tiger was completely heartbroken.
+He could only lower his head and suck the remaining soup from his fingers.
+Looking around, it wasn't just him—
+The same goes for the other children.
+After finishing the steamed dumplings, each of them took turns sucking on their ten chubby little fingers, licking the soup off the dumplings clean.
+After licking them, some little ones even put their fingers in their mouths and suck on them again and again.
+The more you suck, the more you crave it.
+The more I crave it, the more uncomfortable I feel.
+Finally, Hao Hao broke down first, calling out in his childish voice, "Headmaster, I want to eat more!"
+That shout was like lighting a fuse.
+"I want more!"
+"Me too! Me too!"
+"Headmaster, could you give me one more...?"
+Faced with a sea of ​​bright, expectant eyes, Pei Qian still cruelly shook his head.
+"No."
+Upon hearing this, Hao Hao's little mouth twitched, and tears welled up and fell in large drops.
+The other children also pouted, some with tears in their eyes, and some with their heads down, rubbing their fingers with a pitiful expression.
+They looked exactly like a group of little babies whose candy had been taken away.
+One person ate one, and it wasn't enough!
+The headmaster is so handsome and looks so gentle, how could he say such cruel things?!
+Seeing that the atmosphere was just right, and that Hao Hao would really start crying like a faucet if it dragged on any longer, Pei Qian felt it was time to stop.
+"but!"
+He deliberately dragged out the last syllable.
+All the little heads looked up at once, and even Hao Hao forced back his tears.
+"If you still want to eat, that's fine too—"
+The children's eyes lit up instantly.
+"Next, the headmaster will teach you how to do it yourselves, okay?"
+The little ones had completely forgotten about the sweet and sour pork they had been longing for. As soon as they heard that they could make steamed dumplings by themselves, they instantly came back to life and jumped for joy.
+"good!"
+"Please teach me, Headmaster!"
+"I want to make so much, so I can eat my fill at once!"
+"I want to be the biggest one!"
+Pei Qian nodded in satisfaction.
+Based on this reaction, it's a sure thing.
+"Okay! Then the headmaster will teach you now. But—"
+He pointed towards the sink and said, "Go wash your hands properly first, and then stand in front of the stove."
+Pei Qian clapped his hands, bent down, and announced with a smile:
+"Our little sunflower's steamed dumpling tutorial is officially starting!"

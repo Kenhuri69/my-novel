@@ -1,10 +1,6 @@
 # Chapter 53
 
-**Chapter 4** of Gourmet Kindergarten
-
-**Source URL**: https://www.fanmtl.com/novel/kks39605_53.html
-
----
+**Chapter 53**
 
 "Little trains, lined up neatly, we're off to our life skills class!"
 After finishing their afternoon snack, the fourteen little monsters were linked together by the three teachers and wobbled towards the yard.
@@ -68,4 +64,44 @@ He deliberately dragged out the last syllable.
 "What I'm teaching today isn't sweet and sour pork."
 "what?"
 Tangtang and the others' faces visibly fell down.
-That's how kids are; one second they're full of enthusiasm, but the moment things don't go as planned, all their 
+That's how kids are; one second they're full of enthusiasm, but the moment things don't go as planned, all their enthusiasm vanishes.
+Fortunately, Pei Qian had a "big move" up his sleeve.
+To win a child's heart, you must first win their stomach.
+"Don't rush."
+Pei Qian smiled mysteriously, turned around and walked towards the steamer that was bubbling away with white steam.
+"Next, let's see what amazing things we've prepared today."
+Before he could finish speaking...
+He abruptly lifted the steamer lid with one hand—
+boom!
+Thick white fog burst open and surged into the sky, leaving the fourteen little dough balls completely dumbfounded.
+"The volcano has erupted!" Tiger gasped.
+"No! It's a fire-breathing dragon!" Zhuangzhuang shook his head frantically. "Headmaster, you actually caught a dragon!"
+"Nonsense! It's so white and beautiful, it must be a fairy sister taking a bath inside!" Duoduo stomped her feet anxiously.
+Pei Qian chuckled helplessly as he listened to the kids spouting nonsense.
+But next second.
+The chattering yard seemed to have its power suddenly cut off. All fourteen little heads tilted back, wrinkled their little noses, and began to inhale deeply into the air.
+It smells so good...
+Several little gluttons even had glistening drool on their lips as they stood on tiptoe, desperately trying to peek into the steamer.
+As the fog dissipated, the true form was revealed.
+"Oh, are these steamed dumplings? Why do they look like crescent moons?"
+"I recognize these! They're crescent-shaped steamed dumplings. My mom took me to eat them before, but they weren't as fragrant or as pretty as the ones made by the kindergarten director!"
+"Wow, I really want to eat this! Hurry up and put it in my mouth!"
+"Hey, can I have some, Kindergarten Director?"
+It's not just children.
+Even the adults, including Teacher Yu, who were watching from the sidelines, couldn't help but swallow hard the moment they saw what was in the steamer.
+Reason tells them to be reserved, but their bodies are frighteningly honest—they desperately want to grab one and stuff it in their mouths.
+You can't blame them for that.
+It's all because Pei Qian made such an amazing steamed dumpling.
+Inside the steamer, rows of crescent-shaped dumplings were arranged with clear spacing.
+The dough, steamed until it becomes white, translucent, and has a high-end jade-like texture.
+The pleats at the top are fine and even, resembling a work of art.
+Through the dough, you can vaguely see the plump and firm meat filling inside.
+Just by looking at it, you can imagine the explosive sensation of your teeth gently biting through the noodles and the savory juices bursting in your mouth.
+People's hearts were melting, and only one crazy thought remained in their minds:
+Eat it! Now! Immediately!
+Looking down at the fourteen pairs of bright, sparkling "big eyes," and those few adult gazes that couldn't be hidden at all.
+Pei Qian's lips curled up slightly.
+This is called a dimensional reduction attack.
+The pressing of ingredients, the crushing of techniques.
+"Of course you can."
+Pei Qian chuckled and gestured with his chin towards the three teachers: "Distribute them, one for each of them. Let them taste what real 'crescent-shaped steamed dumplings' are like."

@@ -1,10 +1,6 @@
 # Chapter 55
 
-**Chapter 2** of Gourmet Kindergarten
-
-**Source URL**: https://www.fanmtl.com/novel/kks39605_55.html
-
----
+**Chapter 55**
 
 "Time to make steamed dumplings!"
 After washing their hands, the little radishes chattered excitedly as they rushed towards their respective little stoves.
@@ -65,4 +61,50 @@ Before long, the outcome was decided.
 Among the many children, Zhuangzhuang was the first to raise his hand.
 No wonder he has a chef as a father; his talent has truly been unleashed.
 Pei Qian walked over and took a look; his eyes lit up slightly.
-The surface is basically smooth and the shape is fairly regular, which is quite good for
+The surface is basically smooth and the shape is fairly regular, which is quite good for a six or seven-year-old child.
+"Great job, Zhuangzhuang!"
+"hey-hey……"
+Upon hearing this, Zhuangzhuang surprisingly became shy.
+Seeing this, the other children immediately became anxious and worked even harder.
+Tiger gritted his teeth and struggled with the dough: "I can knead it well too!"
+DouDou and the others remained silent and immediately began their frenzied kneading of the dough.
+Before long, everyone raised their hands to check in.
+Pei Qian checked each one and praised them one by one, but he was a little surprised:
+These kids' comprehension is a bit too advanced, isn't it?
+Could it be that my "Master of Transmission" skill has taken effect?
+After all, even Hao Hao, who has the weakest hands-on skills, is holding a "dough ball" in his hands.
+Although that thing was more like a piece of clay that had been trampled on, crooked and bumpy, at least it didn't fall apart.
+Aunt Zhao originally wanted to secretly help him redo the work, but Pei Qian stopped her with a look.
+"Haohao, did you rub it yourself?"
+"Mmm!" The little dumpling nodded vigorously, the flour on the tip of its nose trembling.
+"Great."
+Just one word.
+Hao Hao grinned so hard his eyes narrowed, and his tail practically flew up into the sky.
+"Alright, kids, you all did a great job. Now cover the dough with a damp cloth and let it rest for twenty minutes."
+"Sleep?" Tiger was stunned.
+"Wake up the noodles. While we're at it—"
+Pei Qian grabbed a kitchen knife with his other hand.
+"Bang!"
+The blade cut deep into the wood, landing firmly on the cutting board.
+"Next, prepare the minced meat."
+Chopping meat is risky, and even if Pei Qian is very magnanimous, he would never let eight freshmen touch a knife directly—not even a custom-made children's kitchen knife.
+However, Tiger and his six senior students could give it a try.
+Pei Qian had chopped the meat into small pieces beforehand, and divided it into several portions. Under the apprehensive gazes of Shen Man and the others, he let the senior students take turns tasting it.
+When they first touched a kitchen knife, Tiger and his six little devils were so excited that they screamed.
+He unleashed a flurry of attacks with a small cleaver, displaying ruthlessness and cruelty.
+With the knife falling and meat flying, an outsider might think that this pile of pork had killed their father.
+really.
+The little ones are not only not stupid, but they are also incredibly strong.
+With proper instruction, it's only a matter of time before they can cook a Manchu Han Imperial Feast.
+Cooking skills should be taught from a young age.
+"stop--"
+Pei Qian gave the order, and the little darlings reluctantly stopped.
+"The minced meat is ready. Now let's start making the filling." He glanced around and became serious. "But let me make this clear: if you want to make steamed dumplings as perfect as the headmaster's, the seasonings must be absolutely precise. The headmaster adds a certain number of spoonfuls, and you add the same number."
+He paused deliberately:
+"If anyone dares to add an extra spoonful without permission... the dumplings will taste different, and you'll only be able to eat the awful dumplings you made yourself."
+Upon hearing this, the children all widened their eyes in surprise.
+"Headmaster, we'll behave well! We won't play recklessly!"
+"very good."
+Pei Qian's lips curled slightly.
+Sometimes, you don't need to reason with kids; you just need to tell them that if they don't behave, they won't get any treats.
+This is more effective than any grand theory.
