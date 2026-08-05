@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:31:27
+**Date** : 2026-08-05 21:34:01
 
 ## Résumé
 
-- **Novels trouvés** : 293
+- **Novels trouvés** : 295
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2065,5 +2065,19 @@
 - **URL** : https://www.wattpad.com/story/307001129
 - **Genre** : Fiction, Fantasy, Action, Adventure, Anime, Dragons, Elves
 - **Résumé** : Matteo Alcantara, reborn as Grey Silverdrake, aims to conquer great labyrinths and explore a vast fantasy world. A sweet, sour, and slow slice of life with hints of adventure, romance, and cooking....
+- **Fichier** : N/A
+
+### [BL] SECITCTRST - Jester (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/409501837
+- **Genre** : Fiction, Romance, BL, Animal Characteristics, Childcare
+- **Résumé** : Ning Yunyi transmigrated to a trash planet with a 3-year-old cub. He registers on an interstellar live-streaming platform to cook ancient Blue Planet delicacies, going viral across the interstellar wo...
+- **Fichier** : N/A
+
+### The One I Finally Found 恰好等到你 (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/413326001
+- **Genre** : Fiction, Fantasy, Ancient Civilizations, Fairy Tales and Mythology, Culture and Identity
+- **Résumé** : A bowl of hot noodles bridges three thousand years, linking modern food researchers and General Fan, a lonely spirit from the Ming Dynasty. A rift drags them into the Shang-Zhou era....
 - **Fichier** : N/A
 

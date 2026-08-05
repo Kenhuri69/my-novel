@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:31:27
-**Novels trouvés** : 293
+**Date** : 2026-08-05 21:34:01
+**Novels trouvés** : 295
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2357,6 +2357,22 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/307001129
+
+### 294. [BL] SECITCTRST - Jester ⭐⭐⭐⭐⭐
+- **Auteur** : yesterboy
+- **Source** : wattpad
+- **Thème** : Fiction, Romance, BL, Animal Characteristics, Childcare
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/409501837
+
+### 295. The One I Finally Found 恰好等到你 ⭐⭐⭐⭐⭐
+- **Auteur** : RabbitBoy0606
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Ancient Civilizations, Fairy Tales and Mythology, Culture and Identity
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/413326001
 
 
 ## Notes
