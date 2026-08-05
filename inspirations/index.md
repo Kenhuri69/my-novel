@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-05 21:11:06
-**Novels trouvés** : 279
+**Date** : 2026-08-05 21:12:17
+**Novels trouvés** : 282
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -2245,6 +2245,30 @@
 - **Score** : 3/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/379744553
+
+### 280. A Restaurant to Another World Fanfiction ⭐⭐⭐⭐⭐
+- **Auteur** : gemlover2
+- **Source** : wattpad
+- **Thème** : Anime, Fanfiction, Restaurant, Another World
+- **Score** : 5/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/369191025
+
+### 281. R.D.O! (Dandys World x DSAF 3 AU) ⭐⭐⭐
+- **Auteur** : korosenavid
+- **Source** : wattpad
+- **Thème** : Fiction, Mystery, Dandys World, DSAF, FNAF, Omori
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/376636311
+
+### 282. The Sommelier ⭐⭐⭐
+- **Auteur** : Makoyana
+- **Source** : wattpad
+- **Thème** : Fiction, Fantasy, Alcohol, Champagne, Magic
+- **Score** : 3/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/60718203
 
 
 ## Notes

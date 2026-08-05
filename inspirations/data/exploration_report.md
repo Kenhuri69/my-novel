@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:11:06
+**Date** : 2026-08-05 21:12:17
 
 ## Résumé
 
-- **Novels trouvés** : 279
+- **Novels trouvés** : 282
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -1967,5 +1967,26 @@
 - **URL** : https://www.wattpad.com/story/379744553
 - **Genre** : Alpha Female, China, Fantasy, Fantasy-Romance, Hidden Secrets
 - **Résumé** : In the quiet, lantern-lit streets of Matsushima, Sharva stumbles upon a small ramen shop hidden between towering buildings. He is captivated by Aika, the enigmatic chef with eyes that hold stories of ...
+- **Fichier** : N/A
+
+### A Restaurant to Another World Fanfiction (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/369191025
+- **Genre** : Anime, Fanfiction, Restaurant, Another World
+- **Résumé** : OC patrons of Western Restaurant Nekoya discovering their favorite new dishes from another world. Fanfiction of Restaurant to Another World....
+- **Fichier** : N/A
+
+### R.D.O! (Dandys World x DSAF 3 AU) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/376636311
+- **Genre** : Fiction, Mystery, Dandys World, DSAF, FNAF, Omori
+- **Résumé** : A fantasy restaurant crossover featuring robots, jazz, and fantasy dining. Renovate, decorate, and open your own local restaurant with friendly robots and jazzy music!...
+- **Fichier** : N/A
+
+### The Sommelier (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/60718203
+- **Genre** : Fiction, Fantasy, Alcohol, Champagne, Magic
+- **Résumé** : A tiny restaurant near the Primal Station in El Tremo where you can drink and spend your time thinking your life over. But you should not be deceived......
 - **Fichier** : N/A
 
