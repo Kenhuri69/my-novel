@@ -23115,12 +23115,9 @@
     "author": "AveryJB",
     "source": "Tapas",
     "url": "https://tapas.io/series/devils-food1",
-    "status": "Ongoing",
     "genre": "Fantasy, Romance, Culinary",
-    "summary": "Marcy sells her soul to the demon Mephistopheles for a taco. To reclaim it, she must fulfill his request: 'Teach him how to cook!' A unique blend of demonic fantasy and culinary themes.",
-    "culinary_description": "The protagonist must teach the demon Mephistopheles how to cook to reclaim her soul. Strong culinary themes centered on cooking lessons for a supernatural patron.",
-    "fantasy_description": "Demonic fantasy with Mephistopheles. Soul-bargain premise with supernatural elements.",
-    "relevance": "High - combines demonic fantasy with culinary themes (cooking lessons for a demon).",
+    "status": "Ongoing",
+    "relevance_score": 5,
     "keywords": [
       "isekai",
       "fantasy",
@@ -23131,20 +23128,20 @@
       "soul",
       "taco"
     ],
-    "relevance_score": 5,
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "summary": "Marcy sells her soul to the demon Mephistopheles for a taco. To reclaim it, she must fulfill his request: 'Teach him how to cook!' A unique blend of demonic fantasy and culinary themes.",
+    "culinary_description": "The protagonist must teach the demon Mephistopheles how to cook to reclaim her soul. Strong culinary themes centered on cooking lessons for a supernatural patron.",
+    "fantasy_description": "Demonic fantasy with Mephistopheles. Soul-bargain premise with supernatural elements.",
+    "relevance": "High - combines demonic fantasy with culinary themes (cooking lessons for a demon)."
   },
   {
     "title": "Gourmet Hound",
     "author": "Leehama",
     "source": "Tapas",
     "url": "https://tapas.io/series/gourmet-hound",
-    "status": "Ongoing",
     "genre": "Romance, Culinary",
-    "summary": "Lucy possesses an uncanny ability to perceive flavors and aromas. When her cherished restaurant replaces its kitchen crew, she cannot identify the chef responsible for the dishes she has long adored. A chance meeting with two former chefs inspires her to track down their old colleagues.",
-    "culinary_description": "Strong culinary themes centered on a restaurant, kitchen crew, and a protagonist with an uncanny ability to perceive flavors and aromas.",
-    "fantasy_description": "No explicit fantasy elements. The story is primarily romance and culinary.",
-    "relevance": "Medium - strong culinary themes but limited fantasy elements.",
+    "status": "Ongoing",
+    "relevance_score": 3,
     "keywords": [
       "cooking",
       "food",
@@ -23154,20 +23151,20 @@
       "aroma",
       "culinary"
     ],
-    "relevance_score": 3,
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "summary": "Lucy possesses an uncanny ability to perceive flavors and aromas. When her cherished restaurant replaces its kitchen crew, she cannot identify the chef responsible for the dishes she has long adored. A chance meeting with two former chefs inspires her to track down their old colleagues.",
+    "culinary_description": "Strong culinary themes centered on a restaurant, kitchen crew, and a protagonist with an uncanny ability to perceive flavors and aromas.",
+    "fantasy_description": "No explicit fantasy elements. The story is primarily romance and culinary.",
+    "relevance": "Medium - strong culinary themes but limited fantasy elements."
   },
   {
     "title": "Cheffy the Chef",
     "author": "WaterDrop (Avital)",
     "source": "Tapas",
     "url": "https://tapas.io/series/Cheffy-the-Chef",
-    "status": "Ongoing",
     "genre": "Fantasy / Slice of Life",
-    "summary": "Welcome to the ultimate cook show, starring the ultimate host and master of the kitchen: Cheffy the Chef! Cheffy and leMouse embark on adventures to prepare exquisite dishes. Features cats, mouse, smores, and cookies.",
-    "culinary_description": "Strong culinary themes centered on a cooking show host and master of the kitchen. Adventures preparing exquisite dishes including s'mores and cookies.",
-    "fantasy_description": "Fantasy elements with anthropomorphic characters (cats, mice) and magical cooking adventures.",
-    "relevance": "Medium-High - culinary fantasy with cooking show adventures.",
+    "status": "Ongoing",
+    "relevance_score": 3,
     "keywords": [
       "cooking",
       "food",
@@ -23178,20 +23175,20 @@
       "cookies",
       "s'mores"
     ],
-    "relevance_score": 3,
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "summary": "Welcome to the ultimate cook show, starring the ultimate host and master of the kitchen: Cheffy the Chef! Cheffy and leMouse embark on adventures to prepare exquisite dishes. Features cats, mouse, smores, and cookies.",
+    "culinary_description": "Strong culinary themes centered on a cooking show host and master of the kitchen. Adventures preparing exquisite dishes including s'mores and cookies.",
+    "fantasy_description": "Fantasy elements with anthropomorphic characters (cats, mice) and magical cooking adventures.",
+    "relevance": "Medium-High - culinary fantasy with cooking show adventures."
   },
   {
     "title": "RE-BITE - The psychotic Chef",
     "author": "VirusZeke",
     "source": "Tapas",
     "url": "https://tapas.io/series/RE-BITE-The-psychotic-Chef",
-    "status": "Ongoing",
     "genre": "Horror, Slice of Life, Culinary",
-    "summary": "A horror comic following married gay protagonists who kill and devour victims. Louise races to become a professional chef and win a cooking tournament. Features bi-monthly cooking battle seasons and high-level cooking classes.",
-    "culinary_description": "Professional chef aspirations, cooking tournaments, high-level cooking classes, and group-based cooking battles.",
-    "fantasy_description": "Minimal fantasy elements. Psychological horror with a culinary setting.",
-    "relevance": "Medium - strong culinary themes (cooking tournaments) but horror-focused rather than fantasy.",
+    "status": "Ongoing",
+    "relevance_score": 2,
     "keywords": [
       "cooking",
       "food",
@@ -23201,27 +23198,128 @@
       "horror",
       "slice of life"
     ],
-    "relevance_score": 2,
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "summary": "A horror comic following married gay protagonists who kill and devour victims. Louise races to become a professional chef and win a cooking tournament. Features bi-monthly cooking battle seasons and high-level cooking classes.",
+    "culinary_description": "Professional chef aspirations, cooking tournaments, high-level cooking classes, and group-based cooking battles.",
+    "fantasy_description": "Minimal fantasy elements. Psychological horror with a culinary setting.",
+    "relevance": "Medium - strong culinary themes (cooking tournaments) but horror-focused rather than fantasy."
   },
   {
     "title": "Cooking with Hannibal",
     "author": "Unknown",
     "source": "Tapas",
     "url": "https://tapas.io/series/Cooking-with-Hannibal",
-    "status": "Unknown",
     "genre": "Culinary",
-    "summary": "A cooking-themed comic referencing Hannibal (likely the cannibal chef from the TV series).",
-    "culinary_description": "Culinary themes with a dark twist referencing Hannibal.",
-    "fantasy_description": "No explicit fantasy elements. Dark culinary theme.",
-    "relevance": "Low-Medium - culinary themes but not fantasy.",
+    "status": "Unknown",
+    "relevance_score": 2,
     "keywords": [
       "cooking",
       "food",
       "chef",
       "hannibal"
     ],
-    "relevance_score": 2,
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "summary": "A cooking-themed comic referencing Hannibal (likely the cannibal chef from the TV series).",
+    "culinary_description": "Culinary themes with a dark twist referencing Hannibal.",
+    "fantasy_description": "No explicit fantasy elements. Dark culinary theme.",
+    "relevance": "Low-Medium - culinary themes but not fantasy."
+  },
+  {
+    "title": "The sake shop - Kamisama Kiss",
+    "author": "1manjari",
+    "source": "Wattpad",
+    "url": "https://www.wattpad.com/story/309341506",
+    "genre": "Fantasy, Romance",
+    "status": "Complete",
+    "relevance_score": 3,
+    "keywords": [
+      "cooking",
+      "food",
+      "sake",
+      "shop",
+      "fantasy",
+      "yokai",
+      "spirit",
+      "romance"
+    ],
+    "date_added": "2026-08-06",
+    "summary": "Mizuki was a lonely snake spirit who took care of his sake shop all by himself. This was until he met an old acquaintance and falls in love. Yet with love, there are always challenges and setbacks. 15 parts, complete.",
+    "culinary_description": "The story centers on Mizuki, a snake spirit who runs a sake shop. Culinary themes centered on sake and Japanese culinary culture.",
+    "fantasy_description": "Fantasy elements include yokai/spirit lore, a snake spirit protagonist, and a romance between a supernatural snake familiar and a human. Anime-inspired romance with Japanese mythological creature themes.",
+    "relevance": "Medium - culinary themes (sake shop) with fantasy elements (yokai, spirit lore), but primarily romance."
+  },
+  {
+    "title": "Extra Villain Secret Cafe",
+    "author": "Rubyele347",
+    "source": "Wattpad",
+    "url": "https://www.wattpad.com/story/394723196",
+    "genre": "Fantasy, Romance, Reincarnation",
+    "status": "Complete",
+    "relevance_score": 4,
+    "keywords": [
+      "isekai",
+      "fantasy",
+      "cooking",
+      "cafe",
+      "reincarnation",
+      "villainess",
+      "business"
+    ],
+    "date_added": "2026-08-06",
+    "summary": "Eliana Rubeus Eritrean is a wicked woman in her family. She was reincarnated as an extra villain in a novel she once read. She uses her previous-life skills to open a cafe and earn money to escape her household. 121 parts, 125K reads.",
+    "culinary_description": "The protagonist opens a cafe using her previous-life cooking skills. Strong culinary entrepreneurship themes.",
+    "fantasy_description": "Reincarnation into a novel's extra villain role. Fantasy-romance with business and cosmetic elements.",
+    "relevance": "High - combines reincarnation fantasy with strong culinary themes (cafe, cooking)."
+  },
+  {
+    "title": "Shannos Book of Fantabulous Gastronomical Delights",
+    "author": "Inconnu",
+    "source": "Wattpad",
+    "url": "https://www.wattpad.com/story/234029459",
+    "genre": "Fantasy",
+    "status": "Inconnu",
+    "relevance_score": 3,
+    "keywords": [
+      "gastronomic"
+    ],
+    "date_added": "2026-08-06",
+    "summary": "Trouvé via la recherche 'gastronomic' sur Wattpad.",
+    "culinary_description": "La cuisine est mentionnée dans le titre ou la description.",
+    "fantasy_description": "Éléments fantastiques détectés.",
+    "relevance": "À évaluer."
+  },
+  {
+    "title": "Feria gastronomica One shot Premio para Alejandra kislev",
+    "author": "Inconnu",
+    "source": "Wattpad",
+    "url": "https://www.wattpad.com/story/122502106",
+    "genre": "Fantasy",
+    "status": "Inconnu",
+    "relevance_score": 3,
+    "keywords": [
+      "gastronomic"
+    ],
+    "date_added": "2026-08-06",
+    "summary": "Trouvé via la recherche 'gastronomic' sur Wattpad.",
+    "culinary_description": "La cuisine est mentionnée dans le titre ou la description.",
+    "fantasy_description": "Éléments fantastiques détectés.",
+    "relevance": "À évaluer."
+  },
+  {
+    "title": "Taste Of Fate Yoonmin",
+    "author": "Inconnu",
+    "source": "Wattpad",
+    "url": "https://www.wattpad.com/story/337752959",
+    "genre": "Fantasy",
+    "status": "Inconnu",
+    "relevance_score": 3,
+    "keywords": [
+      "gastronomic"
+    ],
+    "date_added": "2026-08-06",
+    "summary": "Trouvé via la recherche 'gastronomic' sur Wattpad.",
+    "culinary_description": "La cuisine est mentionnée dans le titre ou la description.",
+    "fantasy_description": "Éléments fantastiques détectés.",
+    "relevance": "À évaluer."
   }
 ]
