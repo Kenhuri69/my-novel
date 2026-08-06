@@ -1,4 +1,4 @@
-# the placebo effect ✘ jaywonthe placebo effect ✘ jaywonCompleteCompleteReadsReads 80,62880,62880.6KVotesVotes 4,7294,7294.7KPartsParts 242424TimeTime 3h 17m3 hours, 17 minutes3h 17mMed student Jungwon and culinary student Jay disregard their boiling hate for each other when they find that their benefits outweigh their hatred, with just one simple thing- to be each other's fake boyfriend.
+# the placebo effect ✘ jaywonthe placebo effect ✘ jaywonCompleteCompleteReadsReads 80,63080,63080.6KVotesVotes 4,7294,7294.7KPartsParts 242424TimeTime 3h 17m3 hours, 17 minutes3h 17mMed student Jungwon and culinary student Jay disregard their boiling hate for each other when they find that their benefits outweigh their hatred, with just one simple thing- to be each other's fake boyfriend.
                                   
                                   ⚠️ disclaimer.
                                   not suitable for very young audiences - includes swearing, kissing, and innuendos.
@@ -6,7 +6,7 @@
                                   📱 for teens and up.
                                   
                                   ⌚ writing and editing duration.
-                                  december 30, 2022 - ???the placebo effect ✘ jaywonthe placebo effect ✘ jaywonCompleteCompleteReadsReads 80,62880,62880.6KVotesVotes 4,7294,7294.7KPartsParts 242424TimeTime 3h 17m3 hours, 17 minutes3h 17mMed student Jungwon and culinary student Jay disregard their boiling hate for each other when they find that their benefits outweigh their hatred, with just one simple thing- to be each other's fake boyfriend.
+                                  december 30, 2022 - ???the placebo effect ✘ jaywonthe placebo effect ✘ jaywonCompleteCompleteReadsReads 80,63080,63080.6KVotesVotes 4,7294,7294.7KPartsParts 242424TimeTime 3h 17m3 hours, 17 minutes3h 17mMed student Jungwon and culinary student Jay disregard their boiling hate for each other when they find that their benefits outweigh their hatred, with just one simple thing- to be each other's fake boyfriend.
                                   
                                   ⚠️ disclaimer.
                                   not suitable for very young audiences - includes swearing, kissing, and innuendos.

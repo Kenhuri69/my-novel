@@ -1,4 +1,4 @@
-# 📕 🔴 🎥 🍲🐺[BL] SECITCTRST📕 🔴 🎥 🍲🐺[BL] SECITCTRSTCompleteCompleteReadsReads 225,932225,932225KVotesVotes 6,2026,2026.2KPartsParts 105105105TimeTime 45h 7m45 hours, 7 minutes45h 7mWarning: Voting = Blocked
+# 📕 🔴 🎥 🍲🐺[BL] SECITCTRST📕 🔴 🎥 🍲🐺[BL] SECITCTRSTCompleteCompleteReadsReads 225,935225,935225KVotesVotes 6,2026,2026.2KPartsParts 105105105TimeTime 45h 7m45 hours, 7 minutes45h 7mWarning: Voting = Blocked
                                   Streaming Earth Cuisine In The Interstellar Cuisine to Raise Star Cubs
                                   
                                   Ning Yunyi had transmigrated. The good news was that his original body came from a prestigious family - his mother was from the Imperial Royalty, and his father was a high-ranking official in the Federation Research Institute. His older brother was a double S-rank in spiritual power, serving in the Imperial Military. The bad news was that his family had suffered a series of misfortunes, and the defenseless him was driven to a tr*sh planet to fend for himself, accompanied by a 3-year-old cub of unknown paternity.
@@ -27,7 +27,7 @@
                                   
                                   The result was, the person who posted this thread received a special reply from the account of the missing Interstellar Marshal, who had been gone for half a year: No, you don't.
                                   
-                                  The entire interstellar community thought it was a fake account, but when they clicked on it, it was indeed the Marshal himself: ???📕 🔴 🎥 🍲🐺[BL] SECITCTRST📕 🔴 🎥 🍲🐺[BL] SECITCTRSTCompleteCompleteReadsReads 225,932225,932225KVotesVotes 6,2026,2026.2KPartsParts 105105105TimeTime 45h 7m45 hours, 7 minutes45h 7mWarning: Voting = Blocked
+                                  The entire interstellar community thought it was a fake account, but when they clicked on it, it was indeed the Marshal himself: ???📕 🔴 🎥 🍲🐺[BL] SECITCTRST📕 🔴 🎥 🍲🐺[BL] SECITCTRSTCompleteCompleteReadsReads 225,935225,935225KVotesVotes 6,2026,2026.2KPartsParts 105105105TimeTime 45h 7m45 hours, 7 minutes45h 7mWarning: Voting = Blocked
                                   Streaming Earth Cuisine In The Interstellar Cuisine to Raise Star Cubs
                                   
                                   Ning Yunyi had transmigrated. The good news was that his original body came from a prestigious family - his mother was from the Imperial Royalty, and his father was a high-ranking official in the Federation Research Institute. His older brother was a double S-rank in spiritual power, serving in the Imperial Military. The bad news was that his family had suffered a series of misfortunes, and the defenseless him was driven to a tr*sh planet to fend for himself, accompanied by a 3-year-old cub of unknown paternity.

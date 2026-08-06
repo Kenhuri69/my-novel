@@ -1,6 +1,6 @@
-# The Peasant Gourmet ChefThe Peasant Gourmet ChefOngoingOngoingReadsReads 99,77999,77999.7KVotesVotes 3,2543,2543.2KPartsParts 575757TimeTime 9h 15m9 hours, 15 minutes9h 15mNovel Rating:10/10 In an instant, Li Hehua found herself transmigrated into the body of an extremely plump village woman. Gluttonous and lazy, prone to tantrums and unreasonable demands, she was despised by her husband, disliked by her son, and hated by everyone around her.
+# The Peasant Gourmet ChefThe Peasant Gourmet ChefOngoingOngoingReadsReads 99,78399,78399.7KVotesVotes 3,2543,2543.2KPartsParts 575757TimeTime 9h 15m9 hours, 15 minutes9h 15mNovel Rating:10/10 In an instant, Li Hehua found herself transmigrated into the body of an extremely plump village woman. Gluttonous and lazy, prone to tantrums and unreasonable demands, she was despised by her husband, disliked by her son, and hated by everyone around her.
                                   
-                                  Li Hehua protested, "I can't possibly take the blame for all this!" Brief introducton: Travel through the ancient times, start a business, and become an ancient gourmet chefThe Peasant Gourmet ChefThe Peasant Gourmet ChefOngoingOngoingReadsReads 99,77999,77999.7KVotesVotes 3,2543,2543.2KPartsParts 575757TimeTime 9h 15m9 hours, 15 minutes9h 15mNovel Rating:10/10 In an instant, Li Hehua found herself transmigrated into the body of an extremely plump village woman. Gluttonous and lazy, prone to tantrums and unreasonable demands, she was despised by her husband, disliked by her son, and hated by everyone around her.
+                                  Li Hehua protested, "I can't possibly take the blame for all this!" Brief introducton: Travel through the ancient times, start a business, and become an ancient gourmet chefThe Peasant Gourmet ChefThe Peasant Gourmet ChefOngoingOngoingReadsReads 99,78399,78399.7KVotesVotes 3,2543,2543.2KPartsParts 575757TimeTime 9h 15m9 hours, 15 minutes9h 15mNovel Rating:10/10 In an instant, Li Hehua found herself transmigrated into the body of an extremely plump village woman. Gluttonous and lazy, prone to tantrums and unreasonable demands, she was despised by her husband, disliked by her son, and hated by everyone around her.
                                   
                                   Li Hehua protested, "I can't possibly take the blame for all this!" Brief introducton: Travel through the ancient times, start a business, and become an ancient gourmet chef - Source d'inspiration
 
@@ -14,7 +14,7 @@
 - **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'gourmet novel' sur Wattpad.
+Trouvé via la recherche 'gourmet' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -26,4 +26,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-gourmet novel
+gourmet

@@ -1,4 +1,4 @@
-# ᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaCompleteCompleteReadsReads 4,3194,3194.3KVotesVotes 707070PartsParts 222222TimeTime 2h 7m2 hours, 7 minutes2h 7m🎭🍪 x ☀️🍪
+# ᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaCompleteCompleteReadsReads 4,3204,3204.3KVotesVotes 707070PartsParts 222222TimeTime 2h 7m2 hours, 7 minutes2h 7m🎭🍪 x ☀️🍪
                                   ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
                                   ɴᴇᴡ ꜱʜᴀᴅᴏᴡᴠᴀɴɪʟʟᴀ ꜰᴀɴꜰɪᴄᴛɪᴏɴ ദ്ദി◝ ⩊ ◜.ᐟ !!
                                   ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
@@ -20,7 +20,7 @@
                                   ᴘʟᴇᴀꜱᴇ ꜰᴏʟʟᴏᴡ ᴍᴇ ɪ ᴡᴏᴜʟᴅ ʙᴇ ʀʟʟʏ ɢʀᴀᴛᴇꜰᴜʟ ꉂ(˵˃ ᗜ ˂˵) !!
                                   
                                   ── ⋆⋅☀️🎭⋅⋆ ──
-                                  ᴇɴᴊᴏʏ ᴛʜᴇ ꜱʜᴀᴅᴏᴡᴠᴀɴɪʟʟᴀ (˶˃ ᵕ ˂˶) !!ᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaCompleteCompleteReadsReads 4,3194,3194.3KVotesVotes 707070PartsParts 222222TimeTime 2h 7m2 hours, 7 minutes2h 7m🎭🍪 x ☀️🍪
+                                  ᴇɴᴊᴏʏ ᴛʜᴇ ꜱʜᴀᴅᴏᴡᴠᴀɴɪʟʟᴀ (˶˃ ᵕ ˂˶) !!ᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴛʜᴇ ᴡʜɪꜱᴘᴇʀɪɴɢ ɢʀᴏᴠᴇ ☀️🎭 𓏵‧₊˚ ┊ShadowVanillaCompleteCompleteReadsReads 4,3204,3204.3KVotesVotes 707070PartsParts 222222TimeTime 2h 7m2 hours, 7 minutes2h 7m🎭🍪 x ☀️🍪
                                   ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
                                   ɴᴇᴡ ꜱʜᴀᴅᴏᴡᴠᴀɴɪʟʟᴀ ꜰᴀɴꜰɪᴄᴛɪᴏɴ ദ്ദി◝ ⩊ ◜.ᐟ !!
                                   ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔

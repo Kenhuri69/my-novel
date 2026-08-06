@@ -1,4 +1,4 @@
-# [Baker, Baker, We'll make you better~] Self-Aware Cookie Run x Reader[Baker, Baker, We'll make you better~] Self-Aware Cookie Run x ReaderOngoingOngoingReadsReads 218,428218,428218KVotesVotes 3,1923,1923.1KPartsParts 292929TimeTime 4h 36m4 hours, 36 minutes4h 36m"Another day, another mission done!" You take a brief sigh after finishing your daily missions in Kingdom.
+# [Baker, Baker, We'll make you better~] Self-Aware Cookie Run x Reader[Baker, Baker, We'll make you better~] Self-Aware Cookie Run x ReaderOngoingOngoingReadsReads 218,429218,429218KVotesVotes 3,1923,1923.1KPartsParts 292929TimeTime 4h 36m4 hours, 36 minutes4h 36m"Another day, another mission done!" You take a brief sigh after finishing your daily missions in Kingdom.
                                   
                                   You turned off your phone and call it a day.
                                   
@@ -24,7 +24,7 @@
                                   
                                   Then, they all devised a plan.
                                   
-                                  Those words that you said to them with no awareness of yourself, will change your life forever.[Baker, Baker, We'll make you better~] Self-Aware Cookie Run x Reader[Baker, Baker, We'll make you better~] Self-Aware Cookie Run x ReaderOngoingOngoingReadsReads 218,428218,428218KVotesVotes 3,1923,1923.1KPartsParts 292929TimeTime 4h 36m4 hours, 36 minutes4h 36m"Another day, another mission done!" You take a brief sigh after finishing your daily missions in Kingdom.
+                                  Those words that you said to them with no awareness of yourself, will change your life forever.[Baker, Baker, We'll make you better~] Self-Aware Cookie Run x Reader[Baker, Baker, We'll make you better~] Self-Aware Cookie Run x ReaderOngoingOngoingReadsReads 218,429218,429218KVotesVotes 3,1923,1923.1KPartsParts 292929TimeTime 4h 36m4 hours, 36 minutes4h 36m"Another day, another mission done!" You take a brief sigh after finishing your daily missions in Kingdom.
                                   
                                   You turned off your phone and call it a day.
                                   
