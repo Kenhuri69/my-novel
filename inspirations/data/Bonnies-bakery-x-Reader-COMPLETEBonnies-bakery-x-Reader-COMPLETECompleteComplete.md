@@ -1,11 +1,11 @@
-# Bonnie's bakery x Reader [COMPLETE]Bonnie's bakery x Reader [COMPLETE]CompleteCompleteReadsReads 9,4559,4559.4KVotesVotes 126126126PartsParts 191919TimeTime 1h 11m1 hours, 11 minutes1h 11mHEAR ME OUT PLEASE SOUPDEV
+# Bonnie's bakery x Reader [COMPLETE]Bonnie's bakery x Reader [COMPLETE]CompleteCompleteReadsReads 9,4579,4579.4KVotesVotes 126126126PartsParts 191919TimeTime 1h 11m1 hours, 11 minutes1h 11mHEAR ME OUT PLEASE SOUPDEV
                                   
                                   PS. Play the game
                                   and the image of the cover is not mine :D
                                   
                                   ... 
                                   
-                                  ALSO DON'T HATE I'M A CHILD THAT'S MY EXCUSE, YES. :'00 if you hate this simply ignore itBonnie's bakery x Reader [COMPLETE]Bonnie's bakery x Reader [COMPLETE]CompleteCompleteReadsReads 9,4559,4559.4KVotesVotes 126126126PartsParts 191919TimeTime 1h 11m1 hours, 11 minutes1h 11mHEAR ME OUT PLEASE SOUPDEV
+                                  ALSO DON'T HATE I'M A CHILD THAT'S MY EXCUSE, YES. :'00 if you hate this simply ignore itBonnie's bakery x Reader [COMPLETE]Bonnie's bakery x Reader [COMPLETE]CompleteCompleteReadsReads 9,4579,4579.4KVotesVotes 126126126PartsParts 191919TimeTime 1h 11m1 hours, 11 minutes1h 11mHEAR ME OUT PLEASE SOUPDEV
                                   
                                   PS. Play the game
                                   and the image of the cover is not mine :D
@@ -20,7 +20,7 @@
 - **URL** : https://www.wattpad.com/story/335756075
 - **Statut** : Inconnu
 - **Genre** : Fantasy
-- **Date d'ajout** : 2026-08-04
+- **Date d'ajout** : 2026-08-06
 - **Score de pertinence** : 3/5 (Moyenne)
 
 ## Résumé

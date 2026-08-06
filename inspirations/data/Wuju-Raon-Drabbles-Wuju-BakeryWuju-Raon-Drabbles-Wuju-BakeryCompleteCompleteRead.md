@@ -6,7 +6,7 @@
 - **URL** : https://www.wattpad.com/story/340263186
 - **Statut** : Inconnu
 - **Genre** : Fantasy
-- **Date d'ajout** : 2026-08-04
+- **Date d'ajout** : 2026-08-06
 - **Score de pertinence** : 3/5 (Moyenne)
 
 ## Résumé

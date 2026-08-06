@@ -1,4 +1,4 @@
-# Bringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterBringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterCompleteCompleteReadsReads 174,208174,208174KVotesVotes 2,5392,5392.5KPartsParts 626262TimeTime 78h 55m78 hours, 55 minutes78h 55m[Travel through time and space] "Traveled to ancient times with a refrigerator and married a sickly prime minister" 
+# Bringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterBringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterCompleteCompleteReadsReads 174,209174,209174KVotesVotes 2,5392,5392.5KPartsParts 626262TimeTime 78h 55m78 hours, 55 minutes78h 55m[Travel through time and space] "Traveled to ancient times with a refrigerator and married a sickly prime minister" 
                                   Author: Mu Qiaoqiao [Complete + Extra] Introduction: [Marry first, fall in love later + Cool story, the heroine is the real original owner+ Fierce Pets+ Space] 
                                   
                                   MTL
@@ -20,7 +20,7 @@
                                   　　When a warm smile as beautiful as the little sun appeared in front of him, he found the light that belonged to him. From then on, I regarded her as my life and could never let her go!.
                                   
                                   Wen Nuan NuanxLengxiao
-                                  Total Chapter:635Bringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterBringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterCompleteCompleteReadsReads 174,208174,208174KVotesVotes 2,5392,5392.5KPartsParts 626262TimeTime 78h 55m78 hours, 55 minutes78h 55m[Travel through time and space] "Traveled to ancient times with a refrigerator and married a sickly prime minister" 
+                                  Total Chapter:635Bringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterBringing a Refrigerator to Ancient Times and Marrying the Sickly Prime MinisterCompleteCompleteReadsReads 174,209174,209174KVotesVotes 2,5392,5392.5KPartsParts 626262TimeTime 78h 55m78 hours, 55 minutes78h 55m[Travel through time and space] "Traveled to ancient times with a refrigerator and married a sickly prime minister" 
                                   Author: Mu Qiaoqiao [Complete + Extra] Introduction: [Marry first, fall in love later + Cool story, the heroine is the real original owner+ Fierce Pets+ Space] 
                                   
                                   MTL
