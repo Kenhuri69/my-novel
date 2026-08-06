@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-06 09:37:22
+**Date** : 2026-08-06 09:39:41
 
 ## Résumé
 
-- **Novels trouvés** : 347
+- **Novels trouvés** : 350
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2847,5 +2847,26 @@
 - **URL** : https://www.wattpad.com/story/402396777
 - **Genre** : Fantasy, Culinary
 - **Résumé** : Trouvé via la recherche 'earthbread story' sur Wattpad....
+- **Fichier** : N/A
+
+### Culinary Mouse: A Cozy LitRPG Adventure (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/400778768
+- **Genre** : Fantasy, Isekai, Culinary, LitRPG
+- **Résumé** : Takumi Morimoto, an overworked chef, dies saving a starving mouse — only to learn the creature was a god in disguise. Rewarded for his kindness, he is reborn as a brown mouse in a cozy forest world wi...
+- **Fichier** : N/A
+
+### Fast Food Store in Another World but it Keeps Disappearing After a Day?! (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/393478603
+- **Genre** : Fantasy, Isekai, Culinary, Comedy
+- **Résumé** : A fast food restaurant called Cosmic Burger materializes in a medieval city, offering residents foods they have never tasted — french fries, burgers, and more. The establishment shifts locations weekl...
+- **Fichier** : N/A
+
+### The Second Coming of Gluttony (Volume I) (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/389288939
+- **Genre** : Fantasy, Isekai, Gluttony, Gamelit
+- **Résumé** : A gambling addict who betrayed his family receives a second chance in another world, seeking redemption. The story features the deity Gula, linking to culinary/gluttony themes, and includes isekai ele...
 - **Fichier** : N/A
 

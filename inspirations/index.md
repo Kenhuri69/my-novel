@@ -2,8 +2,8 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-06 09:37:22
-**Novels trouvés** : 347
+**Date** : 2026-08-06 09:39:41
+**Novels trouvés** : 350
 **Score minimum** : 1/5
 
 ### Sites explorés
@@ -3193,6 +3193,30 @@
 - **Score** : 0/5
 - **Fichier** : [](data/)
 - **Lien** : https://www.wattpad.com/story/402396777
+
+### 348. Culinary Mouse: A Cozy LitRPG Adventure —
+- **Auteur** : Rubybliss7
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Culinary, LitRPG
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/400778768
+
+### 349. Fast Food Store in Another World but it Keeps Disappearing After a Day?! —
+- **Auteur** : JGY1412
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Culinary, Comedy
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/393478603
+
+### 350. The Second Coming of Gluttony (Volume I) —
+- **Auteur** : Ro Yu Jin
+- **Source** : Wattpad
+- **Thème** : Fantasy, Isekai, Gluttony, Gamelit
+- **Score** : 0/5
+- **Fichier** : [](data/)
+- **Lien** : https://www.wattpad.com/story/389288939
 
 
 ## Notes
