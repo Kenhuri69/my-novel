@@ -1,4 +1,4 @@
-# 1984: Starting From A Bankrupt Sichuan Restaurant 11984: Starting From A Bankrupt Sichuan Restaurant 1CompleteCompleteReadsReads 184,009184,009184KVotesVotes 5,0045,0045KPartsParts 200200200TimeTime 46h 27m46 hours, 27 minutes46h 27mVisit my Patreon account and subscribe to read more chapters in advance and get more benefits.
+# 1984: Starting From A Bankrupt Sichuan Restaurant 11984: Starting From A Bankrupt Sichuan Restaurant 1CompleteCompleteReadsReads 184,010184,010184KVotesVotes 5,0045,0045KPartsParts 200200200TimeTime 46h 27m46 hours, 27 minutes46h 27mVisit my Patreon account and subscribe to read more chapters in advance and get more benefits.
                                   
                                   My Patreon account: A.G MARSHMALLOW
                                   
@@ -34,7 +34,7 @@
                                   
                                   If you are interested in this book and would like to continue reading, please subscribe or purchase it once through my Patreon account! (Marshmallow_ Sweet)
                                   
-                                  _____1984: Starting From A Bankrupt Sichuan Restaurant 11984: Starting From A Bankrupt Sichuan Restaurant 1CompleteCompleteReadsReads 184,009184,009184KVotesVotes 5,0045,0045KPartsParts 200200200TimeTime 46h 27m46 hours, 27 minutes46h 27mVisit my Patreon account and subscribe to read more chapters in advance and get more benefits.
+                                  _____1984: Starting From A Bankrupt Sichuan Restaurant 11984: Starting From A Bankrupt Sichuan Restaurant 1CompleteCompleteReadsReads 184,010184,010184KVotesVotes 5,0045,0045KPartsParts 200200200TimeTime 46h 27m46 hours, 27 minutes46h 27mVisit my Patreon account and subscribe to read more chapters in advance and get more benefits.
                                   
                                   My Patreon account: A.G MARSHMALLOW
                                   
