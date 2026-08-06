@@ -14,7 +14,7 @@
 - **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'gourmet' sur Wattpad.
+Trouvé via la recherche 'gourmet novel' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -26,4 +26,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-gourmet
+gourmet novel

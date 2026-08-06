@@ -18,7 +18,7 @@
 - **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'culinary' sur Wattpad.
+Trouvé via la recherche 'culinary story' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -30,4 +30,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-culinary
+culinary story

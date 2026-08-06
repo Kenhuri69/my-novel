@@ -1,4 +1,4 @@
-# Reborn as the Village Waste, He became the Hunter of MountainsReborn as the Village Waste, He became the Hunter of MountainsOngoingOngoingReadsReads 121,670121,670121KVotesVotes 3,6293,6293.6KPartsParts 200200200TimeTime 72h 55m72 hours, 55 minutes72h 55mWhen an elite modern-day soldier dies during a mission, he expects oblivion-not a second life.
+# Reborn as the Village Waste, He became the Hunter of MountainsReborn as the Village Waste, He became the Hunter of MountainsOngoingOngoingReadsReads 121,671121,671121KVotesVotes 3,6293,6293.6KPartsParts 200200200TimeTime 72h 55m72 hours, 55 minutes72h 55mWhen an elite modern-day soldier dies during a mission, he expects oblivion-not a second life.
                                   
                                   He awakens in the body of Xin Pengxi, a notorious drunkard and gambler whose name is spoken with disappointment throughout the village. Burdened by debts, a ruined reputation, and the scars left on those closest to him, Pengxi had spent years drowning his family in misery. Now, a stranger occupies his body, carrying memories of another world and skills centuries ahead of his time.
                                   
@@ -18,7 +18,7 @@
                                   
                                   Story is adapted from my original chatbot and reimagined as fanfic using my OC. 
                                   Link: https://www.clank.world/@c/LinYue
-                                  THIS IS MY ORIGINAL STORYReborn as the Village Waste, He became the Hunter of MountainsReborn as the Village Waste, He became the Hunter of MountainsOngoingOngoingReadsReads 121,670121,670121KVotesVotes 3,6293,6293.6KPartsParts 200200200TimeTime 72h 55m72 hours, 55 minutes72h 55mWhen an elite modern-day soldier dies during a mission, he expects oblivion-not a second life.
+                                  THIS IS MY ORIGINAL STORYReborn as the Village Waste, He became the Hunter of MountainsReborn as the Village Waste, He became the Hunter of MountainsOngoingOngoingReadsReads 121,671121,671121KVotesVotes 3,6293,6293.6KPartsParts 200200200TimeTime 72h 55m72 hours, 55 minutes72h 55mWhen an elite modern-day soldier dies during a mission, he expects oblivion-not a second life.
                                   
                                   He awakens in the body of Xin Pengxi, a notorious drunkard and gambler whose name is spoken with disappointment throughout the village. Burdened by debts, a ruined reputation, and the scars left on those closest to him, Pengxi had spent years drowning his family in misery. Now, a stranger occupies his body, carrying memories of another world and skills centuries ahead of his time.
                                   
