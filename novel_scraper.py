@@ -161,19 +161,57 @@ def slugify(text):
     return text.strip('-')
 
 
+def clean_wattpad_title(title):
+    """Nettoie un titre Wattpad en supprimant les métadonnées et les doublons."""
+    # Supprimer tous les caractères non-ASCII (Unicode mathématique, etc.)
+    clean = re.sub(r'[^\x00-\x7F]', '', title)
+
+    # Si rien ne reste après suppression, extraire les mots ASCII
+    if not clean.strip():
+        ascii_words = re.findall(r'[A-Za-z]+', title)
+        if ascii_words:
+            clean = ' '.join(ascii_words)
+        else:
+            return ''
+
+    # Trouver le début des métadonnées (Complete, Ongoing, Reads, etc.)
+    # suivis d'un autre mot-clé de métadonnées ou de chiffres
+    metadata_words = r'(Complete|Ongoing|Reads|Votes|Vote|Parts|Time)'
+    metadata_match = re.search(
+        rf'{metadata_words}(?:{metadata_words}|[\d,])', clean
+    )
+
+    if metadata_match:
+        clean = clean[:metadata_match.start()].strip()
+
+    # Retirer les mots-clés de métadonnées en fin de chaîne
+    clean = re.sub(r'\s*(?:Complete|Ongoing|Reads|Votes|Vote|Parts|Time)+\s*$', '', clean).strip()
+
+    # Retirer les caractères non-alphanumériques sauf espaces, tirets, apostrophes
+    clean = re.sub(r'[^\w\s\-]', '', clean)
+    clean = re.sub(r'\s+', ' ', clean).strip()
+
+    # Détecter les titres dupliqués : trouver le plus court préfixe qui se répète
+    for prefix_len in range(5, len(clean) // 2 + 1):
+        prefix = clean[:prefix_len]
+        if clean.startswith(prefix + prefix):
+            clean = prefix.strip()
+            break
+
+    clean = clean.strip('-').strip("'").strip('"')
+
+    return clean
+
+
 def clean_filename(title):
     """Crée un nom de fichier propre à partir d'un titre."""
-    # Strip Wattpad metadata suffixes (Ongoing, Complete, Reads, Votes, Vote + numbers)
-    clean = re.split(r'(Ongoing|Complete|Reads|Votes|Vote)\s*\d', title)[0].strip()
-    # Remove Unicode characters that cause long filenames
-    clean = re.sub(r'[^\x00-\x7F]', '', clean)
-    clean = re.sub(r'[^\w\s-]', '', clean)
-    clean = re.sub(r'[\s_]+', '-', clean).strip('-')
-    # Ensure filename is within filesystem limits (255 bytes)
+    # Nettoyer les métadonnées Wattpad
+    clean = clean_wattpad_title(title)
+    # Limiter à 80 caractères
     clean = clean[:80]
-    # Remove leading/trailing hyphens and dots
+    # Retirer les tirets et points en début/fin
     clean = clean.strip('-.')
-    # Ensure we have a valid filename
+    # S'assurer qu'on a un nom de fichier valide
     if not clean:
         clean = "untitled"
     return clean + ".md"
@@ -425,6 +463,8 @@ def explore_wattpad(keywords):
                 for novel in novels:
                     title = novel.get_text(strip=True)
                     href = novel.get("href", "")
+                    # Nettoyer les titres Wattpad (métadonnées + doublons)
+                    title = clean_wattpad_title(title)
                     if title and is_culinary_novel(title):
                         results.append({
                             "title": title,
