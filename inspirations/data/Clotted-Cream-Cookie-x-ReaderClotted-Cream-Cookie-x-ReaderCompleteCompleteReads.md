@@ -11,10 +11,10 @@
 - **Statut** : Inconnu
 - **Genre** : Fantasy
 - **Date d'ajout** : 2026-08-06
-- **Score de pertinence** : 3/5 (Moyenne)
+- **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'cooking story' sur Wattpad.
+Trouvé via la recherche 'cooking adventure' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -26,4 +26,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-cooking story
+cooking adventure

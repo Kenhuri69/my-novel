@@ -1,4 +1,4 @@
-# In to the Gourmet World (Toriko)In to the Gourmet World (Toriko)OngoingOngoingReadsReads 102,351102,351102KVotesVotes 2,6952,6952.6KPartsParts 464646TimeTime 8h 14m8 hours, 14 minutes8h 14mHeavenly Kings x OC
+# In to the Gourmet World (Toriko)In to the Gourmet World (Toriko)OngoingOngoingReadsReads 102,352102,352102KVotesVotes 2,6952,6952.6KPartsParts 464646TimeTime 8h 14m8 hours, 14 minutes8h 14mHeavenly Kings x OC
                                   
                                   Mariposa, or Mari, was just a regular young adult, who just so happend to love anime.
                                   
@@ -10,7 +10,7 @@
                                   
                                   All characters and main story line belong to toei animation. I do not own toriko, only my oc and what ever else i add to the story.
                                   
-                                  Some of my pics will be under editing for a short while. Nothing major, just correcting some grammatical errors and updating some images. Thanks for the support!!!In to the Gourmet World (Toriko)In to the Gourmet World (Toriko)OngoingOngoingReadsReads 102,351102,351102KVotesVotes 2,6952,6952.6KPartsParts 464646TimeTime 8h 14m8 hours, 14 minutes8h 14mHeavenly Kings x OC
+                                  Some of my pics will be under editing for a short while. Nothing major, just correcting some grammatical errors and updating some images. Thanks for the support!!!In to the Gourmet World (Toriko)In to the Gourmet World (Toriko)OngoingOngoingReadsReads 102,352102,352102KVotesVotes 2,6952,6952.6KPartsParts 464646TimeTime 8h 14m8 hours, 14 minutes8h 14mHeavenly Kings x OC
                                   
                                   Mariposa, or Mari, was just a regular young adult, who just so happend to love anime.
                                   

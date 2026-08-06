@@ -1,4 +1,4 @@
-# Border CookBorder CookOngoingOngoingReadsReads 154,905154,905154KVotesVotes 2,9632,9632.9KPartsParts 989898TimeTime 50h 36m50 hours, 36 minutes50h 36mAuthor: Tea Warm
+# Border CookBorder CookOngoingOngoingReadsReads 154,906154,906154KVotesVotes 2,9632,9632.9KPartsParts 989898TimeTime 50h 36m50 hours, 36 minutes50h 36mAuthor: Tea Warm
                                   Edited Translation. For offline reading purposes only.
                                   
                                        Xia Mingyue, a trailblazer in the modern culinary world, suddenly finds herself transported to an unknown ancient era. Separated from her family while fleeing famine, she ends up in a remote border region.
@@ -10,7 +10,7 @@
                                   
                                   And her "cheap" husband? No longer just a simple soldier, he rises to become the new wing commander, deeply admiring Xia Mingyue's determination and ingenuity.
                                   
-                                  Husband: "Wife, you've changed my life in ways I never thought possible. I can fight battles, chop wood, fetch water-whatever you need. Just let me share the burden and walk this path with you. How about we make it official and worship in the hall?"Border CookBorder CookOngoingOngoingReadsReads 154,905154,905154KVotesVotes 2,9632,9632.9KPartsParts 989898TimeTime 50h 36m50 hours, 36 minutes50h 36mAuthor: Tea Warm
+                                  Husband: "Wife, you've changed my life in ways I never thought possible. I can fight battles, chop wood, fetch water-whatever you need. Just let me share the burden and walk this path with you. How about we make it official and worship in the hall?"Border CookBorder CookOngoingOngoingReadsReads 154,906154,906154KVotesVotes 2,9632,9632.9KPartsParts 989898TimeTime 50h 36m50 hours, 36 minutes50h 36mAuthor: Tea Warm
                                   Edited Translation. For offline reading purposes only.
                                   
                                        Xia Mingyue, a trailblazer in the modern culinary world, suddenly finds herself transported to an unknown ancient era. Separated from her family while fleeing famine, she ends up in a remote border region.
