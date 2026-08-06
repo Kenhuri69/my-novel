@@ -1,4 +1,4 @@
-# Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)OngoingOngoingReadsReads 271,454271,454271KVotesVotes 5,9895,9895.9KPartsParts 545454TimeTime 16h 51m16 hours, 51 minutes16h 51mStory cover by Jelly Brush.
+# Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)OngoingOngoingReadsReads 271,455271,455271KVotesVotes 5,9895,9895.9KPartsParts 545454TimeTime 16h 51m16 hours, 51 minutes16h 51mStory cover by Jelly Brush.
                                   
                                   You are just an average college student who played CRK for few years. One day, while on your way to university and doing your daily grind on your phone, you weren't paying attention and ended up dying in the funniest way possible. You then get reincarnated to Earthbread with body of a Cookie.
                                   
@@ -10,7 +10,7 @@
                                   - Expect grammar error cuz I'm not native English speaker (I'm Asian, duh!) but hopefully you guys can understand it.
                                   - Lots of references so don't look at me with disgust!
                                   - This is my first work so if you have criticism, feel free to comment about it. I will try to improve it. (which is never :)))) but yeah)
-                                  - Update depends on my motivation or every Sunday.Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)OngoingOngoingReadsReads 271,454271,454271KVotesVotes 5,9895,9895.9KPartsParts 545454TimeTime 16h 51m16 hours, 51 minutes16h 51mStory cover by Jelly Brush.
+                                  - Update depends on my motivation or every Sunday.Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)Transported to Cookie Run as the Baker (CRK Self-aware x Isekai fanfiction)OngoingOngoingReadsReads 271,455271,455271KVotesVotes 5,9895,9895.9KPartsParts 545454TimeTime 16h 51m16 hours, 51 minutes16h 51mStory cover by Jelly Brush.
                                   
                                   You are just an average college student who played CRK for few years. One day, while on your way to university and doing your daily grind on your phone, you weren't paying attention and ended up dying in the funniest way possible. You then get reincarnated to Earthbread with body of a Cookie.
                                   

@@ -1,4 +1,4 @@
-# Goody Two Shoes #Wattys2017Goody Two Shoes #Wattys2017CompleteCompleteReadsReads 12,354,73412,354,73412.3MVotesVotes 437,047437,047437KPartsParts 535353TimeTime 5h 7m5 hours, 7 minutes5h 7mHe married her to please his dad.
+# Goody Two Shoes #Wattys2017Goody Two Shoes #Wattys2017CompleteCompleteReadsReads 12,354,73512,354,73512.3MVotesVotes 437,047437,047437KPartsParts 535353TimeTime 5h 7m5 hours, 7 minutes5h 7mHe married her to please his dad.
                                         It was just another business deal for him.
                                         He had a girlfriend from the start and wasn't willing to give her up.
                                         He hated his wife Sophia with a passion even though she hardly crossed his way.
@@ -13,7 +13,7 @@
                                   
                                   #highest Rank in Romance till today 1/5/2017 is 26
                                   Ranked #22 IN ROMANCE in 1/5/2017
-                                  Highest ranked 12 in romanceGoody Two Shoes #Wattys2017Goody Two Shoes #Wattys2017CompleteCompleteReadsReads 12,354,73412,354,73412.3MVotesVotes 437,047437,047437KPartsParts 535353TimeTime 5h 7m5 hours, 7 minutes5h 7mHe married her to please his dad.
+                                  Highest ranked 12 in romanceGoody Two Shoes #Wattys2017Goody Two Shoes #Wattys2017CompleteCompleteReadsReads 12,354,73512,354,73512.3MVotesVotes 437,047437,047437KPartsParts 535353TimeTime 5h 7m5 hours, 7 minutes5h 7mHe married her to please his dad.
                                         It was just another business deal for him.
                                         He had a girlfriend from the start and wasn't willing to give her up.
                                         He hated his wife Sophia with a passion even though she hardly crossed his way.
