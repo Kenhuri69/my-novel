@@ -28,7 +28,7 @@
 - **Score de pertinence** : 5/5 (Très haute)
 
 ## Résumé
-Trouvé via la recherche 'gourmet fantasy' sur Wattpad.
+Trouvé via la recherche 'chef' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -40,4 +40,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-gourmet fantasy
+chef
