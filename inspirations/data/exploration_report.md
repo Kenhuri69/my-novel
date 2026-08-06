@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-05 21:38:54
+**Date** : 2026-08-06 09:37:22
 
 ## Résumé
 
-- **Novels trouvés** : 307
+- **Novels trouvés** : 347
 - **Sites explorés** : 0
 - **Sites inaccessibles** : 0
 
@@ -2163,5 +2163,689 @@
 - **URL** : https://www.wattpad.com/story/116699884
 - **Genre** : Fantasy, Culinary, Adventure
 - **Résumé** : This story follows gourmet hunter Ren Suzuki and chef Yuta Okamatsu as they hunt for high level ingredients to make into top-tier dishes....
+- **Fichier** : N/A
+
+### Frozen Soul - CRK AUFrozen Soul - CRK AUCompleteCompleteReadsReads 1,5051,5051.5KVotesVotes 363636PartsParts 101010TimeTime 51m0 hours, 51 minutes51m[DISCONTINUED]
+                                  
+                                  
+                                  After the Accident on the Vanilla Kingdom, the other 2 Heroes, Dark Cacao Cookie and White Lily Cookie, disappeared without saying any last words. 
+                                  
+                                  Rumor says that the two heroes are saved by "The Snow Queen", that's why now Earthbread is covered in endless snow.
+                                  Gingerbrave and his friends from cookie kingdom is the last hope to return the warm smiles of all cookies
+                                  
+                                  ..[ √\/°~★~°√\/ ]..
+                                  
+                                  • This book doesn't contains ANY 
+                                  Cookie Run Kingdom Ships
+                                  •Season 1: Ongoing 
+                                  Season 2: Coming soon
+                                  •NEW EPISODE PUBLISHED EVERY WEDNESDAY
+                                  (Cover and AU created by myself, @ailvynna)Frozen Soul - CRK AUFrozen Soul - CRK AUCompleteCompleteReadsReads 1,5051,5051.5KVotesVotes 363636PartsParts 101010TimeTime 51m0 hours, 51 minutes51m[DISCONTINUED]
+                                  
+                                  
+                                  After the Accident on the Vanilla Kingdom, the other 2 Heroes, Dark Cacao Cookie and White Lily Cookie, disappeared without saying any last words. 
+                                  
+                                  Rumor says that the two heroes are saved by "The Snow Queen", that's why now Earthbread is covered in endless snow.
+                                  Gingerbrave and his friends from cookie kingdom is the last hope to return the warm smiles of all cookies
+                                  
+                                  ..[ √\/°~★~°√\/ ]..
+                                  
+                                  • This book doesn't contains ANY 
+                                  Cookie Run Kingdom Ships
+                                  •Season 1: Ongoing 
+                                  Season 2: Coming soon
+                                  •NEW EPISODE PUBLISHED EVERY WEDNESDAY
+                                  (Cover and AU created by myself, @ailvynna) (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/333799037
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### A cookie not from this world [ CRK X Reader ] (Book 1)A cookie not from this world [ CRK X Reader ] (Book 1)CompleteCompleteReadsReads 11,50111,50111.5KVotesVotes 169169169PartsParts 101010TimeTime 8m0 hours, 8 minutes8ma mysterious sugar comet would suddenly crash on earth bread nere the kingdom were gingerbrave and his friends live only to reveal a cookie emerging from the comet what could the cookies do to catch this mysterious cookie and know what the cookies doing on earth breadA cookie not from this world [ CRK X Reader ] (Book 1)A cookie not from this world [ CRK X Reader ] (Book 1)CompleteCompleteReadsReads 11,50111,50111.5KVotesVotes 169169169PartsParts 101010TimeTime 8m0 hours, 8 minutes8ma mysterious sugar comet would suddenly crash on earth bread nere the kingdom were gingerbrave and his friends live only to reveal a cookie emerging from the comet what could the cookies do to catch this mysterious cookie and know what the cookies doing on earth bread (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/309835407
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### The Failed Runaway (crk x real world/oc)The Failed Runaway (crk x real world/oc)OngoingOngoingReadsReads 167167167VotesVotes 555PartsParts 141414TimeTime 48m0 hours, 48 minutes48mOc lore is explained more detailed in my book crk Oc ideas 
+                                  If I somehow ended up in earthbread as my Oc Artificial Batter Cookie
+                                  What would I do?
+                                  So yeah self-insert igThe Failed Runaway (crk x real world/oc)The Failed Runaway (crk x real world/oc)OngoingOngoingReadsReads 167167167VotesVotes 555PartsParts 141414TimeTime 48m0 hours, 48 minutes48mOc lore is explained more detailed in my book crk Oc ideas 
+                                  If I somehow ended up in earthbread as my Oc Artificial Batter Cookie
+                                  What would I do?
+                                  So yeah self-insert ig (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/412038915
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### "ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}"ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}CompleteCompleteReadsReads 32,76732,76732.7KVotesVotes 547547547PartsParts 141414TimeTime 1h 16m1 hours, 16 minutes1h 16mShadow Milk Cookie's gaze widened because of your sudden request, he put on a smirk and took a step back. "Help?" He asked, reluctance evident in his tone.
+                                  He was skeptical that someone who had just broken into his spire would ask him such a thing.
+                                  
+                                  You nodded, clenching your fists and resisting the urge to just run away. Your jaw clenched and your gazed softened. "What do you need my help for?"
+                                  
+                                                 ━(ﾟ∀ﾟ)━! ━━━━ヽ( '皿' )ﾉ━━━━!!
+                                  
+                                  𝙔/𝙉, a very powerful cookie with a potent souljam, are trying to convince Shadow Milk Cookie to your side and quick, before your enemy catches up to you. One conversation leads to another and things go far from planned.
+                                  
+                                  The first fast-burn/fast paced lemon shadow milk cookie x reader fanfic in wattpad, I think.
+                                  
+                                  Written with a unique narration style I'm experimenting with.
+                                  
+                                  You're gender-neutral in this book, but its more aligned to be a feminine reader.
+                                  
+                                  There will be smut, so please click off if you're uncomfortable with that.
+                                  
+                                  🥇1st in #grapefruit = 04/15/25
+                                  🥇1st in #whatamidoingwithmylife = 05/06/25 - 06/08/25
+                                  🥇1st in #crkfanfic = 05/08/25
+                                  🥇1st in #smc = 05/30/25 - 06/02/25
+                                  🥇1st in #candyapplecookie = 06/01/25
+                                  
+                                  [The characters in this story (except Y/N) do not belong to me and stem from the popular game CookieRun: Kingdom that is the property of Devsisters.]
+                                  
+                                  [This fanfiction is only available on Wattpad. Any sighting of this on other platforms is stolen. Reuploads and translations are not allowed for any reason.]"ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}"ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}CompleteCompleteReadsReads 32,76732,76732.7KVotesVotes 547547547PartsParts 141414TimeTime 1h 16m1 hours, 16 minutes1h 16mShadow Milk Cookie's gaze widened because of your sudden request, he put on a smirk and took a step back. "Help?" He asked, reluctance evident in his tone.
+                                  He was skeptical that someone who had just broken into his spire would ask him such a thing.
+                                  
+                                  You nodded, clenching your fists and resisting the urge to just run away. Your jaw clenched and your gazed softened. "What do you need my help for?"
+                                  
+                                                 ━(ﾟ∀ﾟ)━! ━━━━ヽ( '皿' )ﾉ━━━━!!
+                                  
+                                  𝙔/𝙉, a very powerful cookie with a potent souljam, are trying to convince Shadow Milk Cookie to your side and quick, before your enemy catches up to you. One conversation leads to another and things go far from planned.
+                                  
+                                  The first fast-burn/fast paced lemon shadow milk cookie x reader fanfic in wattpad, I think.
+                                  
+                                  Written with a unique narration style I'm experimenting with.
+                                  
+                                  You're gender-neutral in this book, but its more aligned to be a feminine reader.
+                                  
+                                  There will be smut, so please click off if you're uncomfortable with that.
+                                  
+                                  🥇1st in #grapefruit = 04/15/25
+                                  🥇1st in #whatamidoingwithmylife = 05/06/25 - 06/08/25
+                                  🥇1st in #crkfanfic = 05/08/25
+                                  🥇1st in #smc = 05/30/25 - 06/02/25
+                                  🥇1st in #candyapplecookie = 06/01/25
+                                  
+                                  [The characters in this story (except Y/N) do not belong to me and stem from the popular game CookieRun: Kingdom that is the property of Devsisters.]
+                                  
+                                  [This fanfiction is only available on Wattpad. Any sighting of this on other platforms is stolen. Reuploads and translations are not allowed for any reason.] (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/391940647
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### Fatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldFatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldOngoingOngoingReadsReads 380380380VotesVotes 212121PartsParts 777TimeTime 47m0 hours, 47 minutes47mNo one could have ever predicted the horrific fate of the five soul jam holders of Earthbread.
+                                  
+                                  Everything was in order, the Ancients being the heroes that cookies needed.
+                                  
+                                  However, in a dark turn of events, the Ancients began dying one by one, each death worse than the last. Their deaths were sudden and tragic, as if their soul jams had abandoned them when they needed them most.
+                                  
+                                  But if the most powerful cookies of this world are now gone...
+                                  
+                                  ...what will be the future of now hero-less Earthbread?Fatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldFatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldOngoingOngoingReadsReads 380380380VotesVotes 212121PartsParts 777TimeTime 47m0 hours, 47 minutes47mNo one could have ever predicted the horrific fate of the five soul jam holders of Earthbread.
+                                  
+                                  Everything was in order, the Ancients being the heroes that cookies needed.
+                                  
+                                  However, in a dark turn of events, the Ancients began dying one by one, each death worse than the last. Their deaths were sudden and tragic, as if their soul jams had abandoned them when they needed them most.
+                                  
+                                  But if the most powerful cookies of this world are now gone...
+                                  
+                                  ...what will be the future of now hero-less Earthbread? (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/413606571
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### The Forgotten King (A Cookie Run Kingdom AU)The Forgotten King (A Cookie Run Kingdom AU)CompleteCompleteReadsReads 1,5061,5061.5KVotesVotes 424242PartsParts 888TimeTime 27m0 hours, 27 minutes27mThis is a Cookie Run Kingdom AU
+                                  
+                                  What if Pure Vanilla Cookie had stayed Healer Cookie all throughout Episode 10? What if he had actually lost all his memories?
+                                  
+                                  Cover Art is mine :DThe Forgotten King (A Cookie Run Kingdom AU)The Forgotten King (A Cookie Run Kingdom AU)CompleteCompleteReadsReads 1,5061,5061.5KVotesVotes 424242PartsParts 888TimeTime 27m0 hours, 27 minutes27mThis is a Cookie Run Kingdom AU
+                                  
+                                  What if Pure Vanilla Cookie had stayed Healer Cookie all throughout Episode 10? What if he had actually lost all his memories?
+                                  
+                                  Cover Art is mine :D (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/371138120
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Dragon RisingDragon RisingWattpad Original  CompleteCompleteReadsReads 405,376405,376405KVotesVotes 27,81927,81927.8KPartsParts 444444TimeTime 7h 30m7 hours, 30 minutes7h 30mWhen dragons brawl after millennia of peace, Aeris loses her entire family in the ensuing war.
+                                  
+                                  After ten years of hiding underground from powerful families seeking her Draconian blood, Aeris's hopes for restoring balance depend on reviving her family's fallen dragon Khaus. As a vengeful voice invades her head, Aeris resolves to destroy the man who took away everything. Soon, her mind and body are not her own and she finds herself a pawn in a dragon's game since the dawn of time. Humans are not her only enemies...
+                                  
+                                  Content warning: This story contains some violence and death.
+                                          
+                                  [[Winner of the Wattys 2014]]
+                                  [[Winner of the "Junior Award" as Second Place in The Write Awards 2014]]
+                                  [[Featured fantasy book by Wattpad]]Dragon RisingDragon RisingWattpad Original  CompleteCompleteReadsReads 405,376405,376405KVotesVotes 27,81927,81927.8KPartsParts 444444TimeTime 7h 30m7 hours, 30 minutes7h 30mWhen dragons brawl after millennia of peace, Aeris loses her entire family in the ensuing war.
+                                  
+                                  After ten years of hiding underground from powerful families seeking her Draconian blood, Aeris's hopes for restoring balance depend on reviving her family's fallen dragon Khaus. As a vengeful voice invades her head, Aeris resolves to destroy the man who took away everything. Soon, her mind and body are not her own and she finds herself a pawn in a dragon's game since the dawn of time. Humans are not her only enemies...
+                                  
+                                  Content warning: This story contains some violence and death.
+                                          
+                                  [[Winner of the Wattys 2014]]
+                                  [[Winner of the "Junior Award" as Second Place in The Write Awards 2014]]
+                                  [[Featured fantasy book by Wattpad]] (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/11150759
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)OngoingOngoingReadsReads 3,2483,2483.2KVotesVotes 222222PartsParts 252525TimeTime 4h 28m4 hours, 28 minutes4h 28mI do not own CRK, only my OCs, all rights goes to Devsisters
+                                  
+                                  Long ago, the witches made the Spark, the power to enhance the cookie's strength and their knowledge. The Spark then disappeared during the dark flower war. after a few years, a ruined kingdom was made home to a group of Monster hunters leading by the young Archivist: Mayflower. when the hunters where hunting the monsters. they come across oven baked cookies. now the group of hunters join them to an adventure of a lifetime to save all of Earthbread from Dark Enchantress and Mara the monster witch.Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)OngoingOngoingReadsReads 3,2483,2483.2KVotesVotes 222222PartsParts 252525TimeTime 4h 28m4 hours, 28 minutes4h 28mI do not own CRK, only my OCs, all rights goes to Devsisters
+                                  
+                                  Long ago, the witches made the Spark, the power to enhance the cookie's strength and their knowledge. The Spark then disappeared during the dark flower war. after a few years, a ruined kingdom was made home to a group of Monster hunters leading by the young Archivist: Mayflower. when the hunters where hunting the monsters. they come across oven baked cookies. now the group of hunters join them to an adventure of a lifetime to save all of Earthbread from Dark Enchantress and Mara the monster witch. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/387839848
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Dark Choco in Wonderland // Cookie Run Kingdom AUDark Choco in Wonderland // Cookie Run Kingdom AUOngoingOngoingReadsReads 16,17916,17916.1KVotesVotes 146146146PartsParts 888TimeTime 6m0 hours, 6 minutes6mIt's basically an AU where Dark Choco is in Wonderland. I blame the Disney update for giving me this idea.Dark Choco in Wonderland // Cookie Run Kingdom AUDark Choco in Wonderland // Cookie Run Kingdom AUOngoingOngoingReadsReads 16,17916,17916.1KVotesVotes 146146146PartsParts 888TimeTime 6m0 hours, 6 minutes6mIt's basically an AU where Dark Choco is in Wonderland. I blame the Disney update for giving me this idea. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/331156866
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom AU (Bringer of Chaos)Cookie Run Kingdom AU (Bringer of Chaos)OngoingOngoingReadsReads 2,0322,0322KVotesVotes 202020PartsParts 151515TimeTime 1h 34m1 hours, 34 minutes1h 34mbased around Snapdragon's story and lore
+                                  warning: there is going to be jam (cookie's blood), injuries and angstCookie Run Kingdom AU (Bringer of Chaos)Cookie Run Kingdom AU (Bringer of Chaos)OngoingOngoingReadsReads 2,0322,0322KVotesVotes 202020PartsParts 151515TimeTime 1h 34m1 hours, 34 minutes1h 34mbased around Snapdragon's story and lore
+                                  warning: there is going to be jam (cookie's blood), injuries and angst (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/392088368
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### High School Secrets; Cookie Run Kingdom AUHigh School Secrets; Cookie Run Kingdom AUOngoingOngoingReadsReads 555VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 0 minutes<5 minsRaspberry Cookie just broke up with Wildberry Cookie,  even if they were the PERFECT couple. Things were falling apart behind the scenes, and Raspberry was falling for someone, Kouign-Amann, her sparring partner in fencing club! This was originally from Comic Studio but I wanted to change the plot and pacing. You can find my story under @PinkMoonStar at comic.studio 
+                                  
+                                  The new plot is now Raspberry trying to figure out what these feelings mean to her, and slowly but surely, you'll get to see why she fell out with Wildberry, stoic muscle man extraordinaire, and how she fell to like, Kouign-Amann, the admirable beauty! Throughout this story, we navigate the LGBTQ+   in regards to terms, definitions and characters, with many unique orientations and gender identities progressed in this fanfic. To me, it's more than a fanfic; it's a story of many LGBTQ+ teens, including myself!High School Secrets; Cookie Run Kingdom AUHigh School Secrets; Cookie Run Kingdom AUOngoingOngoingReadsReads 555VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 0 minutes<5 minsRaspberry Cookie just broke up with Wildberry Cookie,  even if they were the PERFECT couple. Things were falling apart behind the scenes, and Raspberry was falling for someone, Kouign-Amann, her sparring partner in fencing club! This was originally from Comic Studio but I wanted to change the plot and pacing. You can find my story under @PinkMoonStar at comic.studio 
+                                  
+                                  The new plot is now Raspberry trying to figure out what these feelings mean to her, and slowly but surely, you'll get to see why she fell out with Wildberry, stoic muscle man extraordinaire, and how she fell to like, Kouign-Amann, the admirable beauty! Throughout this story, we navigate the LGBTQ+   in regards to terms, definitions and characters, with many unique orientations and gender identities progressed in this fanfic. To me, it's more than a fanfic; it's a story of many LGBTQ+ teens, including myself! (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/414059722
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### The Initiative (A Sleeping Beauty Remix)The Initiative (A Sleeping Beauty Remix)Wattpad Original  CompleteCompleteReadsReads 342,423342,423342KVotesVotes 21,62121,62121.6KPartsParts 363636TimeTime 6h 51m6 hours, 51 minutes6h 51mSixteen years ago, special agent Aria Lewis was placed into suspended animation after a horrifying accident nearly killed her and her entire team.
+                                  
+                                  Sixteen years later, she is woken up for one final mission: redemption. 
+                                  
+                                  The Initiative: a secret government team tasked with doing things no one else can, with powers that are, at best, world-saving, and, at worst, absolutely catastrophic. When Aria is informed that she and her new team must track down and eliminate the very same enemy that nearly destroyed her all those years ago, she is forced not only to face the horrors of her past, but also the potential of her future - which involves finally confronting her Destined mate, Captain Wesley Brooks. 
+                                  
+                                  But now, an evil society is attempting to upend the entire social order of the Kingdom, and if Aria and her team can't stop their plan in time, her second chance at life won't be the only thing ruined forever - the entire Kingdom will fall.
+                                  
+                                  Cover by Ren TachibanaThe Initiative (A Sleeping Beauty Remix)The Initiative (A Sleeping Beauty Remix)Wattpad Original  CompleteCompleteReadsReads 342,423342,423342KVotesVotes 21,62121,62121.6KPartsParts 363636TimeTime 6h 51m6 hours, 51 minutes6h 51mSixteen years ago, special agent Aria Lewis was placed into suspended animation after a horrifying accident nearly killed her and her entire team.
+                                  
+                                  Sixteen years later, she is woken up for one final mission: redemption. 
+                                  
+                                  The Initiative: a secret government team tasked with doing things no one else can, with powers that are, at best, world-saving, and, at worst, absolutely catastrophic. When Aria is informed that she and her new team must track down and eliminate the very same enemy that nearly destroyed her all those years ago, she is forced not only to face the horrors of her past, but also the potential of her future - which involves finally confronting her Destined mate, Captain Wesley Brooks. 
+                                  
+                                  But now, an evil society is attempting to upend the entire social order of the Kingdom, and if Aria and her team can't stop their plan in time, her second chance at life won't be the only thing ruined forever - the entire Kingdom will fall.
+                                  
+                                  Cover by Ren Tachibana (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/118251801
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### BlackBell Cookie Run Kingdom AUBlackBell Cookie Run Kingdom AUOngoingOngoingReadsReads 313131VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 1 minutes<5 minsMy Black Sapphire Cookie x Silver Bell Cookie AU. Black Sapphire Cookie used to be a fairy. Holly Berry Cookie and Eternal Sugar Cookie have made up and now live in peace.BlackBell Cookie Run Kingdom AUBlackBell Cookie Run Kingdom AUOngoingOngoingReadsReads 313131VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 1 minutes<5 minsMy Black Sapphire Cookie x Silver Bell Cookie AU. Black Sapphire Cookie used to be a fairy. Holly Berry Cookie and Eternal Sugar Cookie have made up and now live in peace. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/410222864
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Shattered Placeholders | Cookie Run Kingdom AUShattered Placeholders | Cookie Run Kingdom AUOngoingOngoingReadsReads 565656VotesVotes 222PartsParts 777TimeTime 1h 53m1 hours, 53 minutes1h 53mCookie Run Kingdom AU: Mix of "What if" & "New Gen" tropes.
+                                  [Last update: 12/4/26] ---
+                                  The ancients sealed away the Dark Enchantress. Gone in a large flash of light, was she supposedly banished. And along with her, the five ancient heroes vanished. Not to their homes. Not to hide. Not a trace left, and the souljams taken with, leaving the world in confusion and turmoil from power imbalance. Though, that was quite a long time ago.
+                                  
+                                  Their shards still remain to be collected by those who are close enough to be worthy, just meeting their bar for what the souljams need. Well, until the original holders return, if they were to ever.
+                                  
+                                  Originally posted on AO3, consistent updates there. Inconsistent updates here.Shattered Placeholders | Cookie Run Kingdom AUShattered Placeholders | Cookie Run Kingdom AUOngoingOngoingReadsReads 565656VotesVotes 222PartsParts 777TimeTime 1h 53m1 hours, 53 minutes1h 53mCookie Run Kingdom AU: Mix of "What if" & "New Gen" tropes.
+                                  [Last update: 12/4/26] ---
+                                  The ancients sealed away the Dark Enchantress. Gone in a large flash of light, was she supposedly banished. And along with her, the five ancient heroes vanished. Not to their homes. Not to hide. Not a trace left, and the souljams taken with, leaving the world in confusion and turmoil from power imbalance. Though, that was quite a long time ago.
+                                  
+                                  Their shards still remain to be collected by those who are close enough to be worthy, just meeting their bar for what the souljams need. Well, until the original holders return, if they were to ever.
+                                  
+                                  Originally posted on AO3, consistent updates there. Inconsistent updates here. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/409295333
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom Rp BookCookie Run Kingdom Rp BookCompleteCompleteReadsReads 18,21518,21518.2KVotesVotes 100100100PartsParts 373737TimeTime 22m0 hours, 22 minutes22mBased on a mobile gameCookie Run Kingdom Rp BookCookie Run Kingdom Rp BookCompleteCompleteReadsReads 18,21518,21518.2KVotesVotes 100100100PartsParts 373737TimeTime 22m0 hours, 22 minutes22mBased on a mobile game (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/323338923
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Shadow Witch (Skyelorn Chronicles #1)Shadow Witch (Skyelorn Chronicles #1)Wattpad Original  CompleteCompleteReadsReads 250,498250,498250KVotesVotes 20,43820,43820.4KPartsParts 292929TimeTime 4h 29m4 hours, 29 minutes4h 29mWhen powerful witch Marithyda Skyelorn becomes a participant of the Royal Exposition, the last thing she expects is to fall in love with the Prince--or to be the cause of his death.
+                                  
+                                                                                    *****
+                                  
+                                  Every year, the kingdom of Karvoth hosts the Royal Exposition: a corrupt carnival where a race of citizens who possess powerful magic, known as the Touched, are exploited for the enjoyment of nobles. But when Marithyda Skyelorn's grand performance ends in tragedy and pits her against the deranged King, she must make the impossible choice between remaining in exile and participating again in the dangerous competition that ruined her life--to end it once and for all.
+                                  
+                                  (Book One of the Skyelorn Chronicles trilogy)
+                                  
+                                  [[2020 Watty's winner, Fantasy]]
+                                  
+                                  Content and/or Trigger Warning: Some scenes contain violence that may upset sensitive readers 
+                                  
+                                  [[Word Count: 50,000-60,000]]Shadow Witch (Skyelorn Chronicles #1)Shadow Witch (Skyelorn Chronicles #1)Wattpad Original  CompleteCompleteReadsReads 250,498250,498250KVotesVotes 20,43820,43820.4KPartsParts 292929TimeTime 4h 29m4 hours, 29 minutes4h 29mWhen powerful witch Marithyda Skyelorn becomes a participant of the Royal Exposition, the last thing she expects is to fall in love with the Prince--or to be the cause of his death.
+                                  
+                                                                                    *****
+                                  
+                                  Every year, the kingdom of Karvoth hosts the Royal Exposition: a corrupt carnival where a race of citizens who possess powerful magic, known as the Touched, are exploited for the enjoyment of nobles. But when Marithyda Skyelorn's grand performance ends in tragedy and pits her against the deranged King, she must make the impossible choice between remaining in exile and participating again in the dangerous competition that ruined her life--to end it once and for all.
+                                  
+                                  (Book One of the Skyelorn Chronicles trilogy)
+                                  
+                                  [[2020 Watty's winner, Fantasy]]
+                                  
+                                  Content and/or Trigger Warning: Some scenes contain violence that may upset sensitive readers 
+                                  
+                                  [[Word Count: 50,000-60,000]] (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/147945011
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom: A Star Is RebornCookie Run Kingdom: A Star Is RebornCompleteCompleteReadsReads 1,8071,8071.8KVotesVotes 282828PartsParts 222222TimeTime 3h 22m3 hours, 22 minutes3h 22mCookie Run Kingdom: A Star Is Reborn, that had two main protagonists, May Chip Cookie and Shadow Milk Cookie that had a huge chemistry since they met. The main antagonist remains the same as it's Dark Enchantress Cookie.... Act 1 will follow the same story as the original game as Act 2 will be doing the same, making my au a sequel!! :33Cookie Run Kingdom: A Star Is RebornCookie Run Kingdom: A Star Is RebornCompleteCompleteReadsReads 1,8071,8071.8KVotesVotes 282828PartsParts 222222TimeTime 3h 22m3 hours, 22 minutes3h 22mCookie Run Kingdom: A Star Is Reborn, that had two main protagonists, May Chip Cookie and Shadow Milk Cookie that had a huge chemistry since they met. The main antagonist remains the same as it's Dark Enchantress Cookie.... Act 1 will follow the same story as the original game as Act 2 will be doing the same, making my au a sequel!! :33 (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/405913317
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### cookie run kingdom headcanons and comicscookie run kingdom headcanons and comicsCompleteCompleteReadsReads 9,6769,6769.6KVotesVotes 989898PartsParts 222222TimeTime <5 mins0 hours, 1 minutes<5 minssilly crk comics I made in the first place and some headcanonscookie run kingdom headcanons and comicscookie run kingdom headcanons and comicsCompleteCompleteReadsReads 9,6769,6769.6KVotesVotes 989898PartsParts 222222TimeTime <5 mins0 hours, 1 minutes<5 minssilly crk comics I made in the first place and some headcanons (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/373067564
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### My Everyday Shenanigans in Earthbread as the BakerMy Everyday Shenanigans in Earthbread as the BakerOngoingOngoingReadsReads 7,5687,5687.5KVotesVotes 176176176PartsParts 777TimeTime 53m0 hours, 53 minutes53mStory cover by Ceasy Cheesy.
+                                  
+                                  Spin-off story of Transported to Cookie Run as the Baker.
+                                  
+                                  This is basically how Baker's life goes in Earthbread as he interacts with his friends.
+                                  If you want to understand this spin-off, check out the main story.
+                                  
+                                  Update schedule: Depend on my motivation lolMy Everyday Shenanigans in Earthbread as the BakerMy Everyday Shenanigans in Earthbread as the BakerOngoingOngoingReadsReads 7,5687,5687.5KVotesVotes 176176176PartsParts 777TimeTime 53m0 hours, 53 minutes53mStory cover by Ceasy Cheesy.
+                                  
+                                  Spin-off story of Transported to Cookie Run as the Baker.
+                                  
+                                  This is basically how Baker's life goes in Earthbread as he interacts with his friends.
+                                  If you want to understand this spin-off, check out the main story.
+                                  
+                                  Update schedule: Depend on my motivation lol (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/402509638
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'earthbread story' sur Wattpad....
+- **Fichier** : N/A
+
+### Sights Beyond EarthbreadSights Beyond EarthbreadCompleteCompleteReadsReads 145145145VotesVotes 000PartsParts 666TimeTime 18m0 hours, 18 minutes18mFollow Pure Vanilla Cookie and Black Raisin Cookie on an adventure beyond the confines of Earthbread as they see what truly happens when a dessert creature falls.Sights Beyond EarthbreadSights Beyond EarthbreadCompleteCompleteReadsReads 145145145VotesVotes 000PartsParts 666TimeTime 18m0 hours, 18 minutes18mFollow Pure Vanilla Cookie and Black Raisin Cookie on an adventure beyond the confines of Earthbread as they see what truly happens when a dessert creature falls. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/402396777
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'earthbread story' sur Wattpad....
+- **Fichier** : N/A
+
+### Frozen Soul - CRK AUFrozen Soul - CRK AUCompleteCompleteReadsReads 1,5051,5051.5KVotesVotes 363636PartsParts 101010TimeTime 51m0 hours, 51 minutes51m[DISCONTINUED]
+                                  
+                                  
+                                  After the Accident on the Vanilla Kingdom, the other 2 Heroes, Dark Cacao Cookie and White Lily Cookie, disappeared without saying any last words. 
+                                  
+                                  Rumor says that the two heroes are saved by "The Snow Queen", that's why now Earthbread is covered in endless snow.
+                                  Gingerbrave and his friends from cookie kingdom is the last hope to return the warm smiles of all cookies
+                                  
+                                  ..[ √\/°~★~°√\/ ]..
+                                  
+                                  • This book doesn't contains ANY 
+                                  Cookie Run Kingdom Ships
+                                  •Season 1: Ongoing 
+                                  Season 2: Coming soon
+                                  •NEW EPISODE PUBLISHED EVERY WEDNESDAY
+                                  (Cover and AU created by myself, @ailvynna)Frozen Soul - CRK AUFrozen Soul - CRK AUCompleteCompleteReadsReads 1,5051,5051.5KVotesVotes 363636PartsParts 101010TimeTime 51m0 hours, 51 minutes51m[DISCONTINUED]
+                                  
+                                  
+                                  After the Accident on the Vanilla Kingdom, the other 2 Heroes, Dark Cacao Cookie and White Lily Cookie, disappeared without saying any last words. 
+                                  
+                                  Rumor says that the two heroes are saved by "The Snow Queen", that's why now Earthbread is covered in endless snow.
+                                  Gingerbrave and his friends from cookie kingdom is the last hope to return the warm smiles of all cookies
+                                  
+                                  ..[ √\/°~★~°√\/ ]..
+                                  
+                                  • This book doesn't contains ANY 
+                                  Cookie Run Kingdom Ships
+                                  •Season 1: Ongoing 
+                                  Season 2: Coming soon
+                                  •NEW EPISODE PUBLISHED EVERY WEDNESDAY
+                                  (Cover and AU created by myself, @ailvynna) (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/333799037
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### A cookie not from this world [ CRK X Reader ] (Book 1)A cookie not from this world [ CRK X Reader ] (Book 1)CompleteCompleteReadsReads 11,50111,50111.5KVotesVotes 169169169PartsParts 101010TimeTime 8m0 hours, 8 minutes8ma mysterious sugar comet would suddenly crash on earth bread nere the kingdom were gingerbrave and his friends live only to reveal a cookie emerging from the comet what could the cookies do to catch this mysterious cookie and know what the cookies doing on earth breadA cookie not from this world [ CRK X Reader ] (Book 1)A cookie not from this world [ CRK X Reader ] (Book 1)CompleteCompleteReadsReads 11,50111,50111.5KVotesVotes 169169169PartsParts 101010TimeTime 8m0 hours, 8 minutes8ma mysterious sugar comet would suddenly crash on earth bread nere the kingdom were gingerbrave and his friends live only to reveal a cookie emerging from the comet what could the cookies do to catch this mysterious cookie and know what the cookies doing on earth bread (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/309835407
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### The Failed Runaway (crk x real world/oc)The Failed Runaway (crk x real world/oc)OngoingOngoingReadsReads 167167167VotesVotes 555PartsParts 141414TimeTime 48m0 hours, 48 minutes48mOc lore is explained more detailed in my book crk Oc ideas 
+                                  If I somehow ended up in earthbread as my Oc Artificial Batter Cookie
+                                  What would I do?
+                                  So yeah self-insert igThe Failed Runaway (crk x real world/oc)The Failed Runaway (crk x real world/oc)OngoingOngoingReadsReads 167167167VotesVotes 555PartsParts 141414TimeTime 48m0 hours, 48 minutes48mOc lore is explained more detailed in my book crk Oc ideas 
+                                  If I somehow ended up in earthbread as my Oc Artificial Batter Cookie
+                                  What would I do?
+                                  So yeah self-insert ig (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/412038915
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### "ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}"ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}CompleteCompleteReadsReads 32,76732,76732.7KVotesVotes 547547547PartsParts 141414TimeTime 1h 16m1 hours, 16 minutes1h 16mShadow Milk Cookie's gaze widened because of your sudden request, he put on a smirk and took a step back. "Help?" He asked, reluctance evident in his tone.
+                                  He was skeptical that someone who had just broken into his spire would ask him such a thing.
+                                  
+                                  You nodded, clenching your fists and resisting the urge to just run away. Your jaw clenched and your gazed softened. "What do you need my help for?"
+                                  
+                                                 ━(ﾟ∀ﾟ)━! ━━━━ヽ( '皿' )ﾉ━━━━!!
+                                  
+                                  𝙔/𝙉, a very powerful cookie with a potent souljam, are trying to convince Shadow Milk Cookie to your side and quick, before your enemy catches up to you. One conversation leads to another and things go far from planned.
+                                  
+                                  The first fast-burn/fast paced lemon shadow milk cookie x reader fanfic in wattpad, I think.
+                                  
+                                  Written with a unique narration style I'm experimenting with.
+                                  
+                                  You're gender-neutral in this book, but its more aligned to be a feminine reader.
+                                  
+                                  There will be smut, so please click off if you're uncomfortable with that.
+                                  
+                                  🥇1st in #grapefruit = 04/15/25
+                                  🥇1st in #whatamidoingwithmylife = 05/06/25 - 06/08/25
+                                  🥇1st in #crkfanfic = 05/08/25
+                                  🥇1st in #smc = 05/30/25 - 06/02/25
+                                  🥇1st in #candyapplecookie = 06/01/25
+                                  
+                                  [The characters in this story (except Y/N) do not belong to me and stem from the popular game CookieRun: Kingdom that is the property of Devsisters.]
+                                  
+                                  [This fanfiction is only available on Wattpad. Any sighting of this on other platforms is stolen. Reuploads and translations are not allowed for any reason.]"ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}"ᴅᴏ ʏᴏᴜ ᴘʀᴏᴍɪsᴇ..?" {Shadow Milk Cookie X G!Neutral Reader}CompleteCompleteReadsReads 32,76732,76732.7KVotesVotes 547547547PartsParts 141414TimeTime 1h 16m1 hours, 16 minutes1h 16mShadow Milk Cookie's gaze widened because of your sudden request, he put on a smirk and took a step back. "Help?" He asked, reluctance evident in his tone.
+                                  He was skeptical that someone who had just broken into his spire would ask him such a thing.
+                                  
+                                  You nodded, clenching your fists and resisting the urge to just run away. Your jaw clenched and your gazed softened. "What do you need my help for?"
+                                  
+                                                 ━(ﾟ∀ﾟ)━! ━━━━ヽ( '皿' )ﾉ━━━━!!
+                                  
+                                  𝙔/𝙉, a very powerful cookie with a potent souljam, are trying to convince Shadow Milk Cookie to your side and quick, before your enemy catches up to you. One conversation leads to another and things go far from planned.
+                                  
+                                  The first fast-burn/fast paced lemon shadow milk cookie x reader fanfic in wattpad, I think.
+                                  
+                                  Written with a unique narration style I'm experimenting with.
+                                  
+                                  You're gender-neutral in this book, but its more aligned to be a feminine reader.
+                                  
+                                  There will be smut, so please click off if you're uncomfortable with that.
+                                  
+                                  🥇1st in #grapefruit = 04/15/25
+                                  🥇1st in #whatamidoingwithmylife = 05/06/25 - 06/08/25
+                                  🥇1st in #crkfanfic = 05/08/25
+                                  🥇1st in #smc = 05/30/25 - 06/02/25
+                                  🥇1st in #candyapplecookie = 06/01/25
+                                  
+                                  [The characters in this story (except Y/N) do not belong to me and stem from the popular game CookieRun: Kingdom that is the property of Devsisters.]
+                                  
+                                  [This fanfiction is only available on Wattpad. Any sighting of this on other platforms is stolen. Reuploads and translations are not allowed for any reason.] (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/391940647
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### Fatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldFatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldOngoingOngoingReadsReads 380380380VotesVotes 212121PartsParts 777TimeTime 47m0 hours, 47 minutes47mNo one could have ever predicted the horrific fate of the five soul jam holders of Earthbread.
+                                  
+                                  Everything was in order, the Ancients being the heroes that cookies needed.
+                                  
+                                  However, in a dark turn of events, the Ancients began dying one by one, each death worse than the last. Their deaths were sudden and tragic, as if their soul jams had abandoned them when they needed them most.
+                                  
+                                  But if the most powerful cookies of this world are now gone...
+                                  
+                                  ...what will be the future of now hero-less Earthbread?Fatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldFatalism - A CRK ANCIENT DEATHS TRAGIC AU - by ArtisticWorldOngoingOngoingReadsReads 380380380VotesVotes 212121PartsParts 777TimeTime 47m0 hours, 47 minutes47mNo one could have ever predicted the horrific fate of the five soul jam holders of Earthbread.
+                                  
+                                  Everything was in order, the Ancients being the heroes that cookies needed.
+                                  
+                                  However, in a dark turn of events, the Ancients began dying one by one, each death worse than the last. Their deaths were sudden and tragic, as if their soul jams had abandoned them when they needed them most.
+                                  
+                                  But if the most powerful cookies of this world are now gone...
+                                  
+                                  ...what will be the future of now hero-less Earthbread? (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/413606571
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'frozen soul crk' sur Wattpad....
+- **Fichier** : N/A
+
+### The Forgotten King (A Cookie Run Kingdom AU)The Forgotten King (A Cookie Run Kingdom AU)CompleteCompleteReadsReads 1,5061,5061.5KVotesVotes 424242PartsParts 888TimeTime 27m0 hours, 27 minutes27mThis is a Cookie Run Kingdom AU
+                                  
+                                  What if Pure Vanilla Cookie had stayed Healer Cookie all throughout Episode 10? What if he had actually lost all his memories?
+                                  
+                                  Cover Art is mine :DThe Forgotten King (A Cookie Run Kingdom AU)The Forgotten King (A Cookie Run Kingdom AU)CompleteCompleteReadsReads 1,5061,5061.5KVotesVotes 424242PartsParts 888TimeTime 27m0 hours, 27 minutes27mThis is a Cookie Run Kingdom AU
+                                  
+                                  What if Pure Vanilla Cookie had stayed Healer Cookie all throughout Episode 10? What if he had actually lost all his memories?
+                                  
+                                  Cover Art is mine :D (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/371138120
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Dragon RisingDragon RisingWattpad Original  CompleteCompleteReadsReads 405,376405,376405KVotesVotes 27,81927,81927.8KPartsParts 444444TimeTime 7h 30m7 hours, 30 minutes7h 30mWhen dragons brawl after millennia of peace, Aeris loses her entire family in the ensuing war.
+                                  
+                                  After ten years of hiding underground from powerful families seeking her Draconian blood, Aeris's hopes for restoring balance depend on reviving her family's fallen dragon Khaus. As a vengeful voice invades her head, Aeris resolves to destroy the man who took away everything. Soon, her mind and body are not her own and she finds herself a pawn in a dragon's game since the dawn of time. Humans are not her only enemies...
+                                  
+                                  Content warning: This story contains some violence and death.
+                                          
+                                  [[Winner of the Wattys 2014]]
+                                  [[Winner of the "Junior Award" as Second Place in The Write Awards 2014]]
+                                  [[Featured fantasy book by Wattpad]]Dragon RisingDragon RisingWattpad Original  CompleteCompleteReadsReads 405,376405,376405KVotesVotes 27,81927,81927.8KPartsParts 444444TimeTime 7h 30m7 hours, 30 minutes7h 30mWhen dragons brawl after millennia of peace, Aeris loses her entire family in the ensuing war.
+                                  
+                                  After ten years of hiding underground from powerful families seeking her Draconian blood, Aeris's hopes for restoring balance depend on reviving her family's fallen dragon Khaus. As a vengeful voice invades her head, Aeris resolves to destroy the man who took away everything. Soon, her mind and body are not her own and she finds herself a pawn in a dragon's game since the dawn of time. Humans are not her only enemies...
+                                  
+                                  Content warning: This story contains some violence and death.
+                                          
+                                  [[Winner of the Wattys 2014]]
+                                  [[Winner of the "Junior Award" as Second Place in The Write Awards 2014]]
+                                  [[Featured fantasy book by Wattpad]] (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/11150759
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)OngoingOngoingReadsReads 3,2483,2483.2KVotesVotes 222222PartsParts 252525TimeTime 4h 28m4 hours, 28 minutes4h 28mI do not own CRK, only my OCs, all rights goes to Devsisters
+                                  
+                                  Long ago, the witches made the Spark, the power to enhance the cookie's strength and their knowledge. The Spark then disappeared during the dark flower war. after a few years, a ruined kingdom was made home to a group of Monster hunters leading by the young Archivist: Mayflower. when the hunters where hunting the monsters. they come across oven baked cookies. now the group of hunters join them to an adventure of a lifetime to save all of Earthbread from Dark Enchantress and Mara the monster witch.Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)Cookie run Kingdom AU: the Hunters and lost heirs (CRK x OCs)OngoingOngoingReadsReads 3,2483,2483.2KVotesVotes 222222PartsParts 252525TimeTime 4h 28m4 hours, 28 minutes4h 28mI do not own CRK, only my OCs, all rights goes to Devsisters
+                                  
+                                  Long ago, the witches made the Spark, the power to enhance the cookie's strength and their knowledge. The Spark then disappeared during the dark flower war. after a few years, a ruined kingdom was made home to a group of Monster hunters leading by the young Archivist: Mayflower. when the hunters where hunting the monsters. they come across oven baked cookies. now the group of hunters join them to an adventure of a lifetime to save all of Earthbread from Dark Enchantress and Mara the monster witch. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/387839848
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Dark Choco in Wonderland // Cookie Run Kingdom AUDark Choco in Wonderland // Cookie Run Kingdom AUOngoingOngoingReadsReads 16,17916,17916.1KVotesVotes 146146146PartsParts 888TimeTime 6m0 hours, 6 minutes6mIt's basically an AU where Dark Choco is in Wonderland. I blame the Disney update for giving me this idea.Dark Choco in Wonderland // Cookie Run Kingdom AUDark Choco in Wonderland // Cookie Run Kingdom AUOngoingOngoingReadsReads 16,17916,17916.1KVotesVotes 146146146PartsParts 888TimeTime 6m0 hours, 6 minutes6mIt's basically an AU where Dark Choco is in Wonderland. I blame the Disney update for giving me this idea. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/331156866
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom AU (Bringer of Chaos)Cookie Run Kingdom AU (Bringer of Chaos)OngoingOngoingReadsReads 2,0322,0322KVotesVotes 202020PartsParts 151515TimeTime 1h 34m1 hours, 34 minutes1h 34mbased around Snapdragon's story and lore
+                                  warning: there is going to be jam (cookie's blood), injuries and angstCookie Run Kingdom AU (Bringer of Chaos)Cookie Run Kingdom AU (Bringer of Chaos)OngoingOngoingReadsReads 2,0322,0322KVotesVotes 202020PartsParts 151515TimeTime 1h 34m1 hours, 34 minutes1h 34mbased around Snapdragon's story and lore
+                                  warning: there is going to be jam (cookie's blood), injuries and angst (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/392088368
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### High School Secrets; Cookie Run Kingdom AUHigh School Secrets; Cookie Run Kingdom AUOngoingOngoingReadsReads 555VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 0 minutes<5 minsRaspberry Cookie just broke up with Wildberry Cookie,  even if they were the PERFECT couple. Things were falling apart behind the scenes, and Raspberry was falling for someone, Kouign-Amann, her sparring partner in fencing club! This was originally from Comic Studio but I wanted to change the plot and pacing. You can find my story under @PinkMoonStar at comic.studio 
+                                  
+                                  The new plot is now Raspberry trying to figure out what these feelings mean to her, and slowly but surely, you'll get to see why she fell out with Wildberry, stoic muscle man extraordinaire, and how she fell to like, Kouign-Amann, the admirable beauty! Throughout this story, we navigate the LGBTQ+   in regards to terms, definitions and characters, with many unique orientations and gender identities progressed in this fanfic. To me, it's more than a fanfic; it's a story of many LGBTQ+ teens, including myself!High School Secrets; Cookie Run Kingdom AUHigh School Secrets; Cookie Run Kingdom AUOngoingOngoingReadsReads 555VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 0 minutes<5 minsRaspberry Cookie just broke up with Wildberry Cookie,  even if they were the PERFECT couple. Things were falling apart behind the scenes, and Raspberry was falling for someone, Kouign-Amann, her sparring partner in fencing club! This was originally from Comic Studio but I wanted to change the plot and pacing. You can find my story under @PinkMoonStar at comic.studio 
+                                  
+                                  The new plot is now Raspberry trying to figure out what these feelings mean to her, and slowly but surely, you'll get to see why she fell out with Wildberry, stoic muscle man extraordinaire, and how she fell to like, Kouign-Amann, the admirable beauty! Throughout this story, we navigate the LGBTQ+   in regards to terms, definitions and characters, with many unique orientations and gender identities progressed in this fanfic. To me, it's more than a fanfic; it's a story of many LGBTQ+ teens, including myself! (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/414059722
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### The Initiative (A Sleeping Beauty Remix)The Initiative (A Sleeping Beauty Remix)Wattpad Original  CompleteCompleteReadsReads 342,423342,423342KVotesVotes 21,62121,62121.6KPartsParts 363636TimeTime 6h 51m6 hours, 51 minutes6h 51mSixteen years ago, special agent Aria Lewis was placed into suspended animation after a horrifying accident nearly killed her and her entire team.
+                                  
+                                  Sixteen years later, she is woken up for one final mission: redemption. 
+                                  
+                                  The Initiative: a secret government team tasked with doing things no one else can, with powers that are, at best, world-saving, and, at worst, absolutely catastrophic. When Aria is informed that she and her new team must track down and eliminate the very same enemy that nearly destroyed her all those years ago, she is forced not only to face the horrors of her past, but also the potential of her future - which involves finally confronting her Destined mate, Captain Wesley Brooks. 
+                                  
+                                  But now, an evil society is attempting to upend the entire social order of the Kingdom, and if Aria and her team can't stop their plan in time, her second chance at life won't be the only thing ruined forever - the entire Kingdom will fall.
+                                  
+                                  Cover by Ren TachibanaThe Initiative (A Sleeping Beauty Remix)The Initiative (A Sleeping Beauty Remix)Wattpad Original  CompleteCompleteReadsReads 342,423342,423342KVotesVotes 21,62121,62121.6KPartsParts 363636TimeTime 6h 51m6 hours, 51 minutes6h 51mSixteen years ago, special agent Aria Lewis was placed into suspended animation after a horrifying accident nearly killed her and her entire team.
+                                  
+                                  Sixteen years later, she is woken up for one final mission: redemption. 
+                                  
+                                  The Initiative: a secret government team tasked with doing things no one else can, with powers that are, at best, world-saving, and, at worst, absolutely catastrophic. When Aria is informed that she and her new team must track down and eliminate the very same enemy that nearly destroyed her all those years ago, she is forced not only to face the horrors of her past, but also the potential of her future - which involves finally confronting her Destined mate, Captain Wesley Brooks. 
+                                  
+                                  But now, an evil society is attempting to upend the entire social order of the Kingdom, and if Aria and her team can't stop their plan in time, her second chance at life won't be the only thing ruined forever - the entire Kingdom will fall.
+                                  
+                                  Cover by Ren Tachibana (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/118251801
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### BlackBell Cookie Run Kingdom AUBlackBell Cookie Run Kingdom AUOngoingOngoingReadsReads 313131VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 1 minutes<5 minsMy Black Sapphire Cookie x Silver Bell Cookie AU. Black Sapphire Cookie used to be a fairy. Holly Berry Cookie and Eternal Sugar Cookie have made up and now live in peace.BlackBell Cookie Run Kingdom AUBlackBell Cookie Run Kingdom AUOngoingOngoingReadsReads 313131VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 1 minutes<5 minsMy Black Sapphire Cookie x Silver Bell Cookie AU. Black Sapphire Cookie used to be a fairy. Holly Berry Cookie and Eternal Sugar Cookie have made up and now live in peace. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/410222864
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Shattered Placeholders | Cookie Run Kingdom AUShattered Placeholders | Cookie Run Kingdom AUOngoingOngoingReadsReads 565656VotesVotes 222PartsParts 777TimeTime 1h 53m1 hours, 53 minutes1h 53mCookie Run Kingdom AU: Mix of "What if" & "New Gen" tropes.
+                                  [Last update: 12/4/26] ---
+                                  The ancients sealed away the Dark Enchantress. Gone in a large flash of light, was she supposedly banished. And along with her, the five ancient heroes vanished. Not to their homes. Not to hide. Not a trace left, and the souljams taken with, leaving the world in confusion and turmoil from power imbalance. Though, that was quite a long time ago.
+                                  
+                                  Their shards still remain to be collected by those who are close enough to be worthy, just meeting their bar for what the souljams need. Well, until the original holders return, if they were to ever.
+                                  
+                                  Originally posted on AO3, consistent updates there. Inconsistent updates here.Shattered Placeholders | Cookie Run Kingdom AUShattered Placeholders | Cookie Run Kingdom AUOngoingOngoingReadsReads 565656VotesVotes 222PartsParts 777TimeTime 1h 53m1 hours, 53 minutes1h 53mCookie Run Kingdom AU: Mix of "What if" & "New Gen" tropes.
+                                  [Last update: 12/4/26] ---
+                                  The ancients sealed away the Dark Enchantress. Gone in a large flash of light, was she supposedly banished. And along with her, the five ancient heroes vanished. Not to their homes. Not to hide. Not a trace left, and the souljams taken with, leaving the world in confusion and turmoil from power imbalance. Though, that was quite a long time ago.
+                                  
+                                  Their shards still remain to be collected by those who are close enough to be worthy, just meeting their bar for what the souljams need. Well, until the original holders return, if they were to ever.
+                                  
+                                  Originally posted on AO3, consistent updates there. Inconsistent updates here. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/409295333
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom Rp BookCookie Run Kingdom Rp BookCompleteCompleteReadsReads 18,21518,21518.2KVotesVotes 100100100PartsParts 373737TimeTime 22m0 hours, 22 minutes22mBased on a mobile gameCookie Run Kingdom Rp BookCookie Run Kingdom Rp BookCompleteCompleteReadsReads 18,21518,21518.2KVotesVotes 100100100PartsParts 373737TimeTime 22m0 hours, 22 minutes22mBased on a mobile game (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/323338923
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Shadow Witch (Skyelorn Chronicles #1)Shadow Witch (Skyelorn Chronicles #1)Wattpad Original  CompleteCompleteReadsReads 250,498250,498250KVotesVotes 20,43820,43820.4KPartsParts 292929TimeTime 4h 29m4 hours, 29 minutes4h 29mWhen powerful witch Marithyda Skyelorn becomes a participant of the Royal Exposition, the last thing she expects is to fall in love with the Prince--or to be the cause of his death.
+                                  
+                                                                                    *****
+                                  
+                                  Every year, the kingdom of Karvoth hosts the Royal Exposition: a corrupt carnival where a race of citizens who possess powerful magic, known as the Touched, are exploited for the enjoyment of nobles. But when Marithyda Skyelorn's grand performance ends in tragedy and pits her against the deranged King, she must make the impossible choice between remaining in exile and participating again in the dangerous competition that ruined her life--to end it once and for all.
+                                  
+                                  (Book One of the Skyelorn Chronicles trilogy)
+                                  
+                                  [[2020 Watty's winner, Fantasy]]
+                                  
+                                  Content and/or Trigger Warning: Some scenes contain violence that may upset sensitive readers 
+                                  
+                                  [[Word Count: 50,000-60,000]]Shadow Witch (Skyelorn Chronicles #1)Shadow Witch (Skyelorn Chronicles #1)Wattpad Original  CompleteCompleteReadsReads 250,498250,498250KVotesVotes 20,43820,43820.4KPartsParts 292929TimeTime 4h 29m4 hours, 29 minutes4h 29mWhen powerful witch Marithyda Skyelorn becomes a participant of the Royal Exposition, the last thing she expects is to fall in love with the Prince--or to be the cause of his death.
+                                  
+                                                                                    *****
+                                  
+                                  Every year, the kingdom of Karvoth hosts the Royal Exposition: a corrupt carnival where a race of citizens who possess powerful magic, known as the Touched, are exploited for the enjoyment of nobles. But when Marithyda Skyelorn's grand performance ends in tragedy and pits her against the deranged King, she must make the impossible choice between remaining in exile and participating again in the dangerous competition that ruined her life--to end it once and for all.
+                                  
+                                  (Book One of the Skyelorn Chronicles trilogy)
+                                  
+                                  [[2020 Watty's winner, Fantasy]]
+                                  
+                                  Content and/or Trigger Warning: Some scenes contain violence that may upset sensitive readers 
+                                  
+                                  [[Word Count: 50,000-60,000]] (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/147945011
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### Cookie Run Kingdom: A Star Is RebornCookie Run Kingdom: A Star Is RebornCompleteCompleteReadsReads 1,8071,8071.8KVotesVotes 282828PartsParts 222222TimeTime 3h 22m3 hours, 22 minutes3h 22mCookie Run Kingdom: A Star Is Reborn, that had two main protagonists, May Chip Cookie and Shadow Milk Cookie that had a huge chemistry since they met. The main antagonist remains the same as it's Dark Enchantress Cookie.... Act 1 will follow the same story as the original game as Act 2 will be doing the same, making my au a sequel!! :33Cookie Run Kingdom: A Star Is RebornCookie Run Kingdom: A Star Is RebornCompleteCompleteReadsReads 1,8071,8071.8KVotesVotes 282828PartsParts 222222TimeTime 3h 22m3 hours, 22 minutes3h 22mCookie Run Kingdom: A Star Is Reborn, that had two main protagonists, May Chip Cookie and Shadow Milk Cookie that had a huge chemistry since they met. The main antagonist remains the same as it's Dark Enchantress Cookie.... Act 1 will follow the same story as the original game as Act 2 will be doing the same, making my au a sequel!! :33 (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/405913317
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### cookie run kingdom headcanons and comicscookie run kingdom headcanons and comicsCompleteCompleteReadsReads 9,6769,6769.6KVotesVotes 989898PartsParts 222222TimeTime <5 mins0 hours, 1 minutes<5 minssilly crk comics I made in the first place and some headcanonscookie run kingdom headcanons and comicscookie run kingdom headcanons and comicsCompleteCompleteReadsReads 9,6769,6769.6KVotesVotes 989898PartsParts 222222TimeTime <5 mins0 hours, 1 minutes<5 minssilly crk comics I made in the first place and some headcanons (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/373067564
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'cookie run kingdom au' sur Wattpad....
+- **Fichier** : N/A
+
+### My Everyday Shenanigans in Earthbread as the BakerMy Everyday Shenanigans in Earthbread as the BakerOngoingOngoingReadsReads 7,5687,5687.5KVotesVotes 176176176PartsParts 777TimeTime 53m0 hours, 53 minutes53mStory cover by Ceasy Cheesy.
+                                  
+                                  Spin-off story of Transported to Cookie Run as the Baker.
+                                  
+                                  This is basically how Baker's life goes in Earthbread as he interacts with his friends.
+                                  If you want to understand this spin-off, check out the main story.
+                                  
+                                  Update schedule: Depend on my motivation lolMy Everyday Shenanigans in Earthbread as the BakerMy Everyday Shenanigans in Earthbread as the BakerOngoingOngoingReadsReads 7,5687,5687.5KVotesVotes 176176176PartsParts 777TimeTime 53m0 hours, 53 minutes53mStory cover by Ceasy Cheesy.
+                                  
+                                  Spin-off story of Transported to Cookie Run as the Baker.
+                                  
+                                  This is basically how Baker's life goes in Earthbread as he interacts with his friends.
+                                  If you want to understand this spin-off, check out the main story.
+                                  
+                                  Update schedule: Depend on my motivation lol (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/402509638
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'earthbread story' sur Wattpad....
+- **Fichier** : N/A
+
+### Sights Beyond EarthbreadSights Beyond EarthbreadCompleteCompleteReadsReads 145145145VotesVotes 000PartsParts 666TimeTime 18m0 hours, 18 minutes18mFollow Pure Vanilla Cookie and Black Raisin Cookie on an adventure beyond the confines of Earthbread as they see what truly happens when a dessert creature falls.Sights Beyond EarthbreadSights Beyond EarthbreadCompleteCompleteReadsReads 145145145VotesVotes 000PartsParts 666TimeTime 18m0 hours, 18 minutes18mFollow Pure Vanilla Cookie and Black Raisin Cookie on an adventure beyond the confines of Earthbread as they see what truly happens when a dessert creature falls. (Score: 0/5)
+- **Source** : Wattpad
+- **URL** : https://www.wattpad.com/story/402396777
+- **Genre** : Fantasy, Culinary
+- **Résumé** : Trouvé via la recherche 'earthbread story' sur Wattpad....
 - **Fichier** : N/A
 
