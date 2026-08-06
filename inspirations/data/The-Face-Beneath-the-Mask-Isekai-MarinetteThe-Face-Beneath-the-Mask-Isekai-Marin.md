@@ -38,7 +38,7 @@
 - **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'food isekai' sur Wattpad.
+Trouvé via la recherche 'isekai food' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -50,4 +50,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-food isekai
+isekai food

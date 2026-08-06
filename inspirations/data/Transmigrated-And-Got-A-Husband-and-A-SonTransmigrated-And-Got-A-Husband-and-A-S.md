@@ -1,4 +1,4 @@
-# Transmigrated And Got A Husband and A SonTransmigrated And Got A Husband and A SonOngoingOngoingReadsReads 97,38697,38697.3KVotesVotes 2,3932,3932.3KPartsParts 959595TimeTime 9h 26m9 hours, 26 minutes9h 26mNOTE: THIS IS NOT MY WORK
+# Transmigrated And Got A Husband and A SonTransmigrated And Got A Husband and A SonOngoingOngoingReadsReads 97,38897,38897.3KVotesVotes 2,3932,3932.3KPartsParts 959595TimeTime 9h 26m9 hours, 26 minutes9h 26mNOTE: THIS IS NOT MY WORK
                                   
                                   Qin Xiaoguo was a successful chef working in the future era. A turn of fate brought her to the past, into a time of famine and uncertainty. Waking up one day, Qin Xiaoguo found herself face to face with a boy who acknowledged her as his mother.
                                   
@@ -8,7 +8,7 @@
                                   
                                   After years of raising her son singlehandedly, Qin Xiaoguo had a surprise visitor at her door. It was a man claiming to be her husband, requesting to stay the night. Out of confusion and pity, Qin Xiaoguo let the self-proclaimed father of her child into the house.
                                   
-                                  ALL RIGHT RESERVED: This Empress Is BoredTransmigrated And Got A Husband and A SonTransmigrated And Got A Husband and A SonOngoingOngoingReadsReads 97,38697,38697.3KVotesVotes 2,3932,3932.3KPartsParts 959595TimeTime 9h 26m9 hours, 26 minutes9h 26mNOTE: THIS IS NOT MY WORK
+                                  ALL RIGHT RESERVED: This Empress Is BoredTransmigrated And Got A Husband and A SonTransmigrated And Got A Husband and A SonOngoingOngoingReadsReads 97,38897,38897.3KVotesVotes 2,3932,3932.3KPartsParts 959595TimeTime 9h 26m9 hours, 26 minutes9h 26mNOTE: THIS IS NOT MY WORK
                                   
                                   Qin Xiaoguo was a successful chef working in the future era. A turn of fate brought her to the past, into a time of famine and uncertainty. Waking up one day, Qin Xiaoguo found herself face to face with a boy who acknowledged her as his mother.
                                   
@@ -30,7 +30,7 @@
 - **Score de pertinence** : 5/5 (Très haute)
 
 ## Résumé
-Trouvé via la recherche 'chef isekai' sur Wattpad.
+Trouvé via la recherche 'transmigration food' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -42,4 +42,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-chef isekai
+transmigration food
