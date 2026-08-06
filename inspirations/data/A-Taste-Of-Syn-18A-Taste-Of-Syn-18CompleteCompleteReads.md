@@ -1,4 +1,4 @@
-# A Taste Of Syn (18+)A Taste Of Syn (18+)CompleteCompleteReadsReads 164,952164,952164KVotesVotes 4,7984,7984.7KPartsParts 343434TimeTime 3h 23m3 hours, 23 minutes3h 23mThia West doesn't have much experience when it comes to relationships. She's only ever been with one man for nine years, her high school sweetheart, Darren Adams. However, when complications arise between them, she slowly finds herself falling for the one person she shouldn't...her boss.
+# A Taste Of Syn (18+)A Taste Of Syn (18+)CompleteCompleteReadsReads 164,954164,954164KVotesVotes 4,7984,7984.7KPartsParts 343434TimeTime 3h 23m3 hours, 23 minutes3h 23mThia West doesn't have much experience when it comes to relationships. She's only ever been with one man for nine years, her high school sweetheart, Darren Adams. However, when complications arise between them, she slowly finds herself falling for the one person she shouldn't...her boss.
                                   
                                   ⚫⚫⚫⚫⚫⚫⚫⚫
                                   
@@ -7,7 +7,7 @@
                                   If you are reading this story on any other platform other than Wattpad or Inkitt you are very likely to be at risk of a malware attack. If you wish to read this story in it's original, safe, form, please go to https://www.wattpad.com/user/Dustymoon96
                                   
                                   Uploaded: March 15, 2024
-                                  Completed: April 18, 2025A Taste Of Syn (18+)A Taste Of Syn (18+)CompleteCompleteReadsReads 164,952164,952164KVotesVotes 4,7984,7984.7KPartsParts 343434TimeTime 3h 23m3 hours, 23 minutes3h 23mThia West doesn't have much experience when it comes to relationships. She's only ever been with one man for nine years, her high school sweetheart, Darren Adams. However, when complications arise between them, she slowly finds herself falling for the one person she shouldn't...her boss.
+                                  Completed: April 18, 2025A Taste Of Syn (18+)A Taste Of Syn (18+)CompleteCompleteReadsReads 164,954164,954164KVotesVotes 4,7984,7984.7KPartsParts 343434TimeTime 3h 23m3 hours, 23 minutes3h 23mThia West doesn't have much experience when it comes to relationships. She's only ever been with one man for nine years, her high school sweetheart, Darren Adams. However, when complications arise between them, she slowly finds herself falling for the one person she shouldn't...her boss.
                                   
                                   ⚫⚫⚫⚫⚫⚫⚫⚫
                                   

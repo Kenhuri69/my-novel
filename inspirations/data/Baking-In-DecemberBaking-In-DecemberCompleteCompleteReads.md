@@ -15,10 +15,10 @@
 - **Statut** : Inconnu
 - **Genre** : Fantasy
 - **Date d'ajout** : 2026-08-06
-- **Score de pertinence** : 3/5 (Moyenne)
+- **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'baking' sur Wattpad.
+Trouvé via la recherche 'cooking competition' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -30,4 +30,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-baking
+cooking competition
