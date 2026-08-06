@@ -1,4 +1,4 @@
-# I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)OngoingOngoingReadsReads 14,18114,18114.1KVotesVotes 401401401PartsParts 131313TimeTime 2h 40m2 hours, 40 minutes2h 40m(I took inspiration from vialy_MC)
+# I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)OngoingOngoingReadsReads 14,18214,18214.1KVotesVotes 401401401PartsParts 131313TimeTime 2h 40m2 hours, 40 minutes2h 40m(I took inspiration from vialy_MC)
                                   ------------------------------------------------------------------------------------------------------------------------------------
                                   Since the fourth generation of pokemon the moment you saw Regigigas you had a huge interest in him being the ace of your team in any competitive tournament since you loved his ability even if it was usesless you just loved the sensation of panic your brain gave when he was hit with a super effective attack but that didn't stop your fav pokemon to won some tournaments along your team of the others members of the Regis
                                   
@@ -16,7 +16,7 @@
                                   
                                   Or so it was until your time run out
                                   
-                                  Cookie Run Kingdom is owned by DevSisters and Pokemon is owned by Game Freak and NintendoI appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)OngoingOngoingReadsReads 14,18114,18114.1KVotesVotes 401401401PartsParts 131313TimeTime 2h 40m2 hours, 40 minutes2h 40m(I took inspiration from vialy_MC)
+                                  Cookie Run Kingdom is owned by DevSisters and Pokemon is owned by Game Freak and NintendoI appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)OngoingOngoingReadsReads 14,18214,18214.1KVotesVotes 401401401PartsParts 131313TimeTime 2h 40m2 hours, 40 minutes2h 40m(I took inspiration from vialy_MC)
                                   ------------------------------------------------------------------------------------------------------------------------------------
                                   Since the fourth generation of pokemon the moment you saw Regigigas you had a huge interest in him being the ace of your team in any competitive tournament since you loved his ability even if it was usesless you just loved the sensation of panic your brain gave when he was hit with a super effective attack but that didn't stop your fav pokemon to won some tournaments along your team of the others members of the Regis
                                   

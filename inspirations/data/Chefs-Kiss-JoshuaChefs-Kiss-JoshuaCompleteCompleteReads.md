@@ -1,4 +1,4 @@
-# Chef's Kiss || JoshuaChef's Kiss || JoshuaCompleteCompleteReadsReads 153,272153,272153KVotesVotes 4,8654,8654.8KPartsParts 404040TimeTime 3h 46m3 hours, 46 minutes3h 46mLost&Found universe book #3 
+# Chef's Kiss || JoshuaChef's Kiss || JoshuaCompleteCompleteReadsReads 153,274153,274153KVotesVotes 4,8654,8654.8KPartsParts 404040TimeTime 3h 46m3 hours, 46 minutes3h 46mLost&Found universe book #3 
                                   
                                   Joshua  discovers a newfound interest in Yumi, the new girl in town. 
                                   
@@ -6,7 +6,7 @@
                                   
                                   However, as their connection deepens, a mysterious force threatens their happiness, testing the strength of their love. 
                                   
-                                  Ready for their story?Chef's Kiss || JoshuaChef's Kiss || JoshuaCompleteCompleteReadsReads 153,272153,272153KVotesVotes 4,8654,8654.8KPartsParts 404040TimeTime 3h 46m3 hours, 46 minutes3h 46mLost&Found universe book #3 
+                                  Ready for their story?Chef's Kiss || JoshuaChef's Kiss || JoshuaCompleteCompleteReadsReads 153,274153,274153KVotesVotes 4,8654,8654.8KPartsParts 404040TimeTime 3h 46m3 hours, 46 minutes3h 46mLost&Found universe book #3 
                                   
                                   Joshua  discovers a newfound interest in Yumi, the new girl in town. 
                                   
