@@ -1,4 +1,4 @@
-# Food Wars: Reborn with the Ultimate Cooking TalentFood Wars: Reborn with the Ultimate Cooking TalentOngoingOngoingReadsReads 6,7606,7606.7KVotesVotes 312312312PartsParts 363636TimeTime 3h 56m3 hours, 56 minutes3h 56mEthan unexpectedly finds himself transported into the world of Food Wars.
+# Food Wars: Reborn with the Ultimate Cooking TalentFood Wars: Reborn with the Ultimate Cooking TalentOngoingOngoingReadsReads 6,7646,7646.7KVotesVotes 312312312PartsParts 363636TimeTime 3h 56m3 hours, 56 minutes3h 56mEthan unexpectedly finds himself transported into the world of Food Wars.
                                   
                                   There, through the power of a mysterious system, he can obtain rare fantasy ingredients: Jewel Meat, Rainbow Fruit, Scare Apples, Gala Gators, BB Corn, Century Soup, and countless other irresistible delicacies.
                                   
@@ -11,7 +11,7 @@
                                   [All character properties belong to their respective creators. I do not own any characters aside from my original characters (OCs).]
                                   
                                   [Image Credit Notice]
-                                  [The image used as cover doesn't belong to me. If you are the original owner and would like it removed, please let me know.]Food Wars: Reborn with the Ultimate Cooking TalentFood Wars: Reborn with the Ultimate Cooking TalentOngoingOngoingReadsReads 6,7606,7606.7KVotesVotes 312312312PartsParts 363636TimeTime 3h 56m3 hours, 56 minutes3h 56mEthan unexpectedly finds himself transported into the world of Food Wars.
+                                  [The image used as cover doesn't belong to me. If you are the original owner and would like it removed, please let me know.]Food Wars: Reborn with the Ultimate Cooking TalentFood Wars: Reborn with the Ultimate Cooking TalentOngoingOngoingReadsReads 6,7646,7646.7KVotesVotes 312312312PartsParts 363636TimeTime 3h 56m3 hours, 56 minutes3h 56mEthan unexpectedly finds himself transported into the world of Food Wars.
                                   
                                   There, through the power of a mysterious system, he can obtain rare fantasy ingredients: Jewel Meat, Rainbow Fruit, Scare Apples, Gala Gators, BB Corn, Century Soup, and countless other irresistible delicacies.
                                   
