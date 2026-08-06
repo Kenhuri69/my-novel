@@ -15,10 +15,10 @@
 - **Statut** : Inconnu
 - **Genre** : Fantasy
 - **Date d'ajout** : 2026-08-06
-- **Score de pertinence** : 5/5 (Très haute)
+- **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'gourmet isekai' sur Wattpad.
+Trouvé via la recherche 'gourmet' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -30,4 +30,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-gourmet isekai
+gourmet
