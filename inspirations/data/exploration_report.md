@@ -1,6 +1,6 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-06 11:11:37
+**Date** : 2026-08-06 11:13:17
 
 ## Résumé
 
@@ -1340,19 +1340,19 @@
 - **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
 - **Fichier** : inspirations/data/The Last Dish.md
 
-### The Honey Dish Rhapsody Fan translation to english (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/386606800
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
-- **Fichier** : inspirations/data/The Honey Dish Rhapsody Fan translation to english.md
-
 ### His Childish Wife - Thv FF (Score: 3/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/314341900
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
 - **Fichier** : inspirations/data/His Childish Wife - Thv FF.md
+
+### The Honey Dish Rhapsody Fan translation to english (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/386606800
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'dish' sur Wattpad....
+- **Fichier** : inspirations/data/The Honey Dish Rhapsody Fan translation to english.md
 
 ### A dish best served cold (Score: 3/5)
 - **Source** : wattpad
@@ -1606,19 +1606,19 @@
 - **Résumé** : Trouvé via la recherche 'taste' sur Wattpad....
 - **Fichier** : inspirations/data/The Taste of Home.md
 
-### The Taste of Solitude (Score: 3/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/297876685
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'taste' sur Wattpad....
-- **Fichier** : inspirations/data/The Taste of Solitude.md
-
 ### Taste Changbin (Score: 3/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/336925306
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'taste' sur Wattpad....
 - **Fichier** : inspirations/data/Taste Changbin.md
+
+### The Taste of Solitude (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/297876685
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'taste' sur Wattpad....
+- **Fichier** : inspirations/data/The Taste of Solitude.md
 
 ### A Taste Of Mactan Midnight (Score: 3/5)
 - **Source** : wattpad

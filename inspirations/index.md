@@ -2,7 +2,7 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-06 11:11:37
+**Date** : 2026-08-06 11:13:17
 **Novels trouvés** : 234
 **Score minimum** : 1/5
 
@@ -1526,21 +1526,21 @@
 - **Fichier** : [The Last Dish.md](data/The Last Dish.md)
 - **Lien** : https://www.wattpad.com/story/378915028
 
-### 189. The Honey Dish Rhapsody Fan translation to english ⭐⭐⭐
-- **Auteur** : Inconnu
-- **Source** : wattpad
-- **Thème** : Fantasy
-- **Score** : 3/5
-- **Fichier** : [The Honey Dish Rhapsody Fan translation to english.md](data/The Honey Dish Rhapsody Fan translation to english.md)
-- **Lien** : https://www.wattpad.com/story/386606800
-
-### 190. His Childish Wife - Thv FF ⭐⭐⭐
+### 189. His Childish Wife - Thv FF ⭐⭐⭐
 - **Auteur** : Inconnu
 - **Source** : wattpad
 - **Thème** : Fantasy
 - **Score** : 3/5
 - **Fichier** : [His Childish Wife - Thv FF.md](data/His Childish Wife - Thv FF.md)
 - **Lien** : https://www.wattpad.com/story/314341900
+
+### 190. The Honey Dish Rhapsody Fan translation to english ⭐⭐⭐
+- **Auteur** : Inconnu
+- **Source** : wattpad
+- **Thème** : Fantasy
+- **Score** : 3/5
+- **Fichier** : [The Honey Dish Rhapsody Fan translation to english.md](data/The Honey Dish Rhapsody Fan translation to english.md)
+- **Lien** : https://www.wattpad.com/story/386606800
 
 ### 191. A dish best served cold ⭐⭐⭐
 - **Auteur** : Inconnu
@@ -1830,21 +1830,21 @@
 - **Fichier** : [The Taste of Home.md](data/The Taste of Home.md)
 - **Lien** : https://www.wattpad.com/story/294535885
 
-### 227. The Taste of Solitude ⭐⭐⭐
-- **Auteur** : Inconnu
-- **Source** : wattpad
-- **Thème** : Fantasy
-- **Score** : 3/5
-- **Fichier** : [The Taste of Solitude.md](data/The Taste of Solitude.md)
-- **Lien** : https://www.wattpad.com/story/297876685
-
-### 228. Taste Changbin ⭐⭐⭐
+### 227. Taste Changbin ⭐⭐⭐
 - **Auteur** : Inconnu
 - **Source** : wattpad
 - **Thème** : Fantasy
 - **Score** : 3/5
 - **Fichier** : [Taste Changbin.md](data/Taste Changbin.md)
 - **Lien** : https://www.wattpad.com/story/336925306
+
+### 228. The Taste of Solitude ⭐⭐⭐
+- **Auteur** : Inconnu
+- **Source** : wattpad
+- **Thème** : Fantasy
+- **Score** : 3/5
+- **Fichier** : [The Taste of Solitude.md](data/The Taste of Solitude.md)
+- **Lien** : https://www.wattpad.com/story/297876685
 
 ### 229. A Taste Of Mactan Midnight ⭐⭐⭐
 - **Auteur** : Inconnu
