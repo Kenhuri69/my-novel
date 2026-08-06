@@ -10,7 +10,7 @@
 - **Score de pertinence** : 3/5 (Moyenne)
 
 ## Résumé
-Trouvé via la recherche 'food fantasy' sur Wattpad.
+Trouvé via la recherche 'cuisine fantasy' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -22,4 +22,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-food fantasy
+cuisine fantasy
