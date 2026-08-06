@@ -6,7 +6,7 @@
 - **URL** : https://www.fanmtl.com/novel/kks39605_1.html
 - **Statut** : En cours
 - **Genre** : Fantasy, Isekai, Culinary
-- **Date d'ajout** : 2026-08-04
+- **Date d'ajout** : 2026-08-06
 - **Score de pertinence** : 5/5 (Très haute)
 
 ## Résumé

@@ -1,4 +1,4 @@
-# The Mafia's childish BrideThe Mafia's childish BrideCompleteCompleteReadsReads 771,873771,873771KVotesVotes 31,22431,22431.2KPartsParts 393939TimeTime 5h 16m5 hours, 16 minutes5h 16mVihaan Raichand (The Cold Mafia )
+# The Mafia's childish BrideThe Mafia's childish BrideCompleteCompleteReadsReads 771,879771,879771KVotesVotes 31,22431,22431.2KPartsParts 393939TimeTime 5h 16m5 hours, 16 minutes5h 16mVihaan Raichand (The Cold Mafia )
                                   "I've killed for less.
                                   But for my wife, I'll kneel-without hesitation.
                                   And those who dare raise their voice against her...
@@ -38,7 +38,7 @@
                                   
                                   Ruhanika doesn't understand the darkness he walks through-but she doesn't have to. She just smiles, and he's willing to burn the world to keep that light in her eyes. To him, she's not broken. She's his. And that's enough. He calls her his doll. She calls him her hero. And in their fragile, unspoken way, they've built a love that even fate dares not touch.
                                   
-                                  #SoftRomance #ProtectiveLove #HeLovesHerSoftly #GentleObsession #HisRuhuu #TenderDevotion #MafiaWithAHeart #ChildlikeBride #HisOnlyPeace #WholesomeButIntenseThe Mafia's childish BrideThe Mafia's childish BrideCompleteCompleteReadsReads 771,873771,873771KVotesVotes 31,22431,22431.2KPartsParts 393939TimeTime 5h 16m5 hours, 16 minutes5h 16mVihaan Raichand (The Cold Mafia )
+                                  #SoftRomance #ProtectiveLove #HeLovesHerSoftly #GentleObsession #HisRuhuu #TenderDevotion #MafiaWithAHeart #ChildlikeBride #HisOnlyPeace #WholesomeButIntenseThe Mafia's childish BrideThe Mafia's childish BrideCompleteCompleteReadsReads 771,879771,879771KVotesVotes 31,22431,22431.2KPartsParts 393939TimeTime 5h 16m5 hours, 16 minutes5h 16mVihaan Raichand (The Cold Mafia )
                                   "I've killed for less.
                                   But for my wife, I'll kneel-without hesitation.
                                   And those who dare raise their voice against her...
