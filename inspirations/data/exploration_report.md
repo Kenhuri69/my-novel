@@ -1,10 +1,10 @@
 # Rapport d'exploration - Novels Fantastique Culinaire
 
-**Date** : 2026-08-06 10:28:53
+**Date** : 2026-08-06 10:29:54
 
 ## Résumé
 
-- **Novels trouvés** : 69
+- **Novels trouvés** : 140
 - **Sites explorés** : 1
 - **Sites inaccessibles** : 0
 
@@ -12,7 +12,7 @@
 
 | Site | Statut | Novels trouvés |
 |------|--------|----------------|
-| wattpad | ✅ | 82 |
+| wattpad | ✅ | 165 |
 
 ## Novels détaillés
 
@@ -219,6 +219,25 @@
 - **Résumé** : Trouvé via la recherche 'chef fantasy' sur Wattpad....
 - **Fichier** : inspirations/data/The-Watering-HoleThe-Watering-HoleCompleteCompleteReads.md
 
+### The Taste of HomeThe Taste of HomeCompleteCompleteReadsReads 58,68958,68958.6KVotesVotes 9,5169,5169.5KPartsParts 454545TimeTime 5h 54m5 hours, 54 minutes5h 54mGoat sucker. Overgrown lizard. Monster. Miguel is all too familiar with the many names humans have for chupacabras. As a member of a struggling pack, he knows how unfair the world can be to his kind. With their scaly bodies, sharp claws, and flesh-melting venom, it's no wonder humans fear them.
+                                  
+                                  After Miguel protects a human from his pack leader at the only restaurant that caters to chupacabras, his life takes a turn for the strange when he is offered a job as a chef. Adapting to the culinary chaos soon becomes the least of Miguel's worries as he finds himself falling for Alejandro, an outspoken chef who treats him with more compassion than even his own kind. But what human would ever love a chupacabra?
+                                  
+                                  With the restaurant struggling to stay afloat, inter-species tensions flaring, and Alejandro's ex serving as a constant reminder of what he can never be, will Miguel be able to take the heat, or will he be forced out of the kitchen?
+                                  
+                                  Cover by @ShyGuySamuraiThe Taste of HomeThe Taste of HomeCompleteCompleteReadsReads 58,68958,68958.6KVotesVotes 9,5169,5169.5KPartsParts 454545TimeTime 5h 54m5 hours, 54 minutes5h 54mGoat sucker. Overgrown lizard. Monster. Miguel is all too familiar with the many names humans have for chupacabras. As a member of a struggling pack, he knows how unfair the world can be to his kind. With their scaly bodies, sharp claws, and flesh-melting venom, it's no wonder humans fear them.
+                                  
+                                  After Miguel protects a human from his pack leader at the only restaurant that caters to chupacabras, his life takes a turn for the strange when he is offered a job as a chef. Adapting to the culinary chaos soon becomes the least of Miguel's worries as he finds himself falling for Alejandro, an outspoken chef who treats him with more compassion than even his own kind. But what human would ever love a chupacabra?
+                                  
+                                  With the restaurant struggling to stay afloat, inter-species tensions flaring, and Alejandro's ex serving as a constant reminder of what he can never be, will Miguel be able to take the heat, or will he be forced out of the kitchen?
+                                  
+                                  Cover by @ShyGuySamurai (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/294535885
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'chef fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/The-Taste-of-HomeThe-Taste-of-HomeCompleteCompleteReads.md
+
 ### "Dough-n't Mind If I Do!" (A KenTell AU)"Dough-n't Mind If I Do!" (A KenTell AU)CompleteCompleteReadsReads 775775775VotesVotes 127127127PartsParts 151515TimeTime 1h 35m1 hours, 35 minutes1h 35mGenre: Yaoi(BL) | Fantasy | Romance | Comedy | Food
                                   
                                   Vester Ashford was a master breadmaker in a world of magic and dragons. Until, poof! He landed in modern-day Tokyo, a place of strange metal boxes and even stranger customs. His only guide? Kentaro Hiromiya, a brilliant but icy patissier who thinks Vester's "ancient grains" are just an excuse for lumpy bread. Get ready for hilarious cultural clashes, flour-dusted disasters, and a romance that's surprisingly sweet as a perfectly baked pastry. Can a fantasy baker find love and a new home in the real world?"Dough-n't Mind If I Do!" (A KenTell AU)"Dough-n't Mind If I Do!" (A KenTell AU)CompleteCompleteReadsReads 775775775VotesVotes 127127127PartsParts 151515TimeTime 1h 35m1 hours, 35 minutes1h 35mGenre: Yaoi(BL) | Fantasy | Romance | Comedy | Food
@@ -365,25 +384,6 @@
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'culinary fantasy' sur Wattpad....
 - **Fichier** : inspirations/data/Ascended-into-Goddess-of-Culinary-After-Crying-in-Front-of-The-Ancient-TreeAscen.md
-
-### The Taste of HomeThe Taste of HomeCompleteCompleteReadsReads 58,68958,68958.6KVotesVotes 9,5169,5169.5KPartsParts 454545TimeTime 5h 54m5 hours, 54 minutes5h 54mGoat sucker. Overgrown lizard. Monster. Miguel is all too familiar with the many names humans have for chupacabras. As a member of a struggling pack, he knows how unfair the world can be to his kind. With their scaly bodies, sharp claws, and flesh-melting venom, it's no wonder humans fear them.
-                                  
-                                  After Miguel protects a human from his pack leader at the only restaurant that caters to chupacabras, his life takes a turn for the strange when he is offered a job as a chef. Adapting to the culinary chaos soon becomes the least of Miguel's worries as he finds himself falling for Alejandro, an outspoken chef who treats him with more compassion than even his own kind. But what human would ever love a chupacabra?
-                                  
-                                  With the restaurant struggling to stay afloat, inter-species tensions flaring, and Alejandro's ex serving as a constant reminder of what he can never be, will Miguel be able to take the heat, or will he be forced out of the kitchen?
-                                  
-                                  Cover by @ShyGuySamuraiThe Taste of HomeThe Taste of HomeCompleteCompleteReadsReads 58,68958,68958.6KVotesVotes 9,5169,5169.5KPartsParts 454545TimeTime 5h 54m5 hours, 54 minutes5h 54mGoat sucker. Overgrown lizard. Monster. Miguel is all too familiar with the many names humans have for chupacabras. As a member of a struggling pack, he knows how unfair the world can be to his kind. With their scaly bodies, sharp claws, and flesh-melting venom, it's no wonder humans fear them.
-                                  
-                                  After Miguel protects a human from his pack leader at the only restaurant that caters to chupacabras, his life takes a turn for the strange when he is offered a job as a chef. Adapting to the culinary chaos soon becomes the least of Miguel's worries as he finds himself falling for Alejandro, an outspoken chef who treats him with more compassion than even his own kind. But what human would ever love a chupacabra?
-                                  
-                                  With the restaurant struggling to stay afloat, inter-species tensions flaring, and Alejandro's ex serving as a constant reminder of what he can never be, will Miguel be able to take the heat, or will he be forced out of the kitchen?
-                                  
-                                  Cover by @ShyGuySamurai (Score: 5/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/294535885
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'restaurant fantasy' sur Wattpad....
-- **Fichier** : inspirations/data/The-Taste-of-HomeThe-Taste-of-HomeCompleteCompleteReads.md
 
 ### Dad's Restaurant In Another World 2Dad's Restaurant In Another World 2CompleteCompleteReadsReads 68,34368,34368.3KVotesVotes 4,0194,0194KPartsParts 200200200TimeTime 21h 24m21 hours, 24 minutes21h 24mPart 1 COMPLETED
                                   Part 2 COMPLETED
@@ -789,29 +789,6 @@
 - **Résumé** : Trouvé via la recherche 'chef isekai' sur Wattpad....
 - **Fichier** : inspirations/data/The-Strongest-Hero-Is-Obsessed-with-My-CookingThe-Strongest-Hero-Is-Obsessed-wit.md
 
-### The Royal Chef of the Forgotten KingdomThe Royal Chef of the Forgotten KingdomOngoingOngoingReadsReads 181818VotesVotes 111PartsParts 444TimeTime 12m0 hours, 12 minutes12mAfter dying from exhaustion as a talented young chef, Aiden Cross wakes up in the body of a starving commoner in a forgotten kingdom on the brink of collapse.
-                                  The people have forgotten how to grow crops properly. Their food is bland, diseases are spreading, and the royal family is desperate to save the nation.
-                                  Armed with memories from his previous life, Aiden begins introducing better farming methods, balanced nutrition, and delicious recipes no one in this world has ever tasted.
-                                  But every meal he creates unlocks mysterious magic hidden within ancient ingredients.
-                                  Soon, nobles want to use him.
-                                  Kings want to hire him.
-                                  Enemies want to eliminate him.
-                                  And the cold, beautiful Princess Elara refuses to believe one chef can change the fate of an entire kingdom... until he changes hers.
-                                  Can a simple chef save a dying empire one meal at a time?The Royal Chef of the Forgotten KingdomThe Royal Chef of the Forgotten KingdomOngoingOngoingReadsReads 181818VotesVotes 111PartsParts 444TimeTime 12m0 hours, 12 minutes12mAfter dying from exhaustion as a talented young chef, Aiden Cross wakes up in the body of a starving commoner in a forgotten kingdom on the brink of collapse.
-                                  The people have forgotten how to grow crops properly. Their food is bland, diseases are spreading, and the royal family is desperate to save the nation.
-                                  Armed with memories from his previous life, Aiden begins introducing better farming methods, balanced nutrition, and delicious recipes no one in this world has ever tasted.
-                                  But every meal he creates unlocks mysterious magic hidden within ancient ingredients.
-                                  Soon, nobles want to use him.
-                                  Kings want to hire him.
-                                  Enemies want to eliminate him.
-                                  And the cold, beautiful Princess Elara refuses to believe one chef can change the fate of an entire kingdom... until he changes hers.
-                                  Can a simple chef save a dying empire one meal at a time? (Score: 5/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/414177725
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'chef isekai' sur Wattpad....
-- **Fichier** : inspirations/data/The-Royal-Chef-of-the-Forgotten-KingdomThe-Royal-Chef-of-the-Forgotten-KingdomOn.md
-
 ### A Dash of Destiny: Yoko the ChefA Dash of Destiny: Yoko the ChefCompleteCompleteReadsReads 121121121VotesVotes 000PartsParts 161616TimeTime 1h 20m1 hours, 20 minutes1h 20mIn A Dash of Destiny: Yoko the Chef, 38-year-old Yoko, a hardworking yet bullied chef, finds herself in a fantasy realm after a heroic act leads to her untimely demise. Gifted a second chance by a charming God, she reincarnates as a master chef with the power to transform magical ingredients into extraordinary dishes. With each culinary challenge, Yoko discovers unexpected friendships, hilarious misadventures, and the true meaning of destiny, proving that sometimes, a sprinkle of courage and creativity can change everything!A Dash of Destiny: Yoko the ChefA Dash of Destiny: Yoko the ChefCompleteCompleteReadsReads 121121121VotesVotes 000PartsParts 161616TimeTime 1h 20m1 hours, 20 minutes1h 20mIn A Dash of Destiny: Yoko the Chef, 38-year-old Yoko, a hardworking yet bullied chef, finds herself in a fantasy realm after a heroic act leads to her untimely demise. Gifted a second chance by a charming God, she reincarnates as a master chef with the power to transform magical ingredients into extraordinary dishes. With each culinary challenge, Yoko discovers unexpected friendships, hilarious misadventures, and the true meaning of destiny, proving that sometimes, a sprinkle of courage and creativity can change everything! (Score: 5/5)
 - **Source** : wattpad
 - **URL** : https://www.wattpad.com/story/379873185
@@ -1032,6 +1009,13 @@
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
 - **Fichier** : inspirations/data/A-Lifetime-Together-pure-vanilla-x-readerA-Lifetime-Together-pure-vanilla-x-read.md
+
+### Kirby Right Back At Ya! A New Chef Enters The Ring! Inverted FateKirby Right Back At Ya! A New Chef Enters The Ring! Inverted FateCompleteCompleteReadsReads 149149149VotesVotes 111PartsParts 444TimeTime 24m0 hours, 24 minutes24mEver since I first saw the episode of the Kirby anime, Cooking Up Trouble! I always wondered to myself how things would have been different if Meta Knight entered the cooking competition Dedede was hosting after Blade and Sword convinced him his cooking was beyond compare. So, I wrote this story based on how I think those events would have played out in the anime setting.Kirby Right Back At Ya! A New Chef Enters The Ring! Inverted FateKirby Right Back At Ya! A New Chef Enters The Ring! Inverted FateCompleteCompleteReadsReads 149149149VotesVotes 111PartsParts 444TimeTime 24m0 hours, 24 minutes24mEver since I first saw the episode of the Kirby anime, Cooking Up Trouble! I always wondered to myself how things would have been different if Meta Knight entered the cooking competition Dedede was hosting after Blade and Sword convinced him his cooking was beyond compare. So, I wrote this story based on how I think those events would have played out in the anime setting. (Score: 5/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/276729839
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Kirby-Right-Back-At-Ya-A-New-Chef-Enters-The-Ring-Inverted-FateKirby-Right-Back-.md
 
 ### Frozen Soul - CRK AUFrozen Soul - CRK AUCompleteCompleteReadsReads 1,5051,5051.5KVotesVotes 363636PartsParts 101010TimeTime 51m0 hours, 51 minutes51m[DISCONTINUED]
                                   
@@ -1529,6 +1513,17 @@
 - **Résumé** : Trouvé via la recherche 'cooking romance' sur Wattpad....
 - **Fichier** : inspirations/data/Christmas-CookiesChristmas-CookiesCompleteCompleteReads.md
 
+### Clotted Cream Cookie x ReaderClotted Cream Cookie x ReaderCompleteCompleteReadsReads 7,9787,9787.9KVotesVotes 999999PartsParts 888TimeTime 1h 47m1 hours, 47 minutes1h 47mEither a romance story or a x Reader story. Up to you.
+                                  
+                                  Credits to Cookie Run Kingdom.Clotted Cream Cookie x ReaderClotted Cream Cookie x ReaderCompleteCompleteReadsReads 7,9787,9787.9KVotesVotes 999999PartsParts 888TimeTime 1h 47m1 hours, 47 minutes1h 47mEither a romance story or a x Reader story. Up to you.
+                                  
+                                  Credits to Cookie Run Kingdom. (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/319066789
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Clotted-Cream-Cookie-x-ReaderClotted-Cream-Cookie-x-ReaderCompleteCompleteReads.md
+
 ### Cookie run kingdom × OC Female readerCookie run kingdom × OC Female readerCompleteCompleteReadsReads 6,9906,9906.9KVotesVotes 118118118PartsParts 191919TimeTime 37m0 hours, 37 minutes37mThis story is about you.
                                   
                                   
@@ -2000,17 +1995,6 @@
 - **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
 - **Fichier** : inspirations/data/ʜᴇ-ᴡᴀꜱ-ᴀ-ÄR-ʜᴇ-ᴡᴀꜱ-ᴀ-ÄR-CompleteCompleteReads.md
 
-### Clotted Cream Cookie x ReaderClotted Cream Cookie x ReaderCompleteCompleteReadsReads 7,9787,9787.9KVotesVotes 999999PartsParts 888TimeTime 1h 47m1 hours, 47 minutes1h 47mEither a romance story or a x Reader story. Up to you.
-                                  
-                                  Credits to Cookie Run Kingdom.Clotted Cream Cookie x ReaderClotted Cream Cookie x ReaderCompleteCompleteReadsReads 7,9787,9787.9KVotesVotes 999999PartsParts 888TimeTime 1h 47m1 hours, 47 minutes1h 47mEither a romance story or a x Reader story. Up to you.
-                                  
-                                  Credits to Cookie Run Kingdom. (Score: 4/5)
-- **Source** : wattpad
-- **URL** : https://www.wattpad.com/story/319066789
-- **Genre** : Fantasy
-- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
-- **Fichier** : inspirations/data/Clotted-Cream-Cookie-x-ReaderClotted-Cream-Cookie-x-ReaderCompleteCompleteReads.md
-
 ### A Fallen Cheesebird - A CRK Fanfic (with Goldencacao)A Fallen Cheesebird - A CRK Fanfic (with Goldencacao)CompleteCompleteReadsReads 21,40821,40821.4KVotesVotes 350350350PartsParts 106106106TimeTime 8h 45m8 hours, 45 minutes8h 45mGolden Cheese loved flying. Her soul jam gave her wings that were connected to her in dough. Ever since then, she loves flying, and using her powers to help all those around her.
                                   
                                   However, a traumatic accident that could've been avoided might be the reason why she will never fly again.
@@ -2110,4 +2094,1109 @@
 - **Genre** : Fantasy
 - **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
 - **Fichier** : inspirations/data/Prince-Vorkkens-Food-AdventurePrince-Vorkkens-Food-AdventureCompleteCompleteRead.md
+
+### Cooking is Murder,  A Myrtle Clover Mystery #11Cooking is Murder,  A Myrtle Clover Mystery #11CompleteCompleteReadsReads 38,94338,94338.9KVotesVotes 3,3913,3913.3KPartsParts 212121TimeTime 4h 41m4 hours, 41 minutes4h 41mMyrtle has decided that she's actually a very good cook. In fact, she feels she's such a good cook that she elects to hone her skills at a cooking school.  She persuades her reluctant friend Miles to join her, convinced they both could use some inspiration in the kitchen.
+                                  
+                                  This cooking school enrolls one rather loudmouth student who quickly makes everyone fed-up. This unfortunate student, fond of telling tales out of school, learns that one man's meat is another man's poison.  Myrtle and Miles must use class act detecting skills to learn who's been schooled in murder before someone else's goose gets cooked.Cooking is Murder,  A Myrtle Clover Mystery #11Cooking is Murder,  A Myrtle Clover Mystery #11CompleteCompleteReadsReads 38,94338,94338.9KVotesVotes 3,3913,3913.3KPartsParts 212121TimeTime 4h 41m4 hours, 41 minutes4h 41mMyrtle has decided that she's actually a very good cook. In fact, she feels she's such a good cook that she elects to hone her skills at a cooking school.  She persuades her reluctant friend Miles to join her, convinced they both could use some inspiration in the kitchen.
+                                  
+                                  This cooking school enrolls one rather loudmouth student who quickly makes everyone fed-up. This unfortunate student, fond of telling tales out of school, learns that one man's meat is another man's poison.  Myrtle and Miles must use class act detecting skills to learn who's been schooled in murder before someone else's goose gets cooked. (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/195827888
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/Cooking-is-Murder-A-Myrtle-Clover-Mystery-11Cooking-is-Murder-A-Myrtle-Clover-My.md
+
+### Dimwit || Shinomiya KojiroDimwit || Shinomiya KojiroCompleteCompleteReadsReads 51,23051,23051.2KVotesVotes 1,4391,4391.4KPartsParts 151515TimeTime 1h 34m1 hours, 34 minutes1h 34mShinomiya Kojiro X OC
+                                  
+                                  Ishikawa Juno, a first-year transfer student from the countryside, is slightly clumsy and sometimes dim-witted, but in the kitchen, she is swift and unmatched by her peers. When she transfers to Totsuki, everyone immediately looks down at her, but her cooking prowess proves everyone wrong. As she pursues cooking, she delves deeper into the mystery of what happened with her parents. During her high school cooking life, she meets Shinomiya Kojiro and although they start off to a rocky start, they become something more than just senpai and kouhai.
+                                  
+                                  This takes place prior to the anime, so everyone in the 80th generation is still in Totsuki.
+                                  
+                                  Requested by a friend~Dimwit || Shinomiya KojiroDimwit || Shinomiya KojiroCompleteCompleteReadsReads 51,23051,23051.2KVotesVotes 1,4391,4391.4KPartsParts 151515TimeTime 1h 34m1 hours, 34 minutes1h 34mShinomiya Kojiro X OC
+                                  
+                                  Ishikawa Juno, a first-year transfer student from the countryside, is slightly clumsy and sometimes dim-witted, but in the kitchen, she is swift and unmatched by her peers. When she transfers to Totsuki, everyone immediately looks down at her, but her cooking prowess proves everyone wrong. As she pursues cooking, she delves deeper into the mystery of what happened with her parents. During her high school cooking life, she meets Shinomiya Kojiro and although they start off to a rocky start, they become something more than just senpai and kouhai.
+                                  
+                                  This takes place prior to the anime, so everyone in the 80th generation is still in Totsuki.
+                                  
+                                  Requested by a friend~ (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/236394219
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/Dimwit-Shinomiya-KojiroDimwit-Shinomiya-KojiroCompleteCompleteReads.md
+
+### Secret of the Sugar FlareSecret of the Sugar FlareCompleteCompleteReadsReads 5,4325,4325.4KVotesVotes 707070PartsParts 212121TimeTime 9h 42m9 hours, 42 minutes9h 42mPrincess of the Vanilla Kingdom, Meringue Cookie, naïve and innocent, whose birth was the biggest mystery of all of Earthbread, was so unprepared for the tragedy that befell her during the Dark Flour War. However, years later, when a ragtag team of tough Cookies break the seal of the Dark Moonstone, the same evil being Meringue Cookie was forced to contain is released as well. Now, free once again, she is determined to discover what sets her apart from other Cookies. Will Meringue Cookie ever discover the truth behind her origins? Or will the devastating power of the magic within her once again be the catalyst that destroys everything she's ever known?Secret of the Sugar FlareSecret of the Sugar FlareCompleteCompleteReadsReads 5,4325,4325.4KVotesVotes 707070PartsParts 212121TimeTime 9h 42m9 hours, 42 minutes9h 42mPrincess of the Vanilla Kingdom, Meringue Cookie, naïve and innocent, whose birth was the biggest mystery of all of Earthbread, was so unprepared for the tragedy that befell her during the Dark Flour War. However, years later, when a ragtag team of tough Cookies break the seal of the Dark Moonstone, the same evil being Meringue Cookie was forced to contain is released as well. Now, free once again, she is determined to discover what sets her apart from other Cookies. Will Meringue Cookie ever discover the truth behind her origins? Or will the devastating power of the magic within her once again be the catalyst that destroys everything she's ever known? (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/329453428
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/Secret-of-the-Sugar-FlareSecret-of-the-Sugar-FlareCompleteCompleteReads.md
+
+### Taste of Love (Part 2)Taste of Love (Part 2)CompleteCompleteReadsReads 18,11518,11518.1KVotesVotes 318318318PartsParts 151515TimeTime 52m0 hours, 52 minutes52m4 years have passed since the mystery at KISSWorld. Cleo and Demon have been together since then. The time has finally come for Cleo to know the truth.  When the gang goes on vacation to Fred's uncle's culinary resort, the gang must solve a centuries old mystery surrounding the Red Ghost. How will Cleo react when Demon tells her they're soul mates? Will she be able to help the gang solve the mystery? Read and find out. (Sorry if summary is sucky! Couldn't think of a better one!)Taste of Love (Part 2)Taste of Love (Part 2)CompleteCompleteReadsReads 18,11518,11518.1KVotesVotes 318318318PartsParts 151515TimeTime 52m0 hours, 52 minutes52m4 years have passed since the mystery at KISSWorld. Cleo and Demon have been together since then. The time has finally come for Cleo to know the truth.  When the gang goes on vacation to Fred's uncle's culinary resort, the gang must solve a centuries old mystery surrounding the Red Ghost. How will Cleo react when Demon tells her they're soul mates? Will she be able to help the gang solve the mystery? Read and find out. (Sorry if summary is sucky! Couldn't think of a better one!) (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/197599922
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/Taste-of-Love-Part-2Taste-of-Love-Part-2CompleteCompleteReads.md
+
+### Bakugo vs. Midoriya Cooking CompetitionBakugo vs. Midoriya Cooking CompetitionCompleteCompleteReadsReads 141414VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 3 minutes<5 minsCredit to @KapUnivers for the AU, this is the cooking competition that happened in one of the chapters (not canon in the book, I just made it all up for my own entertainment). Be sure to go check out the story (Pushing Onwards) for more info on the AU, it's really awesome. This still (mostly) makes sense without reading it, but it's still a great story.
+                                  
+                                  !!! I do not own My Hero Academia or any of the characters, all I own is the plot !!!
+                                  !!! Cover art isn't mine !!!Bakugo vs. Midoriya Cooking CompetitionBakugo vs. Midoriya Cooking CompetitionCompleteCompleteReadsReads 141414VotesVotes 111PartsParts 111TimeTime <5 mins0 hours, 3 minutes<5 minsCredit to @KapUnivers for the AU, this is the cooking competition that happened in one of the chapters (not canon in the book, I just made it all up for my own entertainment). Be sure to go check out the story (Pushing Onwards) for more info on the AU, it's really awesome. This still (mostly) makes sense without reading it, but it's still a great story.
+                                  
+                                  !!! I do not own My Hero Academia or any of the characters, all I own is the plot !!!
+                                  !!! Cover art isn't mine !!! (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/314772456
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Bakugo-vs-Midoriya-Cooking-CompetitionBakugo-vs-Midoriya-Cooking-CompetitionComp.md
+
+### Easy Peasy, Extra CheesyEasy Peasy, Extra CheesyCompleteCompleteReadsReads 3,5733,5733.5KVotesVotes 712712712PartsParts 202020TimeTime 3h 19m3 hours, 19 minutes3h 19mWhen Brie lands a spot on Cheese Whiz, a cheese-themed cooking competition, the last thing she expects is to run into Colby Jackson, the man who left her heart with more holes than Swiss cheese.
+                                  
+                                  ~~~
+                                  
+                                  It was supposed to be simple. Enter the contest, win the prize money, open her own restaurant. Easy peasy, extra cheesy.
+                                  
+                                  So of course Colby freaking Jackson and his smug, entirely too sexy face just had to come back into Brie's life like an extra stinky wheel of limburger cheese.
+                                  
+                                  Surrounded by fierce competitors and legendary amounts of dairy, Brie and Colby exchange barbs sharper than any cheddar. Yet, as the competition heats up, Brie quickly discovers the mozzarella isn't the only thing melting. Against her better judgment, Colby is once again worming his way into her heart.
+                                  
+                                  Will Brie find a whey to make things work between them, or will he leave her feeling bleu?
+                                  
+                                  🧀 Rivals to lovers
+                                  🧀 Second chance romance
+                                  🧀 All puns are fully intended
+                                  
+                                  Using prompts 29 and 89 for ONC 2026!
+                                  
+                                  Cover and banner by @-DeeIsDead-Easy Peasy, Extra CheesyEasy Peasy, Extra CheesyCompleteCompleteReadsReads 3,5733,5733.5KVotesVotes 712712712PartsParts 202020TimeTime 3h 19m3 hours, 19 minutes3h 19mWhen Brie lands a spot on Cheese Whiz, a cheese-themed cooking competition, the last thing she expects is to run into Colby Jackson, the man who left her heart with more holes than Swiss cheese.
+                                  
+                                  ~~~
+                                  
+                                  It was supposed to be simple. Enter the contest, win the prize money, open her own restaurant. Easy peasy, extra cheesy.
+                                  
+                                  So of course Colby freaking Jackson and his smug, entirely too sexy face just had to come back into Brie's life like an extra stinky wheel of limburger cheese.
+                                  
+                                  Surrounded by fierce competitors and legendary amounts of dairy, Brie and Colby exchange barbs sharper than any cheddar. Yet, as the competition heats up, Brie quickly discovers the mozzarella isn't the only thing melting. Against her better judgment, Colby is once again worming his way into her heart.
+                                  
+                                  Will Brie find a whey to make things work between them, or will he leave her feeling bleu?
+                                  
+                                  🧀 Rivals to lovers
+                                  🧀 Second chance romance
+                                  🧀 All puns are fully intended
+                                  
+                                  Using prompts 29 and 89 for ONC 2026!
+                                  
+                                  Cover and banner by @-DeeIsDead- (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/407575621
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Easy-Peasy-Extra-CheesyEasy-Peasy-Extra-CheesyCompleteCompleteReads.md
+
+### Chew ✔Chew ✔CompleteCompleteReadsReads 337,344337,344337KVotesVotes 13,85913,85913.8KPartsParts 404040TimeTime 4h 30m4 hours, 30 minutes4h 30m• Highest Ranking #1 in Bulimia •
+                                   •Highest Ranking #1 in Free Mental Illness •
+                                  
+                                  He's a quarterback struggling with a secret eating disorder that's destroying his life.
+                                  
+                                  She's a food-fanatic who loves every curve in her beautiful body.
+                                  
+                                  When their school is entered into Food Networks, "Chew With Schools" television cooking competition- Cira and Will are teamed up, and the crazy thing is. They might actually win.Chew ✔Chew ✔CompleteCompleteReadsReads 337,344337,344337KVotesVotes 13,85913,85913.8KPartsParts 404040TimeTime 4h 30m4 hours, 30 minutes4h 30m• Highest Ranking #1 in Bulimia •
+                                   •Highest Ranking #1 in Free Mental Illness •
+                                  
+                                  He's a quarterback struggling with a secret eating disorder that's destroying his life.
+                                  
+                                  She's a food-fanatic who loves every curve in her beautiful body.
+                                  
+                                  When their school is entered into Food Networks, "Chew With Schools" television cooking competition- Cira and Will are teamed up, and the crazy thing is. They might actually win. (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/141699395
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Chew-Chew-CompleteCompleteReads.md
+
+### Baking In DecemberBaking In DecemberCompleteCompleteReadsReads 48,25348,25348.2KVotesVotes 3,6443,6443.6KPartsParts 272727TimeTime 1h 18m1 hours, 18 minutes1h 18m@Nelli0212 gave me the idea to write a Christmas story where Harry owns a bakery and Louis wins a competition and gets to learn how to bake every day until Christmas. 
+                                  
+                                  Louis can't believe it! His sisters signed him up for a competition at some bakery and they won! Now he has to spend every day of December baking something with a random dude. Except, the random dude is named Harry and he's hot! Louis realises that this Christmas might be extra special!
+                                  
+                                  This is my Larry Christmas Calendar 2023. I will post one chapter every day until Christmas. Merry Christmas! ♥️Baking In DecemberBaking In DecemberCompleteCompleteReadsReads 48,25348,25348.2KVotesVotes 3,6443,6443.6KPartsParts 272727TimeTime 1h 18m1 hours, 18 minutes1h 18m@Nelli0212 gave me the idea to write a Christmas story where Harry owns a bakery and Louis wins a competition and gets to learn how to bake every day until Christmas. 
+                                  
+                                  Louis can't believe it! His sisters signed him up for a competition at some bakery and they won! Now he has to spend every day of December baking something with a random dude. Except, the random dude is named Harry and he's hot! Louis realises that this Christmas might be extra special!
+                                  
+                                  This is my Larry Christmas Calendar 2023. I will post one chapter every day until Christmas. Merry Christmas! ♥️ (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/355863932
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Baking-In-DecemberBaking-In-DecemberCompleteCompleteReads.md
+
+### CHEF-JEONCHEF-JEONCompleteCompleteReadsReads 271271271VotesVotes 131313PartsParts 333TimeTime 1h 55m1 hours, 55 minutes1h 55mJungkook is a cafe chef-quiet, disciplined, and known to everyone as cold as ice.
+                                  But those who truly know him understand... he isn't like that at all.
+                                  
+                                  Tae is a lively host who knows nothing about cooking.
+                                  Yet a show brings them into the same world.
+                                  
+                                  Two completely different lives cross paths  and slowly, everything begins to change.......CHEF-JEONCHEF-JEONCompleteCompleteReadsReads 271271271VotesVotes 131313PartsParts 333TimeTime 1h 55m1 hours, 55 minutes1h 55mJungkook is a cafe chef-quiet, disciplined, and known to everyone as cold as ice.
+                                  But those who truly know him understand... he isn't like that at all.
+                                  
+                                  Tae is a lively host who knows nothing about cooking.
+                                  Yet a show brings them into the same world.
+                                  
+                                  Two completely different lives cross paths  and slowly, everything begins to change....... (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/408701108
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/CHEF-JEONCHEF-JEONCompleteCompleteReads.md
+
+### Street Heat (MilkLove)Street Heat (MilkLove)CompleteCompleteReadsReads 1,7701,7701.7KVotesVotes 195195195PartsParts 303030TimeTime 2h 44m2 hours, 44 minutes2h 44mA MilkLove Fanfiction.
+                                  
+                                  Milk Sato and Loverrukk Vega are rival food truck queens who publicly hate each other, are forced to team up for the city's biggest street food competition... only to discover their real problem isn't rivalry.
+                                  
+                                  It's the dangerous chemistry cooking between them.
+                                  
+                                  
+                                  Genre: Sapphic Romantic Comedy • Enemies-to-Lovers • Food & Culinary Rivalry • Comedy • Light Drama • Feel-Good RomanceStreet Heat (MilkLove)Street Heat (MilkLove)CompleteCompleteReadsReads 1,7701,7701.7KVotesVotes 195195195PartsParts 303030TimeTime 2h 44m2 hours, 44 minutes2h 44mA MilkLove Fanfiction.
+                                  
+                                  Milk Sato and Loverrukk Vega are rival food truck queens who publicly hate each other, are forced to team up for the city's biggest street food competition... only to discover their real problem isn't rivalry.
+                                  
+                                  It's the dangerous chemistry cooking between them.
+                                  
+                                  
+                                  Genre: Sapphic Romantic Comedy • Enemies-to-Lovers • Food & Culinary Rivalry • Comedy • Light Drama • Feel-Good Romance (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/408913202
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Street-Heat-MilkLoveStreet-Heat-MilkLoveCompleteCompleteReads.md
+
+### Undercover HeatUndercover HeatCompleteCompleteReadsReads 2,1422,1422.1KVotesVotes 113113113PartsParts 222222TimeTime 2h 54m2 hours, 54 minutes2h 54mAn electrifying cooking competition where secrets simmer and sparks fly.
+                                  
+                                  When culinary genius Derek Hale steps into the kitchen as a ruthless judge, no one expects the intense chemistry that will ignite between him and the fiery, quick-witted contestant Stiles Stilinski. As the pressure mounts, sabotage threatens to tear the competition-and their fragile alliance-apart.
+                                  
+                                  With every dish they create, their rivalry deepens into something more complicated: a slow burn of desire, trust, and unexpected partnership. But when the stakes turn deadly serious, they'll have to decide if winning is worth risking everything... including their hearts.
+                                  
+                                  Sharp banter, sizzling tension, and mouthwatering food combine in this slow-burn Sterek AU that will keep you hooked from the first taste to the final bite.Undercover HeatUndercover HeatCompleteCompleteReadsReads 2,1422,1422.1KVotesVotes 113113113PartsParts 222222TimeTime 2h 54m2 hours, 54 minutes2h 54mAn electrifying cooking competition where secrets simmer and sparks fly.
+                                  
+                                  When culinary genius Derek Hale steps into the kitchen as a ruthless judge, no one expects the intense chemistry that will ignite between him and the fiery, quick-witted contestant Stiles Stilinski. As the pressure mounts, sabotage threatens to tear the competition-and their fragile alliance-apart.
+                                  
+                                  With every dish they create, their rivalry deepens into something more complicated: a slow burn of desire, trust, and unexpected partnership. But when the stakes turn deadly serious, they'll have to decide if winning is worth risking everything... including their hearts.
+                                  
+                                  Sharp banter, sizzling tension, and mouthwatering food combine in this slow-burn Sterek AU that will keep you hooked from the first taste to the final bite. (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/395518126
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Undercover-HeatUndercover-HeatCompleteCompleteReads.md
+
+### I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)OngoingOngoingReadsReads 14,18114,18114.1KVotesVotes 401401401PartsParts 131313TimeTime 2h 40m2 hours, 40 minutes2h 40m(I took inspiration from vialy_MC)
+                                  ------------------------------------------------------------------------------------------------------------------------------------
+                                  Since the fourth generation of pokemon the moment you saw Regigigas you had a huge interest in him being the ace of your team in any competitive tournament since you loved his ability even if it was usesless you just loved the sensation of panic your brain gave when he was hit with a super effective attack but that didn't stop your fav pokemon to won some tournaments along your team of the others members of the Regis
+                                  
+                                  But one day a friend show you this game about cookies going in an adventure to get a crown and manage a Kingdom even though at first it didn't pick your interest but after some problems with your own parents you found the game interesting and started to play it more and found the game perfect to escape the problems of your house
+                                  
+                                  And even though the cookies started to do strange things in fights as dodging or literally block attacks you loved the game thinking it was a mechanic of the game and you loved the game for the happy room it did when things weren't good in your own
+                                  
+                                  And they appriciated you as you did to them 
+                                  
+                                  You created a Kingdom for them
+                                  
+                                  Fufill theirs wishes and gave them a place to call home
+                                  
+                                  You didn't judge as you laugh at their interactions beetwen them
+                                  
+                                  Or so it was until your time run out
+                                  
+                                  Cookie Run Kingdom is owned by DevSisters and Pokemon is owned by Game Freak and NintendoI appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)I appeared in EarthBread a- WDYM AS REGIGIGAS?(CRK x Male Reader)OngoingOngoingReadsReads 14,18114,18114.1KVotesVotes 401401401PartsParts 131313TimeTime 2h 40m2 hours, 40 minutes2h 40m(I took inspiration from vialy_MC)
+                                  ------------------------------------------------------------------------------------------------------------------------------------
+                                  Since the fourth generation of pokemon the moment you saw Regigigas you had a huge interest in him being the ace of your team in any competitive tournament since you loved his ability even if it was usesless you just loved the sensation of panic your brain gave when he was hit with a super effective attack but that didn't stop your fav pokemon to won some tournaments along your team of the others members of the Regis
+                                  
+                                  But one day a friend show you this game about cookies going in an adventure to get a crown and manage a Kingdom even though at first it didn't pick your interest but after some problems with your own parents you found the game interesting and started to play it more and found the game perfect to escape the problems of your house
+                                  
+                                  And even though the cookies started to do strange things in fights as dodging or literally block attacks you loved the game thinking it was a mechanic of the game and you loved the game for the happy room it did when things weren't good in your own
+                                  
+                                  And they appriciated you as you did to them 
+                                  
+                                  You created a Kingdom for them
+                                  
+                                  Fufill theirs wishes and gave them a place to call home
+                                  
+                                  You didn't judge as you laugh at their interactions beetwen them
+                                  
+                                  Or so it was until your time run out
+                                  
+                                  Cookie Run Kingdom is owned by DevSisters and Pokemon is owned by Game Freak and Nintendo (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/408759077
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/I-appeared-in-EarthBread-a--WDYM-AS-REGIGIGASCRK-x-Male-ReaderI-appeared-in-Eart.md
+
+### The Hungry GamesThe Hungry GamesCompleteCompleteReadsReads 9,1479,1479.1KVotesVotes 888888PartsParts 131313TimeTime 9m0 hours, 9 minutes9mWARNING : nothing like hunger games
+                                  
+                                  Fatniss Everdeen and other people fight for food in the wild , on a reality TV show .The Hungry GamesThe Hungry GamesCompleteCompleteReadsReads 9,1479,1479.1KVotesVotes 888888PartsParts 131313TimeTime 9m0 hours, 9 minutes9mWARNING : nothing like hunger games
+                                  
+                                  Fatniss Everdeen and other people fight for food in the wild , on a reality TV show . (Score: 4/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/20400992
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food competition' sur Wattpad....
+- **Fichier** : inspirations/data/The-Hungry-GamesThe-Hungry-GamesCompleteCompleteReads.md
+
+### 《♡ Our Lost Love ♡》《♡ Our Lost Love ♡》CompleteCompleteReadsReads 5,9555,9555.9KVotesVotes 151151151PartsParts 111111TimeTime 45m0 hours, 45 minutes45mY/N S/C Cookie is a travelling Mercookie who enjoys collecting the Cookies of the Lands' treasures. She finds it very interesting. Once a year, she goes to visit Tearcrown to witness the Eclipse, and a Gem Mermaid gain a fraction of the Almighty Sea's power. That's how she meets White Pearl Cookie.
+                                  
+                                  How shall this story go? Will Y/N S/C Cookie grow a good relationship with White Pearl Cookie and stop the trouble brewing in the far future?
+                                  
+                                  [All characters (excluding Y/N) in this story rightfully belong to Devsis! I do not own them, nor you! =3 ]
+                                  [Cover by me except for WP's Sprite]《♡ Our Lost Love ♡》《♡ Our Lost Love ♡》CompleteCompleteReadsReads 5,9555,9555.9KVotesVotes 151151151PartsParts 111111TimeTime 45m0 hours, 45 minutes45mY/N S/C Cookie is a travelling Mercookie who enjoys collecting the Cookies of the Lands' treasures. She finds it very interesting. Once a year, she goes to visit Tearcrown to witness the Eclipse, and a Gem Mermaid gain a fraction of the Almighty Sea's power. That's how she meets White Pearl Cookie.
+                                  
+                                  How shall this story go? Will Y/N S/C Cookie grow a good relationship with White Pearl Cookie and stop the trouble brewing in the far future?
+                                  
+                                  [All characters (excluding Y/N) in this story rightfully belong to Devsis! I do not own them, nor you! =3 ]
+                                  [Cover by me except for WP's Sprite] (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/349253325
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Our-Lost-Love-Our-Lost-Love-CompleteCompleteReads.md
+
+### ʚ 𝒇𝒂𝒏𝒕𝒂𝒔𝒚... ɞ || Cookie Run Oneshotsʚ 𝒇𝒂𝒏𝒕𝒂𝒔𝒚... ɞ || Cookie Run OneshotsCompleteCompleteReadsReads 3,5813,5813.5KVotesVotes 464646PartsParts 101010TimeTime 10m0 hours, 10 minutes10m『 𝑭𝒂𝒏𝒕𝒂𝒔𝒚, 𝒂 𝒇𝒊𝒄𝒕𝒊𝒐𝒏𝒂𝒍 𝒊𝒎𝒂𝒈𝒊𝒏𝒂𝒕𝒊𝒗𝒆 𝒐𝒇 𝒐𝒖𝒓 𝒐𝒘𝒏 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. 』
+                                  
+                                  ❊╌──┈⊰᯽⊱┈──╌❊
+                                  
+                                  Hello fellow readers! This is a Cookie Run x Reader Oneshot Book! Yes, it contains Cookie Run Ovenbreak as well.
+                                  
+                                  At first, requests were allowed. But now, I won't be continuing this book any longer! So if you were looking for what you want, you can read what's left of this book, or find another one!
+                                  
+                                  Happy reading! ^^
+                                  
+                                  ❊╌──┈⊰᯽⊱┈──╌❊
+                                  
+                                  𝑺𝒕𝒂𝒓𝒕𝒆𝒅: June 1, 2022
+                                  𝑬𝒏𝒅𝒆𝒅: March 30, 2023
+                                  
+                                  CREDITS:
+                                  
+                                  Cookie Run Franchise by DevSistersʚ 𝒇𝒂𝒏𝒕𝒂𝒔𝒚... ɞ || Cookie Run Oneshotsʚ 𝒇𝒂𝒏𝒕𝒂𝒔𝒚... ɞ || Cookie Run OneshotsCompleteCompleteReadsReads 3,5813,5813.5KVotesVotes 464646PartsParts 101010TimeTime 10m0 hours, 10 minutes10m『 𝑭𝒂𝒏𝒕𝒂𝒔𝒚, 𝒂 𝒇𝒊𝒄𝒕𝒊𝒐𝒏𝒂𝒍 𝒊𝒎𝒂𝒈𝒊𝒏𝒂𝒕𝒊𝒗𝒆 𝒐𝒇 𝒐𝒖𝒓 𝒐𝒘𝒏 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. 』
+                                  
+                                  ❊╌──┈⊰᯽⊱┈──╌❊
+                                  
+                                  Hello fellow readers! This is a Cookie Run x Reader Oneshot Book! Yes, it contains Cookie Run Ovenbreak as well.
+                                  
+                                  At first, requests were allowed. But now, I won't be continuing this book any longer! So if you were looking for what you want, you can read what's left of this book, or find another one!
+                                  
+                                  Happy reading! ^^
+                                  
+                                  ❊╌──┈⊰᯽⊱┈──╌❊
+                                  
+                                  𝑺𝒕𝒂𝒓𝒕𝒆𝒅: June 1, 2022
+                                  𝑬𝒏𝒅𝒆𝒅: March 30, 2023
+                                  
+                                  CREDITS:
+                                  
+                                  Cookie Run Franchise by DevSisters (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/312166334
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/ʚ-𝒇𝒂𝒏𝒕𝒂𝒔𝒚-ɞ-Cookie-Run-Oneshotsʚ-𝒇𝒂𝒏𝒕𝒂𝒔𝒚-ɞ-Cookie-Run-OneshotsCompleteCompleteRe.md
+
+### A Light's Flicker - OC x Cookie RunA Light's Flicker - OC x Cookie RunCompleteCompleteReadsReads 2,5492,5492.5KVotesVotes 565656PartsParts 262626TimeTime 8h 42m8 hours, 42 minutes8h 42mA sequel to "The Dark Cacao Kingdom's Light", where we join Mochaccino as he travels through Cookie Odyssey.
+                                  
+                                  All characters except for Mochaccino Cookie are owned by Devsisters.A Light's Flicker - OC x Cookie RunA Light's Flicker - OC x Cookie RunCompleteCompleteReadsReads 2,5492,5492.5KVotesVotes 565656PartsParts 262626TimeTime 8h 42m8 hours, 42 minutes8h 42mA sequel to "The Dark Cacao Kingdom's Light", where we join Mochaccino as he travels through Cookie Odyssey.
+                                  
+                                  All characters except for Mochaccino Cookie are owned by Devsisters. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/354002497
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/A-Lights-Flicker---OC-x-Cookie-RunA-Lights-Flicker---OC-x-Cookie-RunCompleteComp.md
+
+### 𝗧𝗵𝗲 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗟𝗼𝘃𝗲𝗿 ⟡ Espresso CRK  [Book #1]𝗧𝗵𝗲 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗟𝗼𝘃𝗲𝗿 ⟡ Espresso CRK  [Book #1]CompleteCompleteReadsReads 15,94715,94715.9KVotesVotes 444444444PartsParts 373737TimeTime 4h 19m4 hours, 19 minutes4h 19mBasically about how Espresso goes on a date with many different cookies, and socializing for once. He would find his soulmate at the end... guess who? I'm pretty sure you would guess it lol.
+                                  
+                                  Artwork is not mine!𝗧𝗵𝗲 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗟𝗼𝘃𝗲𝗿 ⟡ Espresso CRK  [Book #1]𝗧𝗵𝗲 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗟𝗼𝘃𝗲𝗿 ⟡ Espresso CRK  [Book #1]CompleteCompleteReadsReads 15,94715,94715.9KVotesVotes 444444444PartsParts 373737TimeTime 4h 19m4 hours, 19 minutes4h 19mBasically about how Espresso goes on a date with many different cookies, and socializing for once. He would find his soulmate at the end... guess who? I'm pretty sure you would guess it lol.
+                                  
+                                  Artwork is not mine! (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/314870685
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/𝗧𝗵𝗲-𝗣𝗲𝗿𝗳𝗲𝗰𝘁-𝗟𝗼𝘃𝗲𝗿-Espresso-CRK-Book-1𝗧𝗵𝗲-𝗣𝗲𝗿𝗳𝗲𝗰𝘁-𝗟𝗼𝘃𝗲𝗿-Espresso-CRK-Book-1Comple.md
+
+### Food Fantasy - One ShotsFood Fantasy - One ShotsCompleteCompleteReadsReads 21,58021,58021.5KVotesVotes 484484484PartsParts 202020TimeTime 1h 12m1 hours, 12 minutes1h 12mA collection of stories and one-shots from the characters from the Food Fantasy universe! I owe none of the characters (except a few). All rights to ELEX. 
+                                  
+                                  Yes, I fantasize about personifications of food. Don't mind me x)Food Fantasy - One ShotsFood Fantasy - One ShotsCompleteCompleteReadsReads 21,58021,58021.5KVotesVotes 484484484PartsParts 202020TimeTime 1h 12m1 hours, 12 minutes1h 12mA collection of stories and one-shots from the characters from the Food Fantasy universe! I owe none of the characters (except a few). All rights to ELEX. 
+                                  
+                                  Yes, I fantasize about personifications of food. Don't mind me x) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/171659598
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy---One-ShotsFood-Fantasy---One-ShotsCompleteCompleteReads.md
+
+### Food Fantasy On CrackFood Fantasy On CrackCompleteCompleteReadsReads 29,13429,13429.1KVotesVotes 1,4151,4151.4KPartsParts 198198198TimeTime 2h 8m2 hours, 8 minutes2h 8mGod, what am I even doing with my life right now?Food Fantasy On CrackFood Fantasy On CrackCompleteCompleteReadsReads 29,13429,13429.1KVotesVotes 1,4151,4151.4KPartsParts 198198198TimeTime 2h 8m2 hours, 8 minutes2h 8mGod, what am I even doing with my life right now? (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/210278150
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-On-CrackFood-Fantasy-On-CrackCompleteCompleteReads.md
+
+### Food Fantasy StuffFood Fantasy StuffCompleteCompleteReadsReads 21,84121,84121.8KVotesVotes 346346346PartsParts 262626TimeTime 41m0 hours, 41 minutes41mhi it's the green beanFood Fantasy StuffFood Fantasy StuffCompleteCompleteReadsReads 21,84121,84121.8KVotesVotes 346346346PartsParts 262626TimeTime 41m0 hours, 41 minutes41mhi it's the green bean (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/167620307
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-StuffFood-Fantasy-StuffCompleteCompleteReads.md
+
+### Food Fantasy OneshotsFood Fantasy OneshotsCompleteCompleteReadsReads 18,59118,59118.5KVotesVotes 274274274PartsParts 141414TimeTime 24m0 hours, 24 minutes24mThis book has ended. I will not be taking requests or updating ever again, however, I do have a Tumblr account but I am not posting about Food Fantasy. If you'd like to see more of my work(but improved) please do check it out! 
+                                  Tumblr account: multiplefandomsblog
+                                  (Some friends and I are managing the blog, it's not just me.)
+                                  Anyway, thank you so much for reading these terrible oneshots. I hope you all have a wonderful day.Food Fantasy OneshotsFood Fantasy OneshotsCompleteCompleteReadsReads 18,59118,59118.5KVotesVotes 274274274PartsParts 141414TimeTime 24m0 hours, 24 minutes24mThis book has ended. I will not be taking requests or updating ever again, however, I do have a Tumblr account but I am not posting about Food Fantasy. If you'd like to see more of my work(but improved) please do check it out! 
+                                  Tumblr account: multiplefandomsblog
+                                  (Some friends and I are managing the blog, it's not just me.)
+                                  Anyway, thank you so much for reading these terrible oneshots. I hope you all have a wonderful day. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/157918135
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-OneshotsFood-Fantasy-OneshotsCompleteCompleteReads.md
+
+### Food Fantasy QuotesFood Fantasy QuotesCompleteCompleteReadsReads 16,01316,01316KVotesVotes 457457457PartsParts 200200200TimeTime 44m0 hours, 44 minutes44mThe title says it all
+                                  
+                                  Started 》27th of May, 2020
+                                  Ended 》11th of July, 2020Food Fantasy QuotesFood Fantasy QuotesCompleteCompleteReadsReads 16,01316,01316KVotesVotes 457457457PartsParts 200200200TimeTime 44m0 hours, 44 minutes44mThe title says it all
+                                  
+                                  Started 》27th of May, 2020
+                                  Ended 》11th of July, 2020 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/226922817
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-QuotesFood-Fantasy-QuotesCompleteCompleteReads.md
+
+### my food fantasy storymy food fantasy storyCompleteCompleteReadsReads 717171VotesVotes 111PartsParts 333TimeTime 5m0 hours, 5 minutes5mAll art in here are from google image that I searched up so credit to those art pieces that I used .
+                                  Sorry , if I didn't have your permission to do so but . . . some of these art are really magnificent and cute so I thought I could use them :3 .  I love em arts .my food fantasy storymy food fantasy storyCompleteCompleteReadsReads 717171VotesVotes 111PartsParts 333TimeTime 5m0 hours, 5 minutes5mAll art in here are from google image that I searched up so credit to those art pieces that I used .
+                                  Sorry , if I didn't have your permission to do so but . . . some of these art are really magnificent and cute so I thought I could use them :3 .  I love em arts . (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/184084544
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/my-food-fantasy-storymy-food-fantasy-storyCompleteCompleteReads.md
+
+### Food Fantasy Oneshots & Short StoriesFood Fantasy Oneshots & Short StoriesOngoingOngoingReadsReads 10,42210,42210.4KVotesVotes 318318318PartsParts 555555TimeTime 7h 29m7 hours, 29 minutes7h 29mA book full of oneshots featuring Food Fantasy characters. There will girl x girl, boy x boy, boy x girl. I won't be writing any Character x Reader oneshots because I personally don't like those, but I might try to write a lemon or two. Most of the included ships will be my own personal ships, but please don't be afraid to make a request for a specific ship. However I will not do any rape/assault or incest. Seriously.
+                                  
+                                  And for those wondering, yes, the cover is Sachertorte x Baguette.Food Fantasy Oneshots & Short StoriesFood Fantasy Oneshots & Short StoriesOngoingOngoingReadsReads 10,42210,42210.4KVotesVotes 318318318PartsParts 555555TimeTime 7h 29m7 hours, 29 minutes7h 29mA book full of oneshots featuring Food Fantasy characters. There will girl x girl, boy x boy, boy x girl. I won't be writing any Character x Reader oneshots because I personally don't like those, but I might try to write a lemon or two. Most of the included ships will be my own personal ships, but please don't be afraid to make a request for a specific ship. However I will not do any rape/assault or incest. Seriously.
+                                  
+                                  And for those wondering, yes, the cover is Sachertorte x Baguette. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/214405663
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-Oneshots-Short-StoriesFood-Fantasy-Oneshots-Short-StoriesOngoingOng.md
+
+### Food fantasy x reader  [discontinued]Food fantasy x reader  [discontinued]CompleteCompleteReadsReads 829829829VotesVotes 555PartsParts 444TimeTime 7m0 hours, 7 minutes7mThis is discontinued, I don't really play this game anymore 🤥Food fantasy x reader  [discontinued]Food fantasy x reader  [discontinued]CompleteCompleteReadsReads 829829829VotesVotes 555PartsParts 444TimeTime 7m0 hours, 7 minutes7mThis is discontinued, I don't really play this game anymore 🤥 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/168486030
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-fantasy-x-reader-discontinuedFood-fantasy-x-reader-discontinuedCompleteComp.md
+
+### Food Fantasy Headcanons & OneshotsFood Fantasy Headcanons & OneshotsCompleteCompleteReadsReads 9,2549,2549.2KVotesVotes 114114114PartsParts 151515TimeTime 15m0 hours, 15 minutes15mThis is a Food Fantasy book. I will make oneshots and headcanons! I am open to requests! Be my friend on food fantasy it's Saturn C!Food Fantasy Headcanons & OneshotsFood Fantasy Headcanons & OneshotsCompleteCompleteReadsReads 9,2549,2549.2KVotesVotes 114114114PartsParts 151515TimeTime 15m0 hours, 15 minutes15mThis is a Food Fantasy book. I will make oneshots and headcanons! I am open to requests! Be my friend on food fantasy it's Saturn C! (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/167111895
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-Headcanons-OneshotsFood-Fantasy-Headcanons-OneshotsCompleteComplete.md
+
+### Food Fantasy X Reader Oneshots [DISCONTINUED]Food Fantasy X Reader Oneshots [DISCONTINUED]CompleteCompleteReadsReads 8,7178,7178.7KVotesVotes 124124124PartsParts 111111TimeTime 14m0 hours, 14 minutes14mSo this story contains one-shots of you, the reader, and the food soul of your choice. 
+                                  
+                                  Food Fantasy and its characters don't belong to me.
+                                  
+                                  Happy reading.Food Fantasy X Reader Oneshots [DISCONTINUED]Food Fantasy X Reader Oneshots [DISCONTINUED]CompleteCompleteReadsReads 8,7178,7178.7KVotesVotes 124124124PartsParts 111111TimeTime 14m0 hours, 14 minutes14mSo this story contains one-shots of you, the reader, and the food soul of your choice. 
+                                  
+                                  Food Fantasy and its characters don't belong to me.
+                                  
+                                  Happy reading. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/183660555
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-X-Reader-Oneshots-DISCONTINUEDFood-Fantasy-X-Reader-Oneshots-DISCON.md
+
+### Food Fantasy on Crack 2Food Fantasy on Crack 2CompleteCompleteReadsReads 17,85217,85217.8KVotesVotes 1,2251,2251.2KPartsParts 200200200TimeTime 4h 10m4 hours, 10 minutes4h 10mI really need to find better things to do with my life. Oh wait, we're in quarantine, there's nothing else for me to do. This book will probably be finished before quarantine, too.Food Fantasy on Crack 2Food Fantasy on Crack 2CompleteCompleteReadsReads 17,85217,85217.8KVotesVotes 1,2251,2251.2KPartsParts 200200200TimeTime 4h 10m4 hours, 10 minutes4h 10mI really need to find better things to do with my life. Oh wait, we're in quarantine, there's nothing else for me to do. This book will probably be finished before quarantine, too. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/221875678
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Fantasy-on-Crack-2Food-Fantasy-on-Crack-2CompleteCompleteReads.md
+
+### Reincarnated in Food FantasyReincarnated in Food FantasyOngoingOngoingReadsReads 216216216VotesVotes 666PartsParts 222TimeTime 7m0 hours, 7 minutes7mWhen you love food so much, you forgot to see Truck-kun speeding up on you.Reincarnated in Food FantasyReincarnated in Food FantasyOngoingOngoingReadsReads 216216216VotesVotes 666PartsParts 222TimeTime 7m0 hours, 7 minutes7mWhen you love food so much, you forgot to see Truck-kun speeding up on you. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/278938916
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Reincarnated-in-Food-FantasyReincarnated-in-Food-FantasyOngoingOngoingReads.md
+
+### Spiritless LifeSpiritless LifeCompleteCompleteReadsReads 1,3041,3041.3KVotesVotes 474747PartsParts 393939TimeTime 3h 59m3 hours, 59 minutes3h 59mFrom Ayumi to Karam, From Earth to Sunijunki; many changes were made when Ayumi Ishii pissed off her professor. Including death and life. In that order.
+                                  
+                                  Now, she's living the life of a Princess with a good looking body guard as her best friend. Life is going along better then it ever had, ignoring the fact she's been reborn and is still a child. Then she gets the news that her new world is about to fall apart. Now she's left to clean up the mess her professor made in order to reincarnate her into a new world.
+                                  
+                                  She's four years old yet entering middle school? She graduated in a month?
+                                  
+                                  Not only a princess; Karam is the new hope of the merged kingdoms. She's revered as a child genius. Only the King knows about her past life. Now her father wanted her to marry a cross-dressing toddler? 
+                                  
+                                  "She ate a greg horn?!" 
+                                  About to die by the taste of the bane of the Spiritualists... This girl's in a lot of pain- and yelling for morphine. Nobody knows what language 'morphine' is, but luckily... THE MAN WHO KILLED HER IN HER FIRST LIFE IS BACK!? AND HE WANTS TO SAVE HER???
+                                  
+                                  Enemies by her bedside, allies being held back, nobody knows if Princess Karam will live. Or if the world will die with her.Spiritless LifeSpiritless LifeCompleteCompleteReadsReads 1,3041,3041.3KVotesVotes 474747PartsParts 393939TimeTime 3h 59m3 hours, 59 minutes3h 59mFrom Ayumi to Karam, From Earth to Sunijunki; many changes were made when Ayumi Ishii pissed off her professor. Including death and life. In that order.
+                                  
+                                  Now, she's living the life of a Princess with a good looking body guard as her best friend. Life is going along better then it ever had, ignoring the fact she's been reborn and is still a child. Then she gets the news that her new world is about to fall apart. Now she's left to clean up the mess her professor made in order to reincarnate her into a new world.
+                                  
+                                  She's four years old yet entering middle school? She graduated in a month?
+                                  
+                                  Not only a princess; Karam is the new hope of the merged kingdoms. She's revered as a child genius. Only the King knows about her past life. Now her father wanted her to marry a cross-dressing toddler? 
+                                  
+                                  "She ate a greg horn?!" 
+                                  About to die by the taste of the bane of the Spiritualists... This girl's in a lot of pain- and yelling for morphine. Nobody knows what language 'morphine' is, but luckily... THE MAN WHO KILLED HER IN HER FIRST LIFE IS BACK!? AND HE WANTS TO SAVE HER???
+                                  
+                                  Enemies by her bedside, allies being held back, nobody knows if Princess Karam will live. Or if the world will die with her. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/98948870
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'gourmet fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/Spiritless-LifeSpiritless-LifeCompleteCompleteReads.md
+
+### The steak and the sauce panThe steak and the sauce panOngoingOngoingReadsReads 949494VotesVotes 242424PartsParts 111111TimeTime 39m0 hours, 39 minutes39mA story about a 2026 chef with trust issues and a fragment of magic who called as the Master of Cuisine.
+                                  
+                                  What was supposed to be just another job slowly changes her life in ways she never expected.
+                                  
+                                  Yearning Series - Part I
+                                  A Faded Flower Refusing to Die
+                                  
+                                  A story of healing, reality, love, and yearning...
+                                  
+                                  Too much yearning.🤍🥀🎀The steak and the sauce panThe steak and the sauce panOngoingOngoingReadsReads 949494VotesVotes 242424PartsParts 111111TimeTime 39m0 hours, 39 minutes39mA story about a 2026 chef with trust issues and a fragment of magic who called as the Master of Cuisine.
+                                  
+                                  What was supposed to be just another job slowly changes her life in ways she never expected.
+                                  
+                                  Yearning Series - Part I
+                                  A Faded Flower Refusing to Die
+                                  
+                                  A story of healing, reality, love, and yearning...
+                                  
+                                  Too much yearning.🤍🥀🎀 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/412737202
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cuisine fantasy' sur Wattpad....
+- **Fichier** : inspirations/data/The-steak-and-the-sauce-panThe-steak-and-the-sauce-panOngoingOngoingReads.md
+
+### CRK x Reader - Oneshots and Headcanons! [CLOSED]CRK x Reader - Oneshots and Headcanons! [CLOSED]CompleteCompleteReadsReads 725,118725,118725KVotesVotes 11,72911,72911.7KPartsParts 200200200TimeTime 10h 0m10 hours, 0 minutes10h 0mCLOSED!!! old and hella cringe except the last few chapters
+                                  
+                                  Various characters of the Cookie Run (Kingdom) franchise x Reader! Read the first part for info and request!
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  (I love y'all so much thanks for all the support!)CRK x Reader - Oneshots and Headcanons! [CLOSED]CRK x Reader - Oneshots and Headcanons! [CLOSED]CompleteCompleteReadsReads 725,118725,118725KVotesVotes 11,72911,72911.7KPartsParts 200200200TimeTime 10h 0m10 hours, 0 minutes10h 0mCLOSED!!! old and hella cringe except the last few chapters
+                                  
+                                  Various characters of the Cookie Run (Kingdom) franchise x Reader! Read the first part for info and request!
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  (I love y'all so much thanks for all the support!) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/355545325
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking romance' sur Wattpad....
+- **Fichier** : inspirations/data/CRK-x-Reader---Oneshots-and-Headcanons-CLOSEDCRK-x-Reader---Oneshots-and-Headcan.md
+
+### My Fair Lady (Dark Cacao Cookie x Fem!Reader)My Fair Lady (Dark Cacao Cookie x Fem!Reader)CompleteCompleteReadsReads 187,301187,301187KVotesVotes 5,1255,1255.1KPartsParts 494949TimeTime 4h 37m4 hours, 37 minutes4h 37mA lone cookie found nearly dead alone in a blizzard, with no help in sight. However a kind-hearted prince of the Cacao kingdom finds her and brings her to his palace, only to fall in love with the girl who ran away from home. This cookie is (Y/N).
+                                  
+                                  A good ol' drama romance fan fiction about (Y/N) and Dark Cacao Cookie that will keep you up at night for what comes next. This is angst, fluff, smüt, and loooots of peril. This was updated weekly every Saturday.
+                                  
+                                  Separate uncensored $müt book can be found in my other works.
+                                  
+                                  This fanfiction does not follow canon lore!
+                                  
+                                  40 chapters total, 1 final summary. I lost motivation to complete it in full.
+                                  
+                                  SOME CHARACTERS DO NOT BELONG TO ME. THEY BELONG TO DEVSISTERS.
+                                  
+                                  Cover art belongs to DEVSISTERS.
+                                  
+                                  Started writing March 7, 2022
+                                  Finished writing December 31, 2022
+                                  Publicized March 9, 2022My Fair Lady (Dark Cacao Cookie x Fem!Reader)My Fair Lady (Dark Cacao Cookie x Fem!Reader)CompleteCompleteReadsReads 187,301187,301187KVotesVotes 5,1255,1255.1KPartsParts 494949TimeTime 4h 37m4 hours, 37 minutes4h 37mA lone cookie found nearly dead alone in a blizzard, with no help in sight. However a kind-hearted prince of the Cacao kingdom finds her and brings her to his palace, only to fall in love with the girl who ran away from home. This cookie is (Y/N).
+                                  
+                                  A good ol' drama romance fan fiction about (Y/N) and Dark Cacao Cookie that will keep you up at night for what comes next. This is angst, fluff, smüt, and loooots of peril. This was updated weekly every Saturday.
+                                  
+                                  Separate uncensored $müt book can be found in my other works.
+                                  
+                                  This fanfiction does not follow canon lore!
+                                  
+                                  40 chapters total, 1 final summary. I lost motivation to complete it in full.
+                                  
+                                  SOME CHARACTERS DO NOT BELONG TO ME. THEY BELONG TO DEVSISTERS.
+                                  
+                                  Cover art belongs to DEVSISTERS.
+                                  
+                                  Started writing March 7, 2022
+                                  Finished writing December 31, 2022
+                                  Publicized March 9, 2022 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/303928979
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking romance' sur Wattpad....
+- **Fichier** : inspirations/data/My-Fair-Lady-Dark-Cacao-Cookie-x-FemReaderMy-Fair-Lady-Dark-Cacao-Cookie-x-FemRe.md
+
+### Red velvet cookie x readerRed velvet cookie x readerCompleteCompleteReadsReads 83,34983,34983.3KVotesVotes 1,2701,2701.2KPartsParts 262626TimeTime 2h 9m2 hours, 9 minutes2h 9mDISCLAIMER: cover was found on google!! None are mine!! 
+                                  
+                                  The cookies will be slightly humanised though out this. 
+                                  
+                                  You can't fall in love with an enemy. Especially if you're one of the good guys. But... what happens if you do?Red velvet cookie x readerRed velvet cookie x readerCompleteCompleteReadsReads 83,34983,34983.3KVotesVotes 1,2701,2701.2KPartsParts 262626TimeTime 2h 9m2 hours, 9 minutes2h 9mDISCLAIMER: cover was found on google!! None are mine!! 
+                                  
+                                  The cookies will be slightly humanised though out this. 
+                                  
+                                  You can't fall in love with an enemy. Especially if you're one of the good guys. But... what happens if you do? (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/292894268
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking romance' sur Wattpad....
+- **Fichier** : inspirations/data/Red-velvet-cookie-x-readerRed-velvet-cookie-x-readerCompleteCompleteReads.md
+
+### Unseen | Caramel Arrow Cookie x Affogato CookieUnseen | Caramel Arrow Cookie x Affogato CookieCompleteCompleteReadsReads 45,13945,13945.1KVotesVotes 971971971PartsParts 494949TimeTime 4h 26m4 hours, 26 minutes4h 26mCaramel Arrow Cookie and Affogato Cookie do not like each other. That is always apparent. But one night, the king's advisor decides to up and go sprain his ankle. And to his surprise, Caramel Arrow is the one who volunteers to help him.
+                                  
+                                  Omg! Another cookie run fanfic!!! And of another straight couple!!!!!
+                                  
+                                  Cover art was made by @kat_sune on Twitter! (Or X). Please check their art out.
+                                  Here's the original link: https://twitter.com/kat_sune/status/1585280609202491392?t=7Z152ZrJiKzUcDUFZPZqRw&s=19Unseen | Caramel Arrow Cookie x Affogato CookieUnseen | Caramel Arrow Cookie x Affogato CookieCompleteCompleteReadsReads 45,13945,13945.1KVotesVotes 971971971PartsParts 494949TimeTime 4h 26m4 hours, 26 minutes4h 26mCaramel Arrow Cookie and Affogato Cookie do not like each other. That is always apparent. But one night, the king's advisor decides to up and go sprain his ankle. And to his surprise, Caramel Arrow is the one who volunteers to help him.
+                                  
+                                  Omg! Another cookie run fanfic!!! And of another straight couple!!!!!
+                                  
+                                  Cover art was made by @kat_sune on Twitter! (Or X). Please check their art out.
+                                  Here's the original link: https://twitter.com/kat_sune/status/1585280609202491392?t=7Z152ZrJiKzUcDUFZPZqRw&s=19 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/335107549
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking romance' sur Wattpad....
+- **Fichier** : inspirations/data/Unseen-Caramel-Arrow-Cookie-x-Affogato-CookieUnseen-Caramel-Arrow-Cookie-x-Affog.md
+
+### The Bad Boy and My CookieThe Bad Boy and My CookieCompleteCompleteReadsReads 1,350,5811,350,5811.3MVotesVotes 62,27462,27462.2KPartsParts 535353TimeTime 11h 57m11 hours, 57 minutes11h 57mI crossed my arms defiantly,"Listen here buddy, you either give back what's mine or we do this the hard way," I glared, my gaze not straying from his.
+                                  
+                                  That pack of cookies is mine and I'd be damned if I let it go without a fight.
+                                  
+                                  Without breaking eye contact, he let go of my pack of cookies letting it fall unto the ground before he gave it a harsh stomp.
+                                  
+                                  An amused expression crossed his face as he turned to look at me,"What are you gonna do about it tesoro?" He taunted.
+                                  
+                                  "I'd gladly show you," I sneered, before doing something that every typical female would do.
+                                  
+                                  Kicked him where the sun doesn't shine.
+                                  
+                                  Highest Ranking: #1 in TeenFiction (9/26/2020)
+                                                                      #1 in Jokes (11/16/2020)
+                                                                      #1 in Skittles (2/13/2021)
+                                                                      #1 in Cookies (3/4/21)
+                                  This is the Rewritten Version of The Bad Boy and My Cookie. Copyright 2020 ©ElaBearXx. All Rights Reserved.The Bad Boy and My CookieThe Bad Boy and My CookieCompleteCompleteReadsReads 1,350,5811,350,5811.3MVotesVotes 62,27462,27462.2KPartsParts 535353TimeTime 11h 57m11 hours, 57 minutes11h 57mI crossed my arms defiantly,"Listen here buddy, you either give back what's mine or we do this the hard way," I glared, my gaze not straying from his.
+                                  
+                                  That pack of cookies is mine and I'd be damned if I let it go without a fight.
+                                  
+                                  Without breaking eye contact, he let go of my pack of cookies letting it fall unto the ground before he gave it a harsh stomp.
+                                  
+                                  An amused expression crossed his face as he turned to look at me,"What are you gonna do about it tesoro?" He taunted.
+                                  
+                                  "I'd gladly show you," I sneered, before doing something that every typical female would do.
+                                  
+                                  Kicked him where the sun doesn't shine.
+                                  
+                                  Highest Ranking: #1 in TeenFiction (9/26/2020)
+                                                                      #1 in Jokes (11/16/2020)
+                                                                      #1 in Skittles (2/13/2021)
+                                                                      #1 in Cookies (3/4/21)
+                                  This is the Rewritten Version of The Bad Boy and My Cookie. Copyright 2020 ©ElaBearXx. All Rights Reserved. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/219558332
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking romance' sur Wattpad....
+- **Fichier** : inspirations/data/The-Bad-Boy-and-My-CookieThe-Bad-Boy-and-My-CookieCompleteCompleteReads.md
+
+### Midnight Kitchen ServicesMidnight Kitchen ServicesCompleteCompleteReadsReads 22,99322,99322.9KVotesVotes 3,0853,0853KPartsParts 131313TimeTime 1h 10m1 hours, 10 minutes1h 10mAyana did not expect her crush to order from her kitchen service. She also did not expect him to catch feelings for her. But, life has a way of surprising her when she least expected it to. Now, she finds herself in the midst of a romance simmering between the two of them.
+                                  
+                                  ▬▬
+                                  
+                                  pulan uni # 2
+                                  total wordcount : 13.2k words.
+                                  © adelaide 2024.Midnight Kitchen ServicesMidnight Kitchen ServicesCompleteCompleteReadsReads 22,99322,99322.9KVotesVotes 3,0853,0853KPartsParts 131313TimeTime 1h 10m1 hours, 10 minutes1h 10mAyana did not expect her crush to order from her kitchen service. She also did not expect him to catch feelings for her. But, life has a way of surprising her when she least expected it to. Now, she finds herself in the midst of a romance simmering between the two of them.
+                                  
+                                  ▬▬
+                                  
+                                  pulan uni # 2
+                                  total wordcount : 13.2k words.
+                                  © adelaide 2024. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/372765030
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food romance' sur Wattpad....
+- **Fichier** : inspirations/data/Midnight-Kitchen-ServicesMidnight-Kitchen-ServicesCompleteCompleteReads.md
+
+### Layers of LoveLayers of LoveCompleteCompleteReadsReads 20,74420,74420.7KVotesVotes 358358358PartsParts 363636TimeTime 8h 56m8 hours, 56 minutes8h 56mJennie has a bakery and Lisa is a food reviewer.let'see how the story turns.Layers of LoveLayers of LoveCompleteCompleteReadsReads 20,74420,74420.7KVotesVotes 358358358PartsParts 363636TimeTime 8h 56m8 hours, 56 minutes8h 56mJennie has a bakery and Lisa is a food reviewer.let'see how the story turns. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/407518742
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food romance' sur Wattpad....
+- **Fichier** : inspirations/data/Layers-of-LoveLayers-of-LoveCompleteCompleteReads.md
+
+### Business Proposal | KeonhoonBusiness Proposal | KeonhoonCompleteCompleteReadsReads 12,67212,67212.6KVotesVotes 585585585PartsParts 262626TimeTime 2h 31m2 hours, 31 minutes2h 31m𝘼 𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨 𝙋𝙧𝙤𝙥𝙤𝙨𝙖𝙡 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙖𝙪 where food researcher 𝐾𝑖𝑚 𝐽𝑢ℎ𝑜𝑜𝑛 finds himself tricked into a blind date-with none other than 𝐀𝐡𝐧 𝐊𝐞𝐨𝐧𝐡𝐨, the cold, impossibly perfect CEO of AHN Food. What was supposed to be a one-time disaster spirals into a fake dating contract, office chaos, meddling friends, jealous exes, and a romance that tastes sweeter than chicken soup. 𝓦𝓲𝓵𝓵 𝓪 𝓵𝓲𝓮 𝓯𝓸𝓻 𝓼𝓾𝓻𝓿𝓲𝓿𝓪𝓵 𝓽𝓾𝓻𝓷 𝓲𝓷𝓽𝓸 𝓪 𝓵𝓸𝓿𝓮 𝓯𝓸𝓻 𝓵𝓲𝓯𝓮?
+                                  
+                                  Comedic, fluffy, with a bit of angst.
+                                  
+                                  ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
+                                  started : 30/09/2025
+                                  
+                                  🥉 in zhaoyufan 06/10/2025
+                                  🥉 in coloroutsidethelines 06/10/2025
+                                    4   in juhoon 06/10/2025
+                                  
+                                  39 in food out of 29.9k 🫶Business Proposal | KeonhoonBusiness Proposal | KeonhoonCompleteCompleteReadsReads 12,67212,67212.6KVotesVotes 585585585PartsParts 262626TimeTime 2h 31m2 hours, 31 minutes2h 31m𝘼 𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨 𝙋𝙧𝙤𝙥𝙤𝙨𝙖𝙡 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙖𝙪 where food researcher 𝐾𝑖𝑚 𝐽𝑢ℎ𝑜𝑜𝑛 finds himself tricked into a blind date-with none other than 𝐀𝐡𝐧 𝐊𝐞𝐨𝐧𝐡𝐨, the cold, impossibly perfect CEO of AHN Food. What was supposed to be a one-time disaster spirals into a fake dating contract, office chaos, meddling friends, jealous exes, and a romance that tastes sweeter than chicken soup. 𝓦𝓲𝓵𝓵 𝓪 𝓵𝓲𝓮 𝓯𝓸𝓻 𝓼𝓾𝓻𝓿𝓲𝓿𝓪𝓵 𝓽𝓾𝓻𝓷 𝓲𝓷𝓽𝓸 𝓪 𝓵𝓸𝓿𝓮 𝓯𝓸𝓻 𝓵𝓲𝓯𝓮?
+                                  
+                                  Comedic, fluffy, with a bit of angst.
+                                  
+                                  ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
+                                  started : 30/09/2025
+                                  
+                                  🥉 in zhaoyufan 06/10/2025
+                                  🥉 in coloroutsidethelines 06/10/2025
+                                    4   in juhoon 06/10/2025
+                                  
+                                  39 in food out of 29.9k 🫶 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/402316549
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food romance' sur Wattpad....
+- **Fichier** : inspirations/data/Business-Proposal-KeonhoonBusiness-Proposal-KeonhoonCompleteCompleteReads.md
+
+### Through Fire and Fate| Book 3-Baker and YvonneThrough Fire and Fate| Book 3-Baker and YvonneCompleteCompleteReadsReads 55,32655,32655.3KVotesVotes 1,7421,7421.7KPartsParts 242424TimeTime 2h 21m2 hours, 21 minutes2h 21mBaker and Yvonne have fought their way back to each other, rebuilding a love that once seemed lost forever. With Abigail growing closer to Yvonne and their bond deepening, they're finally stepping into the future they once dreamed of. But just as life begins to settle, shadows from the past resurface, threatening everything they've built.
+                                  
+                                  As old wounds heal and new promises are made, Baker and Yvonne will have to face the ultimate test-one that will challenge their love, their trust, and their very fate.
+                                  
+                                  Some fires are meant to destroy. Others forge something unbreakable. Through fire and fate, their love will be tested like never before.
+                                  
+                                  
+                                  💕💕💕 Thank you all so much for your incredible support!
+                                  
+                                  Unfortunately, it has come to my attention that someone is plagiarizing my stories and posting them on other apps. If you come across any of these instances, please report them immediately.
+                                  
+                                  I want to clarify that I would never charge for these stories-they are something I genuinely enjoy sharing with you all for free 🫶🏾.Through Fire and Fate| Book 3-Baker and YvonneThrough Fire and Fate| Book 3-Baker and YvonneCompleteCompleteReadsReads 55,32655,32655.3KVotesVotes 1,7421,7421.7KPartsParts 242424TimeTime 2h 21m2 hours, 21 minutes2h 21mBaker and Yvonne have fought their way back to each other, rebuilding a love that once seemed lost forever. With Abigail growing closer to Yvonne and their bond deepening, they're finally stepping into the future they once dreamed of. But just as life begins to settle, shadows from the past resurface, threatening everything they've built.
+                                  
+                                  As old wounds heal and new promises are made, Baker and Yvonne will have to face the ultimate test-one that will challenge their love, their trust, and their very fate.
+                                  
+                                  Some fires are meant to destroy. Others forge something unbreakable. Through fire and fate, their love will be tested like never before.
+                                  
+                                  
+                                  💕💕💕 Thank you all so much for your incredible support!
+                                  
+                                  Unfortunately, it has come to my attention that someone is plagiarizing my stories and posting them on other apps. If you come across any of these instances, please report them immediately.
+                                  
+                                  I want to clarify that I would never charge for these stories-they are something I genuinely enjoy sharing with you all for free 🫶🏾. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/389165360
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'baking romance' sur Wattpad....
+- **Fichier** : inspirations/data/Through-Fire-and-Fate-Book-3-Baker-and-YvonneThrough-Fire-and-Fate-Book-3-Baker-.md
+
+### The BuckeryThe BuckeryCompleteCompleteReadsReads 3,1883,1883.1KVotesVotes 144144144PartsParts 555TimeTime 2h 20m2 hours, 20 minutes2h 20mAfter a childhood marked by quiet bruises and louder silences, Buck slowly learned that healing doesn't always come in the form of rescue-it can rise slowly, like dough left to rest. Baking started as an after-school accident and became the one thing that grounded him. Through the quiet rhythm of flour and sugar, of giving without needing a reason, Buck found comfort, purpose, and eventually-community. The kitchen became his safe place, and The Buckery, his bakery, became a space full of warmth, second chances, and cinnamon. Baking didn't just save him. It gave him something to love, and somewhere to stay.The BuckeryThe BuckeryCompleteCompleteReadsReads 3,1883,1883.1KVotesVotes 144144144PartsParts 555TimeTime 2h 20m2 hours, 20 minutes2h 20mAfter a childhood marked by quiet bruises and louder silences, Buck slowly learned that healing doesn't always come in the form of rescue-it can rise slowly, like dough left to rest. Baking started as an after-school accident and became the one thing that grounded him. Through the quiet rhythm of flour and sugar, of giving without needing a reason, Buck found comfort, purpose, and eventually-community. The kitchen became his safe place, and The Buckery, his bakery, became a space full of warmth, second chances, and cinnamon. Baking didn't just save him. It gave him something to love, and somewhere to stay. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/395714828
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'baking romance' sur Wattpad....
+- **Fichier** : inspirations/data/The-BuckeryThe-BuckeryCompleteCompleteReads.md
+
+### What Remains of Us | Book 1- Baker and YvonneWhat Remains of Us | Book 1- Baker and YvonneCompleteCompleteReadsReads 168,914168,914168KVotesVotes 5,1705,1705.1KPartsParts 252525TimeTime 2h 36m2 hours, 36 minutes2h 36mAfter fifteen years of marriage, Yvonne and Baker's once-perfect love is shattered by betrayal. As Yvonne rebuilds her life and Baker confronts the choices that tore them apart, fate gives them an unexpected chance to rediscover what remains between them.
+                                  
+                                  A story of heartbreak, healing, and the power of second chances.
+                                  
+                                  
+                                  💕💕💕 Thank you all so much for your incredible support!
+                                  
+                                  Unfortunately, it has come to my attention that someone is plagiarizing my stories and posting them on other apps. If you come across any of these instances, please report them immediately.
+                                  
+                                  I want to clarify that I would never charge for these stories-they are something I genuinely enjoy sharing with you all for free 🫶🏾.What Remains of Us | Book 1- Baker and YvonneWhat Remains of Us | Book 1- Baker and YvonneCompleteCompleteReadsReads 168,914168,914168KVotesVotes 5,1705,1705.1KPartsParts 252525TimeTime 2h 36m2 hours, 36 minutes2h 36mAfter fifteen years of marriage, Yvonne and Baker's once-perfect love is shattered by betrayal. As Yvonne rebuilds her life and Baker confronts the choices that tore them apart, fate gives them an unexpected chance to rediscover what remains between them.
+                                  
+                                  A story of heartbreak, healing, and the power of second chances.
+                                  
+                                  
+                                  💕💕💕 Thank you all so much for your incredible support!
+                                  
+                                  Unfortunately, it has come to my attention that someone is plagiarizing my stories and posting them on other apps. If you come across any of these instances, please report them immediately.
+                                  
+                                  I want to clarify that I would never charge for these stories-they are something I genuinely enjoy sharing with you all for free 🫶🏾. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/388965233
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'baking romance' sur Wattpad....
+- **Fichier** : inspirations/data/What-Remains-of-Us-Book-1--Baker-and-YvonneWhat-Remains-of-Us-Book-1--Baker-and-.md
+
+### Blind, Deaf, and MuteBlind, Deaf, and MuteCompleteCompleteReadsReads 142142142VotesVotes 111111PartsParts 111TimeTime 44m0 hours, 44 minutes44mDuring a charity stream, Japan's top three heroes, Shoto, Dynamite, and Deku take on a viral baking challenge. When the live is over, will they have conquered the kitchen, or will the kitchen have conquered them?
+                                  
+                                  Crack fic with some bromance and Bkdk ofc 🧡💚Blind, Deaf, and MuteBlind, Deaf, and MuteCompleteCompleteReadsReads 142142142VotesVotes 111111PartsParts 111TimeTime 44m0 hours, 44 minutes44mDuring a charity stream, Japan's top three heroes, Shoto, Dynamite, and Deku take on a viral baking challenge. When the live is over, will they have conquered the kitchen, or will the kitchen have conquered them?
+                                  
+                                  Crack fic with some bromance and Bkdk ofc 🧡💚 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/404904238
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'baking romance' sur Wattpad....
+- **Fichier** : inspirations/data/Blind-Deaf-and-MuteBlind-Deaf-and-MuteCompleteCompleteReads.md
+
+### Kitchen RomanceKitchen RomanceOngoingOngoingReadsReads 563563563VotesVotes 212121PartsParts 666TimeTime 40m0 hours, 40 minutes40mSo basically my boyfriend (Angelo) is a chef. Did I mention we are coworkers or rather he's my boss? Guess I just did. Yeah we work together and we make such a great team! Except for days when we see things from different perspectives though. I mean who doesn't have that? I'm your regular teen pop sensation.. just kidding.. I'm your regular teenage girl with a pretty normal life I guess.. awesome family, great friends and a gorgeous boyfriend ?. Hi I'm Andersen but you can call me yours.. gotcha.. you can call me Andie and this is the story of my kitchen romance ?. 
+                                  
+                                  
+                                  Ok so I need comments on whether you guys are interested in this story.. it would encourage me to start writing. Thanks.. much love? 
+                                  P.s I need suggestions on a cover.. thanksKitchen RomanceKitchen RomanceOngoingOngoingReadsReads 563563563VotesVotes 212121PartsParts 666TimeTime 40m0 hours, 40 minutes40mSo basically my boyfriend (Angelo) is a chef. Did I mention we are coworkers or rather he's my boss? Guess I just did. Yeah we work together and we make such a great team! Except for days when we see things from different perspectives though. I mean who doesn't have that? I'm your regular teen pop sensation.. just kidding.. I'm your regular teenage girl with a pretty normal life I guess.. awesome family, great friends and a gorgeous boyfriend ?. Hi I'm Andersen but you can call me yours.. gotcha.. you can call me Andie and this is the story of my kitchen romance ?. 
+                                  
+                                  
+                                  Ok so I need comments on whether you guys are interested in this story.. it would encourage me to start writing. Thanks.. much love? 
+                                  P.s I need suggestions on a cover.. thanks (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/139757890
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/Kitchen-RomanceKitchen-RomanceOngoingOngoingReads.md
+
+### Kitchen RomanceKitchen RomanceOngoingOngoingReadsReads 737373VotesVotes 444PartsParts 444TimeTime <5 mins0 hours, 1 minutes<5 minsA bunch off sonnets written to and from inanimate objects (mainly foods) in the kitchen.Kitchen RomanceKitchen RomanceOngoingOngoingReadsReads 737373VotesVotes 444PartsParts 444TimeTime <5 mins0 hours, 1 minutes<5 minsA bunch off sonnets written to and from inanimate objects (mainly foods) in the kitchen. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/140938586
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/Kitchen-RomanceKitchen-RomanceOngoingOngoingReads.md
+
+### Miller's Kitchen. Apply FicMiller's Kitchen. Apply FicOngoingOngoingReadsReads 1,8821,8821.8KVotesVotes 898989PartsParts 333TimeTime 15m0 hours, 15 minutes15mSister Golden Hair / Apply Fic (OPEN)Miller's Kitchen. Apply FicMiller's Kitchen. Apply FicOngoingOngoingReadsReads 1,8821,8821.8KVotesVotes 898989PartsParts 333TimeTime 15m0 hours, 15 minutes15mSister Golden Hair / Apply Fic (OPEN) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/411282396
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/Millers-Kitchen-Apply-FicMillers-Kitchen-Apply-FicOngoingOngoingReads.md
+
+### J's Kitchen || JayJ's Kitchen || JayCompleteCompleteReadsReads 307307307VotesVotes 535353PartsParts 101010TimeTime 1h 24m1 hours, 24 minutes1h 24mအမှားအယွင်းဆိုတာ လုံးဝလက်မခံတဲ့ J's Kitchen ရဲ့ Chef Park jay.
+                                  
+                                  ​ ဒါပေမဲ့ ကျွန်မ အလုပ်စဝင်တဲ့ ပထမဆုံးနေ့မှာတင် Chef Jay ရဲ့ အဖိုးတန်လှတဲ့ ဟင်းရည်အိုးထဲကို မှောက်အောင်လုပ်မိလိုက်တဲ့အခါမှာတော့..
+                                  
+                                  ​ဒေါသထွက်ရင် မျက်ခုံးနှစ်ဖက်က စုကပ်သွားတတ်တဲ့ Chef ကြီးနဲ့ ဘာလုပ်လုပ် အလွဲတွေလုပ်တတ်တဲ့ အလုပ်သင်‌လေး.....
+                                  
+                                  Jay x ocJ's Kitchen || JayJ's Kitchen || JayCompleteCompleteReadsReads 307307307VotesVotes 535353PartsParts 101010TimeTime 1h 24m1 hours, 24 minutes1h 24mအမှားအယွင်းဆိုတာ လုံးဝလက်မခံတဲ့ J's Kitchen ရဲ့ Chef Park jay.
+                                  
+                                  ​ ဒါပေမဲ့ ကျွန်မ အလုပ်စဝင်တဲ့ ပထမဆုံးနေ့မှာတင် Chef Jay ရဲ့ အဖိုးတန်လှတဲ့ ဟင်းရည်အိုးထဲကို မှောက်အောင်လုပ်မိလိုက်တဲ့အခါမှာတော့..
+                                  
+                                  ​ဒေါသထွက်ရင် မျက်ခုံးနှစ်ဖက်က စုကပ်သွားတတ်တဲ့ Chef ကြီးနဲ့ ဘာလုပ်လုပ် အလွဲတွေလုပ်တတ်တဲ့ အလုပ်သင်‌လေး.....
+                                  
+                                  Jay x oc (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/410035276
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/Js-Kitchen-JayJs-Kitchen-JayCompleteCompleteReads.md
+
+### In the Kitchen (YoonKook) OneshotIn the Kitchen (YoonKook) OneshotCompleteCompleteReadsReads 379379379VotesVotes 161616PartsParts 111TimeTime <5 mins0 hours, 3 minutes<5 minsIn that moment, they both realized that there was something more between them than just friendship.
+                                  
+                                  (YoonKook)In the Kitchen (YoonKook) OneshotIn the Kitchen (YoonKook) OneshotCompleteCompleteReadsReads 379379379VotesVotes 161616PartsParts 111TimeTime <5 mins0 hours, 3 minutes<5 minsIn that moment, they both realized that there was something more between them than just friendship.
+                                  
+                                  (YoonKook) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/358556660
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/In-the-Kitchen-YoonKook-OneshotIn-the-Kitchen-YoonKook-OneshotCompleteCompleteRe.md
+
+### can I have this dance?can I have this dance?CompleteCompleteReadsReads 828282VotesVotes 111PartsParts 111TimeTime 34m0 hours, 34 minutes34mWhen Wednesday finds herself being roped into Enid and Ajax's nighttime kitchen date, she wasn't expecting Ajax's roommate, Tyler Galpin, to join them.
+                                  
+                                  (Rated G)can I have this dance?can I have this dance?CompleteCompleteReadsReads 828282VotesVotes 111PartsParts 111TimeTime 34m0 hours, 34 minutes34mWhen Wednesday finds herself being roped into Enid and Ajax's nighttime kitchen date, she wasn't expecting Ajax's roommate, Tyler Galpin, to join them.
+                                  
+                                  (Rated G) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/355779446
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/can-I-have-this-dancecan-I-have-this-danceCompleteCompleteReads.md
+
+### Ice CreamIce CreamCompleteCompleteReadsReads 117117117VotesVotes 888PartsParts 111TimeTime 40m0 hours, 40 minutes40mHarry runs into the Ice Queen of Slytherin during a late night trip to the kitchens.Ice CreamIce CreamCompleteCompleteReadsReads 117117117VotesVotes 888PartsParts 111TimeTime 40m0 hours, 40 minutes40mHarry runs into the Ice Queen of Slytherin during a late night trip to the kitchens. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/408756312
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'kitchen romance' sur Wattpad....
+- **Fichier** : inspirations/data/Ice-CreamIce-CreamCompleteCompleteReads.md
+
+### Rimuru the Slime in a cooking adventure?Rimuru the Slime in a cooking adventure?CompleteCompleteReadsReads 12,57312,57312.5KVotesVotes 396396396PartsParts 101010TimeTime 45m0 hours, 45 minutes45mRimuru X Campfire Cooking Fanfic CrossoverRimuru the Slime in a cooking adventure?Rimuru the Slime in a cooking adventure?CompleteCompleteReadsReads 12,57312,57312.5KVotesVotes 396396396PartsParts 101010TimeTime 45m0 hours, 45 minutes45mRimuru X Campfire Cooking Fanfic Crossover (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/394622460
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Rimuru-the-Slime-in-a-cooking-adventureRimuru-the-Slime-in-a-cooking-adventureCo.md
+
+### Adventures with the CookiesAdventures with the CookiesCompleteCompleteReadsReads 5,4865,4865.4KVotesVotes 101101101PartsParts 121212TimeTime 22m0 hours, 22 minutes22mHere's my first CRK fanmade book featuring short involving different Cookies.Adventures with the CookiesAdventures with the CookiesCompleteCompleteReadsReads 5,4865,4865.4KVotesVotes 101101101PartsParts 121212TimeTime 22m0 hours, 22 minutes22mHere's my first CRK fanmade book featuring short involving different Cookies. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/377864440
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Adventures-with-the-CookiesAdventures-with-the-CookiesCompleteCompleteReads.md
+
+### || Cookie Run Oneshots & Headcannons! ||  •{ Dropped }•|| Cookie Run Oneshots & Headcannons! ||  •{ Dropped }•CompleteCompleteReadsReads 42,97242,97242.9KVotesVotes 388388388PartsParts 272727TimeTime 1h 12m1 hours, 12 minutes1h 12mYour typical one shot book / head cannon for personal indulgence. Except it's much more cringe and personalities might not be arcuate
+                                  
+                                  (Edit) What I said a year ago but less cringe..I think? 
+                                  
+                                  (Taking requests!)
+                                  
+                                  
+                                  DISCLAIMER! I DO NOT OWN ANY CHARACTERS AS THEY BELONG TO DEVSISTERS! I DO NOT OWN THE ART EITHER UNLESS IT'S STATED!|| Cookie Run Oneshots & Headcannons! ||  •{ Dropped }•|| Cookie Run Oneshots & Headcannons! ||  •{ Dropped }•CompleteCompleteReadsReads 42,97242,97242.9KVotesVotes 388388388PartsParts 272727TimeTime 1h 12m1 hours, 12 minutes1h 12mYour typical one shot book / head cannon for personal indulgence. Except it's much more cringe and personalities might not be arcuate
+                                  
+                                  (Edit) What I said a year ago but less cringe..I think? 
+                                  
+                                  (Taking requests!)
+                                  
+                                  
+                                  DISCLAIMER! I DO NOT OWN ANY CHARACTERS AS THEY BELONG TO DEVSISTERS! I DO NOT OWN THE ART EITHER UNLESS IT'S STATED! (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/298909932
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Cookie-Run-Oneshots-Headcannons-Dropped-Cookie-Run-Oneshots-Headcannons-Dropped-.md
+
+### Cookie Land Adventure in My Little Pony The MovieCookie Land Adventure in My Little Pony The MovieCompleteCompleteReadsReads 1,7531,7531.7KVotesVotes 107107107PartsParts 171717TimeTime 3h 2m3 hours, 2 minutes3h 2mCookie and his friends are Friendships Festival to Canterlot and Help Twilight and his friends to defeat The Storm KingCookie Land Adventure in My Little Pony The MovieCookie Land Adventure in My Little Pony The MovieCompleteCompleteReadsReads 1,7531,7531.7KVotesVotes 107107107PartsParts 171717TimeTime 3h 2m3 hours, 2 minutes3h 2mCookie and his friends are Friendships Festival to Canterlot and Help Twilight and his friends to defeat The Storm King (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/398510086
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Cookie-Land-Adventure-in-My-Little-Pony-The-MovieCookie-Land-Adventure-in-My-Lit.md
+
+### The lost witch (crk x oc story)The lost witch (crk x oc story)CompleteCompleteReadsReads 12,63312,63312.6KVotesVotes 292292292PartsParts 282828TimeTime 2h 58m2 hours, 58 minutes2h 58mIt starts with distrust, then comes friendship, which turns into regret, and ends with tragedy. 
+                                  
+                                  A tale of a young girl that could not grow, leaving behind a trail of cold.
+                                  
+                                  Or
+                                  
+                                  Keisha crosses path with the main crew in the forgotten academy, eventually tagging along with their adventures and learning new things along the way. Join her as she finds out her own fate on earthbread.
+                                  
+                                  
+                                  Oc x crk
+                                  None of these characters except Keisha and Madeline belongs to me, ownership belongs to Devsisters, creator of cookie run franchise.The lost witch (crk x oc story)The lost witch (crk x oc story)CompleteCompleteReadsReads 12,63312,63312.6KVotesVotes 292292292PartsParts 282828TimeTime 2h 58m2 hours, 58 minutes2h 58mIt starts with distrust, then comes friendship, which turns into regret, and ends with tragedy. 
+                                  
+                                  A tale of a young girl that could not grow, leaving behind a trail of cold.
+                                  
+                                  Or
+                                  
+                                  Keisha crosses path with the main crew in the forgotten academy, eventually tagging along with their adventures and learning new things along the way. Join her as she finds out her own fate on earthbread.
+                                  
+                                  
+                                  Oc x crk
+                                  None of these characters except Keisha and Madeline belongs to me, ownership belongs to Devsisters, creator of cookie run franchise. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/392218007
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/The-lost-witch-crk-x-oc-storyThe-lost-witch-crk-x-oc-storyCompleteCompleteReads.md
+
+### [Part 1] Lilac and Yogurt Cream Cookie's Adventure[Part 1] Lilac and Yogurt Cream Cookie's AdventureCompleteCompleteReadsReads 1,0601,0601KVotesVotes 232323PartsParts 777TimeTime 32m0 hours, 32 minutes32mAfter yet another adventure around Yogurca, Lilac and Yogurt Cream Cookie are tired of everything. Or are they? One day, Yogurt Cream Cookie comes up with their biggest adventure yet, and it ends up taking both Cookies on a trip going from the Grandmaster Hotel to memory lane. What places will the duo visit? Find out in this special adaptation of a short-lived Cookie Run: OvenBreak comic![Part 1] Lilac and Yogurt Cream Cookie's Adventure[Part 1] Lilac and Yogurt Cream Cookie's AdventureCompleteCompleteReadsReads 1,0601,0601KVotesVotes 232323PartsParts 777TimeTime 32m0 hours, 32 minutes32mAfter yet another adventure around Yogurca, Lilac and Yogurt Cream Cookie are tired of everything. Or are they? One day, Yogurt Cream Cookie comes up with their biggest adventure yet, and it ends up taking both Cookies on a trip going from the Grandmaster Hotel to memory lane. What places will the duo visit? Find out in this special adaptation of a short-lived Cookie Run: OvenBreak comic! (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/304965737
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Part-1-Lilac-and-Yogurt-Cream-Cookies-AdventurePart-1-Lilac-and-Yogurt-Cream-Coo.md
+
+### Seafood AdventuresSeafood AdventuresCompleteCompleteReadsReads 999VotesVotes 000PartsParts 333TimeTime 54m0 hours, 54 minutes54mDust is a wandering fighter, changing pods whenever he got seperated from them. Until he stumbles across Cranberry.
+                                  
+                                  The sand tiger runt will have an impact, not only on Dust's life.
+                                  
+                                  This series is marked as finished, but i might add more, should inspiration strike.Seafood AdventuresSeafood AdventuresCompleteCompleteReadsReads 999VotesVotes 000PartsParts 333TimeTime 54m0 hours, 54 minutes54mDust is a wandering fighter, changing pods whenever he got seperated from them. Until he stumbles across Cranberry.
+                                  
+                                  The sand tiger runt will have an impact, not only on Dust's life.
+                                  
+                                  This series is marked as finished, but i might add more, should inspiration strike. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/356948111
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Seafood-AdventuresSeafood-AdventuresCompleteCompleteReads.md
+
+### Food Adventure (English Version)Food Adventure (English Version)CompleteCompleteReadsReads 121212VotesVotes 000PartsParts 111TimeTime 10m0 hours, 10 minutes10mAthrun was invited to have a lunch with CagalliFood Adventure (English Version)Food Adventure (English Version)CompleteCompleteReadsReads 121212VotesVotes 000PartsParts 111TimeTime 10m0 hours, 10 minutes10mAthrun was invited to have a lunch with Cagalli (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/396257534
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Food-Adventure-English-VersionFood-Adventure-English-VersionCompleteCompleteRead.md
+
+### Amethio's food adventureAmethio's food adventureOngoingOngoingReadsReads 103103103VotesVotes 000PartsParts 222TimeTime 6m0 hours, 6 minutes6mAmethio decides to join everyone for curry
+                                  
+                                  and remembers just how much he loves food
+                                  
+                                  
+                                  ( silly HC time
+                                  maybe slightly out of character but you know. Good food does that
+                                  
+                                  cross posted)Amethio's food adventureAmethio's food adventureOngoingOngoingReadsReads 103103103VotesVotes 000PartsParts 222TimeTime 6m0 hours, 6 minutes6mAmethio decides to join everyone for curry
+                                  
+                                  and remembers just how much he loves food
+                                  
+                                  
+                                  ( silly HC time
+                                  maybe slightly out of character but you know. Good food does that
+                                  
+                                  cross posted) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/405760411
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Amethios-food-adventureAmethios-food-adventureOngoingOngoingReads.md
+
+### Food AdventureFood AdventureCompleteCompleteReadsReads 252525VotesVotes 111PartsParts 111TimeTime 8m0 hours, 8 minutes8mThis is a story I wrote way back when with my friend (we did it over text). it is suuper random and I rewrote it as clear as I could without loosing the "story" behind it so it may not be THAT good. but, if your looking for a story to read just because, then feel free to read this nonsense lol.Food AdventureFood AdventureCompleteCompleteReadsReads 252525VotesVotes 111PartsParts 111TimeTime 8m0 hours, 8 minutes8mThis is a story I wrote way back when with my friend (we did it over text). it is suuper random and I rewrote it as clear as I could without loosing the "story" behind it so it may not be THAT good. but, if your looking for a story to read just because, then feel free to read this nonsense lol. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/144810404
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Food-AdventureFood-AdventureCompleteCompleteReads.md
+
+### Amethio's food adventure: christmas edition!Amethio's food adventure: christmas edition!OngoingOngoingReadsReads 515151VotesVotes 000PartsParts 111TimeTime <5 mins0 hours, 4 minutes<5 minsAmethio always ate along ate Christmas due to his past with the Explorers.
+                                  Until Ult starts opening his mouthAmethio's food adventure: christmas edition!Amethio's food adventure: christmas edition!OngoingOngoingReadsReads 515151VotesVotes 000PartsParts 111TimeTime <5 mins0 hours, 4 minutes<5 minsAmethio always ate along ate Christmas due to his past with the Explorers.
+                                  Until Ult starts opening his mouth (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/405760635
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Amethios-food-adventure-christmas-editionAmethios-food-adventure-christmas-editi.md
+
+### Suga's Food AdventureSuga's Food AdventureCompleteCompleteReadsReads 111VotesVotes 000PartsParts 111TimeTime <5 mins0 hours, 1 minutes<5 minsFind out the deep love suga has for food. 
+                                  (Not based on true events. Just a fun cute story for army to enjoy. Kid friendly)Suga's Food AdventureSuga's Food AdventureCompleteCompleteReadsReads 111VotesVotes 000PartsParts 111TimeTime <5 mins0 hours, 1 minutes<5 minsFind out the deep love suga has for food. 
+                                  (Not based on true events. Just a fun cute story for army to enjoy. Kid friendly) (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/333318371
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food adventure' sur Wattpad....
+- **Fichier** : inspirations/data/Sugas-Food-AdventureSugas-Food-AdventureCompleteCompleteReads.md
+
+### ☆࿐ཽ༵༆༒ 𝒂 𝒈𝒂𝒎𝒆 𝒐𝒇 𝒕𝒓𝒖𝒕𝒉 𝒂𝒏𝒅 𝒅𝒆𝒄𝒊𝒆𝒕 ༒༆࿐ཽ༵☆☆࿐ཽ༵༆༒ 𝒂 𝒈𝒂𝒎𝒆 𝒐𝒇 𝒕𝒓𝒖𝒕𝒉 𝒂𝒏𝒅 𝒅𝒆𝒄𝒊𝒆𝒕 ༒༆࿐ཽ༵☆CompleteCompleteReadsReads 19,74119,74119.7KVotesVotes 282282282PartsParts 272727TimeTime 1h 4m1 hours, 4 minutes1h 4mEveryone please stop reading this and read my new rewritten book instead. 
+                                  COMPLETE! Rewritten book version is now out! 
+                                  ❧♣︎🂡"𝐬𝐞𝐫𝐢𝐨𝐮𝐬𝐥𝐲, 𝐰𝐡𝐨 𝐜𝐚𝐧 𝐬𝐚𝐲 '𝐧𝐨' 𝐭𝐨 𝐚 𝐩𝐢𝐧𝐜𝐡 𝐨𝐟 𝐠𝐨𝐨𝐝 𝐝𝐞𝐜𝐢𝐞𝐭?!" ♣︎☙🂠
+                                  
+                                  . 
+                                  . 
+                                  . 
+                                  . 
+                                  . 
+                                  
+                                  Hello people who are simping for this cookie who committed crimes from the fandoms that loves him! Not enough fanfics about this cookie eh? well here you are! hopefully this is enough... anyways-
+                                  
+                                  WARNING: slow updates, so please be patient! >_<
+                                  
+                                  (story cover not mine btw!)
+                                  
+                                  This is shadow milk cookie x female reader (or cookie) Btw! <33☆࿐ཽ༵༆༒ 𝒂 𝒈𝒂𝒎𝒆 𝒐𝒇 𝒕𝒓𝒖𝒕𝒉 𝒂𝒏𝒅 𝒅𝒆𝒄𝒊𝒆𝒕 ༒༆࿐ཽ༵☆☆࿐ཽ༵༆༒ 𝒂 𝒈𝒂𝒎𝒆 𝒐𝒇 𝒕𝒓𝒖𝒕𝒉 𝒂𝒏𝒅 𝒅𝒆𝒄𝒊𝒆𝒕 ༒༆࿐ཽ༵☆CompleteCompleteReadsReads 19,74119,74119.7KVotesVotes 282282282PartsParts 272727TimeTime 1h 4m1 hours, 4 minutes1h 4mEveryone please stop reading this and read my new rewritten book instead. 
+                                  COMPLETE! Rewritten book version is now out! 
+                                  ❧♣︎🂡"𝐬𝐞𝐫𝐢𝐨𝐮𝐬𝐥𝐲, 𝐰𝐡𝐨 𝐜𝐚𝐧 𝐬𝐚𝐲 '𝐧𝐨' 𝐭𝐨 𝐚 𝐩𝐢𝐧𝐜𝐡 𝐨𝐟 𝐠𝐨𝐨𝐝 𝐝𝐞𝐜𝐢𝐞𝐭?!" ♣︎☙🂠
+                                  
+                                  . 
+                                  . 
+                                  . 
+                                  . 
+                                  . 
+                                  
+                                  Hello people who are simping for this cookie who committed crimes from the fandoms that loves him! Not enough fanfics about this cookie eh? well here you are! hopefully this is enough... anyways-
+                                  
+                                  WARNING: slow updates, so please be patient! >_<
+                                  
+                                  (story cover not mine btw!)
+                                  
+                                  This is shadow milk cookie x female reader (or cookie) Btw! <33 (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/390857555
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/𝒂-𝒈𝒂𝒎𝒆-𝒐𝒇-𝒕𝒓𝒖𝒕𝒉-𝒂𝒏𝒅-𝒅𝒆𝒄𝒊𝒆𝒕-𝒂-𝒈𝒂𝒎𝒆-𝒐𝒇-𝒕𝒓𝒖𝒕𝒉-𝒂𝒏𝒅-𝒅𝒆𝒄𝒊𝒆𝒕-CompleteCompleteReads.md
+
+### We Are 2 Different To Be In-love (Eyeless Jack x Jeff the Killer)We Are 2 Different To Be In-love (Eyeless Jack x Jeff the Killer)CompleteCompleteReadsReads 19,80519,80519.8KVotesVotes 504504504PartsParts 101010TimeTime 37m0 hours, 37 minutes37m"I am making out with my Cookies" Jeff says as he eats a chocolate cookie. 
+                                  "what?" Ej questions him.We Are 2 Different To Be In-love (Eyeless Jack x Jeff the Killer)We Are 2 Different To Be In-love (Eyeless Jack x Jeff the Killer)CompleteCompleteReadsReads 19,80519,80519.8KVotesVotes 504504504PartsParts 101010TimeTime 37m0 hours, 37 minutes37m"I am making out with my Cookies" Jeff says as he eats a chocolate cookie. 
+                                  "what?" Ej questions him. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/187853594
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/We-Are-2-Different-To-Be-In-love-Eyeless-Jack-x-Jeff-the-KillerWe-Are-2-Differen.md
+
+### The mystery Cookie (crk fanfic)The mystery Cookie (crk fanfic)CompleteCompleteReadsReads 1,1441,1441.1KVotesVotes 131313PartsParts 999TimeTime 20m0 hours, 20 minutes20mRumor has it that somewhere among Earthbread, a strange species roams. Half cake, half Cookie. But... one day, the last cookie you'd expect to socialize finds it. What will happen next?The mystery Cookie (crk fanfic)The mystery Cookie (crk fanfic)CompleteCompleteReadsReads 1,1441,1441.1KVotesVotes 131313PartsParts 999TimeTime 20m0 hours, 20 minutes20mRumor has it that somewhere among Earthbread, a strange species roams. Half cake, half Cookie. But... one day, the last cookie you'd expect to socialize finds it. What will happen next? (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/393846740
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking mystery' sur Wattpad....
+- **Fichier** : inspirations/data/The-mystery-Cookie-crk-fanficThe-mystery-Cookie-crk-fanficCompleteCompleteReads.md
+
+### STALKER //J.JK FF//STALKER //J.JK FF//CompleteCompleteReadsReads 15,23715,23715.2KVotesVotes 361361361PartsParts 999TimeTime 52m0 hours, 52 minutes52mJeon Jungkook does food deliveries as a part time job. One day he "accidentally" meets his crush aka Park Y/N, a rising model, with a jealous sister. They both get along pretty well and Jungkook reveals his identity that he's not just a delivery guy but a....  #mystery #slowromanceSTALKER //J.JK FF//STALKER //J.JK FF//CompleteCompleteReadsReads 15,23715,23715.2KVotesVotes 361361361PartsParts 999TimeTime 52m0 hours, 52 minutes52mJeon Jungkook does food deliveries as a part time job. One day he "accidentally" meets his crush aka Park Y/N, a rising model, with a jealous sister. They both get along pretty well and Jungkook reveals his identity that he's not just a delivery guy but a....  #mystery #slowromance (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/342999660
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food mystery' sur Wattpad....
+- **Fichier** : inspirations/data/STALKER-JJK-FFSTALKER-JJK-FFCompleteCompleteReads.md
+
+### The Cooking CompetitionThe Cooking CompetitionCompleteCompleteReadsReads 272727VotesVotes 000PartsParts 111TimeTime 12m0 hours, 12 minutes12mBruno wants everyone to get along by cooking together, but somehow things get derailed into a cooking competition.The Cooking CompetitionThe Cooking CompetitionCompleteCompleteReadsReads 272727VotesVotes 000PartsParts 111TimeTime 12m0 hours, 12 minutes12mBruno wants everyone to get along by cooking together, but somehow things get derailed into a cooking competition. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/323310179
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/The-Cooking-CompetitionThe-Cooking-CompetitionCompleteCompleteReads.md
+
+### Fake It Til You Bake ItFake It Til You Bake ItCompleteCompleteReadsReads 4,0004,0004KVotesVotes 275275275PartsParts 555TimeTime 1h 14m1 hours, 14 minutes1h 14mTwo best friends. One couples cooking class. Zero brain cells between them.
+                                  
+                                  When everyone assumes Rosé and Jennie are dating, they decide to just roll with it. Because what could go wrong with fake dating your best friend?
+                                  
+                                  Everything. Everything could go wrong.Fake It Til You Bake ItFake It Til You Bake ItCompleteCompleteReadsReads 4,0004,0004KVotesVotes 275275275PartsParts 555TimeTime 1h 14m1 hours, 14 minutes1h 14mTwo best friends. One couples cooking class. Zero brain cells between them.
+                                  
+                                  When everyone assumes Rosé and Jennie are dating, they decide to just roll with it. Because what could go wrong with fake dating your best friend?
+                                  
+                                  Everything. Everything could go wrong. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/395299466
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'cooking competition' sur Wattpad....
+- **Fichier** : inspirations/data/Fake-It-Til-You-Bake-ItFake-It-Til-You-Bake-ItCompleteCompleteReads.md
+
+### The Prince's Choice (Zutara)The Prince's Choice (Zutara)CompleteCompleteReadsReads 612,639612,639612KVotesVotes 16,85316,85316.8KPartsParts 303030TimeTime 17h 3m17 hours, 3 minutes17h 3mKatara is 18 and the Southern Water Tribe has held an uneasy allegiance with the Fire Nation for the last 100 or so years. When Katara's tribe goes through a food shortage, Katara takes it upon herself to make sure they survive. She agrees to enter a competition where the young Prince Zuko will choose a wife out of 35 women. Katara promises herself she only has to last a day until a truce she can't ignore is offered, and now Katara is in it for the long haul. A Zutara! Selection AU. More couple tags to be added as they appear.The Prince's Choice (Zutara)The Prince's Choice (Zutara)CompleteCompleteReadsReads 612,639612,639612KVotesVotes 16,85316,85316.8KPartsParts 303030TimeTime 17h 3m17 hours, 3 minutes17h 3mKatara is 18 and the Southern Water Tribe has held an uneasy allegiance with the Fire Nation for the last 100 or so years. When Katara's tribe goes through a food shortage, Katara takes it upon herself to make sure they survive. She agrees to enter a competition where the young Prince Zuko will choose a wife out of 35 women. Katara promises herself she only has to last a day until a truce she can't ignore is offered, and now Katara is in it for the long haul. A Zutara! Selection AU. More couple tags to be added as they appear. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/136952589
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food competition' sur Wattpad....
+- **Fichier** : inspirations/data/The-Princes-Choice-ZutaraThe-Princes-Choice-ZutaraCompleteCompleteReads.md
+
+### Tere Sang Bair Bhi Pyaar BhiTere Sang Bair Bhi Pyaar BhiCompleteCompleteReadsReads 7,3517,3517.3KVotesVotes 391391391PartsParts 101010TimeTime 27m0 hours, 27 minutes27mTitle: Tere Sang Bair Bhi Pyaar Bhi
+                                  
+                                  Plot Idea:
+                                  
+                                  Ishaan Mehra and Rudra Thakur have despised each other since their school days. Ishaan is a calm, intelligent, and sarcastic law student, while Rudra is a reckless, short-tempered, and dominant engineering student. Their rivalry is legendary-fights, insults, and endless competition.
+                                  
+                                  Things take a shocking turn when they end up as roommates in the same college hostel. Forced to share a space, their clashes become even more intense. From stealing each other's food to arguing over whose music is too loud, their hate only grows stronger.
+                                  
+                                  But beneath all the anger, there's something else-lingering stares, accidental touches, and a tension neither of them can explain. When a festival dance competition forces them to be partners, the line between rivalry and desire starts blurring.Tere Sang Bair Bhi Pyaar BhiTere Sang Bair Bhi Pyaar BhiCompleteCompleteReadsReads 7,3517,3517.3KVotesVotes 391391391PartsParts 101010TimeTime 27m0 hours, 27 minutes27mTitle: Tere Sang Bair Bhi Pyaar Bhi
+                                  
+                                  Plot Idea:
+                                  
+                                  Ishaan Mehra and Rudra Thakur have despised each other since their school days. Ishaan is a calm, intelligent, and sarcastic law student, while Rudra is a reckless, short-tempered, and dominant engineering student. Their rivalry is legendary-fights, insults, and endless competition.
+                                  
+                                  Things take a shocking turn when they end up as roommates in the same college hostel. Forced to share a space, their clashes become even more intense. From stealing each other's food to arguing over whose music is too loud, their hate only grows stronger.
+                                  
+                                  But beneath all the anger, there's something else-lingering stares, accidental touches, and a tension neither of them can explain. When a festival dance competition forces them to be partners, the line between rivalry and desire starts blurring. (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/391413668
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food competition' sur Wattpad....
+- **Fichier** : inspirations/data/Tere-Sang-Bair-Bhi-Pyaar-BhiTere-Sang-Bair-Bhi-Pyaar-BhiCompleteCompleteReads.md
+
+### SMG4 Altered: Food Truck Rivalry!SMG4 Altered: Food Truck Rivalry!CompleteCompleteReadsReads 656565VotesVotes 000PartsParts 555TimeTime 15m0 hours, 15 minutes15mThis food truck sh*t get serious get ready to die behind itSMG4 Altered: Food Truck Rivalry!SMG4 Altered: Food Truck Rivalry!CompleteCompleteReadsReads 656565VotesVotes 000PartsParts 555TimeTime 15m0 hours, 15 minutes15mThis food truck sh*t get serious get ready to die behind it (Score: 3/5)
+- **Source** : wattpad
+- **URL** : https://www.wattpad.com/story/406892162
+- **Genre** : Fantasy
+- **Résumé** : Trouvé via la recherche 'food competition' sur Wattpad....
+- **Fichier** : inspirations/data/SMG4-Altered-Food-Truck-RivalrySMG4-Altered-Food-Truck-RivalryCompleteCompleteRe.md
 
