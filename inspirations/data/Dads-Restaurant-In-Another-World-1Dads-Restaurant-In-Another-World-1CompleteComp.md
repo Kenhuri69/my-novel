@@ -1,4 +1,4 @@
-# Dad's Restaurant In Another World 1Dad's Restaurant In Another World 1CompleteCompleteReadsReads 188,227188,227188KVotesVotes 6,7316,7316.7KPartsParts 200200200TimeTime 21h 35m21 hours, 35 minutes21h 35mPart 1 COMPLETED!!!
+# Dad's Restaurant In Another World 1Dad's Restaurant In Another World 1CompleteCompleteReadsReads 188,228188,228188KVotesVotes 6,7316,7316.7KPartsParts 200200200TimeTime 21h 35m21 hours, 35 minutes21h 35mPart 1 COMPLETED!!!
                                   Part 2 COMPLETED!!!
                                   Part 3 On Going
                                   
@@ -26,7 +26,7 @@
                                   
                                   If you are interested in this book and would like to continue reading, please subscribe or purchase it once through my Patreon account! (A.G MARSHMALLOW)
                                   
-                                  _____Dad's Restaurant In Another World 1Dad's Restaurant In Another World 1CompleteCompleteReadsReads 188,227188,227188KVotesVotes 6,7316,7316.7KPartsParts 200200200TimeTime 21h 35m21 hours, 35 minutes21h 35mPart 1 COMPLETED!!!
+                                  _____Dad's Restaurant In Another World 1Dad's Restaurant In Another World 1CompleteCompleteReadsReads 188,228188,228188KVotesVotes 6,7316,7316.7KPartsParts 200200200TimeTime 21h 35m21 hours, 35 minutes21h 35mPart 1 COMPLETED!!!
                                   Part 2 COMPLETED!!!
                                   Part 3 On Going
                                   
@@ -66,7 +66,7 @@
 - **Score de pertinence** : 5/5 (Très haute)
 
 ## Résumé
-Trouvé via la recherche 'restaurant fantasy' sur Wattpad.
+Trouvé via la recherche 'restaurant novel' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -78,4 +78,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-restaurant fantasy
+restaurant novel

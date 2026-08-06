@@ -1,4 +1,4 @@
-# Mafia's Chef (COMPLETED)Mafia's Chef (COMPLETED)CompleteCompleteReadsReads 3,146,2703,146,2703.1MVotesVotes 86,45286,45286.4KPartsParts 484848TimeTime 2h 34m2 hours, 34 minutes2h 34mXavier Romano, 27, a mafia leader. Ruthless, cold , arrogant are the words you use to describe him. Lost his parents in a mafia war. He has a twin sister only family left. 
+# Mafia's Chef (COMPLETED)Mafia's Chef (COMPLETED)CompleteCompleteReadsReads 3,146,2713,146,2713.1MVotesVotes 86,45286,45286.4KPartsParts 484848TimeTime 2h 34m2 hours, 34 minutes2h 34mXavier Romano, 27, a mafia leader. Ruthless, cold , arrogant are the words you use to describe him. Lost his parents in a mafia war. He has a twin sister only family left. 
                                   
                                   Scarlet Rivera, 25, chef by profession. Happy, lovely,  caring, kind. She grew up in orphanage. Has no family. But a best friend who she considers her family. She runs a small diner named Foodie's.
                                   
@@ -24,7 +24,7 @@
                                   #6 in mafia out of 1.8k stories (15/03/21)
                                   #2 in Newyork out of 22.3k stories (29/06/21)
                                   #1 in Xavier out of 1.47k stories (26/08/21)
-                                  #6 in Romance out of 1.94k stories (4/4/22)Mafia's Chef (COMPLETED)Mafia's Chef (COMPLETED)CompleteCompleteReadsReads 3,146,2703,146,2703.1MVotesVotes 86,45286,45286.4KPartsParts 484848TimeTime 2h 34m2 hours, 34 minutes2h 34mXavier Romano, 27, a mafia leader. Ruthless, cold , arrogant are the words you use to describe him. Lost his parents in a mafia war. He has a twin sister only family left. 
+                                  #6 in Romance out of 1.94k stories (4/4/22)Mafia's Chef (COMPLETED)Mafia's Chef (COMPLETED)CompleteCompleteReadsReads 3,146,2713,146,2713.1MVotesVotes 86,45286,45286.4KPartsParts 484848TimeTime 2h 34m2 hours, 34 minutes2h 34mXavier Romano, 27, a mafia leader. Ruthless, cold , arrogant are the words you use to describe him. Lost his parents in a mafia war. He has a twin sister only family left. 
                                   
                                   Scarlet Rivera, 25, chef by profession. Happy, lovely,  caring, kind. She grew up in orphanage. Has no family. But a best friend who she considers her family. She runs a small diner named Foodie's.
                                   
@@ -62,7 +62,7 @@
 - **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé
-Trouvé via la recherche 'chef' sur Wattpad.
+Trouvé via la recherche 'chef story' sur Wattpad.
 
 ## Thématique culinaire
 La cuisine est mentionnée dans le titre ou la description.
@@ -74,4 +74,4 @@ La cuisine est mentionnée dans le titre ou la description.
 À évaluer.
 
 ## Mots-clés
-chef
+chef story

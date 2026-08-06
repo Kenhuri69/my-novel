@@ -1,11 +1,11 @@
-# Street Heat (MilkLove)Street Heat (MilkLove)CompleteCompleteReadsReads 1,7701,7701.7KVotesVotes 195195195PartsParts 303030TimeTime 2h 44m2 hours, 44 minutes2h 44mA MilkLove Fanfiction.
+# Street Heat (MilkLove)Street Heat (MilkLove)CompleteCompleteReadsReads 1,7731,7731.7KVotesVotes 195195195PartsParts 303030TimeTime 2h 44m2 hours, 44 minutes2h 44mA MilkLove Fanfiction.
                                   
                                   Milk Sato and Loverrukk Vega are rival food truck queens who publicly hate each other, are forced to team up for the city's biggest street food competition... only to discover their real problem isn't rivalry.
                                   
                                   It's the dangerous chemistry cooking between them.
                                   
                                   
-                                  Genre: Sapphic Romantic Comedy • Enemies-to-Lovers • Food & Culinary Rivalry • Comedy • Light Drama • Feel-Good RomanceStreet Heat (MilkLove)Street Heat (MilkLove)CompleteCompleteReadsReads 1,7701,7701.7KVotesVotes 195195195PartsParts 303030TimeTime 2h 44m2 hours, 44 minutes2h 44mA MilkLove Fanfiction.
+                                  Genre: Sapphic Romantic Comedy • Enemies-to-Lovers • Food & Culinary Rivalry • Comedy • Light Drama • Feel-Good RomanceStreet Heat (MilkLove)Street Heat (MilkLove)CompleteCompleteReadsReads 1,7731,7731.7KVotesVotes 195195195PartsParts 303030TimeTime 2h 44m2 hours, 44 minutes2h 44mA MilkLove Fanfiction.
                                   
                                   Milk Sato and Loverrukk Vega are rival food truck queens who publicly hate each other, are forced to team up for the city's biggest street food competition... only to discover their real problem isn't rivalry.
                                   

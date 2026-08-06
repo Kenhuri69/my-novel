@@ -165,9 +165,18 @@ def clean_filename(title):
     """Crée un nom de fichier propre à partir d'un titre."""
     # Strip Wattpad metadata suffixes (Ongoing, Complete, Reads, Votes, Vote + numbers)
     clean = re.split(r'(Ongoing|Complete|Reads|Votes|Vote)\s*\d', title)[0].strip()
+    # Remove Unicode characters that cause long filenames
+    clean = re.sub(r'[^\x00-\x7F]', '', clean)
     clean = re.sub(r'[^\w\s-]', '', clean)
     clean = re.sub(r'[\s_]+', '-', clean).strip('-')
-    return clean[:80] + ".md"
+    # Ensure filename is within filesystem limits (255 bytes)
+    clean = clean[:80]
+    # Remove leading/trailing hyphens and dots
+    clean = clean.strip('-.')
+    # Ensure we have a valid filename
+    if not clean:
+        clean = "untitled"
+    return clean + ".md"
 
 
 def matches_keywords(text, keywords):
