@@ -1,4 +1,4 @@
-# The Vampire's Pastry Chef (ONC 2022)The Vampire's Pastry Chef (ONC 2022)CompleteCompleteReadsReads 134,849134,849134KVotesVotes 6,3386,3386.3KPartsParts 202020TimeTime 2h 31m2 hours, 31 minutes2h 31m|| WINNER AMBYS 2022 VAMPIRES CATEGORY || 
+# The Vampire's Pastry Chef (ONC 2022)The Vampire's Pastry Chef (ONC 2022)CompleteCompleteReadsReads 134,852134,852134KVotesVotes 6,3386,3386.3KPartsParts 202020TimeTime 2h 31m2 hours, 31 minutes2h 31m|| WINNER AMBYS 2022 VAMPIRES CATEGORY || 
                                   || FEATURED: FOODKART ||
                                   When single mother and baker Autumn Milford is hired to cater a high-end party in the Berkshires, she discovers the "special ingredient" she is required to use isn't just the quirk of an eccentric millionaire ...
                                   
@@ -28,7 +28,7 @@
                                   [#16 in Vampireromance 4/20/22]
                                   [#20 in Romance 4/11/22]
                                   
-                                  Cover by @chessaandersenThe Vampire's Pastry Chef (ONC 2022)The Vampire's Pastry Chef (ONC 2022)CompleteCompleteReadsReads 134,849134,849134KVotesVotes 6,3386,3386.3KPartsParts 202020TimeTime 2h 31m2 hours, 31 minutes2h 31m|| WINNER AMBYS 2022 VAMPIRES CATEGORY || 
+                                  Cover by @chessaandersenThe Vampire's Pastry Chef (ONC 2022)The Vampire's Pastry Chef (ONC 2022)CompleteCompleteReadsReads 134,852134,852134KVotesVotes 6,3386,3386.3KPartsParts 202020TimeTime 2h 31m2 hours, 31 minutes2h 31m|| WINNER AMBYS 2022 VAMPIRES CATEGORY || 
                                   || FEATURED: FOODKART ||
                                   When single mother and baker Autumn Milford is hired to cater a high-end party in the Berkshires, she discovers the "special ingredient" she is required to use isn't just the quirk of an eccentric millionaire ...
                                   
@@ -66,7 +66,7 @@
 - **URL** : https://www.wattpad.com/story/299215608
 - **Statut** : Inconnu
 - **Genre** : Fantasy
-- **Date d'ajout** : 2026-08-04
+- **Date d'ajout** : 2026-08-06
 - **Score de pertinence** : 5/5 (Très haute)
 
 ## Résumé

@@ -2,7 +2,7 @@
 
 ## Résumé de l'exploration
 
-**Date** : 2026-08-06 09:52:56
+**Date** : 2026-08-06 10:12:43
 **Novels trouvés** : 0
 **Score minimum** : 1/5
 
@@ -10,8 +10,7 @@
 
 | Site | Statut | Résultat |
 |------|--------|----------|
-| **wattpad** | ✅ | 0 novel(s) trouvé(s) |
-| **tapas** | ❌ | Inaccessible (HTTP 403 ou DNS failure) |
+| **dreame** | ✅ | 0 novel(s) trouvé(s) |
 
 ## Novels identifiés (triés par pertinence)
 

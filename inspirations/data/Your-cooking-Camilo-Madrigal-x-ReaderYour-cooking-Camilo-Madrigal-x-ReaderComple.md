@@ -1,4 +1,4 @@
-# Your cooking♡ (Camilo Madrigal x Reader)Your cooking♡ (Camilo Madrigal x Reader)CompleteCompleteReadsReads 158,550158,550158KVotesVotes 3,2663,2663.2KPartsParts 505050TimeTime 4h 22m4 hours, 22 minutes4h 22m[COMPLETED]🥰
+# Your cooking♡ (Camilo Madrigal x Reader)Your cooking♡ (Camilo Madrigal x Reader)CompleteCompleteReadsReads 158,606158,606158KVotesVotes 3,2663,2663.2KPartsParts 505050TimeTime 4h 22m4 hours, 22 minutes4h 22m[COMPLETED]🥰
                                   
                                   "Make me quesadillas!"
                                   "No"
@@ -18,7 +18,7 @@
                                   
                                   The art used in the cover is by auom_mantaray
                                   
-                                  DONT BE SHY TO POINT OUT THE MISTAKES IN THIS FF!!♡♡Your cooking♡ (Camilo Madrigal x Reader)Your cooking♡ (Camilo Madrigal x Reader)CompleteCompleteReadsReads 158,550158,550158KVotesVotes 3,2663,2663.2KPartsParts 505050TimeTime 4h 22m4 hours, 22 minutes4h 22m[COMPLETED]🥰
+                                  DONT BE SHY TO POINT OUT THE MISTAKES IN THIS FF!!♡♡Your cooking♡ (Camilo Madrigal x Reader)Your cooking♡ (Camilo Madrigal x Reader)CompleteCompleteReadsReads 158,606158,606158KVotesVotes 3,2663,2663.2KPartsParts 505050TimeTime 4h 22m4 hours, 22 minutes4h 22m[COMPLETED]🥰
                                   
                                   "Make me quesadillas!"
                                   "No"
@@ -46,7 +46,7 @@
 - **URL** : https://www.wattpad.com/story/301423173
 - **Statut** : Inconnu
 - **Genre** : Fantasy
-- **Date d'ajout** : 2026-08-04
+- **Date d'ajout** : 2026-08-06
 - **Score de pertinence** : 4/5 (Haute)
 
 ## Résumé

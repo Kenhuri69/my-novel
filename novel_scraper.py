@@ -106,7 +106,7 @@ SOURCES = {
     "tapas": {
         "base_url": "https://tapas.io",
         "search_url": "https://tapas.io/search?q={keyword}",
-        "accessible": False,
+        "accessible": True,
     },
 }
 
@@ -616,10 +616,40 @@ def run_scraper(target_sites=None, keywords=None, min_score=1, dedup=True):
 
 
 def export_json(novels):
-    """Exporte les résultats bruts en JSON."""
+    """Exporte les résultats bruts en JSON, en fusionnant avec les données existantes."""
     json_path = DATA_DIR / "novels_export.json"
-    export_data = []
+    
+    # Charger les données existantes
+    existing_novels = []
+    if json_path.exists():
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                existing_novels = json.load(f)
+        except (json.JSONDecodeError, IOError):
+            existing_novels = []
+    
+    # Créer un dictionnaire des existing novels par titre normalisé
+    existing_titles = {}
+    for novel in existing_novels:
+        norm_title = novel.get("title", "").lower().strip()
+        # Remove Wattpad metadata suffixes
+        norm_title = re.sub(r'\s*(CompleteCompleteReads|OngoingOngoingReads|VotesVotes|\d+Votes|\d+Reads|Parts\d+|Time\d+m).*$', '', norm_title)
+        existing_titles[norm_title] = novel
+    
+    # Fusionner les nouveaux novels avec les existants
+    merged = list(existing_novels)
+    existing_norm_titles = set(existing_titles.keys())
+    
     for novel in novels:
+        norm_title = novel.get("title", "").lower().strip()
+        # Remove Wattpad metadata suffixes for dedup
+        norm_title = re.sub(r'\s*(CompleteCompleteReads|OngoingOngoingReads|VotesVotes|\d+Votes|\d+Reads|Parts\d+|Time\d+m).*$', '', norm_title)
+        
+        if norm_title not in existing_norm_titles:
+            merged.append(novel)
+    
+    export_data = []
+    for novel in merged:
         export_data.append({
             "title": novel.get("title", ""),
             "author": novel.get("author", "Inconnu"),

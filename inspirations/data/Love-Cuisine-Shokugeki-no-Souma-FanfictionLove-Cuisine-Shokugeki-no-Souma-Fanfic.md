@@ -1,4 +1,4 @@
-# Love Cuisine ~Shokugeki no Souma Fanfiction~Love Cuisine ~Shokugeki no Souma Fanfiction~OngoingOngoingReadsReads 95,09395,09395KVotesVotes 2,7162,7162.7KPartsParts 161616TimeTime 1h 54m1 hours, 54 minutes1h 54mPair: Souma x Takumi
+# Love Cuisine ~Shokugeki no Souma Fanfiction~Love Cuisine ~Shokugeki no Souma Fanfiction~OngoingOngoingReadsReads 95,09495,09495KVotesVotes 2,7162,7162.7KPartsParts 161616TimeTime 1h 54m1 hours, 54 minutes1h 54mPair: Souma x Takumi
                                   
                                   Let's combine a gentle good boyfriend Souma with our usual cute Takumi in one fic.
                                   This ship is killing me.
@@ -7,7 +7,7 @@
                                   Read to find out!!!! (/•w•)/
                                   
                                   ¡¡¡¡YAOI!!!!!
-                                  ¡¡¡¡¡¡SOUMA X TAKUMI¡¡¡¡¡¡Love Cuisine ~Shokugeki no Souma Fanfiction~Love Cuisine ~Shokugeki no Souma Fanfiction~OngoingOngoingReadsReads 95,09395,09395KVotesVotes 2,7162,7162.7KPartsParts 161616TimeTime 1h 54m1 hours, 54 minutes1h 54mPair: Souma x Takumi
+                                  ¡¡¡¡¡¡SOUMA X TAKUMI¡¡¡¡¡¡Love Cuisine ~Shokugeki no Souma Fanfiction~Love Cuisine ~Shokugeki no Souma Fanfiction~OngoingOngoingReadsReads 95,09495,09495KVotesVotes 2,7162,7162.7KPartsParts 161616TimeTime 1h 54m1 hours, 54 minutes1h 54mPair: Souma x Takumi
                                   
                                   Let's combine a gentle good boyfriend Souma with our usual cute Takumi in one fic.
                                   This ship is killing me.
@@ -24,7 +24,7 @@
 - **URL** : https://www.wattpad.com/story/78953518
 - **Statut** : Inconnu
 - **Genre** : Fantasy
-- **Date d'ajout** : 2026-08-04
+- **Date d'ajout** : 2026-08-06
 - **Score de pertinence** : 3/5 (Moyenne)
 
 ## Résumé
