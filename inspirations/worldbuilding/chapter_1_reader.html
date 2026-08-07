@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Graine Étoilée — Chapitre 1 : Éclosion dans le Champ de Blé</title>
+    <style>
+        :root {
+            --bg-color: #0a0a1a;
+            --text-color: #e0e0e0;
+            --accent-color: #d4af37;
+            --heading-color: #f0e68c;
+            --border-color: #4a4a6a;
+            --highlight: rgba(212, 175, 55, 0.1);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.8;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .chapter-icon {
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+            border: 3px solid var(--accent-color);
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 25px rgba(212, 175, 55, 0.4);
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            color: var(--heading-color);
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .subtitle {
+            color: var(--accent-color);
+            font-size: 1.2em;
+            font-style: italic;
+        }
+        
+        .chapter-indicator {
+            color: #888;
+            margin-top: 10px;
+            font-size: 0.9em;
+        }
+        
+        .scene {
+            background-color: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        .scene-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px dashed var(--border-color);
+        }
+        
+        .scene-number {
+            color: var(--accent-color);
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        
+        .page-range {
+            color: #888;
+            font-size: 0.9em;
+        }
+        
+        h2 {
+            color: var(--heading-color);
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+            font-size: 1.1em;
+        }
+        
+        .dialogue {
+            font-style: italic;
+            margin: 20px 0;
+            padding: 15px;
+            background-color: var(--highlight);
+            border-left: 3px solid var(--accent-color);
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .narrator {
+            color: #a0a0a0;
+            font-size: 0.9em;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px dotted var(--border-color);
+        }
+        
+        .character-portrait {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border: 2px solid var(--accent-color);
+            border-radius: 50%;
+            float: left;
+            margin: 0 15px 10px 0;
+            box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+            transition: transform 0.3s ease;
+        }
+        
+        .character-portrait:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 25px rgba(212, 175, 55, 0.6);
+        }
+        
+        .dialogue.with-portrait {
+            display: flex;
+            align-items: flex-start;
+        }
+        
+        .portrait-container {
+            display: flex;
+            align-items: flex-start;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .portrait-container img {
+            width: 80px;
+            height: 80px;
+            object-fit: cover;
+            border: 2px solid var(--accent-color);
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            color: #666;
+            border-top: 1px solid var(--border-color);
+            margin-top: 40px;
+        }
+        
+        .magic-highlight {
+            background: linear-gradient(120deg, transparent 0%, var(--highlight) 50%, transparent 100%);
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+        
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .scene {
+                padding: 20px;
+            }
+            
+            .character-portrait, .portrait-container img {
+                width: 60px;
+                height: 60px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="asset/chapter_1.png" alt="Chapitre 1 - Icône" class="chapter-icon">
+        <h1>La Graine Étoilée</h1>
+        <p class="subtitle">Chapitre 1 : Éclosion dans le Champ de Blé</p>
+        <p class="chapter-indicator">Une histoire de fantasy culinaire</p>
+    </header>
+
+    <div class="scene">
+        <div class="scene-header">
+            <span class="scene-number">Scène 1</span>
+            <span class="page-range">Pages 1-5</span>
+        </div>
+        <h2>Le Champ de Blé Étoffé</h2>
+        <img src="asset/character/luna_thornwick.png" alt="Luna Thornwick" class="character-portrait">
+        
+        <p>Le ciel de la nuit était parsemé d'étoiles immobiles, mais en bas, la terre dansçait.</p>
+        
+        <p>Luna Thornwick cligna des yeux, couchée sur le dos. Ses doigts grattèrent le sol, accumulant de la terre tiède et humide sous ses petits ongles. L'air était frais, presque piquant, mais une chaleur douce battait contre sa poitrine. Poum. Poum.</p>
+        
+        <p>Elle baissa les yeux. La grosse graine de chou-fleur en bronze, accrochée à son cou par un lacet de cuir, pulsait d'une lumière dorée, exactement au même rythme que son cœur.</p>
+        
+        <p>Où était le canapé du salon ? Où était Grand-mère Marinette ?</p>
+        
+        <p>Luna se leva en trébuchant à moitié. Autour d'elle s' étendait un champ de blé infini, mais les épis brillaient doucement dans le noir, comme des centaines de petites lucioles fatiguées. Luna fronça les sourcils. En plissant les yeux, elle remarqua que les tiges avaient une étrange aura bleutée.</p>
+        
+        <p>Elle tendit sa petite main et frôla un épi. Un frisson lui parcourlit le bras, suivi d'une sensation de gorge sèche et râpeuse. Ce n'était pas des mots, mais une évidence pure.</p>
+        
+        <div class="dialogue">
+            « T'as super soif, toi, hein ? » murmura Luna, sa voix d'enfant brisant le silence surnaturel.
+        </div>
+        
+        <p>L'épi de blé se courba légèrement vers elle, frottant ses grains contre sa paume, comme un chat qui réclame des caresses. Luna pouffa de rire.</p>
+    </div>
+
+    <div class="scene">
+        <div class="scene-header">
+            <span class="scene-number">Scène 2</span>
+            <span class="page-range">Pages 6-12</span>
+        </div>
+        <h2>Rencontre avec Sylvie</h2>
+        <img src="asset/character/sylvie_lysdron.png" alt="Sylvie Lysdorn" class="character-portrait">
+        
+        <p>Crac.</p>
+        
+        <p>Le rire de Luna s'étrangla net. Derrière elle, une silhouette élancée venait de bondir d'un arbre mort pour atterrir sans un bruit. C'était une grande fille, vêtue de cuir usé, avec des cheveux blancs tressés et des oreilles pointues qui dépassaient. Un arc en bois sombre était bandé, la flèche pointée droit sur le torse de Luna.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « Ne bouge pas, l'anomalie, » murmura l'elfe. Sa voix était tranchante, chargée de la méfiance de celle qui a trop longtemps survécu seule. « Pourquoi l'herbe luminescente ne te repousse-t-elle pas ? Qu'est-ce que tu es ? »
+                </div>
+            </div>
+        </div>
+        
+        <p>Luna renifla, frottant ses yeux pleins de sommeil. La flèche lui faisait un peu peur, mais la dame avait l'air surtout très fatiguée. Son aura à elle tremblotait d'un bleu-gris anxieux.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Je suis pas une anomalie, je m'appelle Luna. Et c'est pas de l'herbe, c'est du blé. » Luna désigna le champ. « Mais il fait la tête parce qu'il n'a pas plu. T'aurais pas un arrosoir dans ton sac ? »
+                </div>
+            </div>
+        </div>
+        
+        <p>Sylvie cligna des yeux, totalement déstabilisée. Elle abaissa lentement son arc, l'esprit en ébullition face à l'absurdité de la situation. Une enfant ? Ici ?</p>
+        
+        <p>C'est alors que la lune éclaira la main droite de la petite fille. Sylvie retint son souffle. Une cicatrice en forme de spirale parfaite. La marque des Lignées.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « Par les Anciens... » murmura l'elfe en rangeant sa flèche. « Les marques Thornwick. Je croyais que les cuisiniers étaient tous morts. Je suis Sylvie. Viens, on ne peut pas rester à découvert. Les Sentinelles rôdent. »
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="scene">
+        <div class="scene-header">
+            <span class="scene-number">Scène 3</span>
+            <span class="page-range">Pages 13-20</span>
+        </div>
+        <h2>Découverte du Village</h2>
+        <img src="asset/character/kael_morrow.png" alt="Kael Morrow" class="character-portrait">
+        
+        <p>Le village de Brièves-Îles sentait le sel et la pierre froide. En se faufilant dans les ruelles sombres derrière Sylvie, Luna remarqua immédiatement ce qui clochait. L'air était vide. Il n'y avait aucune cheminée sur les toits, aucune odeur de bois brûlé, de pain chaud ou de soupe. Les maisons ressemblaient à des boîtes mortes.</p>
+        
+        <p>À travers la fenêtre d'une bicoque, Luna vit un garçon à peine plus vieux qu'elle. Il s'appelait Kael. Il était si pâle qu'il semblait transparent, et il tremblait de tout son corps sous une fine couverture. Près de lui, sa mère déboucha une fiole géométrique parfaite et lui fit boire un liquide rougeoyant et stérile.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Pourquoi il boit du jus de lumière magique s'il a froid ? » chuchota Luna, horrifiée. « Il faut lui faire un chocolat chaud ou un bouillon ! »
+                </div>
+            </div>
+        </div>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « Chut ! » la réprimanda doucement Sylvie. « C'est une potion de mana de Vitalité. La Guilde a banni la nourriture depuis les Grandes Famines. La cuisine est une magie instable. Personne ne mange ici, Luna. On ingère du mana. »
+                </div>
+            </div>
+        </div>
+        
+        <p>Luna regarda Kael grelotter. Son petit visage se ferma, déterminé.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Ton jus de lumière, ça nourrit peut-être la magie, mais ça réchauffe pas le ventre. Viens. Il faut qu'on trouve un feu. »
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="scene">
+        <div class="scene-header">
+            <span class="scene-number">Scène 4</span>
+            <span class="page-range">Pages 21-30</span>
+        </div>
+        <h2>Première Cuisine</h2>
+        <img src="asset/character/luna_thornwick.png" alt="Luna Thornwick" class="character-portrait">
+        
+        <p>Elles se réfugièrent dans une vieille grange abandonnée aux abords du village. Sylvie, toujours méfiante, utilisa une petite pierre à feu pour chauffer une large lauze (une pierre plate) trouvée dans les gravats.</p>
+        
+        <p>Luna farfouilla dans les réserves oubliées sous la paille. Sa synesthésie la guida. Elle vit une faible aura dorée émaner d'un vieux sac en toile, et des petites pointes vertes s'échapper de bouquets secs accrochés aux poutres.</p>
+        
+        <div class="dialogue">
+            « Bingo ! » sourit Luna.
+        </div>
+        
+        <p>Elle étala de vieux grains de blé sauvage sur la pierre brûlante. Ensuite, elle écrasa dans ses petites mains des feuilles de menthe sauvage et de petites graines rondes et piquantes qui lui rappelaient les marinades parfumées que sa grand-mère préparait le dimanche.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « Qu'est-ce que tu fais ? » s'inquiéta Sylvie en reculant. « Tu vas provoquer une explosion de mana ? »
+                </div>
+            </div>
+        </div>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Non, je torréfie, » répondit Luna avec le plus grand sérieux.
+                </div>
+            </div>
+        </div>
+        
+        <p>La graine en bronze contre son cœur commença à pulser d'une chaleur lente, douce et réconfortante. Luna ferma les yeux et pensa très fort à la sensation d'une grosse couette bien chaude en hiver.</p>
+        
+        <p>Les grains de blé crépitèrent sur la pierre. Les huies essentielles de la menthe et des épices se libérèrent brusquamment. Un ruban de fumée dorée s'éleva, traversant la grange. L'odeur était magnétique, profonde, presque charnelle. C'était l'odeur du foyer.</p>
+    </div>
+
+    <div class="scene">
+        <div class="scene-header">
+            <span class="scene-number">Scène 5</span>
+            <span class="page-range">Pages 31-35</span>
+        </div>
+        <h2>La Connexion</h2>
+        <img src="asset/character/kael_morrow.png" alt="Kael Morrow" class="character-portrait">
+        
+        <p>L'odeur avait voyagé. La porte de la grange grince. Kael se tenait là, serrant sa couverture, le nez en l'air, attiré comme un somnambule par le parfum du blé grillé.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « Kael ! » chuchota Sylvie, prête à dégainer.
+                </div>
+            </div>
+        </div>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Laisse, » dit Luna. Elle venu d'écraser les grains torréfiés avec un caillou et de les mélanger avec un peu d'eau claire de la gourde de Sylvie pour en faire une bouillie épaisse et parfumée. Elle en tendit une petite écuelle en bois au garçon.
+                </div>
+            </div>
+        </div>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « C'est pour toi, » dit Luna.
+                </div>
+            </div>
+        </div>
+        
+        <p>Kael hésita. Le concept même de mettre cette chose dans sa bouche lui était étranger. Mais la chaleur qui émanait du bol fit fondre sa peur. Il prit une petite cuillère et avala.</p>
+        
+        <p>L'effet fut instantané. La Règle de la Commensalité s'activa. La magie du plat explosa doucement dans Kael. Ses joues prirent une teinte rosée. Ses épaules se détendirent. La peur qu'il portait dans son aura grise fut pulvérisée par l'Intention de Luna, remplacée par un jaune chaud et rayonnant.</p>
+        
+        <p>Il ouvrit de grands yeux émerveillés.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/kael_morrow.png" alt="Kael">
+            <div>
+                <div class="dialogue">
+                    « Et ne mange pas si vite, gamin, tu vas t'étouffer. »
+                </div>
+            </div>
+        </div>
+        
+        <p>La voix résonna directement dans le crâne de Kael. Il sursauté, recrachant presque sa bouchée, et pointa un doigt tremblant vers Luna.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/kael_morrow.png" alt="Kael">
+            <div>
+                <div class="dialogue">
+                    « T-ton collier ! Ton collier vient de me gronder ! »
+                </div>
+            </div>
+        </div>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Ah ouais, la graine parle parfois. Elle est un peu à cheval sur les bonnes manières. »
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="scene">
+        <div class="scene-header">
+            <span class="scene-number">Scène 6</span>
+            <span class="page-range">Pages 36-45</span>
+        </div>
+        <h2>La Fuite</h2>
+        <img src="asset/character/maire_corvus.png" alt="Maire Corvus" class="character-portrait">
+        
+        <p>Soudain, les fioles de mana accrochées à la ceinture de Sylvie se mirent à vibrer frénétiquement. La magie synthétique réagissait à la magie pure de la cuisine.</p>
+        
+        <div class="dialogue">
+            « Corvus, » siffla Sylvie.
+        </div>
+        
+        <p>Le Maire du village et trois Sentinelles de la Guilde, drapés dans de longs manteaux stricts, venaient d'entourer la grange. Leurs bâtons de cristal noir brillaient dangereusement.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/maire_corvus.png" alt="Maire Corvus">
+            <div>
+                <div class="dialogue">
+                    « Anomalie magique détectée, » résonna la voix métallique du Maire depuis l'extérieur. « Rendez-vous. La consommation d'énergie archaïque est passible de bannissement ! »
+                </div>
+            </div>
+        </div>
+        
+        <p>Luna voulut se lever, mais ses genoux se dérobèrent. Sa vision se troubla et un bâillement monumental lui décrocha la mâchoire. Cuisiner avec de la magie avait drainé toute son énergie de petite fille.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/luna_thornwick.png" alt="Luna">
+            <div>
+                <div class="dialogue">
+                    « Sylvie... j'ai sommeil... » murmura Luna en s'effondrant presque.
+                </div>
+            </div>
+        </div>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « Mauvais moment pour la sieste, la cuistot ! » jura Sylvie. Elle attrapa Luna d'un bras, la chargea sur son dos, et agrippa Kael de l'autre main.
+                </div>
+            </div>
+        </div>
+        
+        <p>À l'extérieur, le Maire leva son bâton. Mais la graine de bronze de Luna, sentant la détresse de son hôte endormie, envoya une impulsion furieuse dans le sol. Les vieilles racines sous la grange éclatèrent le plancher, formant un mur de ronces épaisses et lumineuses entre les fuyards et la Guilde. Les racines creusèrent un tunnel végétal qui s'enfonçait vers l'est, au-delà des champs.</p>
+        
+        <div class="portrait-container">
+            <img src="asset/character/sylvie_lysdron.png" alt="Sylvie">
+            <div>
+                <div class="dialogue">
+                    « On court ! » ordonna Sylvie en s'engouffrant dans la terre, portant Luna qui ronflait déjà doucement sur son épaule.
+                </div>
+            </div>
+        </div>
+        
+        <div class="narrator">
+            Leur destination n'était plus les Territoires d'Ambre. Le tunnel les menait droit vers les terres chaudes, là où la Guilde n'osait pas s'aventurer : la Vallée de Cendre.
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 La Graine Étoilée — Projet de fantasy culinaire</p>
+        <p>Chapitre 1 · Par Olivier Parent</p>
+    </footer>
+</body>
+</html>

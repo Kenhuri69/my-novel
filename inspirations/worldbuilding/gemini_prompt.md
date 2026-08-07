@@ -44,27 +44,28 @@ La nourriture ne modifie pas de stats abstraites, mais altère l'état d'esprit 
 | Type de Plat | Ingrédient Clé | Émotion Injectée | Effet Narratif & Gameplay |
 |---|---|---|---|
 | Bouillie de Blé Grillé | Blé étoffé + eau pure | Nostalgie, sécurité | Rayonnement de chaleur, dissipe la peur, redonne du coloris au teint |
+| Purée de Patate-Brase | Patate-Brase + sel de roche | Courage de l'Âtre | Dissipe instantanément le désespoir et la peur. Confère une résistance au froid. |
 | Consommé de Racine-Lune | Racines sauvages + sel de roche | Patience, calme | Invisibilité magique aux Sentinelles (courte durée) |
 | Infusion de Baies de Givre | Baies sauvages du champ | Culpabilité résolue, pardon | Larme de cristal — permet d'exprimer une vérité cachée |
 
 ### Limites & Vulnérabilités (garder Luna humaine)
 - **Fatigue physique épuisante** : Luna a 7 ans. Pétrir, porter des marmites, cuisiner = dépense réelle. Si elle trop cuisine, elle s'endort sur place.
 - **Vulnérabilité aux mauvaises intentions** : Si quelqu'un cuisine sous l'impulsion de la haine, l'ingrédient se flétrit ou produit de la "cendre-mana" (toxique).
-- **Dépendance envers les alliés** : Luna prépare les catalyseurs, mais ne sait pas se battre. Elle dépend de Sylvie pour récolter et se protéger.
+- **Dépendance envers les alliés** : Luna prépare les catalyseurs, mais ne sait pas se battre. Elle dépend de Sylvie pour récolter les ingrédients dangereux et pour la protéger pendant qu'elle cuisine.
 
 ### Opposition avec la Guilde : Magie Morte vs Magie Vivante
 | Aspect | Magie de la Guilde (Synthétique) | Magie Culinaire (Vivante) |
 |---|---|---|
 | Source | Flacons de mana, cristaux d'énergie | La terre, le soleil, l'amour du cuisinier |
 | Effet | Rapide, stérile, éteint les émotions | Lent, réconfortant, réveille la mémoire |
-| Danger | Rend l'humain un automate sans désirs | Rend le peuple indiscipliné, difficile à contrôler |
+| Danger | Rend l'humain un automate sans désirs | Rend le peuple indiscipliné et difficile à contrôler |
 
 ---
 
-## Structure du Chapitre 1
+## Structure du Chapitre 1 — "Éclosion dans le Champ de Blé"
 
 #### Scène 1 : Le Champ de Blé Étoffé (pages 1-5)
-Luna se réveille dans un champ de blé doré qui brille comme des étoiles. La graine de chou-fleur en bronze pulse en rythme avec son cœur. Elle interagit avec les plantes, découvre qu'elles réagissent à sa présence.
+Luna se réveille dans un champ de blé doré qui brille comme des étoiles. La graine de chou-fleur en bronze autour de son cou pulse en rythme avec son cœur. Elle découvre qu'elle peut "parler" aux plantes et qu'elles répondent.
 
 **Éléments de jeu** :
 - Luna voit les émotions des plantes (couleurs, mouvements).
@@ -75,7 +76,7 @@ Luna se réveille dans un champ de blé doré qui brille comme des étoiles. La 
 Sylvie (16 ans, elfe chasseuse exilée) trouve Luna dans le champ. Méfiance initiale, puis curiosité. Elle reconnaît les marques Thornwick — lien ancestral avec la cuisine.
 
 **Éléments de jeu** :
-- Dialogue tendu entre elfe et humanoïde.
+- Dialogue initial tendu entre elfe et humanoïde.
 - Sylvie devient la première alliée de Luna.
 - Première reconnaissance de la Synesthésie Végétale par un tiers.
 
@@ -88,29 +89,50 @@ Introduction au monde d'Aethermoor via le village de Brièves-Îles. Les habitan
 - Rencontre avec Kael — premier "cible" potentielle pour la cuisine.
 
 #### Scène 4 : Première Cuisine (pages 21-30)
-Luna trouve des grains de blé dans un grenier, les prépare et les cuit. L'odeur est magnétique. Première démonstration de magie culinaire.
+Luna trouve des grains de blé dans un grenier, les prépare et les cuit. L'odeur est magnétique. Première démonstration de magie culinaire. Découverte du Tubercule de Foyer → guérison de Kael.
 
 **Éléments de jeu** :
 - Mini-jeu de cuisine (gratter, tremper, cuire).
 - L'odeur a un effet visuel (particules lumineuses).
 - Premiers habitants attirés par la magie culinaire.
 - La graine pulse lentement et chaudement → plat apaisant.
+- Découverte du Tubercule de Foyer → première guérison émotionnelle.
 
 #### Scène 5 : La Connexion (pages 31-35)
-Kael goûte le blé cuit. Il sourit pour la première fois. La cuisine agit comme un catalyseur émotionnel.
+Kael goûte le blé cuit et le plat de Patate-Brase. Il entend la voix de la graine. Premiers souvenirs d'autres vies. Complicité naissante entre les trois personnages.
 
 **Éléments de jeu** :
 - Système d'émotions alimentaires (Kael passe de gris à coloré).
 - Révélation que la cuisine peut "guérir" les émotions.
 - Première réaction émotionnelle forte — la Règle de la Commensalité s'applique.
+- Humour : Kael discute avec l'esprit de la graine.
+- Dialogue entre les plantes et Luna.
 
 #### Scène 6 : La Fuite (pages 36-45)
-La Guilde intervient. Sylvie sauve Luna en l'aidant à fuir vers le champ de blé. Premier véritable conflit. Transition vers le conflit principal.
+La Guilde intervient. Sylvie sauve Luna en l'aidant à fuir vers le champ de blé. Première apparition de la Guilde. Hook vers les chapitres suivants.
 
 **Éléments de jeu** :
-- Action — Sentinelles vs. Luna + Sylvie.
+- Action — Sentinelles vs. Luna + Sylvie + Kael.
 - Utilisation de la magie végétale pour fuir (dialogue avec les plantes).
-- Transition vers le mystère des graines d'Origine.
+- Révélation de la voix de Grand-mère Marinette à travers la terre.
+- Hook final : "Les Thornwick reviennent."
+- Humour sombre : Kael commente la situation avec légèreté.
+
+---
+
+## Suggestions pour Enrichir le Prompt Gemini
+
+1. **Analyse des buffs émotionnels** :
+   > *"Peux-tu analyser si les effets des plats (guérison, invisibilité, etc.) sont suffisamment ancrés dans l'univers et accessibles à un jeune lecteur ?"*
+
+2. **Renforcer la légèreté/humour** :
+   > *"Y a-t-il assez d'humour léger pour adoucir les moments sombres ? Peux-tu proposer des variantes de dialogues entre Kael et la graine ?"*
+
+3. **Équilibrer la puissance de Luna** :
+   > *"Luna est très active pour une enfant de 7 ans. Penses-tu qu'elle reste crédible ? Quelles limites pourrais-tu suggérer ?"*
+
+4. **Développer la symbolique du blé et de la graine** :
+   > *"Quelle métaphores pourrais-tu ajouter autour de la graine comme symbole d'espoir, ou le blé comme symbole de résilience ?"*
 
 ---
 
@@ -133,7 +155,7 @@ La Guilde intervient. Sylvie sauve Luna en l'aidant à fuir vers le champ de bl�
 ### 3. Points de vigilance
 - **Équilibre** : Ne pas rendre Luna trop puissante. Elle est enfant — le système de magic doit refléter la fragilité.
 - **Originalité** : Différencier de sources comme *Gourmet Kindergarten* (système de jeu) ou *Dungeon Gourmet* (donjons).
-- **Accessibilité** : Rendre les concepts magiques accessibles à un jeune public sans les simplifier.
+- **Accessibilité** : Rendre les concepts magiques accessibles à un jeroe public sans les simplifier.
 - **Sérialisation** : Laisser des "crochets" pour les chapitres suivants (ex : origine des graines, lien avec la Terre).
 
 ---
@@ -145,9 +167,12 @@ La Guilde intervient. Sylvie sauve Luna en l'aidant à fuir vers le champ de bl�
 
 ---
 
-## Format attendu de la réponse
-1. Points forts identifiés
-2. Points faibles / risques
-3. Suggestions d'enrichissement (par scène si possible)
-4. Mécaniques de jeu proposées
-5. Éléments à développer dans les prochains chapitres
+## Ton de la réponse
+- **Langue** : Français (ou anglais si préféré)
+- **Style** : Analyse structurée, suggestions concrètes
+- **Format** :
+  1. Points forts identifiés
+  2. Points faibles / risques
+  3. Suggestions d'enrichissement (par scène si possible)
+  4. Mécaniques de jeu proposées
+  5. Éléments à développer dans les prochains chapitres
