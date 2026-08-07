@@ -42,6 +42,32 @@ tests/            ← xUnit (pure .NET)
 3. Ouvre le dossier dans Godot Hub
 4. Lance depuis la scène principale
 
+## Production en cours
+
+### Écriture narrative
+- 📝 **Chapitres 1-5** : Structure narrative complète (squelettes détaillés)
+- 🎭 **Fiches personnages** : Évolution complète (Luna, Sylvie, Kael, Virelle, Corvus)
+- 🧠 **Système de magie culinaire** : Triptyque Culinaire + buffs émotionnels
+- 🥔 **Ingrédients magiques** : Blé Étoffé, Tubercule de Foyer, Éclat de Soufre, Graine d’Or Noire, Larmes de Crépuscule
+- 👁️‍🗨️ **Prompt Gemini** : Prêt pour relecture critique et enrichissement
+
+### Documentation liée
+- 📖 [`inspirations/worldbuilding/culinary_fantasy_framework.md`](inspirations/worldbuilding/culinary_fantasy_framework.md) — Cadre narratif complet
+- 📝 [`inspirations/worldbuilding/chapter_1.md`](inspirations/worldbuilding/chapter_1.md) — Texte narratif complet du Chapitre 1
+- 📋 [`inspirations/worldbuilding/chapter_1_outline.md`](inspirations/worldbuilding/chapter_1_outline.md) — Plan détaillé par scènes
+- 🧑‍🍳 [`inspirations/worldbuilding/chapter_1_development.md`](inspirations/worldbuilding/chapter_1_development.md) — Fiches personnages et structures sociales
+- 💬 [`inspirations/worldbuilding/gemini_prompt.md`](inspirations/worldbuilding/gemini_prompt.md) — Prompt pour Gemini (revue critique + enrichissement)
+- 🖼️ [`inspirations/worldbuilding/chapter_1_image_prompt.md`](inspirations/worldbuilding/chapter_1_image_prompt.md) — Prompt d'illustration pour le Chapitre 1
+- 🔍 [`inspirations/worldbuilding/character_sheets_all_chapters.md`](inspirations/worldbuilding/character_sheets_all_chapters.md) — Fiches personnages complètes (Chapitres 1-5)
+- 📁 [`inspirations/worldbuilding/asset/`](inspirations/worldbuilding/asset/) — Assets visuels (personnages, couvertures)
+
+### Chapitres en développement
+- 📘 [Chapitre 1 — Éclosion dans le Champ de Blé (Terminé)](inspirations/worldbuilding/chapter_1.md)
+- 📘 [Chapitre 2 — Les Cendres de la Mémoire (Squelette)](inspirations/worldbuilding/chapter_2_skeleton.md)
+- 📘 [Chapitre 3 — Batailles de Braises et de Souvenirs (Squelette)](inspirations/worldbuilding/chapter_3_skeleton.md)
+- 📘 [Chapitre 4 — Réveil des Cendres (Squelette)](inspirations/worldbuilding/chapter_4_skeleton.md)
+- 📘 [Chapitre 5 — La Recette Ultime et les Cinq Royaumes (Squelette)](inspirations/worldbuilding/chapter_5_skeleton.md)
+
 ## Licence
 
 Propriétaire — Tous droits réservés. Histoire originale.
