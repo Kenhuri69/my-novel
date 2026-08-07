@@ -57,97 +57,120 @@ Contrairement au mana traditionnel, la **magie culinaire** repose sur :
 ## 3. Personnage Principal
 
 ### Nom
-**Kael Thornwick** — Un nom qui sonne "humain ordinaire" dans ce monde de magie.
+**Luna Thornwick** — Une enfant dont le nom signifie "lumière dans l'obscurité", un contraste ironique avec un monde où la cuisine est dans l'ombre.
 
 ### Âge
-22 ans au moment de l'incarnation.
+**7 ans** — L'âge où la curiosité est la plus pure, et où la cuisine est encore une source de merveil.
 
 ### Origine
-- **Monde d'origine** : Terre, 2025
-- **Profession d'origine** : Livreur de repas à temps partiel, passionné de cuisine auto-entretenue
-- **Contexte social** : Classe moyenne moyenne, pas d'ambition particulière, mais un rêve d'ouvrir un petit restaurant
-- **Motivation** : Simplement vouloir partager de bons repas avec les gens
+- **Monde d'origine** : Terre, 2025 (petite ville côtière de la Nouvelle-Écosse)
+- **Contexte familial** : Petite-fille d'une grand-mère cuisinière, issue d'une lignée de "cuistots" (les Thornwick) qui servaient de gratte-ciel dans les temps modernes
+- **Événement déclencheur** : Décès accidentel des parents dans un incendie (prétendu) — en réalité, la Guilde des Mages d'Aethermoor a effacé les mémoires pour "ramener" une pure âme culinaire
+- **Contexte social** : Élevée par sa grand-mère dans la pauvreté, mais rêve d'ouvrir un restaurant
+- **Motivation** : "Je veux que tout le monde ait le droit de manger quelque chose de bon, comme grand-mère me le faisait"
 
-### Apparence physique (forme humaine)
-- Taille moyenne, carrure mince
-- Cheveux bruns courts, yeux marron
-- Sourcils légèrement renfrognés, donne une air de concentration
-- Toujours vêtu de vêtements simples et propres
+### Histoire de l'origine Terre
+Luna vivait à Halifax avec sa grand-mère Marinette, une cuisiniière d'origine québécoise qui transformait chaque repas en rituel d'amour. Après la mort subite de sa grand-mère (un "accident" suspect), Luna découvre dans le cocon d'elle-même une **graine de chou-fleur en bronze** — un héritage familial qui pulse faiblement.
 
-### Traits de personnalité
-- **Curieux** : Observe tout, même les détails banals
-- **Empathique** : Se connecte facilement avec les émotions des autres via la nourriture
-- **Patient** : La cuisine l'a appris à prendre son temps
-- **Humble** : Ne se surpasse pas, mais persévère
-- **Créatif** : Improvisation constante, expérimente avec ce qu'il a
+Lorsqu'elle la touche, la graine s'ouvre en un tourbillon, et Luna est aspirée dans un **portail culinaire** — une dimension interstellaire où les saveurs convergent.
+
+### Apparence physique
+- **Taille** : 1m20, mince mais en bonne santé pour son âge
+- **Cheveux** : Roux-brun, longs, souvent tressés avec des rubans en étoffe (hérités de sa grand-mère)
+- **Yeux** : Vert-gris, pétillants d'observation — change de couleur légèrement selon son humeur culinaire
+- **Style** : Vêtements simples mais propres, toujours un tablier en lin bleu (le tablier de sa grand-mère)
+- **Accessoires** : 
+  - Carnet de recettes de grand-mère (en cuir usé)
+  - Graine de chou-fleur en bronze (autour du cou sur une chaîne fine)
+
+### Traits de personnalité (à 7 ans)
+- **Curieuse innée** : "Pourquoi ça ne peut pas être autrement ?" est sa question favorite
+- **Empathique instinctive** : Elle "sent" les émotions dans les aliments comme d'autres sentent l'humeur
+- **Intuitive** : Croit fermement en ses instincts culinaires — "si ça me donne envie de le goûter, c'est bon"
+- **Résiliente** : Après la perte de sa grand-mère, elle a appris à se battre contre la tristesse avec la cuisine
+- **Protectrice** : Veille sur ceux qui l'entourent, comme sa grand-mère le faisait
+- **Imagérante** : Transforme chaque repas en histoire, chaque plat en aventure
 
 ### Lien avec la cuisine
-- **Pas un chef professionnel** — Juste quelqu'un qui aime cuisiner pour les autres
-- **Spécialité** : Plats de réconfort, soupes, pâtes maison
-- **Philosophie** : "La cuisine n'est pas une compétition, c'est un partage"
-- **Magie culinaire innée** : Découvre qu'il peut ressentir les "émotions" des ingrédients, qu'il peut "sentir" ce que les autres ressentent en mangeant
+- **Apprentie** : Apprend par cœur les recettes de sa grand-mère, mais ajoute ses propres touche
+- **Spécialité** : Soupes de légumes, pâtes à la main, tartes aux fruits sauvages
+- **Philosophie** (héritée de grand-mère) : "La cuisine, c'est l'amour qu'on ne peut pas dire, mais qu'on peut manger."
+- **Magie culinaire innée** : Luna peut "parler" aux plantes et résoudre les ingrédients comme des énigmes. Elle perçoit les "émotions" des aliments — le blé heureux, le sel triste, le fromage rebelle.
 
 ### Point de départ du personnage
-Kael se réveille dans un champ de blé, à Aethermoor, avec seulement ses vêtements et un sac de graines de chou-fleur (qui l'accompagnait mystérieusement depuis Terre). Il ne sait pas ce qu'est la magie, ne comprend pas comment ce monde fonctionne, mais il comprend que la cuisine qu'il connaît est perçue comme un "art ancien et perdu".
+Luna se réveille dans un **champ de blé doré** sous un ciel d'opale, entourée de plantes qui brillent faiblement. La graine de chou-fleur en bronze autour de son cou pulse en rythme avec son cœur. Elle porte ses vêtements d'hiver (malgré la chaleur étrange), son tablier en lin bleu, et son carnet de recettes de grand-mère. 
+
+Elle ne sait pas où elle est, mais le blé brille comme de l'or, et les graines dansent autour d'elle en chœur. Un parfum de pain frais l'attire — elle suit l'odeur et découvre un village de pêcheurs dans les Territoires d'Ambre.
 
 ## 4. Introduction au Monde
 
 ### La Scène d'Ouverture
-**Lieu** : Un village de l'Est, **Brièves-Îles**, un hameau de pêcheurs dans les Territoires d'Ambre.
+**Lieu** : Un village de pêcheurs dans les Territoires d'Ambre, **Brièves-Îles** — un hameau côtier où les habitants n'ont jamais vu de "nourriture" que sous forme de potions de mana.
 
 **Séquence** :
-1. **Réveil et confusion** : Kael se réveille dans un champ, confuse des étoiles, parfum étrange.
-2. **Première interaction** : Il est trouvé par une jeune Elfesse-chasseresse qui le prend pour un "humain perdu". Elle le guide vers le village avec méfiance.
-3. **Première différence** : Dans le village, KaeI découvre que personne ne mange pas de "nourriture". Les habitants consomment des "potions de mana" et des "pâtes d'énergie vitale".
-4. **Première cuisine** : Kael, affamé, découvre des grains de blé dans un grenier. Il les pique, les trempe dans une rivière, et les cuisine sur un feu.
-5. **Première réaction** : Les habitants sont fascinés et effrayés par la cuisine. L'odeur est "magique" pour eux.
-6. **Première connexion** : Un enfant du village, affamé, goûte le blé cuit. Il sourit pour la première fois depuis des mois.
-7. **Première conséquence** : La Guilde des Mages intervient, considérant la cuisine comme une "pratique magique non autorisée".
+1. **Réveil et confusion** : Luna se réveille dans un champ de blé où les épis brillent comme de l'or, sous un ciel d'opale. La graine de chou-fleur autour de son cou pulse en rythme avec son cœur.
+2. **Première interaction** : Une jeune Élève-chasseresse la trouve, étonnée par cette "petite humanoïde" qui parle de "pain" et "soupe". Elle la guide vers le village avec une curiosité délicieuse.
+3. **Première différence** : Dans le village, Luna découvre que personne ne mange pas de "nourriture". Les habitants consomment des "potions de mana" et des "pâtes d'énergie vitale". Un enfant lui demande : "C'est quoi, un 'resto' ?"
+4. **Première cuisine** : Luna, affamée, découvre des grains de blé dans un grenier. Elle les gratte, les trempe dans une rivière, et les cuit sur un feu improvisé. L'odeur est "magique" pour les habitants.
+5. **Première réaction** : Les habitants sont fascinés et effrayés. Le maire, un Mage, déclare que la cuisine est une "pratique magique non autorisée" — interdite depuis 500 ans.
+6. **Première connexion** : Un enfant du village, affamé de mana mais jamais satisfait, goûte le blé cuit. Il sourit pour la première fois depuis des mois. "C'est comme... un câlin dans la bouche."
+7. **Première protection** : La guilde envoie des Sentinelles pour capturer Luna. L'Élève-chasseresse, **Sylvie**, l'aide à fuir vers le champ de blé, où les plantes l'accompagnent comme une armée silencieuse.
 
 ### Éléments de Départ du Personnage
-- **Objet de départ** : Une petite boîte en bois contenant des graines de chou-fleur (gratitude de sa mère, Terre)
-- **Connaissance** : Recettes de base (pâtes, soupes, pâtes à pain)
-- **Compétences** : Sens aigu du goût, patience, improvisation
-- **Défaut** : Aucune connaissance de la magie, se fie trop à l'intuition
+- **Objet de départ** : Le carnet de recettes de grand-mère (en cuir usé) + la graine de chou-fleur en bronze (autour du cou)
+- **Connaissance** : Recettes de base (soupes, pâtes, tartes) — apprises par cœur de grand-mère
+- **Compétences** : Sens aigu du goût, intuition, capacité à "parler" aux plantes
+- **Défaut** : À 7 ans, comprend la magie de base mais reste vulnérable — a besoin d'interdépendance
 - **Force cachée** : Peut ressentir les émotions des ingrédients et des personnes qui mangent
 
 ### Hooks Narratifs Initiaux
-1. **Pourquoi Kael a-t-il été transporté ?** — Une erreur de la Guilde des Mages ? Un appel de la cuisine ? Une volonté du monde ?
-2. **Quelle est la vraie nature de la cuisine dans Aethermoor ?** — Une magie perdue ? Une menace pour les élites ?
-3. **Peut-il changer la perception du monde sur la cuisine ?** — Par l'exemple, par la force, par la conviction ?
-4. **Quel est le lien entre les graines de chou-fleur et Terre ?** — Des graines sont porteuses de "souvenirs d'origine" ?
+1. **Pourquoi Luna a-t-elle été transportée ?** — La Guilde a-t-elle orchestré son arrivée pour "ramener" une pure âme culinaire ? La graine est-elle un appel ?
+2. **Quelle est la vraie nature de la cuisine dans Aethermoor ?** — Une magie perdue ? Une menace pour les élites mage ? Une connexion avec Terre ?
+3. **Peut-elle changer la perception du monde sur la cuisine ?** — Par l'exemple, par la douceur, par l'inspiration d'enfance ?
+4. **Quel est le lien entre la graine de chou-fleur et Terre ?** — Est-elle un fragment de la Terre-mère ? Une porte vers d'autres mondes ?
 
 ### Premiers Éléments de Conflit
-- **Conflit interne** : Kael doit apprendre à survivre dans un monde magique sans connaissances magiques.
-- **Conflit social** : Les habitants le regardent avec méfiance en raison de sa "cuisine surnaturelle".
-- **Conflit institutionnel** : La Guilde des Mages veut contrôler ou éliminer les pratiquants de cuisine.
-- **Conflit personnel** : Kael veut simplement aider les gens, mais sa cuisine attire des enjeux politiques.
+- **Conflit interne** : Luna doit survivre dans un monde magique sans protection, seule avec sa grand-mère dans son cœur et sa graine magique.
+- **Conflit social** : Les habitants du village sont fascinés mais effrayés — la cuisine est "illégale" et "dangereuse".
+- **Conflit institutionnel** : La Guilde des Mages veut capturer Luna pour "étudier" la cuisine interdite.
+- **Conflit personnel** : Luna veut simplement faire plaisir aux gens avec de bons repas, mais sa cuisine attire l'attention des puissants.
 
 ## 5. Connexions avec l'œuvre du jeu
 
 ### Parallèles LOTR
-- **Le voyage initiatique** : Comme Frodo, Kael évolue de simplicité à grandeur.
-- **Les factions** : La Guilde des Mages = Sauron, les chefs ambulants = les membres de la Compagnie.
-- **L'objet magique** : Les graines de chou-fleur = l'Anneau.
-- **L'ascension** : Construire un restaurant = reforger Anduril.
+- **Le voyage initiatique** : Comme Frodo, Luna évolue de l'innocence à la sagesse, portant une "charge" (la graine) à travers un monde hostile.
+- **Les factions** : La Guilde des Mages = Sauron, les chefs ambulants = les membres de la Compagnie, les habitants ordinaires = les populations des Terres du Milieu.
+- **L'objet magique** : La graine de chou-fleur = l'Anneau — un objet qui pulse, guide, et est convoité par les puissants.
+- **L'ascension** : Construire un restaurant = reforger Anduril — créer quelque chose de nouveaux à partir de fragments d'origine.
+- **La mémoire du passé** : La grand-mère = Gandalf — le sage qui a transmis les connaissances, et dont la mort marque le début du voyage.
 
 ### Originalité vs Sources
 | Élément | Source commune | Notre approche |
 |---------|---------------|----------------|
-| MC transmigré | 95% des novels | MC ordinaire, pas un expert |
-| Système de jeu | Gourmet Kindergarten | Système social, pas ludique |
-| Restaurant | The Watering Hole | Commencer par du simple blé |
-| Mage-cuisinier | Thèse des sources | Pas de magie "spéciale" |
-| Donjon-cuisine | Dungeon Gourmet | Pas de donjons |
-| VR cuisine | The Gourmet Gamer | Monde physique |
+| MC transmigré | 95% des novels | Enfant de 7 ans, orpheline |
+| Protagoniste | Chef expert / adulte | Apprentie, intuitive, vulnérable |
+| Système de jeu | Gourmet Kindergarten | Système social (trust, relationships) |
+| Restaurant | The Watering Hole | Commencer par une simple cuillère |
+| Mage-cuisinier | Thèse des sources | Magie émotionnelle, pas incantations |
+| Donjon-cuisine | Dungeon Gourmet | Pas de donjons — des villages |
+| VR cuisine | The Gourmet Gamer | Monde physique, tangible |
+| Objet magique | Anneau, etc. | Graine de chou-fleur (herite familiale) | |
 
 ## 6. Premiers Pas Narratifs
 
 ### Prochaine scène clé
-Après la cuisine du blé, Kael découvre que :
-- Les "grains de blé" sont en fait des **graines d'Origine** — capables de pousser dans n'importe quel sol, mais seulement pour ceux qui les cultivent avec soin.
+Après la cuisson du blé, Luna découvre que :
+- Les "grains de blé" brillants sont en fait des **graines d'Origine** — capables de pousser dans n'importe quel sol, mais seulement pour ceux qui les cultivent avec soin.
 - L'enfant qui a mangé son blé cuit commence à **rêver de Terre** — il voit des champs, des vaches, des vaches qui disent "moo".
-- La Guilde des Mages enquête sur ce phénomène, car la cuisine semble contagieur.
+- La Guilde des Mages enquête sur ce phénomène, car la cuisine semble "contagieuse" — elle réveille des souvenirs d'origine.
 
 ### Arc suivant
-Kael doit choisir : rester caché et cuisiner en cachette, ou ouvrir un restaurant malgré l'interdiction. Il décide d'ouvrir **"Le Graine Étoilée"** — un petit étal de rue, mais la cuisine qu'il sert réveille les souvenirs d'origine des habitants, leur rappelant des vies passées sur Terre ou d'autres mondes.
+Luna doit choisir : rester cachée avec Sylvie dans les champs, ou ouvrir un restaurant malgré l'interdiction. Elle décide d'ouvrir **"La Graine Étoilée"** — un petit étal de rue, mais la cuisine qu'elle sert réveille les souvenirs d'origine des habitants, leur rappelant des vies passées sur Terre ou d'autres mondes.
+
+### Arcs narratifs (révisés pour Luna, 7 ans)
+- **Arc 1** : L'arrivée perdue — Luna découvre Aethermoor, apprend les bases de la cuisine magique, et échappe à la Guilde grâce à Sylvie. Construction du premier "restaurant" improvisé.
+- **Arc 2** : Les racines — Luna découvre l'histoire des Thornwick, les graines d'Origine, et le lien entre la cuisine et la magie Terre. Sylvie devient sa première amie.
+- **Arc 3** : L'éveil — La cuisine de Luna commence à réveiller des habitants du village. La Guilde s'attaque à elle, mais sa réputation grandit. Elle ouvre "La Graine Étoilée" dans la Vallée de Cendre.
+- **Arc 4** : Les 5 Royaumes — Luna voyage à travers Aethermoor, aidant chaque royaume à retrouver son lien avec la cuisine. Elle découvre que chaque royaume a perdu sa connection culinaire.
+- **Arc 5** : La révélation — La Guilde est dirigée par un ancêtre Thornwick qui a trahi sa lignée. Luna doit choisir entre détruire la Guilde ou la réformer.
+- **Arc 6** : L'avenir — Luna devient la fondatrice de la Nouvelle Guilde de la Cuisine, unissant les 5 royaumes autour de la cuisine partagée.
