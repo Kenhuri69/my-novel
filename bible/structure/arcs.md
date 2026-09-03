@@ -69,22 +69,24 @@ Maire Corvus (village)  →  Commandant Virelle (région)  →  Conseil des Cinq
 
 ## 4. Table des 60 chapitres
 
-Légende **Statut** : ✅ rédigé · 📐 squelette existant · 🔁 squelette existant adapté · 🆕 nouveau (squelette dans les fichiers d'arc).
+Légende **Statut** : ✅ rédigé en prose · 📐 squelette seul · 🔁 squelette adapté · 🆕 squelette dans les fichiers d'arc.
+
+**Chapitres 1 à 10 : rédigés.** Les textes sont dans `inspirations/worldbuilding/chapter_1.md` à `chapter_10.md`. Les tensions locales, les liens et les rappels comiques de l'arc I sont suivis dans [`tensions_et_rappels.md`](tensions_et_rappels.md).
 
 ### Arc I — L'Éveil de la Graine (`arc_1_eveil_de_la_graine.md`)
 
 | # | Titre | Lieu | Ingrédient / Recette clé | Personnages introduits | Hook de fin | Statut |
 |---|---|---|---|---|---|---|
 | 1 | Éclosion dans le Champ de Blé | Champ de Blé Étoffé, Brièves-Îles | Blé Étoffé → Bouillie de Blé Grillé | Luna, Sylvie, Kael, Corvus, Virelle, Ouma | « Les Thornwick reviennent. » | ✅ |
-| 2 | Les Cendres de la Mémoire | Vallée de Cendre, Four Ancestral | Tubercule de Foyer → Ragoût de Braises | — | Gravure : « les Cinq Royaumes » | 📐 |
-| 3 | Batailles de Braises et de Souvenirs | Forêt des Murmures | Éclat de Soufre, Racines de Rêve → Bouclier de fumée douce | Sentinelles de l'Ombre | La mère de Kael était cuisinière | 📐 |
-| 4 | Réveil des Cendres | Ruines de Halifax-sur-Aethermoor | Graine d'Or Noire → Pain d'Écorché | Voix de Marinette | « La Recette Ultime se trouve dans le Royaume d'Argent » | 📐 |
-| 5 | La Chambre des Saveurs Perdues | Royaume d'Argent (ruines gelées) | Larmes de Crépuscule → Bouillon des Cinq Sens | Orrin (Gardien de Glace) | La Carte des Saveurs : cinq Parts, cinq royaumes | 🔁 |
-| 6 | Le Chemin des Caravanes | Cols d'Argent → piste d'Ambre | Datte de Verre, Sel des Dunes → Galette de Route | Idris Sable-Doux | Idris : « On a gardé quelque chose de vivant, depuis 500 ans. » | 🆕 |
-| 7 | Le Village qui Rêvait | Brièves-Îles | Baies de Givre → Infusion de Baies de Givre | Ouma Sarel (développée) | Corvus frappe à la porte d'Ouma | 🆕 |
-| 8 | Le Procès de la Cuillère | Mairie de Brièves-Îles | Soupe de Bord de Mer | Gardes de la mairie | Corvus : « Je ne t'ai pas vue. » | 🆕 |
-| 9 | La Nuit des Potions Éteintes | Port de Brièves-Îles, mer d'Ambre | Algue-Lanterne → Bouillon de Marée | Sentinelle Septième (masquée) | Une Sentinelle a hésité devant Kael | 🆕 |
-| 10 | La Graine Étoilée | Bivouac des Braises (Vallée de Cendre) | Champignon de Cendre → Soupe du Premier Soir | Gorm Braise-Vive | Ordre du Conseil : « L'enfant, vivante. » | 🆕 |
+| 2 | Les Cendres de la Mémoire | Vallée de Cendre, Four Ancestral | Tubercule de Foyer → Ragoût de Braises | — | Gravure : « les Cinq Royaumes » | ✅ |
+| 3 | Batailles de Braises et de Souvenirs | Forêt des Murmures | Éclat de Soufre, Racines de Rêve → Bouclier de fumée douce | Sentinelles de l'Ombre | La mère de Kael était cuisinière | ✅ |
+| 4 | Réveil des Cendres | Ruines de Halifax-sur-Aethermoor | Graine d'Or Noire → Pain d'Écorché | Voix de Marinette | « La Recette Ultime se trouve dans le Royaume d'Argent » | ✅ |
+| 5 | La Chambre des Saveurs Perdues | Royaume d'Argent (ruines gelées) | Larmes de Crépuscule → Bouillon des Cinq Sens | Orrin (Gardien de Glace) | La Carte des Saveurs : cinq Parts, cinq royaumes | ✅ |
+| 6 | Le Chemin des Caravanes | Cols d'Argent → piste d'Ambre | Datte de Verre, Sel des Dunes → Galette de Route | Idris Sable-Doux | Idris : « On a gardé quelque chose de vivant, depuis 500 ans. » | ✅ |
+| 7 | Le Village qui Rêvait | Brièves-Îles | Baies de Givre → Infusion de Baies de Givre | Ouma Sarel (développée) | Corvus frappe à la porte d'Ouma | ✅ |
+| 8 | Le Procès de la Cuillère | Mairie de Brièves-Îles | Soupe de Bord de Mer | Tobbe et Marn | « La Septième a demandé à venir. » | ✅ |
+| 9 | La Nuit des Potions Éteintes | Port de Brièves-Îles, mer d'Ambre | Algue-Lanterne → Bouillon de Marée | Sentinelle Septième (masquée) | Une Sentinelle a hésité devant Kael | ✅ |
+| 10 | La Graine Étoilée | Bivouac des Braises (Vallée de Cendre) | Champignon de Cendre → Soupe du Premier Soir | Gorm Braise-Vive | Ordre du Conseil : « L'enfant, vivante. » | ✅ |
 
 ### Arc II — Les Racines (`arc_2_les_racines.md`)
 
@@ -173,6 +175,33 @@ Légende **Statut** : ✅ rédigé · 📐 squelette existant · 🔁 squelette 
 | Part d'**Air** | Sucré | Empire d'Or | Aurelian (humains) | Miel des Abeilles de Verre | Ch. 39 |
 | Part de **Feu** | Épicé | Vallée de Cendre | Thornwick (humains) | Braise Première du Four Ancestral | Ch. 57 |
 | *Liant* | — | Royaume d'Argent (disparu) | Orrin | Larmes de Crépuscule + Carte des Saveurs | Ch. 5 |
+
+## 5 bis. Escalade des enjeux
+
+> Ce que le roman met en jeu ne cesse jamais d'être une table, mais l'échelle de la table change.
+> Détail des Archives et des nouveaux territoires dans [`../monde/archives.md`](../monde/archives.md),
+> [`../monde/regions.md`](../monde/regions.md) §8 et [`../monde/organisations.md`](../monde/organisations.md) §9-14.
+
+| Palier | Ce qui est en jeu | Combien de personnes | Révélé par | Arc |
+|---|---|---|---|---|
+| 1 | un enfant qui a faim | 1 | la bouillie de la grange | I |
+| 2 | un village qui rêve et se croit fou | 240 | le mur de craie de Dorin | I |
+| 3 | une vallée qui recommence à cuisiner | 2 200 | la contagion des saveurs | II-III |
+| 4 | cinq royaumes qui doivent se rasseoir | quelques millions | la Carte des Saveurs | IV |
+| 5 | deux millions de mémoires confisquées, rendables une par une | 2 000 000 de fioles, 12 000 soulagés vivants | le niveau -2 du Dépôt et les Marches Grises | V-VI |
+| 6 | onze mille recettes rangées que personne ne sait lire | cinq siècles de savoir | le niveau -4 | VI |
+| 7 | quatre-vingt-onze mille cuisiniers comptés dans un livre | la légitimité d'un royaume | le Livre des Purges, niveau -5 | VI |
+| 8 | **quarante mille mondes, quatre-vingt-onze pour cent de colonies dissoutes** | hors échelle | la Salle des Portes, niveau -6 | VI et au-delà |
+| 9 | un cahier d'écolier, trois lignes, une petite fille morte de faim | 1 | le Puits, niveau -7 | 59 |
+
+**Règle** : l'escalade monte jusqu'au palier 8, puis **redescend au palier 9**. Le plus grand enjeu du
+roman n'est pas quarante mille mondes : c'est une bouillie de blé grillé tendue à un homme qui a
+perdu sa sœur. Ne jamais résoudre le palier 8 par la force ; le résoudre par le palier 9.
+
+**Trois clés nouvelles, trois prix** :
+- on peut **rendre** la mémoire — mais rendre trop vite tue ;
+- on peut **lire** ce qui est rangé — mais lire au niveau -6 coûte l'odorat, définitivement ;
+- on peut **arrêter** la Nuit sans Saveur — mais il faut convaincre douze souffleurs de verre, et pas une armée.
 
 ## 6. Courbes longues (à suivre sur 60 chapitres)
 

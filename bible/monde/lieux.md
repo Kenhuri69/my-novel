@@ -156,9 +156,87 @@
 - **Fonction** : projet secret de Virelle ; réparation du luth ; vérité sur Marinette.
 - **Chapitres** : 47 ; évoqué 28, 42.
 
-### Les Archives de la Guilde
+### ★ Le Dépôt (les Archives de la Guilde)
+- **Type** : archive d'État sur sept niveaux souterrains. **Où** : sous la Tour de Verre ; un escalier de service la relie à la Serre Noire, sous la Forteresse.
+- **Apparence** : au niveau 0, une salle claire, des banquettes, un comptoir de laiton, une odeur de papier neuf. En dessous, plus aucune fenêtre et **une seule source de lumière : le mana clair**, qui efface ce qu'on lit pendant qu'on le lit.
+- **Les sept niveaux** : 0 le Guichet · -1 les Registres de Commune · -2 les Relevés de Mémoire (deux millions de fioles étiquetées) · -3 le Cadastre des Lignées · -4 les Recettes Confisquées (onze mille manuscrits classés par quelqu'un qui ne savait pas les lire) · -5 le Livre des Purges · -6 la **Salle des Portes** (quarante mille fiches, un monde par fiche) · -7 le **Puits** (un cahier d'écolier et une cuillère).
+- **Fonction** : tout garder et que personne ne lise. Voir `bible/monde/archives.md` pour le détail complet, le coût de lecture par niveau et les enjeux.
+- **Risques** : chaque niveau a une durée tolérable. Au-delà, on perd quelque chose de précis : un visage, un nom, une année, l'odorat.
+- **Chapitres** : 28, 48 ; les niveaux profonds sont ouverts pour la suite.
+
+### Les Archives de la Guilde (fiche d'origine, conservée)
 - **Type** : bibliothèque interdite sous la Tour. **Apparence** : tout ce que la Guilde a interdit de lire, gardé par Bram ; le dossier « FONDATEUR » (une page). **Chapitres** : 28, 48.
 
 ### ★ La Tour de Verre
 - **Type** : siège du Conseil des Cinq et demeure d'Ezren. **Apparence** : pas d'escalier — un ascenseur de mana qui ne monte que pour ceux qu'il appelle ; la salle du Conseil (cinq sièges, un écran de verre dépoli) ; au sommet, la salle d'Ezren : vide, blanche, sans odeur, une seule table.
 - **Chapitres** : 28, 49, 50.
+
+---
+
+## Marches Grises
+
+### ★ Le Village Douze
+- **Type** : village de soulagés. **Où** : plateau des Marches Grises, à deux jours du col de la Vallée de Cendre.
+- **Apparence** : quatre-vingts maisons de torchis gris identiques, deux rues perpendiculaires, une plaque de fonte à l'entrée portant le chiffre **12**. Une remise à fioles au centre. Pas d'enseigne, pas de four, pas de puits — l'eau est apportée.
+- **Fonction narrative** : le lieu où la cuisine **ne marche pas**. L'odeur ne réveille rien, parce qu'on n'a pas retiré aux habitants leurs souvenirs de nourriture : on leur a retiré leurs souvenirs de *quelqu'un*.
+- **Le détail à ne pas manquer** : dans la quatrième maison de la rue est, une femme d'une quarantaine d'années met chaque soir une couverture au bas de sa porte. Elle ne cuisine pas. Elle ne sait pas pourquoi elle le fait. Elle le fait depuis onze ans.
+- **Risques** : aucun physique. Le risque est moral : on peut y perdre l'idée que ça vaut la peine.
+- **Chapitres** : à venir (arc VI et suite).
+
+### La Maison des Veilleurs
+- **Type** : dispensaire et logement de fonction, un par groupe de six villages. **Apparence** : la seule maison à deux étages des Marches, avec une lanterne allumée en permanence.
+- **Fonction** : les **Veilleurs** (voir `organisations.md` §14) tiennent les registres de santé des soulagés, distribuent les fioles et notent, sans savoir pourquoi on le leur demande, tout comportement « résiduel » : une couverture sous une porte, une main qui cherche un objet absent, quelqu'un qui fredonne.
+- **Ce qu'elle cache** : quarante ans de ces notes. C'est, sans que personne l'ait voulu, l'archive de tout ce que le mana clair n'arrive pas à effacer.
+
+### ★ La Faille de Verre
+- **Type** : cicatrice. **Où** : nord des Marches Grises, sur trois lieues.
+- **Apparence** : une bande de sable **vitrifié**, translucide, verte en profondeur, hérissée d'arêtes coupantes hautes comme un homme. Aucune plante. Aucun oiseau ne la survole. Par temps sec, elle chante d'une note très basse quand le vent la traverse.
+- **Ce que c'est** : l'endroit exact où un portail-graine a été **éteint de force** en l'an 9 de la Guilde, alors qu'il était ouvert. La fiche correspondante existe au niveau -6 du Dépôt : *MONDE : Kem-la-Bleue. PORTAIL : perdu.*
+- **Risques** : les coupures ne guérissent pas normalement ; le sol est instable ; et quelqu'un qui porte une graine germée y entend des voix qui parlent une langue qu'il ne connaît pas.
+- **Chapitres** : à venir.
+
+---
+
+## Archipel de Sel
+
+### ★ Bas-Nom
+- **Type** : bourg de pêcheurs sur l'île principale de l'Archipel de Sel. Trois mille habitants.
+- **Apparence** : des maisons de pierre sèche blanchies au sel, des toits plats pour recueillir la pluie, des séchoirs à poisson partout, pas un arbre. Le sol crisse.
+- **Ce qui frappe** : les gens parlent tout le temps de nourriture. Ils ont deux cent quarante noms de plats et aucun plat. Un enfant vous dira qu'il aime « le pain qui tourne » sans avoir jamais rien mâché.
+- **Fonction narrative** : l'archive inverse du Dépôt. Ici le sens a survécu et la chose a disparu.
+- **Chapitres** : à venir.
+
+### La Halle des Noms
+- **Type** : abri ouvert sur la grève de Bas-Nom, quatre piliers et un toit.
+- **Apparence** : les murs manquent ; les piliers sont couverts d'entailles, une par nom de plat, deux cent quarante entailles, regroupées par familles de sept.
+- **Fonction** : une fois par an, à marée basse, les Nommeurs récitent la liste entière dans l'ordre. Cela prend une heure et quart. Personne ne manque.
+- **Ce qu'elle cache** : sept entailles ont été **grattées**. Sept noms ont été retirés de la liste, il y a longtemps, par décision d'un Nommeur dont on a oublié le nom. Personne ne sait ce qu'ils désignaient.
+
+---
+
+## Territoires d'Ambre (compléments)
+
+### ★ Rive-des-Chants (ruines, Erg Blanc)
+- **Type** : colonie figée. **Où** : au fond de l'Erg Blanc, quinze jours au sud-ouest des Sept Puits.
+- **Apparence** : une ville entière debout sous une croûte de sel de deux doigts. Des maisons rondes, des bassins, et au centre une halle immense avec des rangées de **bassins de pierre peu profonds** dont personne ne devine l'usage — c'étaient des viviers : on y gardait les poissons vivants et on les remerciait avant.
+- **Ce que disent les caravanes** : *« l'Erg garde ce qu'il a pris »*. Ils en connaissent la direction et ne la prennent pas.
+- **Chapitres** : à venir.
+
+---
+
+## Confédération d'Émeraude (compléments)
+
+### Le Gué-Bas (Basses-Racines)
+- **Type** : village elfique de marais, quatre cents habitants. **Apparence** : passerelles de bois sombre, huttes sur pilotis, saules, vase, brume au ras de l'eau.
+- **Ce qui compte** : privés d'arbre-mère, ces elfes **mâchent** depuis cent quarante ans, par nécessité, du poisson cru et des racines de marais. Ils ont gardé sans le savoir la pratique que Sylvanthe a perdue, et Sylvanthe les traite en population « en attente de replantation ».
+- **Fonction narrative** : le seul village elfique qu'il ne faudra pas convaincre.
+
+---
+
+## Royaume d'Azur (compléments)
+
+### ★ L'Arche de Luth (Cols Noirs)
+- **Type** : porte de pierre d'un royaume disparu, dans une galerie abandonnée au nord du septième niveau des Caves Givrées.
+- **Apparence** : une arche à demi effondrée, taillée dans une pierre pâle qui n'est pas du sel, gravée d'un motif de luth. **Tiède au toucher**, ce qui est impossible à cette profondeur.
+- **Ce que c'est** : un passage. Les Cols Noirs relient les Caves Givrées aux hautes vallées du Royaume d'Argent. Les nains ont cessé de creuser par là il y a trois siècles.
+- **Chapitres** : aperçue au ch. 35 ; franchie plus tard.

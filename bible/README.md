@@ -19,6 +19,7 @@ bible/
 ├── README.md                          ← ce fichier
 ├── structure/                         ← LE SQUELETTE : 6 arcs, 60 chapitres
 │   ├── arcs.md                        ← vue d'ensemble, table des 60 chapitres, courbes longues
+│   ├── tensions_et_rappels.md         ← arc I : tension locale par chapitre, gestes, carnet des rappels
 │   ├── arc_1_eveil_de_la_graine.md    ← ch. 1-10  (fin d'été → équinoxe d'automne)
 │   ├── arc_2_les_racines.md           ← ch. 11-20 (automne)
 │   ├── arc_3_l_eveil.md               ← ch. 21-30 (hiver → équinoxe de printemps)
@@ -31,7 +32,8 @@ bible/
 │   ├── organisations.md               ← Guilde, Lignées, cuistots, conseils, cour, la Table
 │   ├── societe.md                     ← lois (Code de la Magie), rituels, économie, langue
 │   ├── histoire.md                    ← chronologie : Semeurs, Famine, Interdiction, l'année du roman
-│   └── magie.md                       ← le système culinaire consolidé (fait foi)
+│   ├── magie.md                       ← le système culinaire consolidé (fait foi)
+│   └── archives.md                    ← le Dépôt : 7 niveaux, coût de lecture, les 5 archives du monde
 ├── personnages/                       ← LES FICHES
 │   ├── index.md                       ← cast complet + secondaires en une ligne
 │   ├── luna_thornwick.md … (9 fiches complètes)
@@ -39,7 +41,8 @@ bible/
 └── taxonomies/                        ← LES CATALOGUES (IDs stables pour le jeu)
     ├── ingredients.md                 ← ING-xxx : ~55 ingrédients, 5 Éléments, auras, rareté
     ├── recettes.md                    ← REC-xxx : ~60 recettes, 4 tiers, familles d'effet
-    └── items.md                       ← ARM/VET/POT/UST/ART/DOC/DIV-xxx : ~90 objets
+    ├── items.md                       ← ARM/VET/POT/UST/ART/DOC/DIV-xxx : ~90 objets
+    └── structures.md                  ← STR-xxx : typologie des lieux bâtis, 8 familles, 6 régimes d'accès
 ```
 
 ## Comment s'en servir
@@ -47,7 +50,11 @@ bible/
 | Je veux… | J'ouvre… |
 |---|---|
 | écrire un chapitre | `structure/arc_N_*.md` à la bonne entrée, puis les fiches des personnages présents et `monde/lieux.md` |
+| tenir l'humour et les rappels | `structure/tensions_et_rappels.md` : ce qui est déjà planté, ce qui est déjà payé, ce qui reste à payer |
+| lire le roman | `inspirations/worldbuilding/chapter_1.md` … `chapter_10.md` (chapitres 1-10 rédigés) |
 | vérifier une règle de magie | `monde/magie.md` (fait foi) |
+| écrire une scène d'archive, ou faire monter les enjeux | `monde/archives.md`, puis `structure/arcs.md` §5 bis |
+| inventer un lieu | la grille vierge de `taxonomies/structures.md` §10 |
 | savoir qui sait quoi et quand | `structure/arcs.md` §6 (courbes longues) et `monde/histoire.md` §6 |
 | inventer un ingrédient / une recette / un objet | la section « Règles d'écriture » en fin de chaque taxonomie |
 | préparer des données de jeu | les IDs des taxonomies (ING-, REC-, ARM-…) ; chaque entrée donne son chapitre d'apparition |
@@ -67,3 +74,5 @@ bible/
 4. Le fondateur de la Guilde est **Ezren Thornwick**, ancêtre de Luna. Il a raison sur la Famine. Il a tort sur la suite. Sa défaite est une cuillère.
 5. Luna ne rentre pas sur Terre. Marinette a ouvert le portail elle-même. La graine est plantée au ch. 60.
 6. Pas de bataille au climax : un **service** de sept cents couverts.
+7. Le **Dépôt** est éclairé au mana clair : y lire coûte des souvenirs. Toute scène d'archive se termine par une soustraction, jamais par une solution trouvée.
+8. L'escalade s'arrête au palier 8 (quarante mille mondes) et se **résout** au palier 9 (un cahier d'écolier). Voir `structure/arcs.md` §5 bis.

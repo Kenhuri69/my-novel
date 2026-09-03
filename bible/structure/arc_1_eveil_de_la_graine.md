@@ -9,8 +9,10 @@
 > **État de la Carte des Saveurs en fin d'arc** : 0 Part sur 5 ; Carte + Larmes de Crépuscule acquises.
 > **Tonalité** : émerveillement, fuite, premières amitiés. Le danger est réel mais toujours contourné par la douceur.
 
-Les chapitres 1 à 5 renvoient aux fichiers existants dans `inspirations/worldbuilding/`. Seules les
-modifications de raccord sont notées ici.
+> **Statut de l'arc : entièrement rédigé.** Les dix chapitres existent en prose dans
+> `inspirations/worldbuilding/chapter_1.md` … `chapter_10.md`. Ce fichier reste la référence de
+> structure ; en cas d'écart, **le texte rédigé fait foi** et l'écart est consigné dans
+> [`tensions_et_rappels.md`](tensions_et_rappels.md) §4.
 
 ---
 
@@ -23,19 +25,19 @@ modifications de raccord sont notées ici.
 - Parmi les cinq Sentinelles de la scène 6, l'une porte un « 7 » gravé sur son masque. Kael ne la voit pas. Le lecteur, si.
 - Virelle prononce « Article 7 du Code de la Magie » : le texte de l'article est dans `bible/monde/societe.md`.
 
-## Chapitre 2 — Les Cendres de la Mémoire  📐 squelette existant
+## Chapitre 2 — Les Cendres de la Mémoire  ✅ rédigé
 **Fichier** : `inspirations/worldbuilding/chapter_2_skeleton.md`
 **Raccords** : les gravures du Four Ancestral sont trop encrassées pour être lues entièrement ; seul le mot « Cinq Royaumes » apparaît. La lecture complète attend le chapitre 13 (Cendre Douce). Le « lieu de culte oublié des Thornwick » (clairière centrale) est nommé **Clairière des Sept Marmites** : sept socles de pierre vides.
 
-## Chapitre 3 — Batailles de Braises et de Souvenirs  📐 squelette existant
+## Chapitre 3 — Batailles de Braises et de Souvenirs  ✅ rédigé
 **Fichier** : `inspirations/worldbuilding/chapter_3_skeleton.md`
 **Raccords** : l'« amulette cachée » de Sylvie est une **feuille de sève durcie** gravée du sceau Lysdorn (ch. 20, 22). Dans la vision de Kael, la Sentinelle qui emmène sa mère porte le masque « 7 » — la mère devient elle-même la Septième (ch. 40). Le village attaqué que le groupe choisit d'aider est **Cendre-Basse**, premier village qui cuisinera à son tour (ch. 27).
 
-## Chapitre 4 — Réveil des Cendres  📐 squelette existant
+## Chapitre 4 — Réveil des Cendres  ✅ rédigé
 **Fichier** : `inspirations/worldbuilding/chapter_4_skeleton.md`
 **Raccords** : Halifax-sur-Aethermoor est la colonie fondée par les Semeurs venus de Terre (voir `bible/monde/histoire.md`). Virelle y apparaît **enfant** dans un souvenir emprisonné, sans que Luna comprenne qui c'est (payoff ch. 58). Le message « la Recette Ultime se trouve dans le Royaume d'Argent » est gravé sous une carte : le Royaume d'Argent est barré d'un trait.
 
-## Chapitre 5 — La Chambre des Saveurs Perdues  🔁 squelette adapté
+## Chapitre 5 — La Chambre des Saveurs Perdues  ✅ rédigé (squelette adapté)
 **Fichier** : `inspirations/worldbuilding/chapter_5_skeleton.md` (ancien titre : *La Recette Ultime et les Cinq Royaumes*)
 **Lieu** : Royaume d'Argent — ruines gelées dans les hautes vallées entre l'Azur et la Vallée de Cendre ; château de glace ; Chambre des Saveurs Perdues.
 **Ce qui est conservé** : les trois épreuves sensorielles, le Gardien de Glace (nommé **Orrin**), la statue du Cuisinier Inconnu, le plat commun cuisiné à partir de trois souvenirs, les Larmes de Crépuscule libérées à l'équinoxe, la fusion des deux graines et son coût.
@@ -48,7 +50,7 @@ modifications de raccord sont notées ici.
 
 ---
 
-## Chapitre 6 — Le Chemin des Caravanes  🆕
+## Chapitre 6 — Le Chemin des Caravanes  ✅ rédigé
 **Lieu** : cols du Royaume d'Argent → piste des caravanes des Territoires d'Ambre · **Saison** : lendemain de l'équinoxe.
 **Personnages** : Luna, Sylvie, Kael ; **Idris Sable-Doux** et sa caravane (douze chameaux-de-brume, quatre familles).
 **Ingrédient** : Datte de Verre, Sel des Dunes · **Recette** : Galette de Route · **Objet** : outre de peau qui garde l'eau froide.
@@ -65,7 +67,7 @@ modifications de raccord sont notées ici.
 **Évolution** — *Luna* : première fois qu'elle cuisine pour des adultes qui la regardent comme une enfant, pas comme une anomalie. *Sylvie* : accepte de se faire soigner par des inconnus. *Kael* : fait rire toute une caravane en discutant avec la graine qui boude.
 **Hook** — Idris, à voix basse : « Si tu vas un jour aux Sept Puits, dis que tu viens de la part de Sable-Doux. Et ne parle jamais de ça à quelqu'un qui porte un masque. »
 
-## Chapitre 7 — Le Village qui Rêvait  🆕
+## Chapitre 7 — Le Village qui Rêvait  ✅ rédigé
 **Lieu** : Brièves-Îles, maison d'Ouma Sarel · **Saison** : début d'automne.
 **Personnages** : Luna, Sylvie, Kael ; **Ouma Sarel** ; les villageois ; Corvus (fin).
 **Ingrédient** : Baies de Givre du champ · **Recette** : Infusion de Baies de Givre (vérité cachée) · **Objet** : la conque d'Ouma (appel de brume).
@@ -82,7 +84,7 @@ modifications de raccord sont notées ici.
 **Évolution** — *Luna* : découvre que sa cuisine a des conséquences sur des gens qu'elle ne voit pas. *Kael* : apprend que Brièves-Îles n'est plus « chez lui ». *Ouma* : de figurante à gardienne de mémoire.
 **Hook** — Corvus est seul. Sans Sentinelles. Il tient une lanterne, et il a l'air de ne pas avoir dormi.
 
-## Chapitre 8 — Le Procès de la Cuillère  🆕
+## Chapitre 8 — Le Procès de la Cuillère  ✅ rédigé
 **Lieu** : Mairie de Brièves-Îles, salle du conseil ; cellule des potions · **Saison** : lendemain.
 **Personnages** : Luna, Corvus, deux gardes de la mairie (Tobbe et Marn) ; Sylvie et Kael dehors ; Ouma et les villageois.
 **Ingrédient** : ce qu'il y a : Algue séchée, sel, Blé Étoffé du sac · **Recette** : Soupe de Bord de Mer · **Objet** : le sceptre en os de dragon de Corvus ; le Code de la Magie (livre).
@@ -97,9 +99,10 @@ modifications de raccord sont notées ici.
 5. Corvus, seul avec Luna, la nuit : il parle de la « Famine de Brièves », il y a trente ans. Il ne goûte pas. Il ouvre la porte : « Je ne t'ai pas vue. »
 
 **Évolution** — *Luna* : première victoire par la table, sans fuir. *Corvus* : première fissure ; il choisit son village plutôt que la règle, une fois. *Sylvie* : a préparé une évasion qu'elle n'a pas eu besoin d'exécuter — et déteste ça.
-**Hook** — Sur la table de Corvus, une lettre au sceau de Virelle : « J'arrive avec la Septième. »
+**Hook** — Sur la table de la mairie, la lettre au sceau de Virelle, avec une ligne ajoutée après coup d'une autre encre et entourée trois fois au crayon : « **La Septième a demandé à venir.** » Corvus : « Et les Sentinelles, petite, ne demandent jamais rien. »  
+*(L'annonce de la venue de Virelle avec la Septième est remontée au ch. 7 : Corvus la dit à travers la porte d'Ouma.)*
 
-## Chapitre 9 — La Nuit des Potions Éteintes  🆕
+## Chapitre 9 — La Nuit des Potions Éteintes  ✅ rédigé
 **Lieu** : Port de Brièves-Îles ; barque de pêche ; mer d'Ambre · **Saison** : nuit suivante.
 **Personnages** : Luna, Sylvie, Kael, Ouma ; Virelle ; six Sentinelles dont la **Septième** ; Corvus.
 **Ingrédient** : Algue-Lanterne · **Recette** : Bouillon de Marée (chaleur, orientation) · **Objet** : Potions de mana (rouge, bleue, verte) qui s'éteignent.
@@ -110,13 +113,13 @@ modifications de raccord sont notées ici.
 1. L'arrivée de Virelle : la rue devient silencieuse ; les enfants du village se cachent les yeux ; Corvus salue trop bas.
 2. Les potions s'éteignent en cercle autour de la maison d'Ouma. Virelle comprend immédiatement.
 3. Course vers le port : Ouma reste, conque à la main, appelle la brume de mer.
-4. La jetée : la Septième et Kael, face à face. Le tissu bleu de Kael. Le masque « 7 ». L'hésitation.
+4. La jetée : la Septième et Kael, face à face. **Le tablier entier de sa mère**, porté par Kael depuis le ch. 7, roulé trois fois à la taille, avec le carré manquant en bas à droite. Le masque « 7 ». Le bâton qui descend de trois doigts. « Ce n'est pas… » Elle ne finit pas.
 5. La barque : Luna cuisine sur un réchaud à algue le Bouillon de Marée ; sa vapeur indique la côte de Cendre. Kael ne dit rien pendant tout le trajet.
 
 **Évolution** — *Luna* : comprend que sa cuisine n'est pas neutre : elle détruit quelque chose. *Kael* : ne comprend pas ce qu'il a ressenti ; le lecteur, si. *Corvus* : premier mensonge à la Guilde. *Virelle* : premier constat que la graine est « plus éveillée que prévu ».
 **Hook** — Virelle, sur la jetée, ramasse une baie de givre tombée du sac de Luna. Il la regarde longtemps. Puis il la met dans sa poche, pas dans un bocal de preuves.
 
-## Chapitre 10 — La Graine Étoilée  🆕
+## Chapitre 10 — La Graine Étoilée  ✅ rédigé
 **Lieu** : Côte de Cendre ; **Bivouac des Braises** (campement des cuistots ambulants, Vallée de Cendre) ; Four Ancestral · **Saison** : fin de la quatrième semaine.
 **Personnages** : Luna, Sylvie, Kael ; **Gorm Braise-Vive** ; une vingtaine de cuistots ambulants (Fenna, Old Tam, les jumeaux Brasque…).
 **Ingrédient** : Champignon de Cendre · **Recette** : Soupe du Premier Soir · **Objet** : une planche, deux pierres, une pancarte : « La Graine Étoilée ».

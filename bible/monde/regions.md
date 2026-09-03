@@ -93,7 +93,46 @@
 - **Les Ruines de Halifax-sur-Aethermoor** — colonie des Semeurs venus de Terre, détruite à l'Interdiction. Entre la Forêt des Murmures et les cols d'Argent. Voir `histoire.md`.
 - **La mer d'Ambre** — à l'ouest et au sud-ouest ; pêcheurs de Brièves-Îles ; côte de Cendre au sud-est. Traversée ch. 9-10.
 
-## 8. Distances utiles (jours de marche d'enfant)
+## 8. Marches, confins et sous-régions
+
+> Ce que les cartes de la Guilde appellent « territoires non classés ». Ce sont les endroits qui
+> apparaissent quand on descend dans les Archives : des régions dont l'existence est un aveu.
+
+### 8.1 Les Marches Grises — entre l'Or et la Cendre
+- **Statut administratif** : *« zone de résidence assistée »*. Elle ne figure sur aucune carte publique et sur toutes les cartes du Dépôt.
+- **Géographie** : un plateau de deux jours de large, sec, venteux, sans relief, entre le col de la Vallée de Cendre et les plaines en jachère de l'Empire d'Or. Un sol gris, une herbe rase, et par endroits du **sable vitrifié** qui coupe les semelles.
+- **Peuple** : **douze mille soulagés**. Ce sont les cuisiniers arrêtés dont on a retiré la mémoire et qui, pour une raison ou une autre — trop vieux, trop jeunes, corps trop faible, ou un ratage de protocole — n'ont pas pu devenir Sentinelles. On ne les a pas tués. On les a **logés**.
+- **Habitat** : trente-huit **villages numérotés** (STR-064), rigoureusement identiques, quatre-vingts maisons chacun, une plaque de fonte à l'entrée avec un chiffre. Pas de nom. Village Un à Village Trente-Huit.
+- **Ce qu'on y ressent** : rien de violent. C'est propre, calme, les fioles arrivent à l'heure, personne ne se plaint. Les gens sont **doux**. Ils saluent. Ils ne demandent jamais où l'on va. Ils ne reconnaissent personne, jamais, même après des années de voisinage, et ils ont cessé de trouver ça étrange.
+- **Rapport à la cuisine** : c'est le seul endroit d'Aethermoor où l'odeur de cuisine ne réveille **rien**. On leur a retiré non pas les souvenirs de cuisine, mais les souvenirs *de quelqu'un*. C'est le lieu le plus décourageant du roman.
+- **Ce qu'il y a quand même** : dans le Village Douze, une femme met chaque soir une couverture au bas de sa porte. Elle ne sait pas pourquoi. Elle ne cuisine pas. Il n'y a rien à empêcher de sortir. Elle le fait depuis onze ans.
+- **Enjeu** : les Marches Grises sont la réponse à la question « et si on rendait la mémoire ? ». Deux millions de fioles au niveau -2 du Dépôt, douze mille personnes ici, et un rendu qui tue si on le fait trop vite. C'est le chantier de vingt ans qui commence après le ch. 60.
+
+### 8.2 L'Archipel de Sel — au large de la mer d'Ambre
+- **Géographie** : onze îles basses, à deux jours de voile au sud-ouest de Brièves-Îles. Pas d'arbres. Du sel, des oiseaux, des sources saumâtres. L'île principale s'appelle **Bas-Nom**.
+- **Origine** : les Archives l'expliquent au niveau -6. C'est là qu'on a déporté les survivants de **Rive-des-Chants**, colonie du monde de Kem-la-Bleue, dissoute en l'an 9. On leur a retiré la cuisine. On a oublié de leur retirer la **langue**.
+- **Le peuple** : trois mille personnes qui possèdent **deux cent quarante noms de plats** et pas un seul plat. Le vocabulaire s'est transmis intact pendant cinq siècles, vidé de tout référent. Ils disent *un korrel*, *une soupe-de-nuit*, *sept-doigts*, *le pain qui tourne* — et personne ne sait à quoi cela ressemblait.
+- **Organisation** : les **Nommeurs** (voir `organisations.md` §12). Charge héréditaire : réciter la liste une fois par an, à marée basse, sur la grève, en entier, dans l'ordre.
+- **Rapport à la Guilde** : nul. La Guilde les a classés « éteints, sans objet » en l'an 40 et n'y a plus envoyé personne depuis quatre cent soixante ans.
+- **Enjeu** : c'est l'archive inverse du Dépôt. Là-bas on a tout gardé et perdu le sens ; ici on a gardé le sens et perdu la chose. Quand Luna arrivera à Bas-Nom, elle pourra, en écoutant, **reconstituer** des recettes d'un autre monde à partir de leurs seuls noms. C'est la plus belle scène de cuisine qui reste à écrire.
+
+### 8.3 L'Erg Blanc — au fond des Territoires d'Ambre
+- **Géographie** : à quinze jours au sud-ouest des Sept Puits, un désert de sel et non de sable, blanc, plat, aveuglant, où rien ne pousse et où l'ombre n'existe pas à midi.
+- **Ce qu'on n'y va pas voir** : les ruines de **Rive-des-Chants**. Une colonie entière encore debout sous une croûte de sel, comme la ville d'Argent l'est sous la glace. Les caravanes en connaissent la direction et ne la prennent pas : *« l'Erg garde ce qu'il a pris. »*
+- **Enjeu** : la deuxième ville figée du monde. Un pendant chaud du Royaume d'Argent, et la preuve que ce qui est arrivé à Halifax est arrivé ailleurs.
+
+### 8.4 Les Basses-Racines — au sud de la Confédération d'Émeraude
+- **Géographie** : là où la forêt descend vers les marais et où les arbres-mères ne poussent plus. Des saules, de la vase, des passerelles de bois pourri.
+- **Peuple** : les elfes qui **ne boivent pas la sève**. Sans arbre-mère, ils vivent d'eau, de potions et de poisson cru. Le Conseil des Racines les considère comme une population « en attente de replantation » depuis cent quarante ans.
+- **Ce qui compte** : ce sont les seuls elfes qui **mâchent** déjà, par nécessité. Ils ont donc, sans le savoir, gardé une pratique que Sylvanthe a perdue. Ysolde ne les a jamais visités.
+- **Enjeu** : le premier village elfique qui n'aura pas besoin d'être convaincu.
+
+### 8.5 Les Cols Noirs — au-dessus de Roc-de-Sel
+- **Géographie** : les galeries abandonnées au nord du septième niveau, là où le sel devient noir et où l'on a cessé de creuser il y a trois siècles « parce que ça ne rapportait plus ».
+- **Ce qu'il y a** : l'**Arche de Luth** — l'arche de pierres d'Argent que Sylvie touche au ch. 35 et qui était tiède. Ce n'est pas un vestige isolé : c'est une **porte**. Les Cols Noirs relient physiquement les Caves Givrées aux hautes vallées du Royaume d'Argent, et c'est pour cela que les nains ne creusent plus par là.
+- **Enjeu** : il existe un chemin du royaume d'Azur au royaume disparu qui ne passe pas par les Marches d'Argent. Les nains le savent depuis trois siècles et n'en ont jamais parlé, parce qu'un peuple qui se taît trois siècles a une raison.
+
+## 9. Distances utiles (jours de marche d'enfant)
 
 | Trajet | JdM | Chapitres |
 |---|---|---|
@@ -110,3 +149,9 @@
 | Sept Puits → Roc-de-Sel | 10 | 33-34 |
 | Roc-de-Sel → Aurelis | 9 | 36-37 |
 | Aurelis → Vallée | 12 (Corvus : 21 avec une marmite) | 50-51 |
+| Col de la Vallée → Marches Grises (Village Douze) | 2 | à venir |
+| Marches Grises → Aurelis | 5 | à venir |
+| Brièves-Îles → Archipel de Sel (Bas-Nom) | 2 jours de voile | à venir |
+| Sept Puits → Erg Blanc (Rive-des-Chants) | 15 | à venir |
+| Sylvanthe → Basses-Racines | 3 | à venir |
+| Caves Givrées (7ᵉ niveau) → Cols Noirs → hautes vallées d'Argent | 4 en galerie | à venir |

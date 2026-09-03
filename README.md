@@ -47,17 +47,32 @@ tests/            ← xUnit (pure .NET)
 ### Bible du roman — `bible/`
 La référence complète est dans [`bible/README.md`](bible/README.md) :
 - 📚 **Structure** : [6 arcs, 60 chapitres](bible/structure/arcs.md) — squelette détaillé de chaque chapitre (lieu, saison, personnages, recette, scènes clés, évolution, hook) dans `bible/structure/arc_1..6_*.md`
-- 🗺️ **Monde** : [régions](bible/monde/regions.md) · [lieux](bible/monde/lieux.md) · [organisations](bible/monde/organisations.md) · [société et lois](bible/monde/societe.md) · [histoire et chronologie](bible/monde/histoire.md) · [système de magie culinaire](bible/monde/magie.md)
+- 🗺️ **Monde** : [régions](bible/monde/regions.md) · [lieux](bible/monde/lieux.md) · [organisations](bible/monde/organisations.md) · [société et lois](bible/monde/societe.md) · [histoire et chronologie](bible/monde/histoire.md) · [système de magie culinaire](bible/monde/magie.md) · [les Archives](bible/monde/archives.md)
+- 🏛️ **Archives et escalade** : [`bible/monde/archives.md`](bible/monde/archives.md) — le Dépôt et ses sept niveaux, le coût de lecture, les cinq archives du monde ; l'échelle des enjeux est dans [`bible/structure/arcs.md`](bible/structure/arcs.md) §5 bis
 - 🧑‍🍳 **Personnages** : [index du cast](bible/personnages/index.md) — 17 fiches (Luna, Sylvie, Kael, Marinette, Virelle, Corvus, Maëlle, Ezren, Orrin, Gorm, Pim, Idris, Brune, Ysolde, Théo, Nérine, Ouma)
-- 🥕 **Taxonomies** : [ingrédients](bible/taxonomies/ingredients.md) (ING-xxx) · [recettes](bible/taxonomies/recettes.md) (REC-xxx) · [items : armes, armures, potions, ustensiles, artefacts](bible/taxonomies/items.md)
+- 🥕 **Taxonomies** : [ingrédients](bible/taxonomies/ingredients.md) (ING-xxx) · [recettes](bible/taxonomies/recettes.md) (REC-xxx) · [items : armes, armures, potions, ustensiles, artefacts](bible/taxonomies/items.md) · [structures et lieux](bible/taxonomies/structures.md) (STR-xxx)
 
 ### Écriture narrative
-- 📝 **Chapitre 1** : rédigé — [`inspirations/worldbuilding/chapter_1.md`](inspirations/worldbuilding/chapter_1.md)
-- 📐 **Chapitres 2-5** : squelettes détaillés existants (le ch. 5 est adapté par la bible, voir `bible/structure/arcs.md` §7)
-- 🆕 **Chapitres 6-60** : squelettes dans `bible/structure/`
-- 🎭 **Fiches personnages** : 17 fiches dans `bible/personnages/` (les anciennes fiches de `inspirations/worldbuilding/` restent en référence historique)
+- ✍️ **Chapitres 1 à 10 : rédigés en prose** (environ 37 000 mots) — arc I *L'Éveil de la Graine*, complet
+- 📐 **Chapitres 11 à 60** : squelettes détaillés dans [`bible/structure/`](bible/structure/)
+- 🎭 **Fiches personnages** : 17 fiches dans `bible/personnages/`
 - 🧠 **Système de magie culinaire** : consolidé dans [`bible/monde/magie.md`](bible/monde/magie.md) (Triptyque, Synesthésie, Résonance, buffs émotionnels, limites, Graines d'Origine)
+- 😄 **Tensions et rappels comiques** : [`bible/structure/tensions_et_rappels.md`](bible/structure/tensions_et_rappels.md) — tension locale par chapitre, gestes qui renforcent les liens, carnet des rappels (l'échelle des câlins, la comptine, « hop », les plans d'évasion de Sylvie…)
 - 👁️‍🗨️ **Prompt Gemini** : prêt pour relecture critique et enrichissement
+
+### Le roman — Arc I : L'Éveil de la Graine
+| # | Titre | Lieu | Texte |
+|---|---|---|---|
+| 1 | Éclosion dans le Champ de Blé | Champ de Blé Étoffé, Brièves-Îles | [chapter_1.md](inspirations/worldbuilding/chapter_1.md) |
+| 2 | Les Cendres de la Mémoire | Vallée de Cendre, Four Ancestral | [chapter_2.md](inspirations/worldbuilding/chapter_2.md) |
+| 3 | Batailles de Braises et de Souvenirs | Forêt des Murmures | [chapter_3.md](inspirations/worldbuilding/chapter_3.md) |
+| 4 | Réveil des Cendres | Cendre-Basse, ruines de Halifax-sur-Aethermoor | [chapter_4.md](inspirations/worldbuilding/chapter_4.md) |
+| 5 | La Chambre des Saveurs Perdues | Royaume d'Argent | [chapter_5.md](inspirations/worldbuilding/chapter_5.md) |
+| 6 | Le Chemin des Caravanes | piste d'Ambre | [chapter_6.md](inspirations/worldbuilding/chapter_6.md) |
+| 7 | Le Village qui Rêvait | Brièves-Îles | [chapter_7.md](inspirations/worldbuilding/chapter_7.md) |
+| 8 | Le Procès de la Cuillère | Mairie de Brièves-Îles | [chapter_8.md](inspirations/worldbuilding/chapter_8.md) |
+| 9 | La Nuit des Potions Éteintes | port de Brièves-Îles, mer d'Ambre | [chapter_9.md](inspirations/worldbuilding/chapter_9.md) |
+| 10 | La Graine Étoilée | Bivouac des Braises | [chapter_10.md](inspirations/worldbuilding/chapter_10.md) |
 
 ### Documentation liée (historique)
 - 📖 [`inspirations/worldbuilding/culinary_fantasy_framework.md`](inspirations/worldbuilding/culinary_fantasy_framework.md) — Cadre narratif initial
@@ -67,13 +82,6 @@ La référence complète est dans [`bible/README.md`](bible/README.md) :
 - 🖼️ [`inspirations/worldbuilding/chapter_1_image_prompt.md`](inspirations/worldbuilding/chapter_1_image_prompt.md) — Prompt d'illustration pour le Chapitre 1
 - 🔍 [`inspirations/worldbuilding/character_sheets_all_chapters.md`](inspirations/worldbuilding/character_sheets_all_chapters.md) — Fiches personnages (Chapitres 1-5)
 - 📁 [`inspirations/worldbuilding/asset/`](inspirations/worldbuilding/asset/) — Assets visuels (personnages, couvertures)
-
-### Chapitres 1-5 (fichiers existants)
-- 📘 [Chapitre 1 — Éclosion dans le Champ de Blé (Terminé)](inspirations/worldbuilding/chapter_1.md)
-- 📘 [Chapitre 2 — Les Cendres de la Mémoire (Squelette)](inspirations/worldbuilding/chapter_2_skeleton.md)
-- 📘 [Chapitre 3 — Batailles de Braises et de Souvenirs (Squelette)](inspirations/worldbuilding/chapter_3_skeleton.md)
-- 📘 [Chapitre 4 — Réveil des Cendres (Squelette)](inspirations/worldbuilding/chapter_4_skeleton.md)
-- 📘 [Chapitre 5 — La Chambre des Saveurs Perdues (Squelette, adapté)](inspirations/worldbuilding/chapter_5_skeleton.md)
 
 ## Licence
 

@@ -9,7 +9,7 @@
 | Âge | 78 ans |
 | Origine | Brièves-Îles |
 | Rôle | la « vieille femme » de la scène 3 du ch. 1 ; hôtesse et conteuse ; témoin de la Famine de Brièves |
-| Objets | la **cuillère en bois de Taïs** (placard secret, quarante ans) ; une **conque** qui appelle la brume ; la larme de cristal de son Infusion de Baies de Givre (gardée par Luna dans le carnet) |
+| Objets | la **cuillère en bois de Taïs** (placard secret, quarante ans) ; une **conque** qui appelle la brume (une note grave tenue longtemps fait remuer la couche d'air froid entre le cap et les rochers : ça marche une fois sur trois) ; le **tablier de Maëlle Morrow**, gardé cinq ans au fond de son coffre et rendu à Kael au ch. 7 ; la larme de cristal de son Infusion de Baies de Givre (gardée par Luna dans le carnet) |
 | Première / dernière apparition | ch. 1 / ch. 60 (vit à la Vallée ; a rebâti la grange de Brièves-Îles) |
 | Ce qu'elle porte | La culpabilité d'avoir dénoncé sa sœur Taïs, enfant, sans comprendre (avouée ch. 7). |
 
@@ -19,7 +19,9 @@ Petite, voûtée, « les traits creusés », yeux très vifs. Châle de laine gr
 ## Fonction narrative
 - Reconnaît la graine : « C'est toi. Je suis désolée. » (ch. 1) — la première personne d'Aethermoor à *savoir*.
 - Raconte la légende de la **Cuisinière-aux-Sept-Marmites** (ch. 7), qui donne son nom à l'Auberge (ch. 26).
-- Interrompt le procès avec la cuillère (ch. 8) : elle est la mémoire que Corvus refuse.
+- Interrompt le procès avec la cuillère (ch. 8) : elle est la mémoire que Corvus refuse. *« Tu as déjà fait ce procès. Il y a quarante ans. »*
+- **Rend le tablier entier de Maëlle à Kael** (ch. 7), après l'avoir caché cinq ans : *« Tu as donné le morceau. On te rend le reste. Ça s'appelle comme ça, la vie, quand elle est polie. »*
+- Fredonne l'air de la comptine de Marinette **sans les paroles** (ch. 7) : sa sœur Taïs le chantait. Preuve que Brièves-Îles descend des Semeurs.
 - Appelle la brume pour couvrir la fuite (ch. 9).
 - Vient à pied au Grand Repas et s'assied à la place d'honneur sans qu'on le lui dise (ch. 29-30).
 - Fin : elle vit à la Vallée, la cuillère à la ceinture (ch. 60).

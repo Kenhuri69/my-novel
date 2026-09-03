@@ -51,7 +51,8 @@ Aucun objet ne donne de « +2 ». Un objet change ce qu'un personnage *peut oser
 | ID | Nom | Rareté | Porteur | Effet / usage | Origine | Ch. |
 |---|---|---|---|---|---|---|
 | VET-001 | **Tablier de lin bleu** | ★★★ | Luna | le tablier de Marinette ; identité ; Luna ne l'enlève jamais | Halifax, Terre | 1-60 |
-| VET-002 | **Tablier de Souvenir** (morceau de tissu bleu) | ★★★ | Kael | ingrédient de mémoire (voir ING-080) ; au fond d'un panier, un plat évoque l'enfance ; réveille Maëlle | tablier de Maëlle | 1-60 |
+| VET-002a | **Le carré de tissu bleu** | ★★★ | Kael (ch. 1-5) | arraché aux dents par Maëlle le soir de son arrestation, noué au cou de Kael ; **donné à la statue du Cuisinier Inconnu** (ch. 5) et jamais reprise : « si je le donne pour le récupérer, ça compte pas » | tablier de Maëlle | 1-5 |
+| VET-002 | **Tablier de Souvenir** (le tablier entier) | ★★★ | Kael (à partir du ch. 7) | le tablier de cuisine de Maëlle, gardé cinq ans au fond du coffre d'Ouma ; bretelle recousue, poche usée, **un carré manquant en bas à droite de la taille d'une main d'enfant** ; ingrédient de mémoire (voir ING-080) ; au fond d'un panier, un plat évoque l'enfance ; c'est en le voyant sur Kael que la Septième hésite (ch. 9) et qu'elle retire son masque (ch. 46) | Maëlle, par Ouma | 7-60 |
 | VET-003 | Gilet de cuir, jambières, bottes | ★★ | Sylvie | tenue de chasse ; « le cuir, c'était pour partir » | exil | 1+ |
 | VET-004 | **Cape de Conseillère des Lysdorn** | ★★★ | Sylvie (prêtée 21, offerte 24, portée 54) | désigne une héritière ; Sylvie la déteste puis la plie « pour quand je reviendrai » | Sylvanthe | 21, 24, 54 |
 | VET-005 | Robes sombres aux sigles de la Guilde | ★★ | Corvus (jusqu'au 42) | autorité de Maire ; trop chaudes pour la Vallée | Guilde | 1-30 |
@@ -157,7 +158,7 @@ Aucun objet ne donne de « +2 ». Un objet change ce qu'un personnage *peut oser
 |---|---|---|---|---|
 | **Luna** | ART-001, DOC-001, VET-001 | ART-002 (4), UST-011 (5), ART-004 (5), UST-001 (11), UST-004 (19), UST-010 (33) | ART-002 brûlée (57) ; ART-001 plantée (60) | DOC-002, VET-001 |
 | **Sylvie** | ARM-001, ARM-002, ART-007 | ART-003 (5), DOC-018 (24), VET-004 (24) | ARM-001 confisqué puis rendu | tout ; une maison |
-| **Kael** | VET-002 | DOC-003 (11), UST-003 (15), UST-002 « Morrow » (26) | rien | tout ; une école |
+| **Kael** | VET-002a (le carré) | VET-002 le tablier entier (7), DOC-003 (11), UST-003 (15), UST-002 « Morrow » (26) | le carré, donné à la statue (5) ; un crabe nommé Framboise (10) | tout ; une école |
 | **Corvus** | ART-005, ART-006, VET-005, DOC-006 | UST-001 porté (41), DIV-004 | ART-005 → tisonnier ; ART-006 → Luna ; VET-005 abandonnée | le col |
 | **Virelle** | ARM-004, VET-009 | une baie de givre (9), DOC-008 (17) | tout, sauf un morceau de pain (59) | la route de l'est |
 | **Brune** | UST-009, UST-008, VET-012 | UST-010 (50) | ses bottes, une fois | une cave dans la Vallée |
