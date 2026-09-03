@@ -47,9 +47,10 @@ tests/            ← xUnit (pure .NET)
 ### Bible du roman — `bible/`
 La référence complète est dans [`bible/README.md`](bible/README.md) :
 - 📚 **Structure** : [6 arcs, 60 chapitres](bible/structure/arcs.md) — squelette détaillé de chaque chapitre (lieu, saison, personnages, recette, scènes clés, évolution, hook) dans `bible/structure/arc_1..6_*.md`
-- 🗺️ **Monde** : [régions](bible/monde/regions.md) · [lieux](bible/monde/lieux.md) · [organisations](bible/monde/organisations.md) · [société et lois](bible/monde/societe.md) · [histoire et chronologie](bible/monde/histoire.md) · [système de magie culinaire](bible/monde/magie.md)
+- 🗺️ **Monde** : [régions](bible/monde/regions.md) · [lieux](bible/monde/lieux.md) · [organisations](bible/monde/organisations.md) · [société et lois](bible/monde/societe.md) · [histoire et chronologie](bible/monde/histoire.md) · [système de magie culinaire](bible/monde/magie.md) · [les Archives](bible/monde/archives.md)
+- 🏛️ **Archives et escalade** : [`bible/monde/archives.md`](bible/monde/archives.md) — le Dépôt et ses sept niveaux, le coût de lecture, les cinq archives du monde ; l'échelle des enjeux est dans [`bible/structure/arcs.md`](bible/structure/arcs.md) §5 bis
 - 🧑‍🍳 **Personnages** : [index du cast](bible/personnages/index.md) — 17 fiches (Luna, Sylvie, Kael, Marinette, Virelle, Corvus, Maëlle, Ezren, Orrin, Gorm, Pim, Idris, Brune, Ysolde, Théo, Nérine, Ouma)
-- 🥕 **Taxonomies** : [ingrédients](bible/taxonomies/ingredients.md) (ING-xxx) · [recettes](bible/taxonomies/recettes.md) (REC-xxx) · [items : armes, armures, potions, ustensiles, artefacts](bible/taxonomies/items.md)
+- 🥕 **Taxonomies** : [ingrédients](bible/taxonomies/ingredients.md) (ING-xxx) · [recettes](bible/taxonomies/recettes.md) (REC-xxx) · [items : armes, armures, potions, ustensiles, artefacts](bible/taxonomies/items.md) · [structures et lieux](bible/taxonomies/structures.md) (STR-xxx)
 
 ### Écriture narrative
 - ✍️ **Chapitres 1 à 10 : rédigés en prose** (environ 37 000 mots) — arc I *L'Éveil de la Graine*, complet

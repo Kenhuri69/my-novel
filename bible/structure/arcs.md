@@ -176,6 +176,33 @@ Légende **Statut** : ✅ rédigé en prose · 📐 squelette seul · 🔁 squel
 | Part de **Feu** | Épicé | Vallée de Cendre | Thornwick (humains) | Braise Première du Four Ancestral | Ch. 57 |
 | *Liant* | — | Royaume d'Argent (disparu) | Orrin | Larmes de Crépuscule + Carte des Saveurs | Ch. 5 |
 
+## 5 bis. Escalade des enjeux
+
+> Ce que le roman met en jeu ne cesse jamais d'être une table, mais l'échelle de la table change.
+> Détail des Archives et des nouveaux territoires dans [`../monde/archives.md`](../monde/archives.md),
+> [`../monde/regions.md`](../monde/regions.md) §8 et [`../monde/organisations.md`](../monde/organisations.md) §9-14.
+
+| Palier | Ce qui est en jeu | Combien de personnes | Révélé par | Arc |
+|---|---|---|---|---|
+| 1 | un enfant qui a faim | 1 | la bouillie de la grange | I |
+| 2 | un village qui rêve et se croit fou | 240 | le mur de craie de Dorin | I |
+| 3 | une vallée qui recommence à cuisiner | 2 200 | la contagion des saveurs | II-III |
+| 4 | cinq royaumes qui doivent se rasseoir | quelques millions | la Carte des Saveurs | IV |
+| 5 | deux millions de mémoires confisquées, rendables une par une | 2 000 000 de fioles, 12 000 soulagés vivants | le niveau -2 du Dépôt et les Marches Grises | V-VI |
+| 6 | onze mille recettes rangées que personne ne sait lire | cinq siècles de savoir | le niveau -4 | VI |
+| 7 | quatre-vingt-onze mille cuisiniers comptés dans un livre | la légitimité d'un royaume | le Livre des Purges, niveau -5 | VI |
+| 8 | **quarante mille mondes, quatre-vingt-onze pour cent de colonies dissoutes** | hors échelle | la Salle des Portes, niveau -6 | VI et au-delà |
+| 9 | un cahier d'écolier, trois lignes, une petite fille morte de faim | 1 | le Puits, niveau -7 | 59 |
+
+**Règle** : l'escalade monte jusqu'au palier 8, puis **redescend au palier 9**. Le plus grand enjeu du
+roman n'est pas quarante mille mondes : c'est une bouillie de blé grillé tendue à un homme qui a
+perdu sa sœur. Ne jamais résoudre le palier 8 par la force ; le résoudre par le palier 9.
+
+**Trois clés nouvelles, trois prix** :
+- on peut **rendre** la mémoire — mais rendre trop vite tue ;
+- on peut **lire** ce qui est rangé — mais lire au niveau -6 coûte l'odorat, définitivement ;
+- on peut **arrêter** la Nuit sans Saveur — mais il faut convaincre douze souffleurs de verre, et pas une armée.
+
 ## 6. Courbes longues (à suivre sur 60 chapitres)
 
 | Fil | Départ | Bascule | Résolution |

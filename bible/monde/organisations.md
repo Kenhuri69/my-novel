@@ -100,7 +100,77 @@ Des **cuisiniers arrêtés**, vidés de leurs souvenirs et remplis de mana clair
 **Fonctions** : l'**École des Marmites** (Kael enseigne) ; les **Archives de la Table** (Pim note et *envoie*) ; le **col** (Corvus accueille) ; la distribution des potions *pour ceux qui en veulent encore* (les nains, une partie de l'Or).
 **Ezren** y a une chaise, au bout. Il épluche mal.
 
-## 9. Structures sociales du quotidien
+## 9. L'Ordre du Dépôt — les Archivistes
+
+**Nature** : corps de deux cent quarante personnes qui gardent les Archives de la Guilde. Ce n'est pas un service administratif : c'est un **ordre**, avec un serment, une discipline de corps et une mutilation volontaire.
+**Siège** : le Dépôt, sous la Tour de Verre (voir `archives.md`).
+**Règle fondatrice** : *« Un archiviste garde. Il ne lit pas. »*
+**La discipline** : chaque matin, un archiviste **prend son eau** — une fiole de mana clair, bue volontairement, pour ne rien retenir de ce qu'il classe. Après trente ans de service, il ne se souvient plus de son enfance ; en échange, il connaît l'emplacement de quatre cent mille pièces qu'il serait incapable de résumer.
+
+### Hiérarchie
+| Rang | Nombre | Rôle | Ce qu'il paie |
+|---|---|---|---|
+| **Archiviste-Doyen** | 1 (Bram) | garde les clés des niveaux -3 à -5 ; répond au Conseil | a cessé de prendre son eau : il se souvient, et il en meurt |
+| **Cotateurs** | 12 | attribuent les cotes ; les seuls autorisés à écrire dans les registres | leur écriture : ils apprennent à imiter la main de leur prédécesseur |
+| **Porteurs** | 60 | montent et descendent les pièces ; ne restent jamais plus que la durée tolérable | leur odorat, par usure, vers quarante ans |
+| **Commis de guichet** | 40 | le niveau 0, la vitrine | rien. Ils ne descendent jamais |
+| **Souffleurs de relevé** | 27 | transvasent les mémoires dans les fioles du niveau -2 | ils entendent ce qu'ils transvasent, et ils ont interdiction d'en parler |
+| **Veilleurs de nuit** | 100 | rondes ; personne ne sait ce qu'ils surveillent | leur sommeil |
+
+**Ce que l'Ordre cache** : que le classement est **parfait**. Onze mille recettes rangées par région, date et sujet, par des gens qui ne savaient pas les lire. Le savoir n'a pas été détruit : il a été rangé, avec un soin d'amoureux, par des hommes qu'on avait vidés.
+**Rapport à Luna** : Bram ouvre les Archives au ch. 48. Le reste de l'Ordre n'a pas d'opinion, ce qui est le plus inquiétant.
+**Enjeu ouvert** : si la Table veut lire les onze mille recettes, il lui faut les Archivistes. Or un archiviste qui recommence à se souvenir meurt de ce qu'il a accumulé. Le premier prix à payer de la victoire est là.
+
+## 10. L'École des Carnets Gris
+
+**Nature** : institution de formation des **Observateurs**, à Aurelis, dans un bâtiment sans enseigne du quartier des fioles.
+**Recrutement** : des orphelins, entre cinq et sept ans, pris dans les Bas-Quartiers et les Marches Grises. Pim Ferrel y est entré à six ans.
+**Ce qu'on y apprend**, dans cet ordre : écrire ; compter ; mesurer ; ne pas être remarqué ; noter sans juger ; et enfin, la dernière année, **souffler un souvenir dans une fiole de mana clair** — technique qui consiste à se rappeler très précisément une chose, puis à expirer lentement dans le goulot jusqu'à ce que le souvenir passe dans le liquide et quitte celui qui le donne.
+**Le prix** : un Observateur qui rend son rapport **perd** ce qu'il a rapporté. Chaque soir, il oublie sa journée. C'est présenté comme un honneur : *« vous portez, vous ne gardez pas »*.
+**La faille** : un Observateur qui **ne rend pas** son rapport garde tout. C'est ce que fait Pim à partir du ch. 14, et c'est pour cela que son carnet gris existe : deux cent quatorze jours notés et jamais envoyés, deux cent quatorze jours qu'il est le seul à se rappeler.
+**Effectif** : trois cents élèves, huit promotions vivantes, mille sept cents Observateurs en service.
+**Enjeu** : mille sept cents enfants élevés pour oublier. Un seul a triché. On peut supposer qu'il n'est pas le seul.
+
+## 11. Les Fossoyeurs de Mémoire
+
+**Nature** : corporation semi-officielle, tolérée et méprisée, chargée de **vider les maisons** après un soulagement.
+**Doctrine officielle** : quand un cuisinier est arrêté, ses affaires sont « du désordre ». On n'emporte pas les objets, on les fait disparaître. Les Fossoyeurs viennent le lendemain, chargent une charrette, et brûlent au chef-lieu.
+**Ce qu'ils font en réalité** : depuis cinq cents ans, ils **ne brûlent pas tout**. Ils gardent. Ils échangent. Ils vendent. Une cuillère de cuisinier vaut trois mois de fioles au marché noir de mémoire ; un carnet, une année ; un tablier, on n'y met pas de prix.
+**Structure** : pas de chef. Des équipes de trois, une charrette, un territoire, et un **compte** tenu de bouche à oreille : qui a pris quoi, chez qui, quand. C'est le plus grand catalogue non écrit du monde.
+**Le paradoxe** : ce sont les hommes de main de l'Interdiction, et ce sont eux qui ont sauvé la quasi-totalité des objets de cuisine encore existants. La cuillère de Taïs a échappé au feu parce qu'Ouma l'avait déjà cachée ; les dix-neuf autres cuillères de la côte d'Ambre ont échappé au feu parce qu'un Fossoyeur, quelque part, a détourné les yeux et empoché.
+**Rapport à Luna** : ils n'ont aucune raison de l'aider et une excellente raison de la craindre. Si la cuisine redevient légale, **leur marché s'effondre**. Ce sont les seuls antagonistes du roman qui ont un intérêt économique et pas une conviction.
+**Enjeu** : le premier groupe qui perdra quelque chose à la victoire de Luna, et il faudra le nourrir aussi.
+
+## 12. Les Nommeurs de l'Archipel de Sel
+
+**Nature** : charge héréditaire de sept familles de Bas-Nom, dans l'Archipel de Sel.
+**Fonction** : conserver et réciter la **Liste** — deux cent quarante noms de plats d'un monde qui n'est pas celui-ci, transmis intacts pendant cinq siècles, entièrement vidés de leur objet.
+**Le rite** : une fois par an, à marée basse, sur la grève, sous la Halle des Noms. Un Nommeur récite, les autres reprennent. Une heure et quart. Toute l'île écoute. Un enfant qui se trompe dans l'ordre recommence.
+**Ce qu'ils savent** : les noms, l'ordre, les regroupements par familles de sept, et pour certains une bribe : *« le pain qui tourne, on le tournait »*. C'est tout.
+**Ce qu'ils ne savent pas** : ce que c'était. Aucun. Pas un seul.
+**Les sept entailles grattées** : sept noms ont été retirés de la Liste il y a longtemps, par décision d'un Nommeur dont on a perdu le nom. Les entailles sont là, poncées, visibles. Personne ne sait ce qu'ils désignaient et l'hypothèse la plus répandue est qu'ils étaient dangereux.
+**Enjeu** : une cuisinière qui écoute la Liste peut **reconstituer** — pas retrouver : reconstituer — la cuisine d'un monde mort à partir de ses seuls noms. C'est le contraire du travail d'archive, et c'est la seule chose que Luna sache faire mieux que quiconque.
+
+## 13. Le Syndicat des Souffleurs de Fiole
+
+**Nature** : corporation ouvrière des Bas-Quartiers d'Aurelis, huit cents membres, et la seule organisation du roman qui pourrait arrêter la Guilde en une semaine sans une arme.
+**Métier** : souffler le verre, recuire, remplir, sceller. Huit mille fioles par jour et par atelier. C'est un métier de brûlures, de poumons, et d'une fierté considérable.
+**Le secret** : le mana synthétique arrive de la Tour par conduite. Le **mana clair**, lui, se compose sur place, et sa formule n'est pas écrite : c'est un tour de main transmis de maître à apprenti. **Douze personnes au monde le connaissent.** Dora en connaît trois par cœur ; le vieux Selm est l'un des douze.
+**Structure** : maîtrises par atelier ; un conseil de sept maîtres ; une caisse de secours ; un usage tenace : on ne travaille pas le jour de la mort d'un compagnon.
+**Rapport à la Guilde** : loyauté d'habitude, pas d'idéologie. Ils fabriquent ce qu'on leur commande. Personne ne leur a jamais dit à quoi sert le mana clair, et personne ne leur a jamais demandé leur avis.
+**Rapport à Luna** : c'est Dora qui la force à cuisiner au ch. 41 (*« Mes gosses n'ont jamais mangé. Ton copain non plus, là-dedans. Tu vas rester à regarder ? »*). Le quartier a mangé. Les fioles des ateliers se sont éteintes en cercle. Huit cents personnes ont vu ça de leurs yeux.
+**Enjeu majeur** : **douze personnes qui croisent les bras arrêtent la mémoire-effaçante.** La Nuit sans Saveur du ch. 50 exige que chaque fiole du continent soit dosée. C'est un travail de souffleurs. Aucune armée ne peut le faire à leur place, et Ezren, dans sa tour, n'y a jamais pensé, parce qu'on ne pense pas aux gens qu'on n'a jamais regardés.
+
+## 14. Les Veilleurs des Marches
+
+**Nature** : petit corps de quatre-vingts agents affectés aux Marches Grises, moitié infirmiers, moitié fonctionnaires.
+**Fonction officielle** : tenir les registres de santé des douze mille soulagés, distribuer les fioles, signaler les décès.
+**Fonction réelle, prescrite sans explication** : noter tout **comportement résiduel**. Une couverture posée au bas d'une porte. Une main qui cherche sur une étagère un objet qui n'y est pas. Quelqu'un qui fredonne. Quelqu'un qui pleure sans motif à la même heure chaque jour.
+**Ce qu'ils sont devenus sans le vouloir** : les Veilleurs tiennent, depuis quarante ans, dans quarante cahiers rangés à la Maison des Veilleurs, **l'archive de tout ce que le mana clair n'arrive pas à effacer**. Personne ne l'a jamais lue en entier. La Guilde a demandé ces notes et ne les a jamais réclamées.
+**Ce que ça dit** : que l'effacement ne prend jamais tout à fait. Qu'il reste toujours un geste. Que le geste survit au souvenir.
+**Enjeu** : les quarante cahiers sont le mode d'emploi de la réparation. Pour rendre deux millions de fioles sans tuer personne, il faut savoir par quel geste commencer chez chaque personne — et c'est écrit là, par des gens qui ne savaient pas ce qu'ils écrivaient.
+
+## 15. Structures sociales du quotidien
 
 ### Comment on se nourrit
 - **Potions de mana** trois fois par jour ; distribuées par la mairie ; codées par couleur (voir `items.md`). Les nourrissons refusent souvent la flasque (ch. 12).
