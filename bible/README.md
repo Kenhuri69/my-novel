@@ -19,6 +19,7 @@ bible/
 ├── README.md                          ← ce fichier
 ├── structure/                         ← LE SQUELETTE : 6 arcs, 60 chapitres
 │   ├── arcs.md                        ← vue d'ensemble, table des 60 chapitres, courbes longues
+│   ├── tensions_et_rappels.md         ← arc I : tension locale par chapitre, gestes, carnet des rappels
 │   ├── arc_1_eveil_de_la_graine.md    ← ch. 1-10  (fin d'été → équinoxe d'automne)
 │   ├── arc_2_les_racines.md           ← ch. 11-20 (automne)
 │   ├── arc_3_l_eveil.md               ← ch. 21-30 (hiver → équinoxe de printemps)
@@ -47,6 +48,8 @@ bible/
 | Je veux… | J'ouvre… |
 |---|---|
 | écrire un chapitre | `structure/arc_N_*.md` à la bonne entrée, puis les fiches des personnages présents et `monde/lieux.md` |
+| tenir l'humour et les rappels | `structure/tensions_et_rappels.md` : ce qui est déjà planté, ce qui est déjà payé, ce qui reste à payer |
+| lire le roman | `inspirations/worldbuilding/chapter_1.md` … `chapter_10.md` (chapitres 1-10 rédigés) |
 | vérifier une règle de magie | `monde/magie.md` (fait foi) |
 | savoir qui sait quoi et quand | `structure/arcs.md` §6 (courbes longues) et `monde/histoire.md` §6 |
 | inventer un ingrédient / une recette / un objet | la section « Règles d'écriture » en fin de chaque taxonomie |

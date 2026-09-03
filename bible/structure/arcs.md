@@ -69,22 +69,24 @@ Maire Corvus (village)  →  Commandant Virelle (région)  →  Conseil des Cinq
 
 ## 4. Table des 60 chapitres
 
-Légende **Statut** : ✅ rédigé · 📐 squelette existant · 🔁 squelette existant adapté · 🆕 nouveau (squelette dans les fichiers d'arc).
+Légende **Statut** : ✅ rédigé en prose · 📐 squelette seul · 🔁 squelette adapté · 🆕 squelette dans les fichiers d'arc.
+
+**Chapitres 1 à 10 : rédigés.** Les textes sont dans `inspirations/worldbuilding/chapter_1.md` à `chapter_10.md`. Les tensions locales, les liens et les rappels comiques de l'arc I sont suivis dans [`tensions_et_rappels.md`](tensions_et_rappels.md).
 
 ### Arc I — L'Éveil de la Graine (`arc_1_eveil_de_la_graine.md`)
 
 | # | Titre | Lieu | Ingrédient / Recette clé | Personnages introduits | Hook de fin | Statut |
 |---|---|---|---|---|---|---|
 | 1 | Éclosion dans le Champ de Blé | Champ de Blé Étoffé, Brièves-Îles | Blé Étoffé → Bouillie de Blé Grillé | Luna, Sylvie, Kael, Corvus, Virelle, Ouma | « Les Thornwick reviennent. » | ✅ |
-| 2 | Les Cendres de la Mémoire | Vallée de Cendre, Four Ancestral | Tubercule de Foyer → Ragoût de Braises | — | Gravure : « les Cinq Royaumes » | 📐 |
-| 3 | Batailles de Braises et de Souvenirs | Forêt des Murmures | Éclat de Soufre, Racines de Rêve → Bouclier de fumée douce | Sentinelles de l'Ombre | La mère de Kael était cuisinière | 📐 |
-| 4 | Réveil des Cendres | Ruines de Halifax-sur-Aethermoor | Graine d'Or Noire → Pain d'Écorché | Voix de Marinette | « La Recette Ultime se trouve dans le Royaume d'Argent » | 📐 |
-| 5 | La Chambre des Saveurs Perdues | Royaume d'Argent (ruines gelées) | Larmes de Crépuscule → Bouillon des Cinq Sens | Orrin (Gardien de Glace) | La Carte des Saveurs : cinq Parts, cinq royaumes | 🔁 |
-| 6 | Le Chemin des Caravanes | Cols d'Argent → piste d'Ambre | Datte de Verre, Sel des Dunes → Galette de Route | Idris Sable-Doux | Idris : « On a gardé quelque chose de vivant, depuis 500 ans. » | 🆕 |
-| 7 | Le Village qui Rêvait | Brièves-Îles | Baies de Givre → Infusion de Baies de Givre | Ouma Sarel (développée) | Corvus frappe à la porte d'Ouma | 🆕 |
-| 8 | Le Procès de la Cuillère | Mairie de Brièves-Îles | Soupe de Bord de Mer | Gardes de la mairie | Corvus : « Je ne t'ai pas vue. » | 🆕 |
-| 9 | La Nuit des Potions Éteintes | Port de Brièves-Îles, mer d'Ambre | Algue-Lanterne → Bouillon de Marée | Sentinelle Septième (masquée) | Une Sentinelle a hésité devant Kael | 🆕 |
-| 10 | La Graine Étoilée | Bivouac des Braises (Vallée de Cendre) | Champignon de Cendre → Soupe du Premier Soir | Gorm Braise-Vive | Ordre du Conseil : « L'enfant, vivante. » | 🆕 |
+| 2 | Les Cendres de la Mémoire | Vallée de Cendre, Four Ancestral | Tubercule de Foyer → Ragoût de Braises | — | Gravure : « les Cinq Royaumes » | ✅ |
+| 3 | Batailles de Braises et de Souvenirs | Forêt des Murmures | Éclat de Soufre, Racines de Rêve → Bouclier de fumée douce | Sentinelles de l'Ombre | La mère de Kael était cuisinière | ✅ |
+| 4 | Réveil des Cendres | Ruines de Halifax-sur-Aethermoor | Graine d'Or Noire → Pain d'Écorché | Voix de Marinette | « La Recette Ultime se trouve dans le Royaume d'Argent » | ✅ |
+| 5 | La Chambre des Saveurs Perdues | Royaume d'Argent (ruines gelées) | Larmes de Crépuscule → Bouillon des Cinq Sens | Orrin (Gardien de Glace) | La Carte des Saveurs : cinq Parts, cinq royaumes | ✅ |
+| 6 | Le Chemin des Caravanes | Cols d'Argent → piste d'Ambre | Datte de Verre, Sel des Dunes → Galette de Route | Idris Sable-Doux | Idris : « On a gardé quelque chose de vivant, depuis 500 ans. » | ✅ |
+| 7 | Le Village qui Rêvait | Brièves-Îles | Baies de Givre → Infusion de Baies de Givre | Ouma Sarel (développée) | Corvus frappe à la porte d'Ouma | ✅ |
+| 8 | Le Procès de la Cuillère | Mairie de Brièves-Îles | Soupe de Bord de Mer | Tobbe et Marn | « La Septième a demandé à venir. » | ✅ |
+| 9 | La Nuit des Potions Éteintes | Port de Brièves-Îles, mer d'Ambre | Algue-Lanterne → Bouillon de Marée | Sentinelle Septième (masquée) | Une Sentinelle a hésité devant Kael | ✅ |
+| 10 | La Graine Étoilée | Bivouac des Braises (Vallée de Cendre) | Champignon de Cendre → Soupe du Premier Soir | Gorm Braise-Vive | Ordre du Conseil : « L'enfant, vivante. » | ✅ |
 
 ### Arc II — Les Racines (`arc_2_les_racines.md`)
 

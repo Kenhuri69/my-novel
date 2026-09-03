@@ -9,7 +9,7 @@
 | Âge | 8 ans (toute l'année du roman ; son anniversaire n'est jamais fêté — il ne sait pas quand il est né) |
 | Origine | Brièves-Îles, Territoires d'Ambre |
 | Lignée | aucune — « Morrow », la marmite de ceux qui cuisinaient sans Lignée |
-| Objets | le **Tablier de Souvenir** (morceau de tissu bleu au cou, du tablier de sa mère) ; la **Touillette de Bronze** (forgée par Gorm, ch. 15) ; le cahier des souvenirs (ch. 11) |
+| Objets | le **carré de tissu bleu** au cou (ch. 1-5, donné à la statue du Cuisinier Inconnu) ; le **Tablier de Souvenir** entier, rendu par Ouma (ch. 7+), trop grand, roulé trois fois à la taille ; la **Touillette de Bronze** (forgée par Gorm, ch. 15) ; le cahier des souvenirs (ch. 11) |
 | Première / dernière apparition | ch. 1 / ch. 60 |
 | Motivation affichée | Retrouver sa mère. |
 | Besoin caché | Cesser d'être « le petit qui attend » ; devenir celui qui donne. |
@@ -22,6 +22,7 @@ Petit pour son âge, cheveux châtains courts, yeux gris « comme la mer, toujou
 - **Silencieux** au début ; parle de plus en plus : il finit enseignant.
 - **Rêveur** : imagine des mondes meilleurs ; ses rêves sont des visions.
 - **Drôle** : humour de survie ; discute avec la graine qui boude (ch. 6) ; « Ça sent le pied et c'est bon, c'est pas normal » (ch. 34).
+- **L'échelle des câlins** : son invention, depuis « c'est comme un câlin dans la bouche » (ch. 1). 1 = bon · 2 = très bon · 3 = on ferme les yeux sans faire exprès · 4 = rare · 5 = une seule fois (ch. 5) · **négatifs** depuis le ch. 3 (« moins deux, comme un câlin de quelqu'un qui te vole ton manteau ») · **demi-points** · **bonus de groupe** qui compte double (ch. 4). Voir `bible/structure/tensions_et_rappels.md` §R1.
 - **Diplomate à la tartine** : règle une guerre de fromage et de pain avec une tartine (ch. 55).
 - **Voix** : parle vite, phrases courtes, observations décalées (« Ils ont l'air de potions », « Gentilles quand même »). Ses phrases les plus importantes sont dites très simplement : « Elle est vivante. Elle a un numéro. »
 

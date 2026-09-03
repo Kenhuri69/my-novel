@@ -44,7 +44,12 @@
 
 ### Territoires d'Ambre
 - **Taïs** (†) — sœur d'Ouma, cuisinière emmenée il y a quarante ans ; sa cuillère.
-- **Tobbe et Marn** — gardes de la mairie qui pleurent dans la Soupe de Bord de Mer.
+- **Tobbe et Marn** — gardes de la mairie qui pleurent dans la Soupe de Bord de Mer. Tobbe, 50 ans, moustache : « Ça a un goût de chez ma mère. » Marn, 19 ans, femme enceinte, rêve d'un pain rond avec un trou au milieu et demande ce qu'est un dimanche.
+- **Dorin** — pêcheur de Brièves-Îles, la quarantaine. Dessine une vache à la craie sur le mur du hangar à filets et pleure devant sans savoir pourquoi ; apprend le mot *meuh* et hurle « ÇA EXISTE ! » ; prête sa barque, la *Marie-Louise*, pour la fuite du ch. 9.
+- **Le petit des Vell** — 6 ans, répète le mot *goûter* toute la journée sans savoir ce qu'il veut dire ; sa mère est terrifiée.
+- **Nabet** — doyenne de la caravane Sable-Doux, 80 ans. Maîtresse du lit de sable sous les braises (le meilleur four du monde, que le monde a oublié). Force Sylvie à se laisser soigner : « On ne guérit pas de ce qu'on a soigné tout seul. »
+- **Tammé** — caravanier qui s'oppose à Idris quand il montre la croûte. « Je sais ce que je fais, Tammé. Non, je n'en sais rien du tout. Assieds-toi. »
+- **Framboise** — un crabe, ramassé dans le hangar à filets au ch. 9, mort au ch. 10, enterré sous une pierre plate avec un « meuh » en guise d'oraison.
 - **Mère Zahra** — gardienne du Puits-à-Pain, voix prépondérante du Conseil des Caravanes ; « Il a refusé des rois. Il a refusé Ezren. »
 - **Ninon** (†) — fille de Corvus, morte à 7 ans pendant la Famine de Brièves.
 

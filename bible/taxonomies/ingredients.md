@@ -118,7 +118,7 @@
 ### 2.9 Matières à mémoire (non comestibles, mais entrent dans les recettes)
 | ID | Nom | Élément | Aura | Rareté | Où | Effet brut | Ch. |
 |---|---|---|---|---|---|---|---|
-| ING-080 | **Tissu de Souvenir** (tablier de Maëlle) | — | rose pâle, doux | ★★★ | cou de Kael | au fond du panier : plat qui évoque l'enfance ; réveille une mémoire partagée | 4, 16, 45, 46 |
+| ING-080 | **Tissu de Souvenir** (le tablier de Maëlle) | — | rose pâle, doux | ★★★ | au cou de Kael (ch. 1-5 : le carré) ; porté par lui (ch. 7+ : le tablier entier, rendu par Ouma) | au fond du panier : plat qui évoque l'enfance ; réveille une mémoire partagée. Le carré part à la statue au ch. 5 ; le tablier entier arrive au ch. 7 | 4, 5, 7, 9, 16, 45, 46 |
 | ING-081 | Fibre de Graine d'Origine | — | doré éteint | ★★★★ | Serre Noire | remplace une corde de luth ; réveille un Gardien | 47 |
 | ING-082 | **Graine d'Or Noire** | Feu | violet profond → **Braise Première** | ★★★★ | ruines de Halifax | brûlée : *Part de Feu* ; « une seule peut exister pleinement » | 4, 57 |
 

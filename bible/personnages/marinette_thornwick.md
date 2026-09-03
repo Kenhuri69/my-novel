@@ -19,7 +19,14 @@ Petite, ronde, cheveux gris relevés en chignon avec un crayon dedans, lunettes 
 
 ## Personnalité et voix
 - Chaleur pratique : pas de grands mots, des gestes. « Mange. Après on discute. »
-- Rituel : chaque repas est une histoire ; une comptine pour les tubercules (celle du ch. 2), une chanson pour pétrir.
+- Rituel : chaque repas est une histoire ; une comptine pour les tubercules, une chanson pour pétrir.
+- **La comptine** (texte canonique, ne pas réécrire) :
+  > *Patate, patate, sors de ton lit,*
+  > *le soleil a mis sa chemise ;*
+  > *si tu ne viens pas on t'oublie,*
+  > *et tu resteras une bêtise.*
+
+  Elle en changeait les paroles tout le temps, ce qui autorise n'importe quelle variante chantée faux. Deux personnes d'Aethermoor en connaissent l'air sans les mots : Taïs Sarel, et donc Ouma (ch. 7).
 - Franche : c'est d'elle que Luna tient « je préférerais qu'on ne se mente pas ».
 - Comme **voix** dans le roman : brève, tendre, jamais explicative. Elle ne donne pas de solutions ; elle donne des permissions (« Laisse-la faire le reste », ch. 53 ; « Tu as des gens », ch. 60).
 
