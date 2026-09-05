@@ -50,6 +50,7 @@ La référence complète est dans [`bible/README.md`](bible/README.md) :
 - 🗺️ **Monde** : [régions](bible/monde/regions.md) · [lieux](bible/monde/lieux.md) · [organisations](bible/monde/organisations.md) · [société et lois](bible/monde/societe.md) · [histoire et chronologie](bible/monde/histoire.md) · [système de magie culinaire](bible/monde/magie.md) · [les Archives](bible/monde/archives.md)
 - 🏛️ **Archives et escalade** : [`bible/monde/archives.md`](bible/monde/archives.md) — le Dépôt et ses sept niveaux, le coût de lecture, les cinq archives du monde ; l'échelle des enjeux est dans [`bible/structure/arcs.md`](bible/structure/arcs.md) §5 bis
 - 🧑‍🍳 **Personnages** : [index du cast](bible/personnages/index.md) — 17 fiches (Luna, Sylvie, Kael, Marinette, Virelle, Corvus, Maëlle, Ezren, Orrin, Gorm, Pim, Idris, Brune, Ysolde, Théo, Nérine, Ouma)
+- 🎮 **Adaptation en jeu** : [`bible/jeu/adaptation_jeu.md`](bible/jeu/adaptation_jeu.md) — correspondance bible ↔ *luna-mobile* (chapitres, ingrédients `ING-xxx`, cast, divergences à arbitrer)
 - 🥕 **Taxonomies** : [ingrédients](bible/taxonomies/ingredients.md) (ING-xxx) · [recettes](bible/taxonomies/recettes.md) (REC-xxx) · [items : armes, armures, potions, ustensiles, artefacts](bible/taxonomies/items.md) · [structures et lieux](bible/taxonomies/structures.md) (STR-xxx)
 
 ### Écriture narrative

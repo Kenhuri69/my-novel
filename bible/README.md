@@ -38,6 +38,8 @@ bible/
 │   ├── index.md                       ← cast complet + secondaires en une ligne
 │   ├── luna_thornwick.md … (9 fiches complètes)
 │   └── gorm_braise_vive.md … (8 fiches moyennes)
+├── jeu/                               ← L'ADAPTATION
+│   └── adaptation_jeu.md              ← correspondance bible ↔ luna-mobile (IDs, cast, écarts)
 └── taxonomies/                        ← LES CATALOGUES (IDs stables pour le jeu)
     ├── ingredients.md                 ← ING-xxx : ~55 ingrédients, 5 Éléments, auras, rareté
     ├── recettes.md                    ← REC-xxx : ~60 recettes, 4 tiers, familles d'effet
@@ -58,6 +60,7 @@ bible/
 | savoir qui sait quoi et quand | `structure/arcs.md` §6 (courbes longues) et `monde/histoire.md` §6 |
 | inventer un ingrédient / une recette / un objet | la section « Règles d'écriture » en fin de chaque taxonomie |
 | préparer des données de jeu | les IDs des taxonomies (ING-, REC-, ARM-…) ; chaque entrée donne son chapitre d'apparition |
+| savoir ce que le jeu a déjà repris, et ce qui diverge | `jeu/adaptation_jeu.md`, puis `luna-mobile/docs/skeleton/` pour le plan d'intégration |
 | préparer un prompt d'illustration | `monde/lieux.md` (lieux ★), `personnages/*.md` §Apparence, notes visuelles des squelettes existants |
 
 ## Conventions
