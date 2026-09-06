@@ -11,14 +11,17 @@
 
 ## 1. Où en est le jeu
 
-| | Bible | Jeu (`main`) | Jeu (squelette arc II) |
-|---|---|---|---|
-| Chapitres | 60 (6 arcs) | 5 | 10 |
-| Arcs couverts | I → VI | arc I compressé | arcs I + II |
-| Personnages jouables | 17 fiches | 3 | 4 (+ Pim Ferrel) |
-| Ingrédients | ~55 | 12 | 23 |
-| Recettes | ~60 | 8 | 14 |
-| Cartes | ~40 lieux, 5 royaumes | 4 zones | 6 zones |
+| | Bible | Jeu (`main`, arcs I + II livrés) |
+|---|---|---|
+| Chapitres | 60 (6 arcs) | 10 |
+| Arcs couverts | I → VI | I compressé + II complet |
+| Personnages jouables | 17 fiches | 4 (Luna, Sylvie, Kael, Pim) |
+| Ingrédients | ~55 | 23 |
+| Recettes | ~60 | 14 |
+| Cartes | ~40 lieux, 5 royaumes | 6 zones |
+
+Les neuf lots du plan d'intégration de l'arc II sont fusionnés dans `main` (PR #14 à #20 du jeu).
+Ce qui suit décrit donc du code qui tourne, pas une intention.
 
 **Règle de conversion** : *deux chapitres de roman = un chapitre de jeu*.
 
@@ -83,18 +86,61 @@ deviennent les **clients de l'étal** : c'est ce qui leur donne une existence jo
 un système de PNJ. Leurs souvenirs de repli sont écrits dans le code du jeu et doivent rester
 cohérents avec `personnages/index.md`.
 
-## 4. Ce que le jeu ajoute au roman
+## 4. Ce que le jeu chiffre
 
-Deux mécaniques traduisent directement des scènes du roman, mais elles n'ont pas d'équivalent
-« objet » dans la bible. Si le roman revient dessus, c'est ici qu'il faut vérifier la cohérence :
+Un jeu doit trancher là où un roman peut rester qualitatif : « la graine est gelée » doit
+devenir un nombre, ou rien ne se code. Voici les chiffres que le jeu a posés, et la phrase de la
+bible dont chacun descend. **Aucun ne contredit `monde/magie.md` ; si la bible chiffre un jour
+ces règles autrement, c'est la bible qui gagne et le jeu qui s'aligne.**
 
-| Mécanique de jeu | Scène source | Ce que le jeu suppose |
+### 4.1 L'Intention (`IntentionRules`)
+
+| Chiffre du jeu | Valeur | D'où ça vient |
 |---|---|---|
-| **L'Étal et la monnaie des souvenirs** | ch. 11, Sylvie invente la monnaie | Que la réputation du Bivouac se construit assiette par assiette, et que le carnet de Kael est un objet consultable. |
-| **L'Intention** (jauge 0-100, cendre-mana, Bouillon Blanc) | ch. 17-18 | Que la cendre-mana **gèle** la graine, que seule « la recette de rien » la dégèle, et que l'état de la graine se lit en permanence. |
+| Jauge | 0 à 100, départ à 80 | Règle 1 du Triptyque : l'état du cuisinier *est* la magie |
+| Sereine / Troublée / En colère / Gelée | ≥ 70 · ≥ 40 · ≥ 1 · 0 | les quatre pulsations de la graine, `magie.md` §3 |
+| Une cendre-mana | −100 : la graine gèle d'un coup | ch. 17 : le gel est complet, pas graduel |
+| Bouillon Blanc | +35, seule recette autorisée gelée | ch. 18 : « la recette de rien » redémarre la graine |
+| Risque de cendre-mana en colère | (35 % + 1 point par point sous 40) × la difficulté, **plafonné à 75 %** | rien dans la bible ; le plafond est un garde-fou de jeu — sans lui, en difficulté Maître, le risque atteignait 100 % et le joueur n'avait plus un pari mais une sanction |
+| Toux d'équipe | 3 tours, +25 % de dégâts subis | ch. 17-18 : « ceux qui l'ont respirée toussent des jours » |
+| Graine gelée | le plat nourrit, ne porte aucun effet | `magie.md` §3, précisé pour le jeu puis réécrit dans la bible |
 
-Aucune des deux ne contredit `monde/magie.md` ; elles la chiffrent. Si la bible chiffre un jour
-ces règles autrement, c'est la bible qui gagne et le jeu qui s'aligne.
+### 4.2 L'Étal (`StallRules`)
+
+| Chiffre du jeu | Valeur | D'où ça vient |
+|---|---|---|
+| Besoins des clients | six ; le plus proche de la faim s'appelle « le ventre vide » | personne à Aethermoor n'a le mot ; ils ont froid, ils ont perdu quelqu'un, ils se méfient |
+| Monnaie | paillettes d'or **ou** souvenir raconté | ch. 11 : Sylvie remplace la fiole vide par un souvenir |
+| Majorité des clients | sans or : ils paient en souvenir | prémisse de l'étal, pas un détail d'équilibrage |
+| Une journée parfaite | rapporte moins que le meilleur butin de l'arc | servir ne doit jamais être plus rentable qu'avancer |
+| File d'attente | déterministe, liée au jour et à la tuile | anti-relance : on ne retire pas un client en quittant l'écran |
+| Carnet des souvenirs | persisté, relisible hors ligne | DOC-003, le carnet de Kael, est un objet consultable |
+
+### 4.3 Les combats qui ne se gagnent pas
+
+`magie.md` §7 est catégorique : la cuisine **ne gagne pas une bataille**. Le jeu a donc un
+objectif de combat qui n'est pas « vaincre » mais « tenir N rounds », et dans ce mode
+l'adversaire ne peut pas tomber — il plie le genou et se relève.
+
+| Scène | Rounds | Ce qui suit, et qui est écrit |
+|---|---|---|
+| Le raid du col (roman ch. 17) | 6 | l'étal brûle, les cuistots filent dans les tunnels |
+| La Porte des Racines (roman ch. 19) | 4 | Sylvie est arrêtée, les trois autres sont « invités » |
+
+Ni l'un ni l'autre ne rend d'or ni de butin : on ne détrousse pas Virelle, et on ne détrousse pas
+un garde qui vous arrête.
+
+### 4.4 Les deux améliorations forgées par Gorm
+
+| Amélioration | Effet en jeu | Objet de la bible |
+|---|---|---|
+| Marmite de Bronze | chaque plat réussi rend une portion de plus | **UST-001** — « la première marmite *utilisée* » ; une portion de plus, c'est une personne de plus à table, donc la Règle 3 |
+| Grande Cuillère de Bronze | la fenêtre de rythme s'élargit de 40 % | **UST-018** — lourde, elle porte le geste d'une enfant de sept ans qui s'épuise (`magie.md` §3, « Ce que Luna n'a pas ») |
+
+L'amélioration de rythme s'est appelée « Touillette de Bronze » jusqu'à cette relecture. C'était
+une erreur : la Touillette (UST-003) est l'épée de Kael. Corrigé des deux côtés — UST-018 est
+entré dans la bible, le jeu affiche le bon nom (l'identifiant stocké reste `bronze_ladle`, il est
+dans les sauvegardes).
 
 ## 5. Divergences connues, à arbitrer
 
@@ -108,8 +154,14 @@ ces règles autrement, c'est la bible qui gagne et le jeu qui s'aligne.
 3. **Quelques éléments divergent** entre bible et jeu (Racines de Rêve : Eau vs Bois). Sans
    conséquence tant que la résonance de combat reste une règle de jeu, à corriger si le roman
    fait un jour dépendre une scène de l'élément d'un ingrédient.
-4. **Le chapitre 5 du jeu** se présente comme une conclusion (« La Recette Ultime et les Cinq
-   Royaumes ») alors que la bible en fait une charnière. Corrigé par le squelette de l'arc II.
+4. ~~**Le chapitre 5 du jeu** se présente comme une conclusion~~ — réglé : l'arc II livré en fait
+   une charnière.
+5. **Le jeu invente des effets d'objets** que la bible ne chiffre pas (les deux améliorations de
+   Gorm, §4.4). Ils sont cohérents avec les fiches, mais ils ne viennent pas du roman : à relire
+   si un chapitre fait un jour dépendre une scène de ce que fait un ustensile.
+6. **Tarel se battait** au chapitre 10 du jeu, et gagnait ou perdait au nombre de points de vie,
+   avant la scène où il arrête tout le monde. Corrigé côté jeu (§4.3) : la Porte se tient, elle
+   ne se gagne pas. Rien à changer dans la bible — c'est le jeu qui avait tort.
 
 ## 6. Où lire la suite
 

@@ -48,7 +48,7 @@
 ## Chapitre 13 — Les Gravures du Four  🆕
 **Lieu** : Four Ancestral ; Clairière des Sept Marmites · **Saison** : mi-automne.
 **Personnages** : Luna, Sylvie, Kael, Gorm.
-**Ingrédient** : Cendre Douce (cendre du Four mêlée d'eau de lune) · **Technique** : lecture par la Cendre Douce · **Objet** : la Carte des Saveurs (relue).
+**Ingrédient** : Cendre Douce (cendre du Four mêlée d'eau de lune) · **Technique** : lecture par la Cendre Douce · **Objets** : la Carte des Saveurs (relue) ; la **Grande Cuillère de Bronze** (UST-018) que Gorm forge pour la main de Luna, du même geste que la technique qu'il lui apprend.
 
 **Résumé** — Sylvie veut lire ce que le Four cache depuis le chapitre 2. Gorm connaît une technique de chaudronnier : passer de la Cendre Douce dans les gravures pour les faire ressortir. Les gravures racontent l'histoire des **cinq Lignées** — Thornwick (feu), Lysdorn (eau), Roc-de-Sel (bois), Sable-Doux (terre), Aurelian (air) — qui nourrissaient les cinq royaumes depuis le Four. Puis la Grande Famine, la Nuit des Cendres, et l'Interdiction. Le nom du fondateur de la Guilde est **effacé au burin**. Sylvie pâlit en voyant le nom Lysdorn. Kael cherche « Morrow » et ne le trouve pas.
 
