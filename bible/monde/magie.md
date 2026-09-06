@@ -43,7 +43,7 @@ Mécanique de **dialogue** : en touchant une plante, Luna ressent un besoin (« 
 La graine de chou-fleur en bronze bat en synchronie cardiaque et sert de diapason :
 - **lente et chaude** → plat apaisant / guérisseur ;
 - **rapide et vive** → énergie / vitesse ;
-- **froide ou gelée** → plat gâté, panique de Luna, ou intention corrompue (gel complet au ch. 17 ; redémarre une fois au ch. 18) ;
+- **froide ou gelée** → plat gâté, panique de Luna, ou intention corrompue (gel complet au ch. 17 ; redémarre une fois au ch. 18). **Graine gelée, la cuisine continue et la magie s'arrête** : le plat nourrit, réchauffe, remplit un ventre — il ne *porte* plus rien. Aucun effet du §6, aucun souvenir réveillé, aucune peur dissipée. Luna le sait avant d'y goûter : elle ne sent plus la pulsation dans sa paume. C'est ce qui rend les deux semaines du ch. 18 insupportables — elle peut encore faire à manger, et ça ne sert plus à personne ;
 - **plusieurs couleurs** → plat qui mêle plusieurs royaumes (ch. 25 : deux ; ch. 52 : quatre) ;
 - **boude** (silence) → après la fusion des graines (ch. 5-6) ;
 - **se fissure** → elle arrive au bout de ce pour quoi elle a germé (ch. 53) ; elle se tait pour de bon au ch. 59 et doit être **plantée** (ch. 60).
@@ -91,6 +91,8 @@ La nourriture ne modifie pas des statistiques : elle altère l'état d'esprit et
 | **Hospitalité** | ouvre quelqu'un qui se fermait | Tartine de l'Inconnu, Thé des Toits |
 | **Éveil** | rend des souvenirs à une Sentinelle | Pain de Maëlle, la Recette |
 
+**Trois conditions pour qu'un effet se produise**, et il en faut les trois : l'intention du cuisinier (Règle 1), un ingrédient qui a poussé (Règle 2), et quelqu'un d'autre qui mange (Règle 3). Il en manque une, il reste un plat — bon, chaud, muet. C'est le cas de toute la période gelée du ch. 18, et de tout ce que cuisine Kael avant le ch. 46 sans savoir pour qui.
+
 **Échelle d'intensité** (I → IV) : I quotidien (nourrit, réconforte) · II sauvage (effet net, une heure) · III ancestral (effet profond, mémoire, coût en fatigue) · IV légendaire (les Parts, la Recette : effets sur une vallée entière).
 
 ## 7. Ce que la magie ne fait jamais (garde-fous d'écriture)
@@ -100,3 +102,4 @@ La nourriture ne modifie pas des statistiques : elle altère l'état d'esprit et
 - Elle ne **gagne pas une bataille** : elle l'empêche d'avoir lieu (ch. 30, 56, 58).
 - Elle ne **rend pas tout** : Maëlle ne retrouve pas toute sa mémoire ; des Sentinelles ne retrouvent jamais leur nom.
 - Elle ne **se cache pas** : l'odeur porte. C'est sa force et son danger.
+- Elle ne **pardonne pas la colère** : cuisiner en voulant du mal ne rate pas le plat, il produit autre chose. La cendre-mana est grise, elle prend à la gorge, et ceux qui l'ont respirée toussent des jours. Luna en est malade deux semaines (ch. 17-18). Le seul remède est une recette qui ne demande rien à personne — le **Bouillon Blanc**, de l'eau, du sel, du temps.

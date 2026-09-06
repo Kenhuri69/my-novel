@@ -84,8 +84,8 @@ Aucun objet ne donne de « +2 ». Un objet change ce qu'un personnage *peut oser
 |---|---|---|---|---|---|---|
 | UST-001 | **Marmite de Bronze** | ★★★ | Luna (puis portée par Corvus, 41) | première marmite *utilisée* du Bivouac ; forgée avec la cendre du Four « pour qu'elle se souvienne » ; sauvée du feu à mains nues ; Kael l'apporte à Luna malade | Gorm | 11, 17, 18, 41-42 |
 | UST-002 | **Les sept marmites** | ★★★★ | l'Auberge | une par socle de la Clairière ; gravées Thornwick, Lysdorn, Roc-de-Sel, Sable-Doux, Aurelian, *(vide)*, **Morrow** ; la « Morrow » est posée la première sur la Braise Première | Gorm | 26, 54, 57, 58, 60 |
-| UST-003 | **Touillette de Bronze** | ★★ | Kael | son « épée » ; forgée pour sa première recette | Gorm | 15+ |
-| UST-004 | Louche de bronze | ★★ | Luna | « pour revenir » ; offerte au départ vers Émeraude | Gorm | 19, 31 |
+| UST-003 | **Touillette de Bronze** | ★★ | Kael | son « épée » ; forgée pour sa première recette. *Arme*, pas ustensile de cuisine : ne jamais la confondre avec UST-018 | Gorm | 15+ |
+| UST-004 | Louche de bronze | ★★ | Luna | « pour revenir » ; offerte au départ vers Émeraude. Elle ne sert pas à cuisiner : c'est une promesse, et elle doit le rester | Gorm | 19, 31 |
 | UST-005 | **Cuillère en bois de Taïs** | ★★★ | Ouma | quarante ans dans un placard ; interrompt un procès ; s'assied à la place d'honneur | Taïs | 7, 8, 29, 60 |
 | UST-006 | Cent cuillères | ★ | l'Auberge | forgées avant de savoir s'il y aurait cent convives | Gorm | 29-30 |
 | UST-007 | Marmite trouée (test) | ★ | Gorm → Luna | Luna la bouche avec de la cendre et du blé mâché ; Gorm rit | Gorm | 10 |
@@ -99,6 +99,7 @@ Aucun objet ne donne de « +2 ». Un objet change ce qu'un personnage *peut oser
 | UST-015 | Cuve à fioles récurée | ★ | Bas-Quartiers | devient marmite | Dora | 41 |
 | UST-016 | Forge de fioles | ★★ | Forteresse | devient four pour le Pain de Maëlle | Guilde | 46 |
 | UST-017 | Le Four Ancestral | ★★★★ | la Vallée | voir `bible/monde/lieux.md` ; s'allume au ch. 57 | les Thornwick | 2, 13, 57-59 |
+| UST-018 | **Grande Cuillère de Bronze** | ★★ | Luna | forgée au Bivouac pour sa main à elle : assez lourde pour que le poignet suive le geste et pas l'inverse. Gorm la fait après l'avoir vue s'endormir sur le tabouret, la louche encore à la main. Ce n'est **pas** la Touillette de Kael (UST-003) ni la louche-souvenir (UST-004) | Gorm | 13+ |
 
 ### 2.5 ART — Artefacts
 | ID | Nom | Rareté | Porteur | Effet | Histoire | Ch. |
@@ -156,7 +157,7 @@ Aucun objet ne donne de « +2 ». Un objet change ce qu'un personnage *peut oser
 ## 3. Objets par personnage (inventaire)
 | Personnage | Début | Gagné en route | Perdu / donné | Fin |
 |---|---|---|---|---|
-| **Luna** | ART-001, DOC-001, VET-001 | ART-002 (4), UST-011 (5), ART-004 (5), UST-001 (11), UST-004 (19), UST-010 (33) | ART-002 brûlée (57) ; ART-001 plantée (60) | DOC-002, VET-001 |
+| **Luna** | ART-001, DOC-001, VET-001 | ART-002 (4), UST-011 (5), ART-004 (5), UST-001 (11), UST-018 (13), UST-004 (19), UST-010 (33) | ART-002 brûlée (57) ; ART-001 plantée (60) | DOC-002, VET-001 |
 | **Sylvie** | ARM-001, ARM-002, ART-007 | ART-003 (5), DOC-018 (24), VET-004 (24) | ARM-001 confisqué puis rendu | tout ; une maison |
 | **Kael** | VET-002a (le carré) | VET-002 le tablier entier (7), DOC-003 (11), UST-003 (15), UST-002 « Morrow » (26) | le carré, donné à la statue (5) ; un crabe nommé Framboise (10) | tout ; une école |
 | **Corvus** | ART-005, ART-006, VET-005, DOC-006 | UST-001 porté (41), DIV-004 | ART-005 → tisonnier ; ART-006 → Luna ; VET-005 abandonnée | le col |

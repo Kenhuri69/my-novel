@@ -9,7 +9,7 @@
 | Âge | 58 ans |
 | Origine | Vallée de Cendre (né au Bivouac) ; formé chaudronnier à Aurelis ; revenu |
 | Rôle | forgeron, chef de fait des cuistots ambulants, bâtisseur de l'Auberge, gardien du foyer pendant les arcs IV-V |
-| Objets | sa forge (repliée dans un tunnel après le raid) ; la **Marmite de Bronze** (mêlée de cendre du Four) ; les sept marmites ; cent cuillères ; la louche qu'il donne à Luna (ch. 19) ; la Touillette de Bronze de Kael |
+| Objets | sa forge (repliée dans un tunnel après le raid) ; la **Marmite de Bronze** (mêlée de cendre du Four) ; les sept marmites ; cent cuillères ; la **grande cuillère** qu'il forge pour la main de Luna (ch. 13) ; la louche qu'il donne à Luna (ch. 19) ; la Touillette de Bronze de Kael |
 | Première / dernière apparition | ch. 10 / ch. 60 |
 | Motivation | Que ses marmites servent à quelque chose, une fois, avant qu'il meure. |
 | Faille | Ne demande jamais de merci et en souffre ; ne dort pas assez. |
