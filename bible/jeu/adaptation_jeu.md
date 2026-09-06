@@ -20,7 +20,7 @@
 | Recettes | ~60 | 14 |
 | Cartes | ~40 lieux, 5 royaumes | 6 zones |
 
-Les neuf lots du plan d'intégration de l'arc II sont fusionnés dans `main` (PR #14 à #20 du jeu).
+Les neuf lots du plan d'intégration de l'arc II sont fusionnés dans `main` (PR #14 à #21 du jeu).
 Ce qui suit décrit donc du code qui tourne, pas une intention.
 
 **Règle de conversion** : *deux chapitres de roman = un chapitre de jeu*.
@@ -39,18 +39,18 @@ Ce qui suit décrit donc du code qui tourne, pas une intention.
 ### 2.1 Présents dans le jeu, arc I
 | ID bible | Nom | ID jeu | Note d'adaptation |
 |---|---|---|---|
-| ING-001 | Blé Étoffé | `ble_etoffe` | Élément **Stellaire** en jeu, Feu (origine Terre) dans la bible. Voir §5. |
+| ING-001 | Blé Étoffé | `ble_etoffe` | `STELLAIRE` en jeu, Feu dans la bible — les deux sont vrais : Feu est sa **saveur**, Stellaire dit que son champ n'est dans aucun des cinq royaumes. Voir `ingredients.md` §1.1. |
 | ING-010 | Tubercule de Foyer | `patate_brase` | — |
-| ING-012 | Racines de Rêve | `racines_reve` | Bois en jeu, Eau dans la bible. |
+| ING-012 | Racines de Rêve | `racines_reve` | Était Bois en jeu ; **corrigé en Eau**, la bible faisait foi. |
 | ING-030 | Sel de roche | `sel_roche` | — |
 | ING-034 | Éclat de Soufre | `eclat_soufre` | — |
-| ING-071 | Eau de Lune | `eau_lune` | — |
-| ING-073 | Larmes de Crépuscule | `larmes_crepuscule` | — |
-| — | Baies Stellaires | `baie_stellaire` | **Inventé par le jeu.** Proche de ING-040 Baies de Givre. À arbitrer. |
-| — | Menthe Sauvage | `menthe_sauvage` | **Inventé par le jeu.** Candidat à une entrée ING-0xx. |
-| — | Poivre-Foudre | `poivre_foudre` | **Inventé par le jeu.** Distinct de ING-035 Poivre-Soleil. |
-| — | Cristal de Sucre Stellaire | `cristal_sucre` | **Inventé par le jeu.** Proche de ING-043 Sucre d'Or. |
-| — | Poisson Argenté | `poisson_argente` | **Inventé par le jeu.** Distinct de ING-062 Poisson-Lanterne. |
+| ING-071 | Eau de Lune | `eau_lune` | Eau/Froid dans la bible ; le jeu doit choisir, il prend Eau. Sans conséquence. |
+| ING-073 | Larmes de Crépuscule | `larmes_crepuscule` | Était Eau en jeu ; **corrigé en `STELLAIRE`** — c'est le liant, le seul ingrédient que la bible met explicitement dans le sixième élément. |
+| ING-044 | Baies Stellaires | `baie_stellaire` | Inventé par le jeu, **entré dans la bible**. Air, Forêt des Murmures : distinct des Baies de Givre (ING-040), qui sont Eau et pardonnent. |
+| ING-025 | Menthe Sauvage | `menthe_sauvage` | Inventé par le jeu, **entré dans la bible**. |
+| ING-038 | Poivre-Foudre | `poivre_foudre` | Inventé par le jeu, **entré dans la bible**. Distinct de ING-035 Poivre-Soleil. |
+| ING-045 | Cristal de Sucre Stellaire | `cristal_sucre` | Inventé par le jeu, **entré dans la bible**. Hors-royaume comme tout ce que la graine a touché ; distinct de ING-043 Sucre d'Or. |
+| ING-063 | Poisson Argenté | `poisson_argente` | Inventé par le jeu, **entré dans la bible**. Distinct de ING-062 Poisson-Lanterne. |
 
 ### 2.2 Ajoutés par le squelette de l'arc II
 | ID bible | Nom | ID jeu | Chapitre jeu |
@@ -142,26 +142,45 @@ une erreur : la Touillette (UST-003) est l'épée de Kael. Corrigé des deux cô
 entré dans la bible, le jeu affiche le bon nom (l'identifiant stocké reste `bronze_ladle`, il est
 dans les sauvegardes).
 
-## 5. Divergences connues, à arbitrer
+## 5. Divergences : ce qui est tranché, ce qui reste
 
-1. **L'élément « Stellaire »** existe dans le jeu et pas dans la bible. La bible a cinq Saveurs et
-   le **Froid**, qui est un liant. Le jeu utilise `STELLAIRE` là où la bible dirait Froid ou
-   « matière à mémoire ». À trancher au plus tard quand les cinq Parts arrivent (arc IV), parce
-   que la correspondance Élément ↔ Royaume devient alors structurante.
-2. **Cinq ingrédients inventés par le jeu** (§2.1) n'ont pas d'`ING-xxx`. Deux options : leur en
-   donner un dans `taxonomies/ingredients.md`, ou les fusionner avec l'entrée bible la plus
-   proche. Recommandation : leur donner un ID — ils sont déjà dans des sauvegardes de joueurs.
-3. **Quelques éléments divergent** entre bible et jeu (Racines de Rêve : Eau vs Bois). Sans
-   conséquence tant que la résonance de combat reste une règle de jeu, à corriger si le roman
-   fait un jour dépendre une scène de l'élément d'un ingrédient.
+Six points ont été ouverts ici. Cinq sont clos ; le sixième est une note de vigilance, pas une
+question.
+
+1. ~~**L'élément « Stellaire »** existe dans le jeu et pas dans la bible.~~ **Tranché.** La bible
+   avait déjà un sixième élément — le *Froid*, liant, Royaume d'Argent — et le jeu l'appelle
+   `STELLAIRE`. Même case, deux noms, aucun des deux ne bouge : les deux tiennent à trop de
+   choses ailleurs. Ce qui manquait n'était pas un arbitrage de nom, c'était la **règle** :
+   `ingredients.md` §1.1 la porte désormais — le sixième est le **hors-royaume**, et il n'est
+   *jamais* une Part. C'était le vrai risque de l'arc IV, et il est fermé.
+2. ~~**Cinq ingrédients inventés par le jeu** n'ont pas d'`ING-xxx`.~~ **Tranché : ils en ont
+   un.** ING-025 Menthe Sauvage, ING-038 Poivre-Foudre, ING-044 Baies Stellaires, ING-045 Cristal
+   de Sucre Stellaire, ING-063 Poisson Argenté. Ils sont dans des sauvegardes de joueurs : les
+   fondre dans une entrée voisine aurait cassé des sacs. Leur colonne « Ch. » porte
+   **« — (jeu) »** : disponibles pour le roman, pas encore employés par lui.
+3. ~~**Quelques éléments divergent** (Racines de Rêve : Eau vs Bois).~~ **Tranché côté jeu**, dans
+   les deux sens : les Racines de Rêve repassent en Eau, et les Larmes de Crépuscule quittent
+   l'Eau pour le sixième élément. Un test (`ProgressionAndDataTest`) empêche le jeu d'y revenir.
+   Reste l'Eau de Lune, Eau/Froid dans la bible : le jeu n'a qu'une case par ingrédient, il prend
+   Eau, et l'élément d'un ingrédient n'a aucun effet mécanique — c'est celui de la *recette* qui
+   brise les boucliers.
 4. ~~**Le chapitre 5 du jeu** se présente comme une conclusion~~ — réglé : l'arc II livré en fait
    une charnière.
 5. **Le jeu invente des effets d'objets** que la bible ne chiffre pas (les deux améliorations de
    Gorm, §4.4). Ils sont cohérents avec les fiches, mais ils ne viennent pas du roman : à relire
-   si un chapitre fait un jour dépendre une scène de ce que fait un ustensile.
-6. **Tarel se battait** au chapitre 10 du jeu, et gagnait ou perdait au nombre de points de vie,
-   avant la scène où il arrête tout le monde. Corrigé côté jeu (§4.3) : la Porte se tient, elle
-   ne se gagne pas. Rien à changer dans la bible — c'est le jeu qui avait tort.
+   si un chapitre fait un jour dépendre une scène de ce que fait un ustensile. *Note de
+   vigilance, pas une question ouverte.*
+6. ~~**Tarel se battait** au chapitre 10 du jeu~~ — corrigé côté jeu (§4.3) : la Porte se tient,
+   elle ne se gagne pas. C'est le jeu qui avait tort.
+
+### 5.1 Ce que le jeu n'empruntera pas au roman
+
+**La *Tisane d'Écoute* (REC-035) reste au chapitre 22.** Le squelette proposait de l'avancer de
+douze chapitres pour donner au joueur un plat de Bois offensif contre Tarel. Ce besoin n'existe
+plus : la Porte des Racines ne se gagne pas, donc il n'y a plus de bouclier à percer là. Et la
+Tisane paie une scène précise — le Vieil Arbre-Cuisinier ne parle qu'à ceux qui l'ont bue. La
+dépenser dans l'arc II pour une raison mécanique qui a disparu coûterait un moment du roman
+contre rien.
 
 ## 6. Où lire la suite
 

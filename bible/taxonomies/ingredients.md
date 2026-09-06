@@ -3,6 +3,8 @@
 > Classification et catalogue des ingrédients d'Aethermoor. Identifiants **ING-xxx** stables, à
 > réutiliser dans les recettes, les scripts et les données de jeu (`resources/`).
 > Champs : Élément Saveur · Aura · Rareté · Royaume · Récolte · Effet brut · Chapitre.
+> Un chapitre noté **« — (jeu) »** signale un ingrédient qui existe dans `luna-mobile` et que le
+> roman n'a pas encore utilisé : il est disponible, pas obsolète.
 
 ## 1. Axes de classification
 
@@ -15,6 +17,22 @@
 | **Eau** | Acide | Confédération d'Émeraude | bleu | vivacité, vérité, larmes |
 | **Bois** | Gras | Royaume d'Azur | or | patience, profondeur, mémoire longue |
 | *(Froid)* | — (liant) | Royaume d'Argent | argent | lie les cinq ; conserve ; attend |
+
+Les cinq premiers sont les **Saveurs**, une par royaume, une par Part. Le sixième n'en est pas
+une : c'est le **hors-royaume**, ce qui ne pousse dans aucun des cinq. Il couvre trois choses —
+le liant (Larmes de Crépuscule, ING-073), les **matières à mémoire** de §2.9, qui n'ont pas
+d'élément du tout, et ce qui est venu **par une graine** (le Blé Étoffé, dont le champ est de
+l'autre côté d'un portail).
+
+> **Règle dure : le hors-royaume n'est jamais une Part.** Les cinq Parts sont gardées par cinq
+> Lignées dans cinq royaumes ; un ingrédient qui n'appartient à aucun ne peut donc en être une,
+> quelle que soit sa rareté. Le Blé Étoffé est ★★★ et central, il n'est pas une Part.
+
+Le jeu (`luna-mobile`) nomme ce sixième élément **`STELLAIRE`** et le peint en doré, là où le
+roman dit *Froid* et le peint en argent. Les deux noms désignent la même case, et aucun des deux
+ne bougera : « Froid » tient au Royaume d'Argent, à la Chambre des Saveurs Perdues et au Gardien
+de Glace ; « Stellaire » tient à ce que le jeu range dedans en premier, le Blé Étoffé. La
+correspondance est tenue dans [`../jeu/adaptation_jeu.md`](../jeu/adaptation_jeu.md).
 
 ### 1.2 Aura (ce que Luna voit)
 | Aura | État | Usage |
@@ -70,6 +88,7 @@
 | ING-022 | Herbes de rive (sept sortes) | Eau | vert | ★★ | rives de l'Ylle | demandées une à une | vivacité ; Court-Bouillon, Infusion de Forêt Secrète | 20, 24, 54 |
 | ING-023 | **Thé d'Aurore** | Air | doré clair | ★★★ | Jardins Impériaux | volé par Théo ; puis offert | chaleur douce, joie ; première boisson chaude d'Aurelis | 37 |
 | ING-024 | Fleur de Verre | Air | blanc-rosé | ★★ | Jardins Impériaux | cueillette | parfum ; décor du Gâteau de Miel | 43 |
+| ING-025 | Menthe Sauvage | Bois | vert, *froisse sous les doigts* | ★ | lisières de la Vallée de Cendre | cueillette | dénoue ; ce qu'on ajoute quand quelqu'un serre les mâchoires sans savoir pourquoi | — (jeu) |
 
 ### 2.4 Épices, sels, minéraux
 | ID | Nom | Élément | Aura | Rareté | Royaume | Récolte | Effet brut | Ch. |
@@ -82,6 +101,7 @@
 | ING-035 | **Poivre-Soleil** | Air/Feu | doré vif | ★★★ | Empire d'Or | vendu comme parfum | seul « goût » toléré à Aurelis ; Soupe Dorée | 38 |
 | ING-036 | Piment-Braise | Feu | rouge | ★★ | Vallée de Cendre | cueillette | pique ; réveille | 60 |
 | ING-037 | Cendre Douce | Feu | gris clair (non corrompu) | ★★ | Four Ancestral + Eau de Lune | mélange de Gorm | révèle les gravures ; soigne les brûlures | 13, 14 |
+| ING-038 | **Poivre-Foudre** | Air | violet, *zigzague* | ★★ | crêtes de la Vallée de Cendre | ramassage après l'orage, quand les grains crépitent encore | réveille net ; distinct du Poivre-Soleil (ING-035), qui parfume au lieu de piquer | — (jeu) |
 
 ### 2.5 Fruits, baies, douceurs
 | ID | Nom | Élément | Aura | Rareté | Royaume | Récolte | Effet brut | Ch. |
@@ -90,6 +110,8 @@
 | ING-041 | Datte de Verre | Terre/Air | ambre translucide | ★★ | Ambre | palmiers des oasis | sucre du désert ; Galette de Route, Confiture de Braise | 6, 27 |
 | ING-042 | **Miel des Abeilles de Verre** — *Part d'Air* | Air | blanc | ★★★★ | Ruche de Verre, Aurelis | ouverture par un Aurelian, devant témoin | jamais récolté depuis 500 ans (servait d'encre) ; audace, douceur | 39, 43 |
 | ING-043 | Sucre d'Or | Air | doré | ★★ | toits d'Aurelis (rosée cristallisée) | ramassage à l'aube | douceur légère | 43 |
+| ING-044 | **Baies Stellaires** | Air | cyan étincelant, *murmure* | ★★★ | Forêt des Murmures | cueillette de nuit, **en silence** : elles se taisent si on parle | la joie légère qui revient sans prévenir ; à ne pas confondre avec les Baies de Givre (ING-040), qui pardonnent | — (jeu) |
+| ING-045 | Cristal de Sucre Stellaire | *(Froid)* | doré étoilé, *carillonne* | ★★★ | ruines de Halifax, là où la graine a germé | ramassage à l'aube dans les gravats | douceur constellée ; hors-royaume, comme tout ce que la graine a touché | — (jeu) |
 
 ### 2.6 Laits, fromages, gras
 | ID | Nom | Élément | Aura | Rareté | Royaume | Récolte | Effet brut | Ch. |
@@ -104,6 +126,7 @@
 | ING-060 | Algue-Lanterne | Eau | vert lumineux | ★★ | mer d'Ambre | pêche de nuit ; brûle en réchaud | chaleur, orientation (la vapeur montre la côte) | 8, 9 |
 | ING-061 | Algue séchée | Eau | bleu → vert | ★ | Brièves-Îles | greniers | sel marin ; Soupe de Bord de Mer | 8 |
 | ING-062 | **Poisson-Lanterne** | Eau | doré, *lumineux* | ★★★ | rivière Ylle | pêche en demandant ; sa lumière passe dans le bouillon | mémoire des sœurs ; Court-Bouillon | 20, 54 |
+| ING-063 | Poisson Argenté | Eau | argenté, reflets de lune | ★ | étangs de la Vallée de Cendre | pêche ordinaire — le seul poisson qu'on prend sans demander | nourrit, et ne raconte rien : c'est l'ordinaire dont Sylvie connaît les coins | — (jeu) |
 
 ### 2.8 Eaux et liquides
 | ID | Nom | Élément | Aura | Rareté | Royaume | Récolte | Effet brut | Ch. |
